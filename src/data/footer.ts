@@ -24,6 +24,14 @@ export const footerDetails: {
         {
             text: "Ervaringen",
             url: "#testimonials"
+        },
+        {
+            text: "Review Pakket",
+            url: "/review-pakket"
+        },
+        {
+            text: "Gratis Scan",
+            url: "/gratis-scan"
         }
     ],
     email: 'Tim@loodgieterAI.nl',
