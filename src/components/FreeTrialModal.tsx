@@ -2,6 +2,7 @@
 
 import React, { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
+import { siteDetails } from '@/data/siteDetails';
 
 
 
@@ -90,7 +91,7 @@ const FreeTrialModal: React.FC<FreeTrialModalProps> = ({ isOpen, onClose, isAnnu
                     email: formData.email,
                     phone: formData.phone,
                     business_name: formData.businessName,
-                    niche: 'Kappers',
+                    niche: siteDetails.siteName,
                     source: 'website_signup',
                     newsletter_subscribed: formData.newsletter,
                     interval: isAnnual ? 'Yearly' : 'Monthly'
