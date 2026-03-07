@@ -28,7 +28,7 @@ Niet elke tool doet al deze dingen. Sommige zijn sterk in agenda en kassa, ander
 
 ## Treatwell — het grootste boekingsplatform
 
-[Treatwell](https://www.treatwell.nl) is het bekendste online boekingsplatform voor salons in Nederland. Klanten vinden je via de Treatwell-app en website — denk aan een soort Booking.com voor kappers.
+<a href="https://www.treatwell.nl" rel="nofollow">Treatwell</a> is het bekendste online boekingsplatform voor salons in Nederland. Klanten vinden je via de Treatwell-app en website — denk aan een soort Booking.com voor kappers.
 
 **Sterkste punt:** Bereik. Treatwell brengt actief nieuwe klanten naar je salon via hun platform.
 
@@ -38,7 +38,7 @@ Niet elke tool doet al deze dingen. Sommige zijn sterk in agenda en kassa, ander
 
 ## 1Kapper — Nederlandse specialist
 
-[1Kapper](https://1kappersoftware.nl) is een Nederlandse softwareleverancier die zich volledig richt op kapsalons. Ze bieden een online agenda, kassasysteem en een eigen boekingsplatform.
+<a href="https://1kappersoftware.nl" rel="nofollow">1Kapper</a> is een Nederlandse softwareleverancier die zich volledig richt op kapsalons. Ze bieden een online agenda, kassasysteem en een eigen boekingsplatform.
 
 **Sterkste punt:** Alles in één pakket, specifiek voor de Nederlandse markt. Nederlandse support, Nederlandse wetgeving (BTW, fiscaal).
 
@@ -48,7 +48,7 @@ Niet elke tool doet al deze dingen. Sommige zijn sterk in agenda en kassa, ander
 
 ## Fresha — gratis agenda en kassa
 
-[Fresha](https://www.fresha.com) (voorheen Shedul) is een internationaal platform dat gratis salonbeheersoftware aanbiedt. De basisversie kost niets — je betaalt alleen voor optionele extra\'s zoals betalingsverwerking en marketingtools.
+<a href="https://www.fresha.com" rel="nofollow">Fresha</a> (voorheen Shedul) is een internationaal platform dat gratis salonbeheersoftware aanbiedt. De basisversie kost niets — je betaalt alleen voor optionele extra\'s zoals betalingsverwerking en marketingtools.
 
 **Sterkste punt:** Gratis instappen. De agenda, kassa en klantbeheer kosten niks. Ideaal als je net begint of een beperkt budget hebt.
 
@@ -58,7 +58,7 @@ Niet elke tool doet al deze dingen. Sommige zijn sterk in agenda en kassa, ander
 
 ## Salonized — alles-in-één voor salons
 
-[Salonized](https://www.salonized.com) is een Nederlands platform dat agenda, kassa, voorraadbeheer en online boekingen combineert. Het is specifiek gebouwd voor salons en heeft een gebruiksvriendelijke interface.
+<a href="https://www.salonized.com" rel="nofollow">Salonized</a> is een Nederlands platform dat agenda, kassa, voorraadbeheer en online boekingen combineert. Het is specifiek gebouwd voor salons en heeft een gebruiksvriendelijke interface.
 
 **Sterkste punt:** Compleet pakket met goede Nederlandse support. Koppelt met iDEAL en heeft een eigen online boekingspagina.
 
