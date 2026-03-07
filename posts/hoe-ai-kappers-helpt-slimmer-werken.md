@@ -58,4 +58,4 @@ Na 30 dagen meet je de resultaten: hoeveel minder no-shows, hoeveel nieuwe revie
 
 Kappers die AI inzetten zijn niet lui — ze zijn slim. Ze besteden minder tijd aan administratie en meer aan wat ze écht kunnen: klanten blij maken. De investering in AI-tools voor een salon ligt tussen €30 en €100 per maand — en betaalt zich doorgaans al in de eerste maand terug via minder no-shows alleen.
 
-Wil je weten hoe KapperAI jouw salon helpt groeien? Bekijk wat we voor je kunnen betekenen op [kapperai.nl](https://kapperai.nl).
+Wil je weten hoe KapperAI jouw salon helpt groeien? Bekijk wat we voor je kunnen betekenen op [kapperai.nl](https://www.kapperai.nl).
