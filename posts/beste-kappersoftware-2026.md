@@ -68,20 +68,20 @@ Niet elke tool doet al deze dingen. Sommige zijn sterk in agenda en kassa, ander
 
 ## KapperAI — AI-marketing en automatisering
 
-[KapperAI](/) richt zich niet op agenda of kassa, maar op alles wat daarna komt: klanten vinden, reviews verzamelen, no-shows voorkomen en zichtbaar worden op Google en in AI-zoekmachines zoals ChatGPT.
+[KapperAI](/) is een compleet AI-systeem voor kapsalons: online boekingsagenda, klantbeheer, facturatie, automatische reviews via WhatsApp, AI-chatbot en optimalisatie voor Google én AI-zoekmachines zoals ChatGPT — zonder commissie per boeking.
 
-**Sterkste punt:** AI-gestuurde marketing en automatisering. Automatische review-verzoeken via WhatsApp, AI-chatbot op je website, en optimalisatie voor zowel Google als AI-zoekresultaten. Geen commissie per boeking.
+**Sterkste punt:** Compleet systeem met AI: boekingsagenda, facturatie, review-automatisering via WhatsApp, AI-chatbot en vindbaarheid op Google én AI-zoekresultaten. Custom booking app zonder commissie.
 
-**Nadeel:** Geen eigen kassasysteem of agenda — KapperAI werkt als aanvulling op je bestaande tools, niet als vervanging.
+**Nadeel:** Relatief nieuw op de markt vergeleken met gevestigde namen als Treatwell of 1Kapper — maar biedt wel meer AI-functionaliteit en geen commissie.
 
-**Geschikt voor:** Kappers die hun agenda al geregeld hebben maar meer klanten willen aantrekken, betere reviews willen verzamelen en hun [online vindbaarheid](/blog/hoe-een-kapper-meer-klanten-krijgt-via-google) willen verbeteren.
+**Geschikt voor:** Kappers die alles in één AI-systeem willen: boekingen, klantbeheer, reviews en marketing — zonder commissie en met [betere online vindbaarheid](/blog/hoe-een-kapper-meer-klanten-krijgt-via-google).
 
 ## Vergelijking: welke software past bij jou?
 
 | | Treatwell | 1Kapper | Fresha | Salonized | KapperAI |
 |---|---|---|---|---|---|
-| **Online agenda** | ✓ | ✓ | ✓ | ✓ | ✗ |
-| **Kassasysteem** | ✓ | ✓ | ✓ | ✓ | ✗ |
+| **Online agenda** | ✓ | ✓ | ✓ | ✓ | ✓ |
+| **Kassasysteem** | ✓ | ✓ | ✓ | ✓ | Facturatie |
 | **Klantenbeheer** | ✓ | ✓ | ✓ | ✓ | ✓ |
 | **Review-automatisering** | Beperkt | Beperkt | Beperkt | Beperkt | ✓ (WhatsApp) |
 | **AI-marketing** | ✗ | ✗ | ✗ | ✗ | ✓ |
@@ -98,8 +98,8 @@ Er is geen "beste" kappersoftware die voor iedereen werkt. Het hangt af van wat 
 - **Wil je snel nieuwe klanten?** Treatwell brengt boekingen, maar je betaalt commissie.
 - **Wil je een compleet Nederlands systeem?** 1Kapper of Salonized combineren agenda, kassa en klantbeheer.
 - **Heb je weinig budget?** Fresha is gratis en doet de basis goed.
-- **Wil je slimmer groeien met AI?** [KapperAI](/) automatiseert reviews, WhatsApp-opvolging en online vindbaarheid — als aanvulling op je huidige tools.
+- **Wil je slimmer groeien met AI?** [KapperAI](/) combineert boekingen, reviews en AI-marketing in één systeem — zonder commissie.
 
-De slimste aanpak? Combineer een agendatool met een marketingtool. Zo heb je zowel de operationele basis als de groeikanalen gedekt.
+[KapperAI](/) combineert agenda, klantbeheer en AI-marketing in één systeem — de operationele basis én de groeikanalen in één.
 
 Benieuwd wat [KapperAI](/) voor jouw salon kan betekenen? [Neem contact op](/contact) — we denken graag mee.
