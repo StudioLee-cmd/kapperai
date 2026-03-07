@@ -124,7 +124,7 @@ Dat is precies waarom KapperAI bestaat. Wij regelen de volledige online vindbaar
 
 Jij knipt, wij regelen de rest. Zo werkt het.
 
-Benieuwd wat dit voor jouw salon kan betekenen? Vraag een gratis intake aan via kapperai.nl — we kijken samen wat er nu misloopt en wat direct beter kan.
+Benieuwd wat dit voor jouw salon kan betekenen? Vraag een gratis intake aan via [kapperai.nl](https://www.kapperai.nl) — we kijken samen wat er nu misloopt en wat direct beter kan.
 
 ---
 
