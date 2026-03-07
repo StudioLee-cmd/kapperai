@@ -75,4 +75,4 @@ Met onze managed service hoef je zelf niets te doen. We houden alles draaiend â€
 
 ## Aan de slag
 
-Benieuwd wat KapperAI voor jouw salon kan betekenen? Vraag een [gratis scan](/gratis-scan) aan of [plan een adviesgesprek](https://studiolee.nl) om te ontdekken wat er mogelijk is.
+Benieuwd wat KapperAI voor jouw salon kan betekenen? Vraag een [gratis scan](/gratis-scan) aan of [plan een adviesgesprek](https://www.studiolee.nl) om te ontdekken wat er mogelijk is.
