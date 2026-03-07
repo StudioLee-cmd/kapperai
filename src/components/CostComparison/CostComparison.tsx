@@ -28,7 +28,7 @@ const CostComparison: React.FC = () => {
                     </div>
 
                     {/* Loodgieter AI Way */}
-                    <Link href="#pricing" className="block w-full">
+                    <Link href="/#pricing" className="block w-full">
                         <motion.div
                             initial={{ opacity: 0, x: 20 }}
                             whileInView={{ opacity: 1, x: 0 }}
