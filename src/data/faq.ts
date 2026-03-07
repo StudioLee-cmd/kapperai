@@ -44,5 +44,9 @@ export const faqs: IFAQ[] = [
     {
         question: "Hoe snel is het inzetbaar?",
         answer: "De basisinrichting staat binnen 5 minuten. Wil je een uitgebreide kennisbank en complexe koppelingen? Dan ben je met onze hulp vaak binnen één werkdag volledig operationeel.",
+    },
+    {
+        question: "Wat moet ik zelf nog doen?",
+        answer: "Dat bepaal je helemaal zelf. Je kunt kiezen tussen Self-Service, waarbij je alles zelf beheert via ons gebruiksvriendelijke dashboard, of onze Managed Service, waarbij wij alles voor je regelen. Bij de managed optie hoef je slechts ~15 minuten per maand te bellen met je vaste accountmanager voor updates en afstemming. De rest doen wij.",
     }
 ];
