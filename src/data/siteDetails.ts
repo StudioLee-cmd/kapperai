@@ -1,7 +1,7 @@
 export const siteDetails = {
     siteName: 'KapperAI',
     niche: 'Kappers',
-    siteUrl: 'https://kapperai.nl/',
+    siteUrl: 'https://www.kapperai.nl/',
     metadata: {
         title: 'KapperAI - De slimme assistent voor jouw kapsalon',
         description: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. KapperAI regelt je agenda, telefoon en administratie volledig automatisch.',
