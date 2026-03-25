@@ -40,7 +40,7 @@ Wanneer klanten 24/7 kunnen boeken, vullen ook de minder populaire tijdslots zic
 
 ### Professionele uitstraling
 
-Een salon met een online boekingssysteem straalt professionaliteit uit. Het laat zien dat je meegaat met de tijd en dat je de ervaring van je klant serieus neemt. Dit draagt bij aan de [klantbeleving in je kapsalon](/blog/perfecte-klantbeleving-kapsalon).
+Een salon met een online boekingssysteem straalt professionaliteit uit. Het laat zien dat je meegaat met de tijd en dat je de ervaring van je klant serieus neemt. Dit draagt bij aan de [klantbeleving in je kapsalon](/blog/klantbeleving-kapsalon-van-boeking-tot-nazorg).
 
 ## Waar moet je op letten bij een boekingssysteem?
 

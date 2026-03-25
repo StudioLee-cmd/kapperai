@@ -11,7 +11,7 @@ tags: ["Website", "Conversie", "Online boeken"]
 
 Je kapperswebsite is de eerste indruk die potentiële klanten van je salon krijgen. Terwijl jij bezig bent met knippen, kleuren en stylen, kan je website op de achtergrond afspraken binnenhalen. Toch functioneren veel kapperswebsites als niet meer dan een digitaal visitekaartje — een paar foto's, openingstijden en een telefoonnummer.
 
-Dat is een gemiste kans. Een goed ingerichte website converteert bezoekers naar boekingen, zonder dat je er iets voor hoeft te doen. In dit artikel leer je hoe je dat bereikt. Heb je nog geen inzicht in hoe klanten je online vinden? Lees dan eerst hoe je als kapper [beter gevonden wordt op Google](/blog/hoe-kapper-meer-klanten-krijgt-via-google).
+Dat is een gemiste kans. Een goed ingerichte website converteert bezoekers naar boekingen, zonder dat je er iets voor hoeft te doen. In dit artikel leer je hoe je dat bereikt. Heb je nog geen inzicht in hoe klanten je online vinden? Lees dan eerst hoe je als kapper [beter gevonden wordt op Google](/blog/hoe-een-kapper-meer-klanten-krijgt-via-google).
 
 ## De juiste structuur voor een kapperswebsite
 

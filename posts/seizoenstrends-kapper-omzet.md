@@ -25,7 +25,7 @@ Het voorjaar begint met klanten die klaar zijn voor verandering na de winter. Di
 
 **Festivalseizoen**. Van Koningsdag tot zomerfestivals — creatieve looks zijn gevraagd. Bied speciale festivalpakketten aan: vlechten, glitter, tijdelijke kleuren. Dit trekt een jongere doelgroep die je salon leert kennen.
 
-**Bruidsseizoen**. Mei tot september is bruiloftenseizoen. Bruidskapsels hebben een hoge orderwaarde en leiden tot [mond-tot-mondreclame](/blog/personal-branding-kapper). Maak een apart bruidsaanbod op je website en deel bruidsresultaten op social media.
+**Bruidsseizoen**. Mei tot september is bruiloftenseizoen. Bruidskapsels hebben een hoge orderwaarde en leiden tot [mond-tot-mondreclame](/blog/personal-branding-kapper-naam-in-regio). Maak een apart bruidsaanbod op je website en deel bruidsresultaten op social media.
 
 **Zomerpakketten**. Combineer een knipbeurt met een UV-beschermende behandeling of een zomerkleur. Pakketten voelen als een deal voor de klant en verhogen je gemiddelde bonbedrag.
 
@@ -35,7 +35,7 @@ Na de zomer komen klanten met beschadigd haar door zon, chloor en zout water. Da
 
 **Herstellende behandelingen**. Keratinebehandelingen, diepe conditioners en haarverzorgingspakketten. Dit is omzet die je in de zomer niet hebt — positioneer het als een herfstnoodzaak.
 
-**Donkere kleurtransities**. Veel klanten willen in september-oktober naar warmere, donkerdere tinten. Plan je [kleuradvies](/blog/personal-branding-kapper) actief in en stuur bestaande klanten een herinnering dat het tijd is voor een herfstkleur.
+**Donkere kleurtransities**. Veel klanten willen in september-oktober naar warmere, donkerdere tinten. Plan je [kleuradvies](/blog/personal-branding-kapper-naam-in-regio) actief in en stuur bestaande klanten een herinnering dat het tijd is voor een herfstkleur.
 
 **Feestdagenplanning**. December is de drukste maand. Begin in oktober met promoten: kerstpakketten, cadeaubonnen en groepsboekingen. Bied early-bird kortingen aan voor klanten die in oktober boeken voor december.
 
@@ -50,7 +50,7 @@ De beste seizoensacties zijn simpel, tijdsgebonden en relevant:
 - **Herfstverzorgingspakket**: knipbeurt + behandeling voor een vaste prijs in september-oktober
 - **Kerst-cadeaubon**: koop een bon van 50 euro, krijg 10 euro extra. Simpel en effectief
 
-Het belangrijkste: communiceer je acties op tijd. Niet een dag van tevoren op Instagram, maar minimaal twee weken vooruit. Gebruik je [email marketing](/blog/email-marketing-kappers) om bestaande klanten als eerste te bereiken.
+Het belangrijkste: communiceer je acties op tijd. Niet een dag van tevoren op Instagram, maar minimaal twee weken vooruit. Gebruik je [email marketing](/blog/email-marketing-kappers-klantcontact) om bestaande klanten als eerste te bereiken.
 
 ## Je planning seizoensbestendig maken
 

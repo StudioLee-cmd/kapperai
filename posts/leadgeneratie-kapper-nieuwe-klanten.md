@@ -11,7 +11,7 @@ tags: ["leadgeneratie", "kapper", "klanten"]
 
 ## Waarom je niet alleen op Google kunt leunen
 
-[Google](/blog/hoe-kapper-meer-klanten-krijgt-google) is belangrijk, maar het is een kanaal waar je concurreert met elke andere kapper in je regio. Prijsvergelijking, reviews, advertenties — het is een strijd om aandacht.
+[Google](/blog/hoe-een-kapper-meer-klanten-krijgt-via-google) is belangrijk, maar het is een kanaal waar je concurreert met elke andere kapper in je regio. Prijsvergelijking, reviews, advertenties — het is een strijd om aandacht.
 
 De sterkste salons bouwen daarnaast andere kanalen op. Kanalen waar je niet direct concurreert, waar klanten al vertrouwen hebben en waar de drempel lager is. Dat is leadgeneratie buiten Google om.
 
@@ -51,7 +51,7 @@ Je bestaande klanten zijn je beste verkoopteam. Maar je moet het ze makkelijk ma
 
 **Vraag er actief om**. Na een geslaagde behandeling: "Ken je iemand die ook toe is aan een nieuwe look?" De meeste kappers vragen dit nooit. Degenen die het wel doen, merken het verschil.
 
-Combineer het met je [email marketing](/blog/email-marketing-kappers): stuur je klantenbestand een keer per kwartaal een herinnering aan het verwijzingsprogramma.
+Combineer het met je [email marketing](/blog/email-marketing-kappers-klantcontact): stuur je klantenbestand een keer per kwartaal een herinnering aan het verwijzingsprogramma.
 
 ## Lokale evenementen en acties
 

@@ -15,7 +15,7 @@ In dit artikel lees je hoe je als kapper je klantcommunicatie naar een hoger niv
 
 ## Waarom klantcommunicatie het verschil maakt
 
-Klanten kiezen niet alleen een kapper op basis van knipkwaliteit. Ze kiezen op basis van hoe ze zich behandeld voelen. Een [goede klantbeleving](/blog/perfecte-klantbeleving-kapsalon) begint al voor het bezoek:
+Klanten kiezen niet alleen een kapper op basis van knipkwaliteit. Ze kiezen op basis van hoe ze zich behandeld voelen. Een [goede klantbeleving](/blog/klantbeleving-kapsalon-van-boeking-tot-nazorg) begint al voor het bezoek:
 
 - **Bevestigingsberichten** geven zekerheid
 - **Herinneringen** verminderen [no-shows](/blog/no-shows-voorkomen-kapsalon)
@@ -40,7 +40,7 @@ Een kort bericht: "Morgen om 14:00 verwachten we je voor je knipbeurt. Tot dan!"
 
 ### 3. Tijdens het bezoek
 
-Communicatie stopt niet bij de deur. Luister actief, stel vragen over verwachtingen, en geef eerlijk advies. Dit is waar [personal branding](/blog/personal-branding-kapper-merk-in-de-regio) ontstaat.
+Communicatie stopt niet bij de deur. Luister actief, stel vragen over verwachtingen, en geef eerlijk advies. Dit is waar [personal branding](/blog/personal-branding-kapper-naam-in-regio) ontstaat.
 
 ### 4. Na het bezoek (dezelfde dag)
 
@@ -77,7 +77,7 @@ Met tools als WhatsApp Business kun je templates instellen die professioneel ove
 
 1. **Alleen communiceren bij problemen** — klanten horen ook graag positieve berichten
 2. **Te vaak berichten sturen** — meer dan 1 bericht per week voelt als spam
-3. **Geen reactie op reviews** — altijd reageren, ook op positieve [Google reviews](/blog/meer-google-reviews-kapper-automatisch)
+3. **Geen reactie op reviews** — altijd reageren, ook op positieve [Google reviews](/blog/meer-google-reviews-als-kapper)
 4. **Geen opt-out mogelijkheid** — wettelijk verplicht en voorkomt irritatie
 
 ## Wat als je hier geen tijd voor hebt?
