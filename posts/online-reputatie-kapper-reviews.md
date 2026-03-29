@@ -7,8 +7,6 @@ image: "/images/blog/online-reputatie-kapper-reviews.png"
 tags: ["online reputatie", "kapper", "reviews"]
 ---
 
-# Online reputatie als kapper: zo beheer je reviews en reacties
-
 Voordat een nieuwe klant bij jou in de stoel plaatsneemt, heeft die persoon je salon al beoordeeld. Niet op basis van je knipwerk, maar op basis van wat anderen online over je schrijven. Je online reputatie is je digitale etalage — en die staat 24 uur per dag open.
 
 In dit artikel lees je hoe je als kapper grip krijgt op je online imago, meer positieve reviews verzamelt en professioneel omgaat met negatieve feedback.

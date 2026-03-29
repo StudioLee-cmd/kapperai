@@ -7,8 +7,6 @@ image: "/images/blog/mond-tot-mondreclame-kapper.png"
 tags: ["mond-tot-mond", "kapper", "marketing"]
 ---
 
-# Mond-tot-mondreclame als kapper: hoe tevreden klanten je salon vullen
-
 "Ken je een goede kapper?" Het is misschien wel de meest gestelde vraag in vriendengroepen. En het antwoord bepaalt waar die nieuwe klant naartoe gaat. Mond-tot-mondreclame is voor kappers de krachtigste en goedkoopste manier om te groeien.
 
 In dit artikel leer je hoe je mond-tot-mond als kapper actief stimuleert — zonder opdringerig te zijn.

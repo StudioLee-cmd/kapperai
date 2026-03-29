@@ -7,8 +7,6 @@ image: "/images/blog/samenwerken-als-kapper-partnerschappen.png"
 tags: ["samenwerkingen", "kapper", "groei"]
 ---
 
-# Samenwerken als kapper: meer klanten via slimme partnerschappen
-
 De meeste kappers proberen klanten te trekken via Instagram, Google of flyers. Maar een van de krachtigste kanalen wordt vaak vergeten: samenwerken met andere ondernemers in je buurt. Een beautysalon die jouw klanten doorverwijst, een bruidsfotograaf die je aanbeveelt — dat zijn klanten die al vertrouwen in je hebben voordat ze binnenlopen.
 
 ## Waarom partnerschappen werken voor kappers

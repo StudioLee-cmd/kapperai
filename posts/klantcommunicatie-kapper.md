@@ -7,8 +7,6 @@ image: "/images/blog/klantcommunicatie-kapper.png"
 tags: ["klantcommunicatie", "kapper", "klanttevredenheid"]
 ---
 
-# Klantcommunicatie als kapper: van bevestiging tot follow-up
-
 Elke klant die in je stoel plaatsneemt, heeft al meerdere contactmomenten met je salon gehad. De manier waarop je communiceert — van de eerste boeking tot de follow-up na het bezoek — bepaalt of die klant terugkomt of niet. Toch laten veel kappers deze kans liggen.
 
 In dit artikel lees je hoe je als kapper je klantcommunicatie naar een hoger niveau tilt, zonder dat het je uren extra werk kost.

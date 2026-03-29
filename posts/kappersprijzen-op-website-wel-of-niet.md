@@ -7,8 +7,6 @@ image: "/images/blog/kappersprijzen-op-website-wel-of-niet.png"
 tags: ["Prijzen", "Website", "Strategie"]
 ---
 
-# Kappersprijzen op je website: wel of niet doen?
-
 Je kent het dilemma: een potentiële klant bezoekt je website, zoekt naar prijzen, vindt ze niet en klikt weg. Of juist: ze ziet je prijzen, vindt ze te hoog zonder context, en belt nooit. De vraag of je als kapper je prijzen op je website moet zetten is een van de meest gestelde in de branche — en het antwoord is genuanceerder dan je denkt.
 
 In dit artikel bekijken we beide kanten, delen we wat de data zegt, en geven we je een concrete strategie die werkt voor zowel kleine als grote salons in Nederland.
