@@ -5,6 +5,7 @@ date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/mond-tot-mondreclame-kapper.png"
 tags: ["mond-tot-mond", "kapper", "marketing"]
+cluster: "mond-tot-mondreclame"
 ---
 
 "Ken je een goede kapper?" Het is misschien wel de meest gestelde vraag in vriendengroepen. En het antwoord bepaalt waar die nieuwe klant naartoe gaat. Mond-tot-mondreclame is voor kappers de krachtigste en goedkoopste manier om te groeien.

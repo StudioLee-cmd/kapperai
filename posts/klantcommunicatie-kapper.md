@@ -5,6 +5,7 @@ date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klantcommunicatie-kapper.png"
 tags: ["klantcommunicatie", "kapper", "klanttevredenheid"]
+cluster: "klantcommunicatie"
 ---
 
 Elke klant die in je stoel plaatsneemt, heeft al meerdere contactmomenten met je salon gehad. De manier waarop je communiceert — van de eerste boeking tot de follow-up na het bezoek — bepaalt of die klant terugkomt of niet. Toch laten veel kappers deze kans liggen.

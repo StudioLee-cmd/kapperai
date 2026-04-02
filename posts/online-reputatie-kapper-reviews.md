@@ -5,6 +5,7 @@ date: "2026-03-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-reputatie-kapper-reviews.png"
 tags: ["online reputatie", "kapper", "reviews"]
+cluster: "online-reputatie"
 ---
 
 Voordat een nieuwe klant bij jou in de stoel plaatsneemt, heeft die persoon je salon al beoordeeld. Niet op basis van je knipwerk, maar op basis van wat anderen online over je schrijven. Je online reputatie is je digitale etalage — en die staat 24 uur per dag open.

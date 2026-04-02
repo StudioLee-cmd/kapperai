@@ -5,6 +5,7 @@ date: "2026-04-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/robot-knipt-beter-dan-jij.jpg"
 tags: ["1 April", "No-Shows", "Planning"]
+cluster: "no-shows"
 ---
 
 ## Stel je voor: een robot die beter knipt dan jij

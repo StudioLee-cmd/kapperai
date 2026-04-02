@@ -5,6 +5,7 @@ date: "2026-03-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/specialiseren-kapper-niche-expertise.png"
 tags: ["specialisatie", "kapper", "groei"]
+cluster: "specialisatie"
 ---
 
 Er zijn honderden kapsalons in elke regio. De meeste bieden hetzelfde: knippen, kleuren, stylen. Dat werkt, maar het maakt je inwisselbaar. Specialisatie is de snelste manier om op te vallen, betere klanten aan te trekken en hogere tarieven te vragen.

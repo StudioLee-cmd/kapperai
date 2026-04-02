@@ -5,6 +5,7 @@ date: "2026-01-25"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/managed-ai-vs-agency.png"
 tags: ["Managed Service", "Kostenbesparing", "Strategie"]
+cluster: ""
 ---
 
 Als je als salon wilt groeien, heb je marketing nodig. Vaak huren kapsalons dan een bureau in. Dure contracten, mooie praatjes.

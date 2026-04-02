@@ -5,6 +5,7 @@ date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-een-kapper-meer-klanten-krijgt-via-google.png"
 tags: ["Vindbaarheid", "Google", "Marketing", "Klanten"]
+cluster: "vindbaarheid"
 ---
 
 ## Waarom Google voor kappers niet optioneel is

@@ -5,6 +5,7 @@ date: "2026-03-14"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/personal-branding-kapper-naam-in-regio.png"
 tags: ["Branding", "Marketing", "Groei"]
+cluster: "branding"
 ---
 
 Klanten kiezen een kapper niet alleen op prijs of locatie. Ze kiezen iemand die ze vertrouwen, die hun stijl begrijpt en die een bepaalde uitstraling heeft. Dat is precies wat personal branding doet: het maakt van jou als kapper een herkenbaar merk waar mensen bewust voor kiezen.

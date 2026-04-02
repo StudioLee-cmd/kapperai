@@ -5,6 +5,7 @@ date: "2025-12-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/meer-reviews-met-ai.png"
 tags: ["Marketing", "Reviews", "Groei"]
+cluster: ""
 ---
 
 Als je zelf een nieuw restaurant of schoonheidsspecialist zoekt, wat doe je dan? Precies: je kijkt op Google en checkt de sterren. Heeft een salon 3,4 sterren? Dan scroll je door. Heeft hij 4,9 sterren met 200 reviews? Dan maak je een afspraak.

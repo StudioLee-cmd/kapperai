@@ -5,6 +5,7 @@ date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/beste-kappersoftware-2026.png"
 tags: ["Software", "Vergelijking", "Tools"]
+cluster: "tools-uitleg"
 ---
 
 Als kapper of salonhouder wil je software die je agenda vult, klanten terugbrengt en je administratie simpel houdt. Maar met zoveel opties is het lastig kiezen. Welke kappersoftware past écht bij jouw salon?

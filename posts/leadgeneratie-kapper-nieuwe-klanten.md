@@ -7,6 +7,7 @@ image: "/images/blog/leadgeneratie-kapper-nieuwe-klanten.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["leadgeneratie", "kapper", "klanten"]
+cluster: "lead-opvolging"
 ---
 
 ## Waarom je niet alleen op Google kunt leunen

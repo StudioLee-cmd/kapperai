@@ -5,6 +5,7 @@ date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/treatwell-vs-kapperai-welke-past-bij-jouw-salon.png"
 tags: ["Tools", "Vergelijking", "Kappers"]
+cluster: "tools-uitleg"
 ---
 
 Als kapper zoek je software die je salon laat groeien — niet alleen een boekingsplatform. Treatwell is een van de bekendste namen in de markt, maar is het ook de beste keuze? In dit artikel vergelijken we Treatwell met KapperAI op alle punten die ertoe doen.

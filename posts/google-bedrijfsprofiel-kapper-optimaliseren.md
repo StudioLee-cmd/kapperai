@@ -5,6 +5,7 @@ date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-kapper-optimaliseren.png"
 tags: ["Kapsalon", "Google Bedrijfsprofiel", "Lokale SEO"]
+cluster: "google-bedrijfsprofiel"
 ---
 
 ## Waarom je Google Bedrijfsprofiel belangrijker is dan je website

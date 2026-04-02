@@ -5,6 +5,7 @@ date: "2026-02-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/elite-salon-app.png"
 tags: ["Elite Plan", "Client App", "Innovatie"]
+cluster: ""
 ---
 
 Gemak is key. Waarom bestellen we bij Bol.com? Gemak. Waarom zou een klant bij jou boeken? Omdat het makkelijk is.

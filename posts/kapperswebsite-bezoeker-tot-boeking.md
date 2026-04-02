@@ -5,6 +5,7 @@ date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kapperswebsite-bezoeker-tot-boeking.png"
 tags: ["Website", "Conversie", "Online boeken"]
+cluster: "website optimalisatie"
 ---
 
 ## Waarom je website je belangrijkste medewerker is

@@ -5,6 +5,7 @@ date: "2026-03-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-voorkomen-kapsalon.png"
 tags: ["Kapsalon", "No-shows", "Klantbehoud"]
+cluster: "crm-klantbeheer"
 ---
 
 ## Wat no-shows je kapsalon écht kosten

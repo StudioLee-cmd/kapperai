@@ -5,6 +5,7 @@ date: "2026-03-06"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-ai-kappers-helpt-slimmer-werken.png"
 tags: ["AI", "Automatisering", "Kappers"]
+cluster: "ai-automatisering"
 ---
 
 Als kapper draait alles om vakmanschap en klantbinding. Maar achter elke tevreden klant zit een berg administratie: afspraken plannen, herinneringen sturen, reviews verzamelen, social media bijhouden. Dit vreet tijd die je liever aan je vak besteedt. AI verandert dat.

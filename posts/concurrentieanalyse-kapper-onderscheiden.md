@@ -5,6 +5,7 @@ date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/concurrentieanalyse-kapper-onderscheiden.jpg"
 tags: ["Concurrentie", "Strategie", "Groei"]
+cluster: "concurrentieanalyse"
 ---
 
 ## Waarom concurrentieanalyse belangrijk is

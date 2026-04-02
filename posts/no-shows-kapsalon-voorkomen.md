@@ -5,6 +5,7 @@ date: "2026-03-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-kapsalon-voorkomen.jpg"
 tags: ["No-shows", "Klantenmanagement", "Groei"]
+cluster: "no-shows"
 ---
 
 ## Wat kost een no-show je kapsalon?

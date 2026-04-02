@@ -7,6 +7,7 @@ image: "/images/blog/personeel-werven-kapper-stylisten.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["personeel", "kapsalon", "werving"]
+cluster: "personeel"
 ---
 
 ## Waarom goed personeel vinden zo lastig is

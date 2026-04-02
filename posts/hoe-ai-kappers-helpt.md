@@ -5,6 +5,7 @@ date: "2025-12-15"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-ai-kappers-helpt.png"
 tags: ["AI", "Efficiëntie", "Automatisering"]
+cluster: ""
 ---
 
 Het runnen van een kapsalon anno 2026 is topsport. Je bent niet alleen haarstylist die de mooiste coupes moet knippen, maar je bent ook boekhouder, planner, telefoniste, marketingmanager en klantenservice in één. Veel kappers die wij spreken, staan de hele dag op hun benen, maar als ze eerlijk kijken, zijn ze daarnaast nog uren bezig met randzaken. Ruis in de vorm van eindeloze telefoontjes, appjes, afspraken verzetten en facturen doen.

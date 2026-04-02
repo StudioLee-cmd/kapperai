@@ -5,6 +5,7 @@ date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/instagram-als-kapper-content-ideeen.png"
 tags: ["Social Media", "Instagram"]
+cluster: ""
 ---
 
 Als kapper heb je een oneerlijk voordeel op Instagram: je maakt elke dag visueel spectaculaire transformaties. Geen enkele andere branche heeft zoveel potentieel voor social media content — maar toch posten de meeste kappers te weinig, te onregelmatig of het verkeerde type content.

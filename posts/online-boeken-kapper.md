@@ -5,6 +5,7 @@ date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-boeken-kapper.png"
 tags: ["Online boeken", "Kapsalon", "Groei"]
+cluster: "online-boeken"
 ---
 
 Als kapper ken je het vast: je bent midden in een knipbeurt en je telefoon gaat. Een potentiële klant wil een afspraak maken, maar je kunt niet opnemen. Tegen de tijd dat je terugbelt, heeft die klant al bij de concurrent geboekt. Dit scenario speelt zich dagelijks af in duizenden kapsalons door heel Nederland.

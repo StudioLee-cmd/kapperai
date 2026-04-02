@@ -5,6 +5,7 @@ date: "2026-03-13"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kappersprijzen-op-website-wel-of-niet.png"
 tags: ["Prijzen", "Website", "Strategie"]
+cluster: "prijzen-communiceren"
 ---
 
 Je kent het dilemma: een potentiële klant bezoekt je website, zoekt naar prijzen, vindt ze niet en klikt weg. Of juist: ze ziet je prijzen, vindt ze te hoog zonder context, en belt nooit. De vraag of je als kapper je prijzen op je website moet zetten is een van de meest gestelde in de branche — en het antwoord is genuanceerder dan je denkt.
