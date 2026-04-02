@@ -3,7 +3,7 @@ title: "Instagram als kapper: content ideeën die klanten trekken"
 excerpt: "Maak van je Instagram een klantenmagneet. 15 bewezen content ideeën en praktische tips voor kappers die meer boekingen willen via social media."
 date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
-image: "/images/blog/instagram-als-kapper-content-ideeen.png"
+image: "/images/blog/instagram-als-kapper-content-ideeen.jpg"
 tags: ["Social Media", "Instagram"]
 cluster: ""
 ---
