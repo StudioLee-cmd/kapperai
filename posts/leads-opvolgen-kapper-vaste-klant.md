@@ -19,7 +19,7 @@ De kans op conversie daalt met 80 procent als je langer dan 30 minuten wacht met
 
 Zet een systeem op dat binnenkomende aanvragen direct beantwoordt:
 
-- **Website contactformulier:** Automatisch antwoord binnen 1 minuut met beschikbare tijden
+- **Website contactformulier:** [automatisch antwoord](/chatbot) binnen 1 minuut met beschikbare tijden
 - **Instagram/Facebook DM:** Automatisch welkomstbericht met een link naar je online boekingssysteem
 - **Telefoon gemist:** Automatische WhatsApp: "Sorry dat we je misten! Wil je een afspraak maken? Boek hier direct: [link]"
 
