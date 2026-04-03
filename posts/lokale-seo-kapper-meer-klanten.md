@@ -11,7 +11,7 @@ tags: ["Lokale SEO", "Vindbaarheid", "Kapper", "Google"]
 
 Bijna niemand rijdt een half uur voor een kapper. Klanten zoeken "kapper bij mij in de buurt" of "kapsalon [plaatsnaam]" en kiezen uit de eerste drie resultaten. Als jij daar niet bij staat, gaan die klanten naar je concurrent — ook al ben je een betere stylist.
 
-Lokale SEO is het proces waarmee je jouw salon zichtbaar maakt voor mensen in je directe omgeving. Het verschil met reguliere SEO: het draait niet om landelijke rankings maar om de Google Maps-resultaten en het lokale zoekpakket.
+[lokale SEO](/seo) is het proces waarmee je jouw salon zichtbaar maakt voor mensen in je directe omgeving. Het verschil met reguliere SEO: het draait niet om landelijke rankings maar om de Google Maps-resultaten en het lokale zoekpakket.
 
 ## Je Google Bedrijfsprofiel is de basis
 
@@ -40,7 +40,7 @@ Foto's laten zien dat je salon actief is. Google rankt actieve profielen hoger.
 
 ## Reviews verzamelen en beantwoorden
 
-Google Reviews zijn de belangrijkste lokale rankingfactor na je Bedrijfsprofiel. Meer reviews + hogere score = hogere ranking + meer kliks.
+[Google Reviews](/reviews) zijn de belangrijkste lokale rankingfactor na je Bedrijfsprofiel. Meer reviews + hogere score = hogere ranking + meer kliks.
 
 Vraag actief om reviews. Het beste moment is direct na een knipbeurt:
 
