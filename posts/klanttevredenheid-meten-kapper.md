@@ -56,6 +56,16 @@ Een simpel stempelkaartje of digitaal loyaliteitsprogramma werkt nog steeds. Na 
 
 Tevreden klanten laten niet automatisch reviews achter. Je moet het vragen — en het makkelijk maken. Automatische review-verzoeken via WhatsApp na elke afspraak, met een directe link naar je Google-profiel, verdrievoudigen het aantal reviews dat je krijgt.
 
+
+
+## Automatiseren: zo doe je het zonder extra moeite
+
+Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als kapper.
+
+Een [review management](/reviews) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [gratis scan](/gratis-scan) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [AI chatbot](/chatbot) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+
 ## Conclusie
 
 Klanttevredenheid is geen vaag gevoel — het is meetbaar, verbeterbaar en direct gekoppeld aan je omzet. Met de juiste tools meet je automatisch, verbeter je gericht en verzamel je meer reviews.
