@@ -222,7 +222,7 @@ export default function ColorMixGame({ onComplete, onExit }: ColorMixGameProps) 
     return (
       <>
         <style>{gameStyles}</style>
-        <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-b from-purple-800 via-purple-900 to-pink-900 p-4">
+        <div className="h-[100dvh] overflow-hidden flex flex-col items-center justify-center bg-gradient-to-b from-purple-800 via-purple-900 to-pink-900 p-4">
           <div className="max-w-sm w-full bg-white/10 backdrop-blur-sm rounded-3xl p-8 text-center border border-purple-600/30">
             <div className="text-7xl mb-4 animate-bounce-slow">🎨</div>
             <h1 className="text-3xl font-extrabold text-purple-100 mb-2">Mix de Kleur</h1>
@@ -260,7 +260,7 @@ export default function ColorMixGame({ onComplete, onExit }: ColorMixGameProps) 
     return (
       <>
         <style>{gameStyles}</style>
-        <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-b from-purple-800 via-purple-900 to-pink-900 p-4">
+        <div className="h-[100dvh] overflow-hidden flex flex-col items-center justify-center bg-gradient-to-b from-purple-800 via-purple-900 to-pink-900 p-4">
           <div className="max-w-sm w-full bg-white/10 backdrop-blur-sm rounded-3xl p-8 text-center border border-purple-600/30">
             <div className="text-6xl mb-3">{success ? '🎨' : '💔'}</div>
             <h2 className="text-2xl font-extrabold text-purple-100 mb-2">
@@ -317,7 +317,7 @@ export default function ColorMixGame({ onComplete, onExit }: ColorMixGameProps) 
     <>
       <style>{gameStyles}</style>
       <div
-        className={`min-h-screen flex flex-col bg-gradient-to-b from-purple-800 via-pink-900 to-pink-950 relative overflow-hidden select-none ${
+        className={`h-[100dvh] overflow-hidden flex flex-col bg-gradient-to-b from-purple-800 via-pink-900 to-pink-950 relative overflow-hidden select-none ${
           missFlash ? 'miss-flash' : ''
         }`}
       >

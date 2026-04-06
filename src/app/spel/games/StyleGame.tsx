@@ -259,7 +259,7 @@ export default function StyleGame({ onComplete, onExit }: StyleGameProps) {
 
   if (screen === 'menu') {
     return (
-      <div className="min-h-screen bg-gradient-to-b from-purple-800 to-purple-950 flex flex-col items-center justify-center p-4">
+      <div className="h-[100dvh] overflow-hidden bg-gradient-to-b from-purple-800 to-purple-950 flex flex-col items-center justify-center p-4">
         <style dangerouslySetInnerHTML={{ __html: `
           @keyframes pruneSnip { 0%,100%{transform:rotate(0) scale(1)} 50%{transform:rotate(-15deg) scale(1.2)} }
           @keyframes pruneFadeUp { from{opacity:0;transform:translateY(20px)} to{opacity:1;transform:translateY(0)} }
@@ -337,7 +337,7 @@ export default function StyleGame({ onComplete, onExit }: StyleGameProps) {
 
   if (screen === 'results') {
     return (
-      <div className="min-h-screen bg-gradient-to-b from-purple-800 to-purple-950 flex flex-col items-center justify-center p-4">
+      <div className="h-[100dvh] overflow-hidden bg-gradient-to-b from-purple-800 to-purple-950 flex flex-col items-center justify-center p-4">
         <style dangerouslySetInnerHTML={{ __html: `
           @keyframes prunePopIn{from{opacity:0;transform:scale(.5)}to{opacity:1;transform:scale(1)}}
           @keyframes pruneSlideUp{from{opacity:0;transform:translateY(30px)}to{opacity:1;transform:translateY(0)}}
@@ -438,7 +438,7 @@ export default function StyleGame({ onComplete, onExit }: StyleGameProps) {
   const timeWarn = timeLeft <= 10;
 
   return (
-    <div className={`min-h-screen bg-gradient-to-b from-purple-800 to-purple-950 flex flex-col transition-colors duration-200 ${flashBg(flashType)}`}>
+    <div className={`h-[100dvh] overflow-hidden bg-gradient-to-b from-purple-800 to-purple-950 flex flex-col transition-colors duration-200 ${flashBg(flashType)}`}>
       <style dangerouslySetInnerHTML={{ __html: `
         @keyframes pruneFlash{0%{opacity:1;transform:scale(1)}50%{opacity:1;transform:scale(1.15)}100%{opacity:0;transform:scale(1.3)}}
         @keyframes pruneShake{0%,100%{transform:translateX(0)}25%{transform:translateX(-6px)}75%{transform:translateX(6px)}}
