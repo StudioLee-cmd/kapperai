@@ -1,15 +1,22 @@
-import dynamic from "next/dynamic";
-import { Metadata } from "next";
-import siteDetails from "@/data/siteDetails";
-
-const SpelContent = dynamic(() => import("./SpelContent"), { ssr: false });
+import type { Metadata } from "next";
+import { siteDetails } from "@/data/siteDetails";
+import SpelContent from "./SpelContent";
 
 export const metadata: Metadata = {
   title: `SalonBaas - Kapper Simulatie | ${siteDetails.siteName}`,
-  description: `Bouw je kapsalon op in deze isometrische pixelwereld! Knip haar, style lokken en verdien munten. Een retro pixel-art simulatiegame van KapperAI.`,
+  description:
+    "Bouw je kapsalon op in deze isometrische pixelwereld! Knip haar, style lokken en verdien munten. Een retro pixel-art simulatiegame van KapperAI.",
   openGraph: {
     title: `SalonBaas - Kapper Simulatie | ${siteDetails.siteName}`,
-    description: `Bouw je kapsalon op in deze isometrische pixelwereld! Knip haar, style lokken en verdien munten.`,
+    description:
+      "Bouw je kapsalon op in deze isometrische pixelwereld! Knip haar, style lokken en verdien munten.",
+    url: `${siteDetails.siteUrl}spel`,
+    type: "website",
+    locale: "nl_NL",
+  },
+  robots: {
+    index: true,
+    follow: true,
   },
 };
 
