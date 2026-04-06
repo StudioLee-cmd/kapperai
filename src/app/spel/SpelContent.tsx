@@ -132,7 +132,7 @@ export default function SpelContent() {
         const app = new PIXI.Application({
           width: canvasW,
           height: canvasH,
-          backgroundColor: 0x87ceeb,
+          backgroundColor: 0xf5e6d3,
           antialias: false,
           resolution: Math.min(window.devicePixelRatio || 1, 2),
           autoDensity: true,
