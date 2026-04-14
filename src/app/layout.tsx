@@ -9,6 +9,7 @@ import { siteDetails } from '@/data/siteDetails';
 
 import "./globals.css";
 import Script from 'next/script';
+import CookieBanner from "@/components/CookieBanner";
 
 const manrope = Manrope({ subsets: ['latin'] });
 const sourceSans = Source_Sans_3({ subsets: ['latin'] });
@@ -62,11 +63,7 @@ export default function RootLayout({
           </main>
           <Footer />
         </ThemeProvider>
-          <Script
-            src="/cookie-banner.js"
-            data-widget-id="69c4ef18d9121c5778d93245"
-            strategy="afterInteractive"
-          />
+          <CookieBanner widgetId="69c4ef18d9121c5778d93245" />
       </body>
     </html>
   );
