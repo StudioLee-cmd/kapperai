@@ -21,19 +21,18 @@ const PricingColumn: React.FC<Props> = ({ tier, highlight, isAnnual, onStartTria
     const calculatePrice = () => {
         const numericBase = typeof basePrice === 'number' ? basePrice : parseInt(basePrice as string);
 
-        // If it's not annual and we have a specific monthly price, use that
-        if (!isAnnual && priceMonthly) {
-            return `€ ${priceMonthly},-`;
+        if (isNaN(numericBase)) {
+            // Non-numeric price (e.g. "Op maat")
+            return String(basePrice);
         }
 
-        // Fallback for logic where monthly adds surcharge (if no explicit monthly price)
-        const monthlySurcharge = isAnnual ? 0 : 50;
-        const currentBase = isAnnual ? numericBase : (priceMonthly || numericBase + monthlySurcharge);
+        if (isAnnual) {
+            // Eenmalige afkoop: 12 × monthly
+            return `€ ${numericBase * 12},-`;
+        }
 
-        // Slider logic (only if hasSlider is true, which is not the case for new tiers yet but kept for safety)
-        if (!hasSlider) return `€ ${currentBase},-`;
-        // ... slider logic would go here if needed ...
-        return `€ ${currentBase},-`;
+        // Monthly: show base price
+        return `€ ${numericBase},-`;
     };
 
     const currentPrice = calculatePrice();

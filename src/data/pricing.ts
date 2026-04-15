@@ -3,8 +3,8 @@ import { IPricing } from "@/types";
 export const tiers: IPricing[] = [
     {
         name: 'Managed Groei Basis',
-        price: 79, // Monthly price when paid yearly
-        priceMonthly: 129, // Direct monthly price
+        price: 79,
+        priceMonthly: 79, // Direct monthly price
         ctaType: 'trial',
         features: [
 
@@ -25,8 +25,8 @@ export const tiers: IPricing[] = [
     },
     {
         name: 'Managed Groei Pro',
-        price: 297, // Monthly price when paid yearly
-        priceMonthly: 347, // Quarterly price converted to monthly
+        price: 297,
+        priceMonthly: 297, // Quarterly price converted to monthly
         ctaType: 'options',
         guarantee: true,
         stripeMonthly: 'https://buy.stripe.com/14AcN68ahdreb475p4bjW09',
@@ -46,8 +46,8 @@ export const tiers: IPricing[] = [
     },
     {
         name: 'Managed Groei Elite',
-        price: 497, // Monthly price when paid yearly
-        priceMonthly: 597, // Quarterly price converted to monthly
+        price: 497,
+        priceMonthly: 497, // Quarterly price converted to monthly
         ctaType: 'options',
         guarantee: true,
         stripeMonthly: 'https://buy.stripe.com/bJe6oIaip86U6NR6t8bjW0a',
