@@ -267,7 +267,7 @@ const Pricing: React.FC = () => {
                                 </p>
 
                                 <div className="mb-6 inline-block bg-yellow-500/10 text-yellow-400 text-sm font-semibold px-3 py-1 rounded border border-yellow-500/20">
-                                    Alles uit Elite + Maatwerk
+                                    100% Custom
                                 </div>
 
                                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-y-3 gap-x-8 mb-8">
