@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import { motion } from "framer-motion";
-import { BsCheck2Circle, BsArrowRight, BsWhatsapp, BsCalendar3, BsStarFill, BsRocketTakeoff } from "react-icons/bs";
+import { BsCheck2Circle, BsArrowRight, BsWhatsapp, BsCalendar3 } from "react-icons/bs";
 import { siteDetails } from "@/data/siteDetails";
 
 const niche = siteDetails.niche?.toLowerCase() || "bedrijven";
@@ -10,104 +10,103 @@ const brand = siteDetails.siteName;
 
 const plans = [
   {
-    name: "Managed Groei Basis",
+    name: "Gratis Website Design",
+    price: "€0",
+    period: "",
+    description: `Wij maken een volledig nieuw website design voor jouw ${nicheSingular}sbedrijf. Gratis, geen verplichtingen.`,
+    features: [
+      "Professioneel website design op maat",
+      "Live preview op eigen link",
+      "Binnen 48 uur klaar",
+      "SEO-geoptimaliseerd",
+      "Bestanden zijn van jou",
+    ],
+    cta: "Vraag Gratis Design Aan",
+    ctaLink: "/gratis-website",
+    highlight: false,
+    badge: "Gratis",
+  },
+  {
+    name: "Website Kopen",
+    price: "€800",
+    period: "eenmalig",
+    description: "Je eigen professionele website, volledig op maat gebouwd. Inclusief hosting en onderhoud.",
+    features: [
+      "Volledig op maat gebouwd",
+      "SEO-geoptimaliseerd",
+      "Mobiel-vriendelijk design",
+      "€200/jaar hosting + onderhoud + blogs",
+      "Geen abonnement nodig",
+      "Eenmalige investering",
+    ],
+    cta: "Website Aanvragen",
+    ctaLink: "/gratis-website",
+    highlight: false,
+    badge: "Populair",
+  },
+  {
+    name: "AI Platform (25-in-1)",
     price: "€79",
     period: "/maand",
-    priceNote: "incl. BTW",
-    description: `De ideale start voor ZZP\'ers en starters. Jouw online groei, beheerd door AI.`,
+    description: `Het complete AI-systeem voor ${niche}. Chatbot, Voice AI, SEO, reviews, social media en meer — alles in één platform.`,
     features: [
-      "SaaS Toolbox (Self-Service App)",
-      "1x SEO Blog per week (beheerd)",
-      "25 Credits Trial (14 dagen)",
-      "Maandelijkse 15 min strategie call",
-      "Daarna 50 Credits p/m",
-      "Video & Photo AI (Basic)",
-      "Voice AI (Basic)",
-      "LazyAds & Social AI",
-      "Social Media Planner",
-      "Ad Manager",
-      "On-site Chatbot",
+      "25 tools in 1 platform",
+      "AI Chatbot (24/7 leads opvangen)",
+      "Voice AI Telefonist",
+      "SEO & Blog Automatisering",
+      "Review Management",
+      "Social Media Planner & AI",
+      "CRM & Klantbeheer",
+      "Maandelijks opzegbaar",
     ],
     cta: "Start Gratis",
     ctaLink: "/gratis-scan",
-    highlight: false,
-    badge: "Starter",
-    focus: "Focus: Ideale start voor ZZP & Starters.",
-    buyout: true,
-  },
-  {
-    name: "Managed Groei Pro",
-    price: "€297",
-    period: "/maand",
-    priceNote: "excl. BTW",
-    description: `Externe high-end marketing service voor MKB. Volledig beheerd, jij hoeft niets te doen.`,
-    features: [
-      "Alles uit Basis",
-      "Volledig up-to-date in 15 min per maand",
-      "Managed Studio (Agency Power)",
-      "UGC Product Video\u2019s (AI Modellen)",
-      "1x SEO Blog + 4x Social Post p/w",
-      "Managed Dashboard & Setup",
-      "Onbeperkt Credits (Managed)",
-      "Groei-Garantie",
-    ],
-    cta: "Bekijk Opties",
-    ctaLink: "https://calendly.com/tim-studiolee",
     highlight: true,
-    badge: "Populair",
-    focus: "Focus: MKB — Externe high-end software service.",
-    buyout: false,
+    badge: "Beste Waarde",
+  },
+];
+
+const customOptions = [
+  {
+    name: "One-Time Build",
+    price: "Vanaf €1.000",
+    description: "Volledig custom gebouwd. Eenmalige investering, geen maandelijkse kosten. Betaal alleen voor gebruik (Vapi/OpenAI).",
+    cta: "Vraag Offerte Aan",
+    ctaLink: "https://calendly.com/tim-studiolee",
   },
   {
-    name: "Managed Groei Elite",
-    price: "€497",
-    period: "/maand",
-    priceNote: "excl. BTW",
-    description: `Maximale inzet en dominantie. Voor ambitieuze bedrijven die willen groeien.`,
-    features: [
-      "Alles uit Pro",
-      "Growth Partner (Ambitieuze Bedrijven)",
-      "Maandelijkse 1 uur diepe strategie sessie",
-      "High-End UGC Video\u2019s (Reels/TikTok)",
-      "2x SEO Blogs + 8x Social Posts p/w",
-      "Deep-Level SEO Editor",
-      "Ads Strategie (Meta/Google)",
-      "Client App (Afspraken maken)",
-      "Physical Review Solutions (NFC/QR)",
-    ],
-    cta: "Bekijk Opties",
+    name: "Managed Service",
+    price: "Op aanvraag",
+    description: "Volledige ontzorging inclusief strategie, consulting en uitvoering. Agency-kwaliteit voor een fractie van de prijs.",
+    cta: "Neem Contact Op",
     ctaLink: "https://calendly.com/tim-studiolee",
-    highlight: false,
-    badge: "Best Value",
-    focus: "Focus: Best Value — Maximale inzet & dominantie.",
-    buyout: false,
   },
 ];
 
 const faqs = [
   {
-    q: "Wat zit er in het Managed Groei Basis pakket?",
-    a: `Het Basis pakket is een volledig beheerd systeem: je krijgt een professionele website, 1 SEO-blogartikel per week, AI Chatbot en Voice AI, social media tools en een maandelijkse strategie call van 15 minuten. Alles wat je nodig hebt om vindbaar te worden en te groeien.`,
+    q: "Is het gratis website design echt gratis?",
+    a: "Ja, 100% gratis en zonder verplichtingen. Wij maken een professioneel website design op maat voor jouw bedrijf. Je ontvangt een live preview link binnen 48 uur. Bevalt het? Dan kun je de website kopen voor €800. Niet tevreden? Geen kosten.",
   },
   {
-    q: "Wat is het verschil tussen Basis, Pro en Elite?",
-    a: "Basis is AI-beheerd met 1 blog per week en de volledige toolbox. Pro voegt daar volledig managed marketing aan toe: UGC video\u2019s, social media posts, onbeperkt credits en Groei-Garantie. Elite gaat nog verder met 2 blogs per week, 8 social posts, ads strategie, een diepe strategie sessie en fysieke review-oplossingen.",
+    q: "Kan ik alleen de website kopen zonder abonnement?",
+    a: "Absoluut. De website kost €800 eenmalig plus €200 per jaar voor hosting, onderhoud en blogs. Geen maandelijks abonnement nodig. Wil je later alsnog het AI-platform? Dan kun je dat altijd toevoegen.",
   },
   {
-    q: "Kan ik het systeem eenmalig afkopen?",
-    a: "Ja. Bij het Basis pakket kun je 12 maanden vooruit betalen en daarna nooit meer maandkosten hebben. Je houdt het volledige systeem inclusief wekelijkse SEO blogs. Je betaalt alleen nog voor daadwerkelijk AI-gebruik. Plan een gesprek in om deze optie te bespreken.",
-  },
-  {
-    q: "Is er een contract of opzegtermijn?",
-    a: "Nee. Alle pakketten zijn maandelijks opzegbaar. Geen contract, geen opzegtermijn, geen kleine lettertjes. Je blijft omdat het werkt, niet omdat je vastzit.",
+    q: "Wat zit er allemaal in het €79/maand platform?",
+    a: `Het complete 25-in-1 AI-platform: AI chatbot, Voice AI telefonist, SEO automatisering, blog AI, social media planner en AI, review management, CRM, facturatie, werkplanning, e-mail automatisering en meer. Alles wat je nodig hebt om je ${nicheSingular}sbedrijf te laten groeien.`,
   },
   {
     q: "Hoe verschilt dit van een traditioneel bureau?",
-    a: `Een traditioneel marketing bureau rekent \u20ac1.500 tot \u20ac3.000+ per maand en bedient vooral bedrijven met \u20ac1M+ omzet. Wij leveren dezelfde kwaliteit door AI slim in te zetten. Toegankelijk voor elk ${nicheSingular}sbedrijf, ook als je net begint.`,
+    a: "Een traditioneel marketing bureau rekent €1.500 tot €3.000+ per maand en bedient vooral bedrijven met €1M+ omzet. Wij leveren dezelfde kwaliteit — strategie, consulting én uitvoering — maar voor een tiende van de prijs. Toegankelijk voor elk bedrijf vanaf €10K omzet.",
   },
   {
-    q: "Zijn de prijzen inclusief of exclusief BTW?",
-    a: "Het Basis pakket (\u20ac79/mo) is inclusief BTW. Pro, Elite en Full-Service zijn exclusief BTW. Als ZZP\u2019er of MKB-ondernemer kun je de BTW verrekenen met de Belastingdienst.",
+    q: "Is er een contract of opzegtermijn?",
+    a: "Nee. Het AI platform is maandelijks opzegbaar. Geen contract, geen opzegtermijn, geen kleine lettertjes. Je blijft omdat het werkt, niet omdat je vastzit.",
+  },
+  {
+    q: "Wat kost de managed service?",
+    a: "De managed service is op maat. Prijs hangt af van je wensen en het pakket. Plan een gratis gesprek in via Calendly en we bespreken wat het beste bij jouw situatie past. Consulting en strategie zijn altijd inbegrepen — geen verborgen uurtarieven.",
   },
 ];
 
@@ -138,8 +137,30 @@ export default function TarievenContent() {
             transition={{ delay: 0.2 }}
             className="text-lg text-foreground-accent max-w-2xl mx-auto"
           >
-            Eerlijke, transparante prijzen. Geen verrassingen. Kies het pakket dat bij jouw {nicheSingular}sbedrijf past.
+            Van gratis website design tot volledige ontzorging. Geen verborgen kosten, geen verrassingen. Kies wat bij jouw {nicheSingular}sbedrijf past.
           </motion.p>
+        </div>
+      </section>
+
+      {/* Bureau Comparison Banner */}
+      <section className="px-4 pb-12">
+        <div className="max-w-4xl mx-auto">
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.3 }}
+            className="bg-gradient-to-r from-[#1a1a2e] to-[#16213e] rounded-2xl p-6 md:p-8 text-white text-center"
+          >
+            <p className="text-sm text-gray-400 mb-2">Traditioneel bureau voor {niche}</p>
+            <p className="text-2xl md:text-3xl font-bold mb-2">
+              <span className="line-through text-gray-500">€1.500 – €3.000/mnd</span>
+            </p>
+            <p className="text-sm text-gray-400 mb-4">Alleen toegankelijk voor bedrijven met €1M+ omzet</p>
+            <div className="w-16 h-px bg-gray-600 mx-auto mb-4"></div>
+            <p className="text-primary font-semibold text-lg">{brand}</p>
+            <p className="text-3xl md:text-4xl font-bold">Vanaf €79/maand</p>
+            <p className="text-sm text-gray-300 mt-2">Agency-kwaliteit. Inclusief strategie & consulting. Voor elk bedrijf.</p>
+          </motion.div>
         </div>
       </section>
 
@@ -152,7 +173,7 @@ export default function TarievenContent() {
               initial={{ opacity: 0, y: 30 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.2 + i * 0.1 }}
-              className={`relative rounded-2xl p-6 md:p-8 border flex flex-col ${
+              className={`relative rounded-2xl p-6 md:p-8 border ${
                 plan.highlight
                   ? "border-primary bg-[var(--card-background)] shadow-xl shadow-primary/10 scale-[1.02]"
                   : "border-[var(--card-border)] bg-[var(--card-background)]"
@@ -170,14 +191,12 @@ export default function TarievenContent() {
                 </span>
               )}
               <h3 className="text-xl font-bold mt-2 mb-1">{plan.name}</h3>
-              <div className="flex items-baseline gap-1 mb-1">
+              <div className="flex items-baseline gap-1 mb-3">
                 <span className="text-3xl md:text-4xl font-bold">{plan.price}</span>
-                <span className="text-foreground-accent text-sm">{plan.period}</span>
+                {plan.period && <span className="text-foreground-accent text-sm">{plan.period}</span>}
               </div>
-              <p className="text-xs text-foreground-accent mb-2">({plan.priceNote})</p>
-              <p className="text-xs text-primary font-medium mb-4">{plan.focus}</p>
               <p className="text-foreground-accent text-sm mb-6">{plan.description}</p>
-              <ul className="space-y-3 mb-8 flex-grow">
+              <ul className="space-y-3 mb-8">
                 {plan.features.map((f) => (
                   <li key={f} className="flex items-start gap-2 text-sm">
                     <BsCheck2Circle className="text-green-500 mt-0.5 flex-shrink-0" />
@@ -195,95 +214,37 @@ export default function TarievenContent() {
               >
                 {plan.cta}
               </a>
-              {plan.buyout && (
-                <div className="mt-4 pt-4 border-t border-[var(--card-border)]">
-                  <p className="text-xs text-foreground-accent mb-2">
-                    <strong>Eenmalige afkoop:</strong> Betaal 12 maanden vooruit en betaal nooit meer maandkosten. Je houdt het volledige systeem. Alleen AI-gebruikskosten.
-                  </p>
-                  <a
-                    href="https://calendly.com/tim-studiolee"
-                    className="text-xs text-primary font-semibold hover:underline inline-flex items-center gap-1"
-                  >
-                    Boek een gesprek <BsArrowRight />
-                  </a>
-                </div>
-              )}
             </motion.div>
           ))}
         </div>
       </section>
 
-      {/* Unlimited Option */}
-      <section className="py-8 px-4">
+      {/* Custom Options */}
+      <section className="py-12 px-4 bg-[var(--card-background)]">
         <div className="max-w-4xl mx-auto">
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.5 }}
-            className="border border-primary/30 rounded-2xl p-6 md:p-8 text-center bg-primary/5"
-          >
-            <div className="flex items-center justify-center gap-2 mb-2">
-              <BsRocketTakeoff className="text-primary text-xl" />
-              <span className="text-sm font-bold text-primary uppercase tracking-wider">Unlimited Option</span>
-              <span className="bg-primary text-black text-xs font-bold px-2 py-0.5 rounded-full">Populair</span>
-            </div>
-            <p className="text-foreground-accent text-sm mb-3">
-              Upgrade naar onbeperkt gebruik van Voice AI en alle workflows.
-            </p>
-            <p className="text-2xl font-bold mb-1">€197<span className="text-sm font-normal text-foreground-accent"> /maand extra</span></p>
-            <p className="text-xs text-foreground-accent">
-              *Kan op elk moment wijzigen. Exclusief premium AI-versies (Credits). Bevat alle standaard tools voor dagelijks gebruik.
-            </p>
-          </motion.div>
+          <h2 className="text-2xl md:text-3xl font-bold text-center mb-3">Liever op maat?</h2>
+          <p className="text-foreground-accent text-center mb-10 max-w-xl mx-auto">
+            Niet elk bedrijf past in een standaardpakket. Daarom bieden we ook maatwerkoplossingen.
+          </p>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            {customOptions.map((opt) => (
+              <div key={opt.name} className="border border-[var(--card-border)] rounded-2xl p-6">
+                <h3 className="text-lg font-bold mb-1">{opt.name}</h3>
+                <p className="text-2xl font-bold text-primary mb-3">{opt.price}</p>
+                <p className="text-foreground-accent text-sm mb-6">{opt.description}</p>
+                <a
+                  href={opt.ctaLink}
+                  className="inline-flex items-center gap-2 text-primary font-semibold hover:underline"
+                >
+                  {opt.cta} <BsArrowRight />
+                </a>
+              </div>
+            ))}
+          </div>
         </div>
       </section>
 
-      {/* Full Service */}
-      <section className="py-12 px-4">
-        <div className="max-w-4xl mx-auto">
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.6 }}
-            className="bg-gradient-to-r from-[#1a1a2e] to-[#16213e] rounded-2xl p-8 md:p-10 text-white"
-          >
-            <div className="flex items-center gap-2 mb-2">
-              <BsStarFill className="text-yellow-400" />
-              <span className="text-sm font-bold uppercase tracking-wider text-yellow-400">VIP Service</span>
-            </div>
-            <h3 className="text-2xl md:text-3xl font-bold mb-2">Full-Service</h3>
-            <p className="text-gray-300 text-sm mb-4">
-              Focus: Het complete pakket voor marketingsucces.
-            </p>
-            <p className="text-3xl font-bold text-primary mb-6">Op maat prijs</p>
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-3 mb-8">
-              {[
-                "Alles uit Elite + Maatwerk",
-                "Custom Maatwerk (High-End)",
-                "Volledige Maatwerk Video-Producties",
-                "Web Development & CRO",
-                "Actieve Linkbuilding",
-                "Fysieke Marketing (DM/Flyers)",
-                "Custom AI Sales Machine",
-                "Strategie op Locatie (Optioneel)",
-              ].map((f) => (
-                <div key={f} className="flex items-start gap-2 text-sm text-gray-200">
-                  <BsCheck2Circle className="text-primary mt-0.5 flex-shrink-0" />
-                  <span>{f}</span>
-                </div>
-              ))}
-            </div>
-            <a
-              href="https://calendly.com/tim-studiolee"
-              className="inline-block bg-primary text-black px-8 py-3 rounded-xl font-semibold hover:bg-primary-accent transition-all"
-            >
-              Boek een Demo Call
-            </a>
-          </motion.div>
-        </div>
-      </section>
-
-      {/* How is this affordable */}
+      {/* Why cheaper than agency */}
       <section className="py-16 px-4">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-2xl md:text-3xl font-bold text-center mb-6">
@@ -296,12 +257,12 @@ export default function TarievenContent() {
             </p>
             <p>
               Wij werken anders. Door AI-technologie slim in te zetten leveren we dezelfde kwaliteit — strategie,
-              consulting en uitvoering — maar zonder de overhead. Geen grote teams, geen dure kantoren, geen
+              consulting én uitvoering — maar zonder de overhead. Geen grote teams, geen dure kantoren, geen
               eindeloze vergaderingen. Wel: directe lijnen, snelle resultaten en persoonlijke aandacht.
             </p>
             <p>
-              Het resultaat? Agency-kwaliteit voor een fractie van de prijs. Toegankelijk voor elk {nicheSingular}sbedrijf,
-              ook als je net begint.
+              Het resultaat? Agency-kwaliteit voor een tiende van de prijs. Toegankelijk voor elk {nicheSingular}sbedrijf,
+              ook als je net begint. Inclusief consulting en strategisch advies — dat zit gewoon in het pakket.
             </p>
           </div>
         </div>
@@ -330,14 +291,14 @@ export default function TarievenContent() {
         <div className="max-w-2xl mx-auto text-center">
           <h2 className="text-2xl md:text-3xl font-bold mb-4">Klaar om te starten?</h2>
           <p className="text-foreground-accent mb-8">
-            Begin met een gratis scan of plan een vrijblijvend gesprek. Geen verplichtingen, geen druk.
+            Begin met een gratis website design of plan een vrijblijvend gesprek. Geen verplichtingen, geen druk.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="/gratis-scan"
+              href="/gratis-website"
               className="bg-primary text-black px-8 py-3 rounded-xl font-semibold hover:bg-primary-accent transition-all"
             >
-              Gratis Scan
+              Gratis Website Design
             </a>
             <a
               href="https://calendly.com/tim-studiolee"
