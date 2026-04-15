@@ -2,13 +2,14 @@ import { IPricing } from "@/types";
 
 export const tiers: IPricing[] = [
     {
-        name: 'Basic',
+        name: 'Managed Groei Basis',
         price: 79, // Monthly price when paid yearly
         priceMonthly: 129, // Direct monthly price
         ctaType: 'trial',
         features: [
 
             'SaaS Toolbox (Self-Service App)',
+            '1x SEO Blog per week (beheerd)',
             '25 Credits Trial (14 dagen)',
             'Maandelijkse 15 min strategie call',
             'Daarna 50 Credits p/m',
@@ -23,7 +24,7 @@ export const tiers: IPricing[] = [
         savings: 'BTW Inclusief',
     },
     {
-        name: 'Pro',
+        name: 'Managed Groei Pro',
         price: 297, // Monthly price when paid yearly
         priceMonthly: 347, // Quarterly price converted to monthly
         ctaType: 'options',
@@ -44,7 +45,7 @@ export const tiers: IPricing[] = [
         savings: 'Bespaar 20%',
     },
     {
-        name: 'Elite',
+        name: 'Managed Groei Elite',
         price: 497, // Monthly price when paid yearly
         priceMonthly: 597, // Quarterly price converted to monthly
         ctaType: 'options',
@@ -67,9 +68,10 @@ export const tiers: IPricing[] = [
     },
     {
         name: 'Full Service',
-        price: 799, // Monthly price when paid yearly
-        priceMonthly: 999, // Quarterly price converted to monthly
-        pricePrefix: 'Vanaf',
+        price: 0,
+        customPrice: true, // Monthly price when paid yearly
+        priceMonthly: 0,
+        pricePrefix: '',
         ctaType: 'call',
         guarantee: true,
         features: [
