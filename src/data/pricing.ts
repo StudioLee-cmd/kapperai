@@ -68,9 +68,8 @@ export const tiers: IPricing[] = [
     },
     {
         name: 'Full Service',
-        price: 0,
-        customPrice: true, // Monthly price when paid yearly
-        priceMonthly: 0,
+        price: 'Op maat', // Display as text, not number
+        priceMonthly: 999,
         pricePrefix: '',
         ctaType: 'call',
         guarantee: true,
