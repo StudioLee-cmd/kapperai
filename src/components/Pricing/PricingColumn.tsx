@@ -57,7 +57,8 @@ const PricingColumn: React.FC<Props> = ({ tier, highlight, isAnnual, onStartTria
                         {pricePrefix && <span className="text-xl mr-2">{pricePrefix}</span>}
                         {currentPrice}
                     </span>
-                    <span className="text-lg font-normal text-[var(--foreground-accent)]"> p/m</span>
+                    {!(isAnnual) && <span className="text-lg font-normal text-[var(--foreground-accent)]"> p/m</span>}
+                    {isAnnual && name === 'Managed Groei Basis' && <span className="text-lg font-normal text-[var(--foreground-accent)]"> eenmalig</span>}
                     <span className="text-xs font-normal text-[var(--foreground-accent)] opacity-75 ml-1">
                         ({name === 'Managed Groei Basis' ? 'Incl BTW' : 'Excl BTW'})
                     </span>
