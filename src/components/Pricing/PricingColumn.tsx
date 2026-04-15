@@ -27,8 +27,11 @@ const PricingColumn: React.FC<Props> = ({ tier, highlight, isAnnual, onStartTria
         }
 
         if (isAnnual) {
-            // Eenmalige afkoop: 12 × monthly
-            return `€ ${numericBase * 12},-`;
+            // Eenmalige afkoop: only for Basis
+            if (name === 'Managed Groei Basis') {
+                return `€ ${numericBase * 12},-`;
+            }
+            return 'Neem contact op';
         }
 
         // Monthly: show base price
