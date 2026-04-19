@@ -62,6 +62,12 @@ const VoiceDemo: React.FC = () => {
         }
 
         if (!isCalling) {
+            // Cookie consent required before VAPI
+            const consent = localStorage.getItem('cookie_consent');
+            if (consent !== 'accepted') {
+                setStatus('Status: Accepteer eerst cookies');
+                return;
+            }
             try {
                 const vapi = window.vapiSDK.run({
                     apiKey: publicKey,
