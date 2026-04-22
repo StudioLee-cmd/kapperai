@@ -2,11 +2,11 @@
 title: "Klanttevredenheid meten en verbeteren als kapper"
 excerpt: "Hoe weet je of je klanten écht tevreden zijn? Ontdek hoe je als kapper klanttevredenheid meet, verbetert en omzet in meer reviews en herhalingsbezoeken."
 date: "2026-04-05"
+cluster: "klanttevredenheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klanttevredenheid-meten-kapper.jpg"
 tags: ["Klanttevredenheid", "Reviews", "Kapper"]
 ---
-
 ## Je klanten zeggen "het ziet er goed uit" — maar komen ze terug?
 
 De meeste klanten vertellen je niet eerlijk wat ze vinden. Ze knikken beleefd, betalen, en als het niet beviel komen ze gewoon niet meer terug. Zonder dat je ooit weet waarom.

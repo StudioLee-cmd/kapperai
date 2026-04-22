@@ -2,11 +2,11 @@
 title: "Leads opvolgen als kapper: zo verlies je geen klanten meer"
 excerpt: "Veel kappers laten leads liggen. Leer hoe je met slimme opvolging meer afspraken boekt en geen potentiële klanten meer mist."
 date: "2026-04-05"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-als-kapper.jpg"
 tags: ["Leads", "Kapper", "CRM"]
 ---
-
 ## Hoeveel aanvragen beantwoord je echt?
 
 Je krijgt een berichtje via Instagram. Een WhatsApp van iemand die vraagt of je plek hebt. Een voicemail van een nieuwe klant. En dan is het druk in de stoel, je vergeet terug te bellen, en die lead is weg. Naar de kapper om de hoek die wél binnen 10 minuten reageerde.

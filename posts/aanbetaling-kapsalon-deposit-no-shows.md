@@ -2,11 +2,11 @@
 title: "Depositosysteem voor kapperszaken: aanbetalingen die no-shows voorkomen"
 excerpt: "Een kleine aanbetaling bij het boeken vermindert no-shows in je kapsalon met 50 tot 70 procent. Zo stel je het in zonder klanten af te schrikken."
 date: "2026-04-10"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/aanbetaling-kapsalon-deposit-no-shows.jpg"
 tags: ["No-shows", "Kapper", "Aanbetaling"]
 ---
-
 ## Waarom een aanbetaling werkt tegen no-shows
 
 No-shows kosten de gemiddelde kapsalon tussen de 500 en 1.500 euro per maand aan gemiste omzet. Een klant die niet komt opdagen, laat een lege stoel achter die je niet meer kunt vullen. Met een aanbetaling bij het boeken draai je de verantwoordelijkheid om: de klant heeft iets te verliezen als ze niet komen.

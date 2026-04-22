@@ -2,11 +2,11 @@
 title: "Afspraakherinneringen kapsalon: templates en timing"
 excerpt: "Afspraakherinneringen voor je kapsalon: 8 Dutch templates voor WhatsApp en SMS plus de timing die no-shows halveert zonder handwerk."
 date: "2026-04-21"
+cluster: "afspraak-herinneringen"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/afspraakherinneringen-kapsalon-templates.jpg"
 tags: ["Kapsalon", "WhatsApp", "Automatisering", "Klantcommunicatie"]
 ---
-
 Een klant boekt op dinsdag voor zaterdag. Vrijdagavond weet ze niet meer precies wanneer ze moet zijn. Zaterdagochtend krijgt ze een andere afspraak tussendoor. Jij staat om 10:00 in een lege stoel. Dat is geen slechte klant, dat is een ontbrekend systeem.
 
 Een goede afspraakherinnering haalt die situatie van de vloer. Niet omdat de boodschap zo bijzonder is, maar omdat het juiste bericht op het juiste moment binnenkomt, precies zo kort en vriendelijk dat de klant meteen reageert. In deze gids staan acht Nederlandse templates voor je kapsalon, verdeeld over vier momenten die er echt toe doen. Plus wat je stuurt als een klant wél leest maar niet reageert.

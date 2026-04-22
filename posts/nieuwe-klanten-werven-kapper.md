@@ -2,11 +2,11 @@
 title: "Nieuwe klanten werven als kapper: 7 bewezen strategieën"
 excerpt: "Je stoel is niet elke dag vol. Ontdek 7 strategieën waarmee kappers structureel nieuwe klanten binnenhalen, van lokale SEO tot slimme doorverwijzingen."
 date: "2026-04-06"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nieuwe-klanten-werven-kapper.jpg"
 tags: ["Marketing", "Kapper", "Klanten werven"]
 ---
-
 ## Waarom een volle agenda niet vanzelf komt
 
 Je bent goed in je vak. Klanten vertrekken tevreden. Maar toch staat die stoel op dinsdag en woensdag halfleeg. Het probleem is niet je kwaliteit, het is je zichtbaarheid. De meeste kappers vertrouwen op mond-tot-mondreclame en hopen dat dat genoeg is. Voor sommigen werkt dat. Voor de rest betekent het wisselende inkomsten en stress over de volgende maand.

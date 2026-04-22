@@ -2,11 +2,11 @@
 title: "Leads opvolgen als kapper: van aanvraag naar vaste klant"
 excerpt: "Potentiële klanten nemen contact op maar boeken niet? Ontdek hoe je als kapper leads slim opvolgt en van aanvragen vaste klanten maakt."
 date: "2026-04-03"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-kapper-vaste-klant.jpg"
 tags: ["Leads", "Lead opvolging", "Kapper", "Klantwerving"]
 ---
-
 ## Het probleem: aanvragen die verdampen
 
 Een potentiële klant stuurt een DM op Instagram, belt voor een afspraak maar twijfelt, of vult het contactformulier in en hoort niets terug. Elke gemiste follow-up is een klant die naar de concurrent gaat — niet omdat jij slechter bent, maar omdat zij sneller reageerden.

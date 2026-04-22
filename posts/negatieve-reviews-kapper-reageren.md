@@ -2,11 +2,11 @@
 title: "Negatieve reviews als kapper: zo reageer je professioneel"
 excerpt: "Een slechte Google review hoeft geen ramp te zijn. Leer hoe je professioneel reageert en negatieve reviews ombuigt naar vertrouwen."
 date: "2026-04-17"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/negatieve-reviews-kapper-reageren.jpg"
 tags: ["Reviews", "Reputatie", "Google"]
 ---
-
 ## Waarom één negatieve review niet het einde is
 
 Je opent Google en daar staat het: een review van twee sterren met een klacht die je niet zag aankomen. De eerste reactie is vaak frustratie of teleurstelling. Dat is begrijpelijk, maar juist nu is het belangrijk om even afstand te nemen. Een negatieve review is geen ramp. Het is een kans om te laten zien hoe professioneel je omgaat met feedback.

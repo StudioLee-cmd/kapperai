@@ -2,11 +2,11 @@
 title: "Google reviews vragen aan klanten in je kapsalon: scripts die werken"
 excerpt: "Veel kappers vragen klanten niet om een review en laten zo gratis groei liggen. Lees welke scripts wel werken en wanneer je het beste vraagt."
 date: "2026-04-08"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-reviews-vragen-kapsalon-script.jpg"
 tags: ["Reviews", "Kapsalon", "Klantbehoud"]
 ---
-
 ## Het juiste moment maakt het verschil
 
 Je hebt net een knipbeurt afgerond. De klant kijkt in de spiegel, lacht, betaalt en loopt de deur uit. Een paar uur later vergeet ze je salon weer en boekt ze volgende keer pas weken na een herinnering. Ondertussen krijg je nul nieuwe reviews, terwijl je weet dat ze tevreden was.

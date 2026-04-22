@@ -2,11 +2,11 @@
 title: "Negatieve review als kapper: reageren zonder ruzie"
 excerpt: "Een slechte review op Google? Geen paniek. Leer hoe je als kapper professioneel reageert en er sterker uitkomt."
 date: "2026-04-12"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/negatieve-review-kapper-reageren.jpg"
 tags: ["Reviews", "Reputatie", "Groei"]
 ---
-
 ## Een negatieve review is vervelend, niet het einde
 
 Je opent Google en ziet het: twee sterren, een boze klant, een verhaal dat je niet herkent. Je eerste impuls is om jezelf te verdedigen of de review te negeren. Beide zijn de verkeerde keuze.

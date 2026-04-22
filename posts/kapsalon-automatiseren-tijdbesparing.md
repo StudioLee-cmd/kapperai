@@ -2,11 +2,11 @@
 title: "Kapsalon automatiseren: zo bespaar je 10 uur per week"
 excerpt: "Kappers besteden gemiddeld 12 uur per week aan administratie. Ontdek hoe automatisering je salon draaiende houdt terwijl jij knipt."
 date: "2026-04-06"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kapsalon-automatiseren-tijdbesparing.jpg"
 tags: ["Automatisering", "Kapsalon", "Tijdbesparing"]
 ---
-
 ## 12 uur per week aan taken die niets met knippen te maken hebben
 
 Tel eens mee: afspraken inplannen via WhatsApp, DM's beantwoorden op Instagram, klanten bellen die hun afspraak vergeten, facturen maken, voorraadbeheer bijhouden, en tussendoor nog even een review beantwoorden. Als kapsaloneigenaar ben je minstens twee volle werkdagen per week kwijt aan taken die niets met je vak te maken hebben.

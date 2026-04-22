@@ -2,11 +2,11 @@
 title: "Automatische opvolging voor kappers: nooit meer een lead missen"
 excerpt: "Automatische opvolging via chatbot, WhatsApp en voice AI: zo verlies je als kapper nooit meer een potentiële klant."
 date: "2026-04-15"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/automatische-opvolging-kapper-leads.jpg"
 tags: ["AI", "Leads", "Automatisering"]
 ---
-
 Je Instagram-DM stroomt vol, er belt iemand terwijl je midden in een balayage zit, en die ene reactie op je Google-post? Die zie je pas drie dagen later. Herkenbaar? Voor veel kappers is het dagelijkse realiteit: genoeg interesse, maar te weinig tijd om elke potentiële klant netjes op te volgen.
 
 Het resultaat: leads die afhaken. Niet omdat je salon niet goed genoeg is, maar omdat iemand anders sneller reageert. Onderzoek laat zien dat de kans op een boeking met 80% daalt als je niet binnen vijf minuten reageert op een aanvraag. Vijf minuten. Terwijl jij staat te knippen.

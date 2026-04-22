@@ -2,11 +2,11 @@
 title: "Wat kosten no-shows je kapsalon per jaar?"
 excerpt: "No-shows kosten een gemiddelde kapsalon duizenden euro's per jaar. Ontdek wat je precies kwijt bent en hoe je dat verlies terugdringt."
 date: "2026-04-17"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-kosten-kapsalon-per-jaar.jpg"
 tags: ["No-shows", "Kapsalon", "Omzet"]
 ---
-
 ## De rekening van lege stoelen
 
 Eén gemiste afspraak voelt misschien niet zo erg. Een knipbeurt van 45 euro, jammer maar helaas. Maar tel dat op over een heel jaar en het plaatje verandert drastisch. Een kapsalon met gemiddeld drie no-shows per week verliest al gauw tussen de 7.000 en 10.000 euro per jaar aan omzet. Bij uitgebreidere behandelingen zoals kleuringen of extensions loopt dat bedrag nog veel verder op.

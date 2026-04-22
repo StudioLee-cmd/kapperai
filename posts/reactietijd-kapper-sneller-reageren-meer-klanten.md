@@ -2,11 +2,11 @@
 title: "Eerste reactietijd als kapper: waarom 5 minuten het verschil maakt"
 excerpt: "Kappers die binnen 5 minuten reageren op aanvragen boeken tot 4x meer klanten. Zo verkort je jouw reactietijd zonder extra werk."
 date: "2026-04-09"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reactietijd-kapper-sneller-reageren-meer-klanten.jpg"
 tags: ["Lead opvolging", "Kapper", "Klanten"]
 ---
-
 ## De 5-minuten regel die je salon vult
 
 Een potentiele klant stuurt een bericht via je website, Instagram DM of WhatsApp. Ze wil een afspraak voor highlights, liefst deze week. Hoe lang duurt het voordat jij reageert?

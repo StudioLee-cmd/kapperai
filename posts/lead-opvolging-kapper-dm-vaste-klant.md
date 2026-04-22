@@ -2,11 +2,11 @@
 title: "Lead opvolgen als kapper: van DM tot vaste klant"
 excerpt: "Leads opvolgen als kapper? Zo bouw je een opvolgflow van eerste DM tot boeking en terugkerende klant zonder dat je zelf achter berichten aan hoeft."
 date: "2026-04-16"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lead-opvolging-kapper-dm-vaste-klant.jpg"
 tags: ["AI", "Leads", "Klantcontact"]
 ---
-
 ## Waarom de meeste kappers leads laten liggen (zonder het door te hebben)
 
 Een vrouw scrolt om 22:14 door Instagram, ziet een balayage-resultaat van jouw salon en stuurt een DM. "Hoi, hoeveel kost dit ongeveer?" De ochtend erna lees je het bericht tussen twee klanten door, je antwoordt netjes binnen een uur, maar de boeking komt nooit. Dit is de stille omzetlek waar bijna elke kapsalon last van heeft. Niet omdat je slecht reageert, maar omdat de eerste 15 minuten al voorbij waren toen jij het bericht zag.

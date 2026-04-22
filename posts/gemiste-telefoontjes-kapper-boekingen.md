@@ -2,11 +2,11 @@
 title: "Gemiste telefoontjes als kapper: hoeveel boekingen mis je?"
 excerpt: "Terwijl je knipt of kleurt, gaat de telefoon. Ontdek hoeveel boekingen je mist door gemiste oproepen en hoe je dat oplost."
 date: "2026-04-18"
+cluster: "voice-ai"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/gemiste-telefoontjes-kapper-boekingen.jpg"
 tags: ["Bereikbaarheid", "Voice AI", "Boekingen"]
 ---
-
 ## De telefoon gaat, maar je handen zitten in het haar
 
 Je staat midden in een balayage. De kleur trekt in, je handen zijn bedekt met product en de telefoon rinkelt op de balie. De assistent is er niet, de andere stylist is ook bezig. Na vier keer overgaan stopt het rinkelen. De beller is weg.

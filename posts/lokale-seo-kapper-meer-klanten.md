@@ -2,11 +2,11 @@
 title: "Lokale SEO als kapper: meer klanten uit je buurt"
 excerpt: "Met lokale SEO zorg je dat klanten uit je buurt jouw salon vinden in Google. Ontdek de concrete stappen die kappers direct meer boekingen opleveren."
 date: "2026-04-03"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lokale-seo-kapper-meer-klanten.jpg"
 tags: ["Lokale SEO", "Vindbaarheid", "Kapper", "Google"]
 ---
-
 ## Waarom lokale SEO cruciaal is voor kappers
 
 Bijna niemand rijdt een half uur voor een kapper. Klanten zoeken "kapper bij mij in de buurt" of "kapsalon [plaatsnaam]" en kiezen uit de eerste drie resultaten. Als jij daar niet bij staat, gaan die klanten naar je concurrent — ook al ben je een betere stylist.

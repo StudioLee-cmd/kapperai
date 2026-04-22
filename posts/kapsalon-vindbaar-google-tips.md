@@ -2,11 +2,11 @@
 title: "Kapsalon vindbaar op Google: 8 bewezen SEO-tips"
 excerpt: "Ontdek hoe je kapsalon hoger scoort in Google. 8 praktische SEO-tips voor lokale vindbaarheid die je vandaag kunt toepassen."
 date: "2026-04-07"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kapsalon-vindbaar-google-tips.jpg"
 tags: ["SEO", "Vindbaarheid", "Kapsalon"]
 ---
-
 ## Waarom Google vindbaarheid het verschil maakt voor kappers
 
 Acht van de tien mensen zoeken online naar een kapper voordat ze een afspraak maken. Ze typen "kapper in de buurt" of "beste kapsalon [plaatsnaam]" in Google en kiezen uit de eerste drie resultaten. Sta je daar niet tussen? Dan bestaan die potentiele klanten simpelweg niet voor jouw salon.

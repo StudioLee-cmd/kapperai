@@ -2,11 +2,11 @@
 title: "Online afspraak maken kapper: 6 boekingsflow-fricties"
 excerpt: "Zes micro-fricties waar klanten op de boekingspagina van je kapsalon afhaken, en hoe je ze binnen een dag oplost zonder je hele website opnieuw te bouwen."
 date: "2026-04-22"
+cluster: "website-conversie"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-afspraak-maken-kapper-boekingsflow-fricties.jpg"
 tags: ["Kapper", "Website", "Conversie", "Boekingen"]
 ---
-
 Een klant bezoekt maandagavond om half tien je Instagram-profiel, klikt op de link naar je website, ziet de kleuren en de sfeer die haar aanspreekt, drukt op "afspraak maken" en boekt. Dat is het droomscenario. In de realiteit gebeurt iets anders: dezelfde klant komt op je boekingspagina, ziet iets wat ze niet begrijpt of vertrouwt, en sluit het tabblad. Gemiddelde Nederlandse kapsalons verliezen zo zes tot acht van elke tien potentiële boekingen in de seconden tussen website-bezoek en bevestigde afspraak.
 
 Het punt is dit: die afhakers zijn meestal geen klanten die jou afwijzen. Het zijn klanten die jouw booking-flow afwijzen. Het verschil tussen een salon met dertig boekingen per week en een salon met vijftig boekingen per week zit vaak niet in marketingbudget of Instagram-followers, maar in zes micro-fricties op de boekingspagina die binnen een dag op te lossen zijn. In deze gids staan die zes punten, hoe je ze herkent in jouw eigen flow, en hoe je ze één voor één wegneemt.

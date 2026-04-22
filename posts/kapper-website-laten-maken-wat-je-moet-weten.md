@@ -2,11 +2,11 @@
 title: "Website voor je kapsalon: wat je moet weten"
 excerpt: "Een website voor je kapsalon is meer dan een visitekaartje. Ontdek wat erop moet staan, wat het kost en waarom Instagram alleen niet genoeg is."
 date: "2026-04-19"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kapper-website-laten-maken-wat-je-moet-weten.jpg"
 tags: ["Vindbaarheid", "Website", "Groei"]
 ---
-
 ## Waarom Instagram niet genoeg is
 
 Je hebt 800 volgers op Instagram, post regelmatig voor-en-na foto's en krijgt likes. Maar hoeveel van die likes zijn ook daadwerkelijk klanten geworden? Instagram is een etalage, geen verkoopkanaal. Klanten die zoeken op "kapper bij mij in de buurt" komen niet op jouw Instagram-pagina terecht. Ze komen op Google.

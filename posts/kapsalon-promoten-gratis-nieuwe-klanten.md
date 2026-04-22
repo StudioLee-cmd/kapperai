@@ -2,11 +2,11 @@
 title: "Kapsalon promoten: 7 gratis manieren voor meer klanten"
 excerpt: "Wil je meer klanten in je kapsalon zonder advertentiebudget? Ontdek 7 bewezen gratis manieren om je salon te promoten en je agenda vol te krijgen."
 date: "2026-04-11"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kapsalon-promoten-gratis-nieuwe-klanten.jpg"
 tags: ["Marketing", "Vindbaarheid", "Groei"]
 ---
-
 ## Waarom de meeste kappers online onzichtbaar blijven
 
 Je bent een goede kapper. Je klanten zijn tevreden, je werk spreekt voor zich. Maar als iemand in jouw buurt zoekt naar "kapper" op Google, kom jij niet in beeld. Herkenbaar?

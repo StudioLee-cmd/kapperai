@@ -2,11 +2,11 @@
 title: "Wat kost een no-show je kapsalon? De échte cijfers"
 excerpt: "Eén no-show per week kost je kapsalon bijna €3.000 per jaar. Ontdek de verborgen kosten en hoe je direct omzetverlies voorkomt."
 date: "2026-04-14"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-show-kosten-kapsalon.jpg"
 tags: ["No-shows", "Salon Management", "Omzet"]
 ---
-
 ## Eén lege stoel kost meer dan je denkt
 
 Je hebt je agenda netjes vol staan, je materialen liggen klaar en je volgende klant zou er over vijf minuten moeten zijn. Maar die klant komt niet. Geen belletje, geen berichtje. Een no-show.

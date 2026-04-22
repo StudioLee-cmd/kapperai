@@ -2,11 +2,11 @@
 title: "Wachtlijst voor je kapsalon: zo vul je lege plekken op"
 excerpt: "Annuleringen in je kapsalon? Met een wachtlijst vul je lege plekken binnen minuten op. Ontdek hoe je een standby-systeem opzet dat werkt."
 date: "2026-04-12"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/wachtlijst-kapsalon-lege-plekken-opvullen.jpg"
 tags: ["No-shows", "Planning", "Groei"]
 ---
-
 ## Annuleringen zijn onvermijdelijk, lege plekken niet
 
 Een klant belt af. Griep, vergadering, kind ziek. Het gebeurt. Je kunt annuleringen niet voorkomen, maar je kunt wel voorkomen dat ze je omzet kosten. De oplossing is simpeler dan je denkt: een wachtlijst.
