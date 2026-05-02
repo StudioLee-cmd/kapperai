@@ -1,5 +1,5 @@
 ---
-title: "Van eerste afspraak naar vaste klant: leadopvolging voor kappers in 2026"
+title: "Van eerste afspraak naar vaste klant: leadopvolging"
 slug: kapper-van-eerste-afspraak-naar-vaste-klant-leadopvolging
 date: "2026-05-01"
 excerpt: "Een nieuwe klant in je kappersstoel is pas het begin. Het 7-stappensysteem dat 65% van eerste klanten omzet in vaste bezoekers — zonder pushverkoop."
