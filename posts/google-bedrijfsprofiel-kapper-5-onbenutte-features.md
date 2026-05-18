@@ -6,7 +6,7 @@ excerpt: "Google Bedrijfsprofiel als kapper: 5 onbenutte gratis features (Posts,
 image: "/images/blog/google-bedrijfsprofiel-kapper-5-onbenutte-features.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Google Bedrijfsprofiel", "Lokale SEO", "Vindbaarheid", "Gratis Marketing", "Kapper"]
-cluster: "google-bedrijfsprofiel"
+cluster: "vindbaarheid"
 ---
 
 **In het kort:**

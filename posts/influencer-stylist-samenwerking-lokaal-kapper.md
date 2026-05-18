@@ -6,7 +6,7 @@ excerpt: "Lokale micro-influencers (1k-10k Instagram-volgers) als referral-kanaa
 image: "/images/blog/influencer-stylist-samenwerking-lokaal-kapper.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Samenwerkingen", "Influencer", "Instagram", "UGC", "Kapper"]
-cluster: "samenwerkingen"
+cluster: "branding"
 ---
 
 **In het kort:**

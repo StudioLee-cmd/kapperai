@@ -2,7 +2,7 @@
 title: "Negatieve reviews als kapper: zo reageer je professioneel"
 excerpt: "Een slechte Google review hoeft geen ramp te zijn. Leer hoe je professioneel reageert en negatieve reviews ombuigt naar vertrouwen."
 date: "2026-04-17"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/negatieve-reviews-kapper-reageren.jpg"
 tags: ["Reviews", "Reputatie", "Google"]

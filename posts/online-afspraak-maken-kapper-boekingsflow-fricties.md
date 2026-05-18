@@ -2,7 +2,7 @@
 title: "Online afspraak maken kapper: 6 boekingsflow-fricties"
 excerpt: "Zes micro-fricties waar klanten op de boekingspagina van je kapsalon afhaken, en hoe je ze binnen een dag oplost zonder je hele website opnieuw te bouwen."
 date: "2026-04-22"
-cluster: "website-conversie"
+cluster: "website"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-afspraak-maken-kapper-boekingsflow-fricties.jpg"
 tags: ["Kapper", "Website", "Conversie", "Boekingen"]

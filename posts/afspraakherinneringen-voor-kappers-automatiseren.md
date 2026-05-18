@@ -2,7 +2,7 @@
 title: "Afspraakherinneringen voor kappers automatiseren"
 excerpt: "Een afspraakherinnering werkt alleen als het systeem eronder klopt. Zo kies je het kanaal, de frequentie en de software, en zo meet je of het rendeert."
 date: "2026-04-25"
-cluster: "afspraak-herinneringen"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/afspraakherinneringen-voor-kappers-automatiseren.jpg"
 tags: ["Kapsalon", "Automatisering", "WhatsApp", "No-shows"]

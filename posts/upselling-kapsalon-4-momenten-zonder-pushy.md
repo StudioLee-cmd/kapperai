@@ -6,7 +6,7 @@ excerpt: "Upselling kapsalon zonder pushy: 4 momenten in elke afspraak waarop je
 image: "/images/blog/upselling-kapsalon-4-momenten-zonder-pushy.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Klantcommunicatie", "Upselling", "Behandelingen", "Aftercare", "Kapper"]
-cluster: "klantcommunicatie"
+cluster: "automatisering"
 ---
 
 **In het kort:**

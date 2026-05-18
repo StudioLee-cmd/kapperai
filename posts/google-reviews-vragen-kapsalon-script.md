@@ -2,7 +2,7 @@
 title: "Google reviews vragen aan klanten in je kapsalon: scripts die werken"
 excerpt: "Veel kappers vragen klanten niet om een review en laten zo gratis groei liggen. Lees welke scripts wel werken en wanneer je het beste vraagt."
 date: "2026-04-08"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-reviews-vragen-kapsalon-script.jpg"
 tags: ["Reviews", "Kapsalon", "Klantbehoud"]

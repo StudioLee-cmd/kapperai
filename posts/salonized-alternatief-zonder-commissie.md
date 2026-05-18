@@ -5,7 +5,7 @@ date: "2026-03-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/salonized-alternatief-zonder-commissie.jpg"
 tags: ["Vergelijking", "Software", "Groei"]
-cluster: "software-vergelijking"
+cluster: "automatisering"
 ---
 
 ## Wat doet Salonized goed?

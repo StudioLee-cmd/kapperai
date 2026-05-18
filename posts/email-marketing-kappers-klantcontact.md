@@ -5,7 +5,7 @@ date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/email-marketing-kappers-klantcontact.png"
 tags: ["E-mail", "Marketing", "Klantbehoud"]
-cluster: "email-marketing"
+cluster: "automatisering"
 ---
 
 ## Waarom e-mail nog steeds werkt

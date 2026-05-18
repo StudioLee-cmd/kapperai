@@ -5,7 +5,7 @@ date: "2026-04-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/trust-signals-kapper-website-converteren.jpg"
 tags: ["Website", "Conversie", "Lokale Marketing"]
-cluster: "website-conversie"
+cluster: "website"
 ---
 
 ## In het kort

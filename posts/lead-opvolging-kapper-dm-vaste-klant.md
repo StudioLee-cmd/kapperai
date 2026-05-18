@@ -2,7 +2,7 @@
 title: "Lead opvolgen als kapper: van DM tot vaste klant"
 excerpt: "Leads opvolgen als kapper? Zo bouw je een opvolgflow van eerste DM tot boeking en terugkerende klant zonder dat je zelf achter berichten aan hoeft."
 date: "2026-04-16"
-cluster: "lead-opvolging"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lead-opvolging-kapper-dm-vaste-klant.jpg"
 tags: ["AI", "Leads", "Klantcontact"]

@@ -6,7 +6,7 @@ excerpt: "Hoe je een werkend punt-spaarsysteem opzet voor je kapsalon: welke spa
 image: "/images/blog/klantenkaart-kapsalon-punten-retentie-klantcommunicatie.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Klantcommunicatie", "Loyaliteit", "Klantenkaart"]
-cluster: "klantcommunicatie"
+cluster: "automatisering"
 ---
 
 Een vaste klant levert je gemiddeld drie keer zoveel op over twee jaar als een eenmalige bezoeker. Toch heeft minder dan een derde van de Nederlandse kapsalons een gestructureerd loyaliteitsprogramma draaien. De rest hoopt impliciet dat klanten "vanzelf" terugkomen, of probeert het met een papieren stempelkaartje dat na drie maanden ergens onderin een tas verdwijnt.

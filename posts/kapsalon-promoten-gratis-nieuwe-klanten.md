@@ -2,7 +2,7 @@
 title: "Kapsalon promoten: 7 gratis manieren voor meer klanten"
 excerpt: "Wil je meer klanten in je kapsalon zonder advertentiebudget? Ontdek 7 bewezen gratis manieren om je salon te promoten en je agenda vol te krijgen."
 date: "2026-04-11"
-cluster: "vindbaarheid"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kapsalon-promoten-gratis-nieuwe-klanten.jpg"
 tags: ["Marketing", "Vindbaarheid", "Groei"]

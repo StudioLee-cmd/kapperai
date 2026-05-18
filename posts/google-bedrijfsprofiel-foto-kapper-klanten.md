@@ -4,7 +4,7 @@ excerpt: "Welke foto's op je Google Bedrijfsprofiel als kapper trekken nieuwe kl
 date: "2026-04-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-foto-kapper-klanten.jpg"
-cluster: "google-bedrijfsprofiel"
+cluster: "vindbaarheid"
 tags: ["Google Bedrijfsprofiel", "Lokale SEO", "Kapsalon Marketing"]
 ---
 

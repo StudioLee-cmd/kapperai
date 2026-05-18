@@ -6,7 +6,7 @@ excerpt: "Kapsalon website maken: DIY templates, traditioneel bureau of AI-platf
 image: "/images/blog/kapsalon-website-diy-bureau-ai-2026-vergelijking.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Website Conversie", "Vergelijking", "DIY", "AI Platform", "Kapper"]
-cluster: "website-conversie"
+cluster: "website"
 ---
 
 **In het kort:**

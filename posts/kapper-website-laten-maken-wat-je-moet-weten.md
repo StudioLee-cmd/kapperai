@@ -2,7 +2,7 @@
 title: "Website voor je kapsalon: wat je moet weten"
 excerpt: "Een website voor je kapsalon is meer dan een visitekaartje. Ontdek wat erop moet staan, wat het kost en waarom Instagram alleen niet genoeg is."
 date: "2026-04-19"
-cluster: "vindbaarheid"
+cluster: "website"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kapper-website-laten-maken-wat-je-moet-weten.jpg"
 tags: ["Vindbaarheid", "Website", "Groei"]

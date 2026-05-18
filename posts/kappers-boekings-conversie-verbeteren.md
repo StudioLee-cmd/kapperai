@@ -5,7 +5,7 @@ date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kappers-boekings-conversie-verbeteren.jpg"
 tags: ["Boekingen", "Website", "Conversie"]
-cluster: "website-conversie"
+cluster: "website"
 ---
 
 De typische kappers-website krijgt per maand tussen de 400 en 1.200 bezoekers. Van die bezoekers klikt 30 tot 45 procent door naar de boekingspagina. En van die bezoekers boekt slechts 15 tot 22 procent daadwerkelijk een afspraak. De rest verdwijnt. Dat is een conversie-funnel waar 80 procent van de intentie uitloopt tussen "ik heb interesse" en "ik heb een afspraak". Die 80 procent bestaat uit mensen die oprecht geïnteresseerd waren — ze klikten door, scrolden, keken naar tijden. Iets heeft ze in die laatste minuten weerhouden. Dit artikel legt uit welke vijf afhaak-redenen we zien op Nederlandse kappers-websites, en hoe elk ervan in een middag op te lossen is.

@@ -2,7 +2,7 @@
 title: "Eerste reactietijd als kapper: waarom 5 minuten het verschil maakt"
 excerpt: "Kappers die binnen 5 minuten reageren op aanvragen boeken tot 4x meer klanten. Zo verkort je jouw reactietijd zonder extra werk."
 date: "2026-04-09"
-cluster: "lead-opvolging"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reactietijd-kapper-sneller-reageren-meer-klanten.jpg"
 tags: ["Lead opvolging", "Kapper", "Klanten"]

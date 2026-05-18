@@ -6,7 +6,7 @@ excerpt: "Een professionele photoshoot levert een kapsalon 12 maanden Instagram,
 image: "/images/blog/photoshoot-kapsalon-12-maanden-content.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Branding", "Photoshoot", "Marketing", "Content", "Kapper"]
-cluster: "branding"
+cluster: "social-media"
 ---
 
 **In het kort:**

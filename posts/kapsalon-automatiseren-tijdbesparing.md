@@ -2,7 +2,7 @@
 title: "Kapsalon automatiseren: zo bespaar je 10 uur per week"
 excerpt: "Kappers besteden gemiddeld 12 uur per week aan administratie. Ontdek hoe automatisering je salon draaiende houdt terwijl jij knipt."
 date: "2026-04-06"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kapsalon-automatiseren-tijdbesparing.jpg"
 tags: ["Automatisering", "Kapsalon", "Tijdbesparing"]

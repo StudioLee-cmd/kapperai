@@ -5,7 +5,7 @@ date: "2026-03-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klantbeleving-kapsalon-van-boeking-tot-nazorg.png"
 tags: ["Kapsalon", "Klantbeleving", "Service"]
-cluster: "klantbeleving"
+cluster: "automatisering"
 ---
 
 ## Waarom klantbeleving belangrijker is dan de knipbeurt

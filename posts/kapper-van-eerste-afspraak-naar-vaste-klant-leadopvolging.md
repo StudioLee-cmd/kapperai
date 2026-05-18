@@ -6,7 +6,7 @@ excerpt: "Een nieuwe klant in je kappersstoel is pas het begin. Het 7-stappensys
 image: "/images/blog/kapper-van-eerste-afspraak-naar-vaste-klant-leadopvolging.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Lead Opvolging", "Klantbehoud", "Salon Marketing", "Vaste Klanten", "Reviews"]
-cluster: "lead-opvolging"
+cluster: "automatisering"
 ---
 
 Een nieuwe klant boekt online een knipbeurt bij jouw kapsalon, komt langs, betaalt, vertrekt — en je hoort er nooit meer iets van. Voor 60 tot 75 procent van Nederlandse kappers is dit het stille patroon: nieuwe klanten genoeg, maar de tweede afspraak komt er niet. Het verschil tussen een gemiddelde salon met 35 procent retentie en een topsalon met 75 procent retentie zit niet in de knipkwaliteit, maar in wat er gebeurt tussen de eerste en tweede afspraak.

@@ -2,7 +2,7 @@
 title: "Nieuwe klanten werven als kapper: 7 bewezen strategieën"
 excerpt: "Je stoel is niet elke dag vol. Ontdek 7 strategieën waarmee kappers structureel nieuwe klanten binnenhalen, van lokale SEO tot slimme doorverwijzingen."
 date: "2026-04-06"
-cluster: "lead-opvolging"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nieuwe-klanten-werven-kapper.jpg"
 tags: ["Marketing", "Kapper", "Klanten werven"]

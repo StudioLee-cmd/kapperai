@@ -2,7 +2,7 @@
 title: "Automatische opvolging voor kappers: nooit meer een lead missen"
 excerpt: "Automatische opvolging via chatbot, WhatsApp en voice AI: zo verlies je als kapper nooit meer een potentiële klant."
 date: "2026-04-15"
-cluster: "lead-opvolging"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/automatische-opvolging-kapper-leads.jpg"
 tags: ["AI", "Leads", "Automatisering"]

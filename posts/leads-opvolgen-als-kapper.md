@@ -2,7 +2,7 @@
 title: "Leads opvolgen als kapper: zo verlies je geen klanten meer"
 excerpt: "Veel kappers laten leads liggen. Leer hoe je met slimme opvolging meer afspraken boekt en geen potentiële klanten meer mist."
 date: "2026-04-05"
-cluster: "lead-opvolging"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-als-kapper.jpg"
 tags: ["Leads", "Kapper", "CRM"]

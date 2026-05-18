@@ -6,7 +6,7 @@ excerpt: "Welke velden moet een CRM voor kappers minimaal bevatten, hoe krijg je
 image: "/images/blog/crm-voor-kappers-klantkaart-stylist-klantbeleving.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["CRM", "Klantbeleving", "Klantkaart"]
-cluster: "klantbeleving"
+cluster: "automatisering"
 ---
 
 Een vaste klant komt binnen voor haar gebruikelijke kleur. Anne staat vandaag achter de stoel in plaats van Lisa. Anne weet niet welk basisproduct Lisa altijd gebruikt, weet niet dat de klant vorig jaar een lichte allergie ontwikkelde voor één kleurstof, en weet niet dat ze altijd een tussentijdse spoeling wil op haar lengtes. De klant ervaart het als een nieuwe salon. Dat is precies wat een goede [crm voor kappers](/crm) had voorkomen.

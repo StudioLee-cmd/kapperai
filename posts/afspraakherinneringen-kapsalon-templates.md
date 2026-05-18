@@ -2,7 +2,7 @@
 title: "Afspraakherinneringen kapsalon: templates en timing"
 excerpt: "Afspraakherinneringen voor je kapsalon: 8 Dutch templates voor WhatsApp en SMS plus de timing die no-shows halveert zonder handwerk."
 date: "2026-04-21"
-cluster: "afspraak-herinneringen"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/afspraakherinneringen-kapsalon-templates.jpg"
 tags: ["Kapsalon", "WhatsApp", "Automatisering", "Klantcommunicatie"]

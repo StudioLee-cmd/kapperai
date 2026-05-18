@@ -2,7 +2,7 @@
 title: "Wat kosten no-shows je kapsalon per jaar?"
 excerpt: "No-shows kosten een gemiddelde kapsalon duizenden euro's per jaar. Ontdek wat je precies kwijt bent en hoe je dat verlies terugdringt."
 date: "2026-04-17"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-kosten-kapsalon-per-jaar.jpg"
 tags: ["No-shows", "Kapsalon", "Omzet"]

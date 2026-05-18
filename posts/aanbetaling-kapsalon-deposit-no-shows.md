@@ -2,7 +2,7 @@
 title: "Depositosysteem voor kapperszaken: aanbetalingen die no-shows voorkomen"
 excerpt: "Een kleine aanbetaling bij het boeken vermindert no-shows in je kapsalon met 50 tot 70 procent. Zo stel je het in zonder klanten af te schrikken."
 date: "2026-04-10"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/aanbetaling-kapsalon-deposit-no-shows.jpg"
 tags: ["No-shows", "Kapper", "Aanbetaling"]
