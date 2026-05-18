@@ -1,0 +1,25 @@
+{
+  "slug": "ai-chatbot-kapsalon-website-vragen-automatiseren",
+  "supporting": {
+    "model": "gpt-image-2-text-to-image",
+    "cost": "$0.03",
+    "task_id": "b99c68a3a2706df84a46c9e314be5ef6",
+    "aspect_ratio": "1:1",
+    "resolution": "1K",
+    "output_url": "https://tempfile.aiquickdraw.com/images/chatgpt/file_0000000027ec71fb8cc481f428a86d5b.png",
+    "prompt": "Photographic close-up of a high-end hair salon reception counter, warm cream/beige tones with brushed-brass accents and a black detail line, soft late-afternoon daylight from a tall window with linen curtains. On the marble-topped counter: a pair of polished stainless-steel hairdressing scissors resting on a folded white linen hand-towel, a small clear glass vase with a single eucalyptus sprig, a matte-black smartphone propped at an angle against a small ceramic espresso cup (no readable screen content, just soft warm wallpaper glow), an open paper appointment book with handwritten pencil scheduling lines (no readable text), and a small amber-glass perfume bottle. Background slightly blurred: a styled salon mirror with brass frame and dried flower stems. No people, no faces, no logos, no readable text, no UI on the smartphone screen. Photographic realism, modern-luxe atmosphere, warm muted palette (cream, brass, walnut, off-white)."
+  },
+  "hero": {
+    "model": "nano-banana-2",
+    "cost": "$0.04",
+    "task_id": "16308fd0f9e933682677e0af85ea2abd",
+    "aspect_ratio": "16:9",
+    "resolution": "1K",
+    "output_format": "jpg",
+    "image_input": "[supporting URL]",
+    "output_url": "https://tempfile.aiquickdraw.com/images/1779139160041-eg57expb1vj.jpeg",
+    "prompt": "Wide cinematic 16:9 photo of the same modern-luxe salon reception counter from the reference image, warm cream/beige tones with brushed-brass trim, marble top, soft late-afternoon daylight from a tall linen-curtained window. In the foreground a woman's hands (no face visible, only hands and forearms, dressed in a dark fitted blouse) holding a polished stainless-steel pair of hairdressing scissors mid-motion, about to lay them on the SAME folded white linen hand-towel. The SAME glass vase with eucalyptus sprig, the SAME matte-black smartphone now propped slightly forward against the SAME small ceramic espresso cup, screen showing soft cream wallpaper with two pale grey abstract speech-bubble shapes (no readable text). The SAME open paper appointment book lies to the right, partly visible. The SAME small amber-glass perfume bottle. Behind, slightly blurred: the SAME styled salon mirror with brass frame and dried flower stems. Photographic realism, NO face, NO logos, NO readable text or screen UI, single coherent salon scene matching the reference image lighting, palette and anchor objects. Action conveys 'workday starting': hands placing tools, scissors being set down."
+  },
+  "total_cost": "$0.07",
+  "date": "2026-05-18"
+}
