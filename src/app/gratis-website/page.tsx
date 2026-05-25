@@ -6,15 +6,31 @@ const niche = siteDetails.niche?.toLowerCase() || "bedrijven";
 const nicheSingular = niche.endsWith("s") ? niche.slice(0, -1) : niche;
 
 export const metadata: Metadata = {
-  title: `Gratis Website Design voor ${niche} | ${siteDetails.siteName}`,
-  description: `Gratis website design voor ${niche}. Live preview binnen 48 uur, SEO-geoptimaliseerd. Website kopen vanaf €800.`,
+  title: `Gratis Website voor ${siteDetails.niche} — of laten maken vanaf €800 | ${siteDetails.siteName}`,
+  description: `Gratis website design voor ${niche} of een complete website laten maken vanaf €800 eenmalig. Live preview binnen 48 uur, SEO-geoptimaliseerd, mobielvriendelijk. Of het complete 25-in-1 AI platform vanaf €79/maand.`,
+  keywords: [
+    `gratis website ${nicheSingular}`,
+    `website laten maken ${nicheSingular}`,
+    `website ${niche}`,
+    `website design ${nicheSingular}`,
+    `webdesign ${nicheSingular}`,
+  ].join(", "),
   openGraph: {
-    title: `Gratis Website Design voor ${niche} | ${siteDetails.siteName}`,
-    description: `Gratis website design op maat. Live preview binnen 48 uur. Website kopen vanaf €800 of het complete AI platform vanaf €79/maand.`,
+    title: `Gratis Website voor ${siteDetails.niche} — of laten maken vanaf €800 | ${siteDetails.siteName}`,
+    description: `Gratis website design op maat. Live preview binnen 48 uur. Website laten maken voor ${niche} vanaf €800 of het complete AI platform vanaf €79/maand.`,
     url: `${siteDetails.siteUrl}gratis-website`,
     type: "website",
     locale: "nl_NL",
+    images: [
+      {
+        url: `${siteDetails.siteUrl}images/services/gratis-website-hero.jpg`,
+        width: 1672,
+        height: 941,
+        alt: `Website laten maken voor ${niche} — voorbeeld op laptop`,
+      },
+    ],
   },
+  alternates: { canonical: `${siteDetails.siteUrl}gratis-website` },
 };
 
 export default function GratisWebsitePage() {
