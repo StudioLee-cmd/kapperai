@@ -335,7 +335,7 @@ export default function GratisWebsiteContent() {
             className="relative w-full aspect-[16/10] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-xl"
           >
             <Image
-              src="/images/services/gratis-website-preview.jpg"
+              src="/images/services/gratis-website-section.jpg"
               alt={`${nicheSingular === "kapper" ? "Kapsalon" : niche} eigenaar bekijkt nieuwe website op tablet`}
               fill
               className="object-cover"
@@ -388,7 +388,7 @@ export default function GratisWebsiteContent() {
             className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-xl mb-6"
           >
             <Image
-              src="/images/services/gratis-website-process.jpg"
+              src="/images/services/gratis-website-workflow.jpg"
               alt={`Ontwerpproces voor een website voor ${nicheLower} — laptop met design en wireframe schetsen`}
               fill
               className="object-cover"
