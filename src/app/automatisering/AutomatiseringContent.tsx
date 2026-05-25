@@ -528,7 +528,7 @@ export default function AutomatiseringContent() {
       <section className="py-16 px-4 bg-[var(--card-background)]">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-2xl md:text-3xl font-bold mb-3">
-            Sluit perfect aan op je hele {brand}-systeem
+            Combineer met andere AI-tools
           </h2>
           <p className="text-foreground-accent mb-10 max-w-2xl mx-auto">
             Workflow automatisering werkt het beste als onderdeel van een
