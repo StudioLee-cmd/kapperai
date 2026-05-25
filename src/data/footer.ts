@@ -22,7 +22,7 @@ export const footerDetails: {
         { text: "Reviews voor Kappers", url: "/reviews" },
         { text: "Review Pakket", url: "/review-pakket" },
         { text: "CRM voor Kappers", url: "/crm" },
-        { text: "Herinneringen voor Kappers", url: "/herinneringen" },
+        { text: "Automatisering voor Kappers", url: "/automatisering" },
     ],
     general: [
         { text: "Tarieven", url: "/tarieven" },
@@ -38,7 +38,7 @@ export const footerDetails: {
         { text: "Reviews voor Kappers", url: "/reviews" },
         { text: "Review Pakket", url: "/review-pakket" },
         { text: "CRM voor Kappers", url: "/crm" },
-        { text: "Herinneringen voor Kappers", url: "/herinneringen" },
+        { text: "Automatisering voor Kappers", url: "/automatisering" },
         { text: "Tarieven", url: "/tarieven" },
         { text: "Gratis Scan", url: "/gratis-scan" },
         { text: "Gratis Website", url: "/gratis-website" },

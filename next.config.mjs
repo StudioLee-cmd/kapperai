@@ -5,6 +5,7 @@ const nextConfig = {
     },
     async redirects() {
         return [
+            { source: '/herinneringen', destination: '/automatisering', permanent: true },
             { source: '/chatbot-voor-:suffix', destination: '/chatbot', permanent: true },
             { source: '/voice-ai-voor-:suffix', destination: '/voice-ai', permanent: true },
             { source: '/reviews-voor-:suffix', destination: '/reviews', permanent: true },

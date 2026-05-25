@@ -15,6 +15,7 @@ import FallingText from "@/components/FallingText";
 
 import USPPillars from "@/components/USPPillars";
 import SetupSupport from "@/components/SetupSupport";
+import HomeLatestBlogs from "@/components/HomeLatestBlogs";
 
 import type { Metadata } from 'next';
 
@@ -65,6 +66,7 @@ const HomePage: React.FC = () => {
 
       </Container>
       <FallingText />
+    <HomeLatestBlogs />
     </>
   );
 };
