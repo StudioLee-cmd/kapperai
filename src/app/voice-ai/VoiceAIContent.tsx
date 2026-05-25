@@ -1,6 +1,8 @@
 "use client";
 
 import React from "react";
+import Image from "next/image";
+import Link from "next/link";
 import { motion } from "framer-motion";
 import {
   BsCheck2Circle,
@@ -111,13 +113,17 @@ const faqs = [
     q: `Wat kost een Voice AI telefonist bij ${brand}?`,
     a: `De Voice AI telefonist zit inbegrepen in ons maandelijkse pakket vanaf €79/maand. Geen opstartkosten, geen verborgen kosten. Bekijk onze tarieven voor alle details.`,
   },
+  {
+    q: "Werkt de Voice AI ook samen met de chatbot en andere automatiseringen?",
+    a: `Ja. De Voice AI telefonist deelt dezelfde kennisbank en agenda als de AI chatbot en Workflow automatisering. Belt iemand 's avonds, dan plant de AI dezelfde slot in als wanneer ze via chat boekten — één klantbeeld, één systeem.`,
+  },
 ];
 
 export default function VoiceAIContent() {
   return (
     <main className="pt-24 md:pt-32">
       {/* Hero */}
-      <section className="py-12 md:py-20 px-4">
+      <section className="py-12 md:py-16 px-4">
         <div className="max-w-4xl mx-auto text-center">
           <motion.p
             initial={{ opacity: 0, y: 10 }}
@@ -168,6 +174,25 @@ export default function VoiceAIContent() {
             </a>
           </motion.div>
         </div>
+
+        {/* Hero image */}
+        <motion.div
+          initial={{ opacity: 0, y: 30 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.4, duration: 0.6 }}
+          className="max-w-5xl mx-auto mt-12 px-4"
+        >
+          <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-2xl">
+            <Image
+              src="/images/services/voice-ai-hero.jpg"
+              alt={`Voice AI telefonist neemt op voor een ${nicheSingular} — premium kapsalon receptie`}
+              fill
+              priority
+              className="object-cover"
+              sizes="(max-width: 1024px) 100vw, 1024px"
+            />
+          </div>
+        </motion.div>
       </section>
 
       {/* Wat is een Voice AI telefonist? */}
@@ -252,6 +277,28 @@ export default function VoiceAIContent() {
               </motion.div>
             ))}
           </div>
+
+          {/* Workflow image */}
+          <motion.div
+            initial={{ opacity: 0, y: 30 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6 }}
+            className="mt-14"
+          >
+            <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-xl">
+              <Image
+                src="/images/services/voice-ai-workflow.jpg"
+                alt="Kapsalon eigenaar focust op de klant terwijl de Voice AI telefonist een binnenkomend gesprek opneemt"
+                fill
+                className="object-cover"
+                sizes="(max-width: 1024px) 100vw, 1024px"
+              />
+            </div>
+            <p className="text-center text-sm text-foreground-accent mt-3 max-w-2xl mx-auto">
+              Terwijl jij geconcentreerd met een klant bezig bent, neemt de AI elke oproep professioneel op.
+            </p>
+          </motion.div>
         </div>
       </section>
 
@@ -283,37 +330,91 @@ export default function VoiceAIContent() {
         </div>
       </section>
 
-      {/* Waarom kiezen voor Voice AI? */}
+      {/* Waarom kiezen voor Voice AI? + side image */}
       <section className="py-16 px-4">
-        <div className="max-w-3xl mx-auto">
-          <h2 className="text-2xl md:text-3xl font-bold text-center mb-6">
-            Waarom {niche} kiezen voor Voice AI?
+        <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
+          <motion.div
+            initial={{ opacity: 0, x: -30 }}
+            whileInView={{ opacity: 1, x: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6 }}
+          >
+            <h2 className="text-2xl md:text-3xl font-bold mb-6">
+              Waarom {niche} kiezen voor Voice AI?
+            </h2>
+            <div className="text-foreground-accent space-y-4 text-base leading-relaxed">
+              <p>
+                Bereikbaarheid is het verschil tussen een volle agenda en lege
+                weken. In de {nicheSingular}sbranche bellen klanten het liefst direct
+                — ze willen nu een afspraak, niet morgen. Onderzoek laat zien
+                dat 80% van de bellers die op een voicemail uitkomen, niet
+                terugbellen. Ze bellen simpelweg het volgende bedrijf in de
+                Google-resultaten.
+              </p>
+              <p>
+                Met een Voice AI telefonist ben je altijd bereikbaar, zonder
+                dat je extra personeel hoeft aan te nemen. De AI neemt op in
+                jouw bedrijfsnaam, voert een natuurlijk gesprek en handelt de
+                meest voorkomende vragen zelfstandig af. Van het plannen van
+                afspraken tot het beantwoorden van prijsvragen — alles
+                automatisch. Na elk gesprek ontvang je een samenvatting via
+                WhatsApp, zodat je precies weet wat er speelt. Het resultaat?
+                Meer afspraken, tevreden klanten en nul gemiste oproepen.
+              </p>
+            </div>
+          </motion.div>
+
+          <motion.div
+            initial={{ opacity: 0, x: 30 }}
+            whileInView={{ opacity: 1, x: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6 }}
+            className="relative w-full aspect-[16/10] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-xl"
+          >
+            <Image
+              src="/images/services/voice-ai-section.jpg"
+              alt={`Gespreksamenvatting van de Voice AI telefonist op de receptie van een ${nicheSingular}`}
+              fill
+              className="object-cover"
+              sizes="(max-width: 768px) 100vw, 50vw"
+            />
+          </motion.div>
+        </div>
+      </section>
+
+      {/* Combinatie met andere services */}
+      <section className="py-16 px-4 bg-[var(--card-background)]">
+        <div className="max-w-5xl mx-auto">
+          <h2 className="text-2xl md:text-3xl font-bold text-center mb-3">
+            Combineer met andere AI-tools
           </h2>
-          <div className="text-foreground-accent space-y-4 text-base leading-relaxed">
-            <p>
-              Bereikbaarheid is het verschil tussen een volle agenda en lege
-              weken. In de {nicheSingular}sbranche bellen klanten het liefst direct
-              — ze willen nu een afspraak, niet morgen. Onderzoek laat zien
-              dat 80% van de bellers die op een voicemail uitkomen, niet
-              terugbellen. Ze bellen simpelweg het volgende bedrijf in de
-              Google-resultaten.
-            </p>
-            <p>
-              Met een Voice AI telefonist ben je altijd bereikbaar, zonder
-              dat je extra personeel hoeft aan te nemen. De AI neemt op in
-              jouw bedrijfsnaam, voert een natuurlijk gesprek en handelt de
-              meest voorkomende vragen zelfstandig af. Van het plannen van
-              afspraken tot het beantwoorden van prijsvragen — alles
-              automatisch. Na elk gesprek ontvang je een samenvatting via
-              WhatsApp, zodat je precies weet wat er speelt. Het resultaat?
-              Meer afspraken, tevreden klanten en nul gemiste oproepen.
-            </p>
+          <p className="text-foreground-accent text-center mb-10 max-w-xl mx-auto">
+            De Voice AI telefonist werkt het beste als onderdeel van het complete platform.
+          </p>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+            {[
+              { href: "/chatbot", title: "AI Chatbot", desc: "Vangt website-bezoekers op die liever typen dan bellen. Dezelfde info, dezelfde flow." },
+              { href: "/automatisering", title: "Workflow Automatisering", desc: "Herinneringen, lead-opvolging en review-verzoeken automatisch versturen na elk gesprek." },
+              { href: "/crm", title: "CRM voor Kappers", desc: "Elk telefoongesprek landt automatisch in je CRM, met samenvatting en klantgeschiedenis." },
+            ].map((item, idx) => (
+              <Link
+                key={idx}
+                href={item.href}
+                className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all"
+              >
+                <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">{item.title}</h3>
+                <p className="text-foreground-accent text-sm mb-3">{item.desc}</p>
+                <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">
+                  Bekijk <BsArrowRight size={14} />
+                </span>
+              </Link>
+            ))}
           </div>
         </div>
       </section>
 
       {/* Bureau Vergelijking */}
-      <section className="px-4 pb-12">
+      <section className="py-16 px-4">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-2xl md:text-3xl font-bold text-center mb-6">
             Traditioneel bureau vs. {brand}
@@ -409,12 +510,12 @@ export default function VoiceAIContent() {
             jouw {nicheSingular}sbedrijf 24/7 bereikbaar maakt — zonder extra personeel.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a
+            <Link
               href="/gratis-scan"
               className="bg-primary text-black px-8 py-3 rounded-xl font-semibold hover:bg-primary-accent transition-all"
             >
               Gratis AI Scan
-            </a>
+            </Link>
             <a
               href="https://calendly.com/tim-studiolee"
               target="_blank"
@@ -434,7 +535,7 @@ export default function VoiceAIContent() {
           </div>
           <p className="text-sm text-foreground-accent mt-6">
             Of bekijk eerst onze{" "}
-            <a href="/tarieven" className="text-primary hover:underline">tarieven</a>
+            <Link href="/tarieven" className="text-primary hover:underline">tarieven</Link>
           </p>
         </div>
       </section>
