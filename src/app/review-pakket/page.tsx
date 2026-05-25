@@ -97,10 +97,10 @@ export default function ReviewPage() {
             <section className="py-12 px-4">
                 <div className="max-w-5xl mx-auto">
                     <motion.div
-                        initial={ opacity: 0, y: 30 }
-                        whileInView={ opacity: 1, y: 0 }
-                        viewport={ once: true }
-                        transition={ duration: 0.6 }
+                        initial={{ opacity: 0, y: 30 }}
+                        whileInView={{ opacity: 1, y: 0 }}
+                        viewport={{ once: true }}
+                        transition={{ duration: 0.6 }}
                     >
                         <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-gray-200 dark:border-gray-700 shadow-xl">
                             <Image
