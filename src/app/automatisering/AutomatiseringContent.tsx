@@ -524,7 +524,7 @@ export default function AutomatiseringContent() {
         </div>
       </section>
 
-      {/* Combinatie met andere services */}
+      {/* Combineer met andere AI-tools */}
       <section className="py-16 px-4 bg-[var(--card-background)]">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-2xl md:text-3xl font-bold mb-3">
