@@ -1,6 +1,8 @@
 "use client";
 
 import React from "react";
+import Image from "next/image";
+import Link from "next/link";
 import { motion } from "framer-motion";
 import {
   BsCheck2Circle,
@@ -111,13 +113,17 @@ const faqs = [
     q: `Wat kost een AI chatbot bij ${brand}?`,
     a: `Een AI chatbot zit inbegrepen in ons maandelijkse pakket vanaf €79/maand. Geen opstartkosten, geen verborgen kosten. Bekijk onze tarieven voor alle details.`,
   },
+  {
+    q: "Werkt de chatbot ook samen met andere automatiseringen?",
+    a: `Ja. De chatbot is onderdeel van het complete platform — koppel hem aan onze Voice AI telefonist, Workflow automatisering en CRM voor één gestroomlijnde klantbeleving. Eén systeem, één maandbedrag.`,
+  },
 ];
 
 export default function ChatbotContent() {
   return (
     <main className="pt-24 md:pt-32">
       {/* Hero */}
-      <section className="py-12 md:py-20 px-4">
+      <section className="py-12 md:py-16 px-4">
         <div className="max-w-4xl mx-auto text-center">
           <motion.p
             initial={{ opacity: 0, y: 10 }}
@@ -168,6 +174,25 @@ export default function ChatbotContent() {
             </a>
           </motion.div>
         </div>
+
+        {/* Hero image */}
+        <motion.div
+          initial={{ opacity: 0, y: 30 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.4, duration: 0.6 }}
+          className="max-w-5xl mx-auto mt-12 px-4"
+        >
+          <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-2xl">
+            <Image
+              src="/images/services/chatbot-hero.jpg"
+              alt={`AI chatbot in een moderne kapsalon — klant krijgt direct antwoord via chat`}
+              fill
+              priority
+              className="object-cover"
+              sizes="(max-width: 1024px) 100vw, 1024px"
+            />
+          </div>
+        </motion.div>
       </section>
 
       {/* Wat is een AI Chatbot? */}
@@ -253,6 +278,28 @@ export default function ChatbotContent() {
               </motion.div>
             ))}
           </div>
+
+          {/* Workflow image: split-view klant + kapper */}
+          <motion.div
+            initial={{ opacity: 0, y: 30 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6 }}
+            className="mt-14"
+          >
+            <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-xl">
+              <Image
+                src="/images/services/chatbot-workflow.jpg"
+                alt="Klant stuurt vraag via chat — kapper ontvangt direct een notificatie op de Apple Watch"
+                fill
+                className="object-cover"
+                sizes="(max-width: 1024px) 100vw, 1024px"
+              />
+            </div>
+            <p className="text-center text-sm text-foreground-accent mt-3 max-w-2xl mx-auto">
+              Een klant stelt &apos;s avonds een vraag via de chatbot. Jij krijgt direct een melding via WhatsApp of Apple Watch.
+            </p>
+          </motion.div>
         </div>
       </section>
 
@@ -284,35 +331,90 @@ export default function ChatbotContent() {
         </div>
       </section>
 
-      {/* Waarom kiezen voor een chatbot? */}
+      {/* Waarom kiezen voor een chatbot? + side image */}
       <section className="py-16 px-4">
-        <div className="max-w-3xl mx-auto">
-          <h2 className="text-2xl md:text-3xl font-bold text-center mb-6">
-            Waarom {niche} kiezen voor een chatbot?
+        <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
+          <motion.div
+            initial={{ opacity: 0, x: -30 }}
+            whileInView={{ opacity: 1, x: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6 }}
+            className="relative w-full aspect-[16/10] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-xl order-2 md:order-1"
+          >
+            <Image
+              src="/images/services/chatbot-section.jpg"
+              alt={`Laptop met website chatbot widget op de receptiebalie van een ${nicheSingular}`}
+              fill
+              className="object-cover"
+              sizes="(max-width: 768px) 100vw, 50vw"
+            />
+          </motion.div>
+
+          <motion.div
+            initial={{ opacity: 0, x: 30 }}
+            whileInView={{ opacity: 1, x: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6 }}
+            className="order-1 md:order-2"
+          >
+            <h2 className="text-2xl md:text-3xl font-bold mb-6">
+              Waarom {niche} kiezen voor een chatbot?
+            </h2>
+            <div className="text-foreground-accent space-y-4 text-base leading-relaxed">
+              <p>
+                In de {nicheSingular}sbranche draait alles om snelheid en vertrouwen. Een
+                klant die via Google op jouw website landt, verwacht direct
+                antwoord. Niet morgen, niet over een uur — nu. Uit onderzoek
+                blijkt dat 78% van de leads kiest voor het bedrijf dat als
+                eerste reageert. Met een AI chatbot ben jij dat bedrijf, altijd.
+              </p>
+              <p>
+                Daarnaast bespaar je als ondernemer enorm veel tijd. Geen
+                eindeloze telefoontjes meer met steeds dezelfde vragen over
+                prijzen of beschikbaarheid. De chatbot handelt dat af, terwijl
+                jij bezig bent met waar je goed in bent. En het mooiste? Elke
+                serieuze lead komt netjes bij jou binnen via WhatsApp, inclusief
+                alle relevante informatie. Zo mis je nooit meer een klant en
+                groeit je bedrijf zonder extra personeel in te hoeven huren.
+              </p>
+            </div>
+          </motion.div>
+        </div>
+      </section>
+
+      {/* Combinatie met andere services */}
+      <section className="py-16 px-4 bg-[var(--card-background)]">
+        <div className="max-w-5xl mx-auto">
+          <h2 className="text-2xl md:text-3xl font-bold text-center mb-3">
+            Combineer met andere AI-tools
           </h2>
-          <div className="text-foreground-accent space-y-4 text-base leading-relaxed">
-            <p>
-              In de {nicheSingular}sbranche draait alles om snelheid en vertrouwen. Een
-              klant die via Google op jouw website landt, verwacht direct
-              antwoord. Niet morgen, niet over een uur — nu. Uit onderzoek
-              blijkt dat 78% van de leads kiest voor het bedrijf dat als
-              eerste reageert. Met een AI chatbot ben jij dat bedrijf, altijd.
-            </p>
-            <p>
-              Daarnaast bespaar je als ondernemer enorm veel tijd. Geen
-              eindeloze telefoontjes meer met steeds dezelfde vragen over
-              prijzen of beschikbaarheid. De chatbot handelt dat af, terwijl
-              jij bezig bent met waar je goed in bent. En het mooiste? Elke
-              serieuze lead komt netjes bij jou binnen via WhatsApp, inclusief
-              alle relevante informatie. Zo mis je nooit meer een klant en
-              groeit je bedrijf zonder extra personeel in te hoeven huren.
-            </p>
+          <p className="text-foreground-accent text-center mb-10 max-w-xl mx-auto">
+            De chatbot werkt het beste als onderdeel van het complete platform.
+          </p>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+            {[
+              { href: "/voice-ai", title: "Voice AI Telefonist", desc: "Vangt oproepen op als de klant liever belt dan chat — zelfde info, zelfde flow." },
+              { href: "/automatisering", title: "Workflow Automatisering", desc: "Herinneringen, lead-opvolging en review-verzoeken automatisch versturen na elk chatgesprek." },
+              { href: "/crm", title: "CRM voor Kappers", desc: "Elk chatbot-gesprek landt automatisch in je CRM, met klantprofiel en geschiedenis." },
+            ].map((item, idx) => (
+              <Link
+                key={idx}
+                href={item.href}
+                className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all"
+              >
+                <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">{item.title}</h3>
+                <p className="text-foreground-accent text-sm mb-3">{item.desc}</p>
+                <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">
+                  Bekijk <BsArrowRight size={14} />
+                </span>
+              </Link>
+            ))}
           </div>
         </div>
       </section>
 
       {/* Bureau Vergelijking */}
-      <section className="px-4 pb-12">
+      <section className="py-16 px-4">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-2xl md:text-3xl font-bold text-center mb-6">
             Traditioneel bureau vs. {brand}
@@ -408,12 +510,12 @@ export default function ChatbotContent() {
             jouw {nicheSingular}sbedrijf kan laten groeien — zonder extra personeel.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a
+            <Link
               href="/gratis-scan"
               className="bg-primary text-black px-8 py-3 rounded-xl font-semibold hover:bg-primary-accent transition-all"
             >
               Gratis AI Scan
-            </a>
+            </Link>
             <a
               href="https://calendly.com/tim-studiolee"
               target="_blank"
@@ -433,7 +535,7 @@ export default function ChatbotContent() {
           </div>
           <p className="text-sm text-foreground-accent mt-6">
             Of bekijk eerst onze{" "}
-            <a href="/tarieven" className="text-primary hover:underline">tarieven</a>
+            <Link href="/tarieven" className="text-primary hover:underline">tarieven</Link>
           </p>
         </div>
       </section>
