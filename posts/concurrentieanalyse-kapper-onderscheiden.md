@@ -1,6 +1,7 @@
 ---
 title: "Concurrentieanalyse voor kappers: zo onderscheid je jouw salon"
-excerpt: "Ontdek hoe je als kapper de concurrentie analyseert en jouw salon laat opvallen met slimme positionering."
+seoTitle: "Concurrentieanalyse voor kappers"
+excerpt: "Ontdek hoe je als kapper de concurrentie analyseert en jouw salon laat opvallen met slimme positionering. Met een praktisch stappenplan."
 date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/concurrentieanalyse-kapper-onderscheiden.jpg"

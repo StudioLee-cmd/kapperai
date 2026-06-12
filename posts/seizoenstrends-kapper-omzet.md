@@ -1,5 +1,6 @@
 ---
 title: "Seizoenstrends als kapper: zo speel je in op trends en verhoog je je omzet"
+seoTitle: "Seizoenstrends als kapper"
 slug: "seizoenstrends-kapper-omzet"
 date: "2026-03-22"
 excerpt: "Elk seizoen brengt andere kapsels, kleuren en behandelingen. Ontdek hoe je als kapper inspeelt op seizoenstrends en je omzet het hele jaar door verhoogt."

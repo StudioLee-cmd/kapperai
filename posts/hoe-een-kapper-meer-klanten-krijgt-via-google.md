@@ -1,6 +1,6 @@
 ---
 title: "Hoe een kapper meer klanten krijgt via Google"
-excerpt: "Meer klanten als kapper via Google — van je Google Bedrijfsprofiel tot automatische reviews en AI. Een praktisch stappenplan speciaal voor kappers en salonhouders."
+excerpt: "Meer klanten als kapper via Google: van je Google Bedrijfsprofiel tot automatische reviews en AI. Een praktisch stappenplan voor salonhouders."
 date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-een-kapper-meer-klanten-krijgt-via-google.png"

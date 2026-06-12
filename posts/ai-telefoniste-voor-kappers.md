@@ -1,5 +1,6 @@
 ---
 title: "Het Einde van de \"Telefoon Tijdens het Knippen\": 24/7 Bereikbaar Zonder Personeel"
+seoTitle: "Het Einde van de \"Telefoon Tijdens het Knippen\""
 excerpt: "Mis nooit meer een afspraak omdat je met je handen in het haar zit. Onze Voice AI neemt op, plant afspraken en beantwoordt vragen."
 date: "2026-01-02"
 authorSlug: "tim-van-der-lee"

@@ -1,6 +1,7 @@
 ---
 title: "Waarom klanten je boekingspagina verlaten zonder afspraak te maken"
-excerpt: "De meeste kappers-websites converteren onder de 20 procent. Dit artikel legt de vijf redenen uit waarom klanten afhaken op de boekingspagina en hoe je ze in een middag oplost."
+seoTitle: "Waarom klanten je boekingspagina verlaten"
+excerpt: "De meeste kappers-websites converteren onder de 20 procent. De vijf redenen waarom klanten afhaken op je boekingspagina en hoe je ze snel oplost."
 date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kappers-boekings-conversie-verbeteren.jpg"

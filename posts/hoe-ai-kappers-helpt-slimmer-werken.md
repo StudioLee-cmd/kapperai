@@ -1,6 +1,7 @@
 ---
 title: "Hoe AI kappers helpt om slimmer te werken en meer te verdienen"
-excerpt: "Ontdek hoe AI kappers helpt bij afspraken, klantcommunicatie en marketing — en hoe jij er vandaag mee begint."
+seoTitle: "Hoe AI kappers helpt slimmer werken en meer verdienen"
+excerpt: "Ontdek hoe AI kappers helpt bij afspraken, klantcommunicatie en marketing — en hoe jij er vandaag mee begint. Praktisch en zonder jargon."
 date: "2026-03-06"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-ai-kappers-helpt-slimmer-werken.png"

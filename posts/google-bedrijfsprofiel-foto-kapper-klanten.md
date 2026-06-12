@@ -1,6 +1,6 @@
 ---
 title: "Foto's voor je Google Bedrijfsprofiel als kapper"
-excerpt: "Welke foto's op je Google Bedrijfsprofiel als kapper trekken nieuwe klanten? Per type foto: wat te tonen, wat het signaleert en de fouten die je kost klanten."
+excerpt: "Welke foto's op je Google Bedrijfsprofiel trekken nieuwe klanten naar je kapsalon? Per type foto: wat je toont en welke fouten je klanten kosten."
 date: "2026-04-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-foto-kapper-klanten.jpg"

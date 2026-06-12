@@ -1,5 +1,6 @@
 ---
 title: "Online boeken voor kappers: waarom 24/7 reserveren standaard moet zijn"
+seoTitle: "Online boeken voor kappers"
 excerpt: "Klanten willen op elk moment een afspraak maken. Ontdek waarom online boeken als kapper niet meer optioneel is en hoe het je salon laat groeien."
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"

@@ -1,6 +1,7 @@
 ---
 title: "Mond-tot-mondreclame als kapper: hoe tevreden klanten je salon vullen"
-excerpt: "De krachtigste marketing voor kappers is mond-tot-mond. Leer hoe je klanten activeert als ambassadeurs voor je salon."
+seoTitle: "Mond-tot-mondreclame als kapper"
+excerpt: "De krachtigste marketing voor kappers is mond-tot-mond. Leer hoe je klanten activeert als ambassadeurs voor je salon. Met concrete acties."
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/mond-tot-mondreclame-kapper.png"

@@ -1,6 +1,6 @@
 ---
 title: "NFC-kaart voor reviews: hoe werkt het als kapper?"
-excerpt: "Ontdek hoe een NFC-kaart je salon helpt om automatisch meer Google Reviews te verzamelen. Praktische tips voor kappers die hun online reputatie willen versterken."
+excerpt: "Ontdek hoe een NFC-kaart je salon helpt om automatisch meer Google Reviews te verzamelen. Tips voor kappers die hun reputatie willen versterken."
 date: "2026-04-04"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"

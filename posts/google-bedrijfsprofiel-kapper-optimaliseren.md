@@ -1,5 +1,6 @@
 ---
 title: "Google Bedrijfsprofiel optimaliseren als kapper: complete gids"
+seoTitle: "Google Bedrijfsprofiel optimaliseren als kapper"
 excerpt: "Je kapsalon staat op Google Maps, maar bovenaan? Dat is een ander verhaal. Ontdek hoe je je Google Bedrijfsprofiel optimalisert voor meer klanten."
 date: "2026-03-11"
 authorSlug: "tim-van-der-lee"

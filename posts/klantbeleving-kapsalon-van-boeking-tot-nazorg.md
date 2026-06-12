@@ -1,5 +1,6 @@
 ---
 title: "De perfecte klantbeleving in je kapsalon: van boeking tot nazorg"
+seoTitle: "De perfecte klantbeleving in je kapsalon"
 excerpt: "De knipbeurt is maar een deel van het verhaal. De beste kapsalons winnen klanten met de totale beleving — van het eerste contact tot de nazorg."
 date: "2026-03-12"
 authorSlug: "tim-van-der-lee"

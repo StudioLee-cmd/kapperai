@@ -1,5 +1,6 @@
 ---
 title: "Eerste reactietijd als kapper: waarom 5 minuten het verschil maakt"
+seoTitle: "Eerste reactietijd als kapper"
 excerpt: "Kappers die binnen 5 minuten reageren op aanvragen boeken tot 4x meer klanten. Zo verkort je jouw reactietijd zonder extra werk."
 date: "2026-04-09"
 cluster: "automatisering"

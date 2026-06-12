@@ -1,5 +1,6 @@
 ---
 title: "Samenwerken als kapper: meer klanten via slimme partnerschappen"
+seoTitle: "Samenwerken als kapper"
 excerpt: "Strategische samenwerkingen met beautysalons, bruidswinkels en fotografen helpen kappers aan een constante stroom nieuwe klanten."
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"

@@ -1,5 +1,6 @@
 ---
 title: "Social media voor kappers: zo trek je meer klanten via Instagram"
+seoTitle: "Social media voor kappers"
 excerpt: "Ontdek hoe kappers social media inzetten om meer klanten te bereiken. Praktische tips, de beste platforms en slimme AI-tools voor kappers in 2026."
 date: "2026-03-09"
 authorSlug: "tim-van-der-lee"

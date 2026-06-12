@@ -3,7 +3,7 @@ title: "Wat kost Salonized per jaar voor een kapsalon?"
 slug: salonized-kosten-per-jaar-rekenvoorbeeld-kapsalon
 date: 2026-04-29
 cluster: "automatisering"
-excerpt: "Salonized kosten per jaar berekenen voor je kapsalon: drie rekenvoorbeelden bij 80, 200 en 400 boekingen per maand plus alternatieven zonder commissie per afspraak."
+excerpt: "Salonized kosten per jaar berekenen voor je kapsalon: rekenvoorbeelden bij 80, 200 en 400 boekingen per maand plus alternatieven zonder commissie."
 image: "/images/blog/salonized-kosten-per-jaar-rekenvoorbeeld-kapsalon.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Software-vergelijking", "Salonized", "Boekingssysteem", "Kapper"]

@@ -1,6 +1,6 @@
 ---
 title: "Negatieve review als kapper: reageren zonder ruzie"
-excerpt: "Een slechte review op Google? Geen paniek. Leer hoe je als kapper professioneel reageert en er sterker uitkomt."
+excerpt: "Een slechte review op Google? Geen paniek. Leer hoe je als kapper professioneel reageert en er sterker uitkomt. Inclusief voorbeeldreacties."
 date: "2026-04-12"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"

@@ -1,5 +1,6 @@
 ---
 title: "Google reviews vragen aan klanten in je kapsalon: scripts die werken"
+seoTitle: "Google reviews vragen aan klanten in je kapsalon"
 excerpt: "Veel kappers vragen klanten niet om een review en laten zo gratis groei liggen. Lees welke scripts wel werken en wanneer je het beste vraagt."
 date: "2026-04-08"
 cluster: "reviews"

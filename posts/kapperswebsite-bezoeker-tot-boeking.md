@@ -1,6 +1,6 @@
 ---
 title: "Je kapperswebsite laten werken: van bezoeker tot boeking"
-excerpt: "Ontdek hoe je als kapper je website omzet in een boekingsmachine die 24/7 nieuwe klanten binnenhaalt."
+excerpt: "Ontdek hoe je als kapper je website omzet in een boekingsmachine die 24/7 nieuwe klanten binnenhaalt. Met vijf concrete verbeterpunten."
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kapperswebsite-bezoeker-tot-boeking.png"

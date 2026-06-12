@@ -1,6 +1,6 @@
 ---
 title: "Kappersprijzen op je website: wel of niet doen?"
-excerpt: "Moet je als kapper je prijzen online zetten? Ontdek de voor- en nadelen, en hoe je het slim aanpakt voor meer klanten."
+excerpt: "Moet je als kapper je prijzen online zetten? Ontdek de voor- en nadelen, en hoe je het slim aanpakt voor meer klanten. Met voorbeelden."
 date: "2026-03-13"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kappersprijzen-op-website-wel-of-niet.png"

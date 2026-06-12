@@ -1,5 +1,6 @@
 ---
 title: "Specialiseren als kapper: niche-expertise die je salon laat groeien"
+seoTitle: "Specialiseren als kapper"
 excerpt: "Niet elke kapper hoeft alles aan te bieden. Ontdek hoe specialisatie je salon laat opvallen, betere klanten trekt en hogere tarieven rechtvaardigt."
 date: "2026-03-27"
 authorSlug: "tim-van-der-lee"

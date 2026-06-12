@@ -1,6 +1,6 @@
 ---
 title: "E-mailmarketing voor kappers: klantcontact tussen afspraken"
-excerpt: "Leer hoe je als kapper met slimme e-mails klanten behoudt, no-shows vermindert en meer herhalingsboekingen krijgt."
+excerpt: "Leer hoe je als kapper met slimme e-mails klanten behoudt, no-shows vermindert en meer herhalingsboekingen krijgt. Inclusief voorbeelden."
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/email-marketing-kappers-klantcontact.png"

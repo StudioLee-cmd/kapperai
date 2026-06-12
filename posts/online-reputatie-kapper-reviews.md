@@ -1,5 +1,6 @@
 ---
 title: "Online reputatie als kapper: zo beheer je reviews en reacties"
+seoTitle: "Online reputatie als kapper"
 excerpt: "Je online reputatie bepaalt of nieuwe klanten jouw salon kiezen. Leer hoe je als kapper reviews verzamelt, reageert op feedback en je imago beschermt."
 date: "2026-03-26"
 authorSlug: "tim-van-der-lee"

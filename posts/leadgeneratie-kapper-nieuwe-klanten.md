@@ -1,8 +1,9 @@
 ---
 title: "Leadgeneratie als kapper: zo trek je nieuwe klanten buiten Google om"
+seoTitle: "Leadgeneratie als kapper"
 slug: "leadgeneratie-kapper-nieuwe-klanten"
 date: "2026-03-23"
-excerpt: "Google is niet je enige bron van nieuwe klanten. Ontdek hoe je als kapper via samenwerkingen, social media en verwijzingen een constante stroom nieuwe klanten opbouwt."
+excerpt: "Google is niet je enige bron van nieuwe klanten. Zo bouw je als kapper via samenwerkingen, social media en verwijzingen een constante klantstroom."
 image: "/images/blog/leadgeneratie-kapper-nieuwe-klanten.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
