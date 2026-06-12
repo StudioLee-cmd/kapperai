@@ -69,7 +69,7 @@ const FreeTrialPage = () => {
         setError('');
 
         try {
-            const response = await fetch(N8N_WEBHOOK_URL, {
+            const response = await fetch('/api/signup', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
@@ -77,13 +77,15 @@ const FreeTrialPage = () => {
                 body: JSON.stringify({
                     email: formData.email,
                     business_name: formData.businessName,
+                    bedrijfsnaam: formData.businessName,
+                    source: 'kapperai-free-trial',
                     niche: formData.niche,
                 }),
             });
 
             if (response.ok) {
                 // Success - redirect to Mollie checkout
-                router.push('/checkout/activate');
+                router.push('/aanmelding-gelukt');
             } else {
                 throw new Error('Er is iets misgegaan bij het versturen van je aanmelding.');
             }

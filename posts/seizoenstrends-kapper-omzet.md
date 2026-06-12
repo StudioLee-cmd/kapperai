@@ -22,7 +22,7 @@ Toch doen veel salons dit niet bewust. Ze hebben dezelfde menukaart het hele jaa
 
 Het voorjaar begint met klanten die klaar zijn voor verandering na de winter. Dit is het moment voor:
 
-**Kleurvernieuwing**. Balayage, highlights en lichtere tinten zijn populair van maart tot en met augustus. Promoot je kleurwerk actief op [Instagram](/blog/social-media-voor-kappers) met voor-en-na foto's. Klanten die twijfelen, worden overtuigd door resultaten.
+**Kleurvernieuwing**. Balayage, highlights en lichtere tinten zijn populair van maart tot en met augustus. Promoot je kleurwerk actief op Instagram met voor-en-na foto's. Klanten die twijfelen, worden overtuigd door resultaten.
 
 **Festivalseizoen**. Van Koningsdag tot zomerfestivals — creatieve looks zijn gevraagd. Bied speciale festivalpakketten aan: vlechten, glitter, tijdelijke kleuren. Dit trekt een jongere doelgroep die je salon leert kennen.
 
@@ -61,7 +61,7 @@ Seizoensbewust werken gaat verder dan marketing. Het raakt je hele bedrijfsvoeri
 
 **Personeelsplanning**. Weet wanneer je extra handen nodig hebt. December heeft langere openingstijden nodig, januari kun je je team vrije dagen geven. Gebruik data van vorig jaar om patronen te herkennen.
 
-**Contentplanning**. Plan je [social media](/blog/social-media-voor-kappers) content per seizoen vooruit. Maak in elk seizoen foto's en video's die je het volgende jaar opnieuw kunt gebruiken. Zo hoef je niet elke keer van nul te beginnen.
+**Contentplanning**. Plan je social media content per seizoen vooruit. Maak in elk seizoen foto's en video's die je het volgende jaar opnieuw kunt gebruiken. Zo hoef je niet elke keer van nul te beginnen.
 
 **Prijskaart aanpassen**. Overweeg seizoensprijzen voor bepaalde behandelingen. Kleurwerk kan in de rustige maanden een lagere prijs hebben om stoelen te vullen, en in drukke maanden de standaardprijs.
 

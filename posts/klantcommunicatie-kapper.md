@@ -70,7 +70,7 @@ De truc is om de structuur te automatiseren, maar de toon persoonlijk te houden:
 - Verwijs naar de specifieke behandeling
 - Voeg af en toe een persoonlijke noot toe
 
-Met tools als WhatsApp Business kun je templates instellen die professioneel overkomen maar toch warm aanvoelen. Combineer dit met je [social media strategie](/blog/social-media-voor-kappers) voor een consistente merkbeleving.
+Met tools als WhatsApp Business kun je templates instellen die professioneel overkomen maar toch warm aanvoelen. Combineer dit met je social media strategie voor een consistente merkbeleving.
 
 ## Veelgemaakte fouten
 

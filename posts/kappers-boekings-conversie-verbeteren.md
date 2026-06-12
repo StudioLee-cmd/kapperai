@@ -27,7 +27,7 @@ De oplossing is een realistische bandbreedte per behandeling met duidelijke diff
 - Balayage (afhankelijk van lengte): 135–210 euro
 - Gellak-manicure: 32–38 euro
 
-Bandbreedtes met duidelijke nuance ("exacte prijs afhankelijk van lengte en conditie, Mirjam bevestigt bij aankomst") werken beter dan vage vanaf-prijzen. Lees onze aanpak voor [prijzen communiceren op je kappers-website](/blog/prijzen-kapperszaak-website-transparantie) voor verdere details.
+Bandbreedtes met duidelijke nuance ("exacte prijs afhankelijk van lengte en conditie, Mirjam bevestigt bij aankomst") werken beter dan vage vanaf-prijzen. Lees onze aanpak voor prijzen communiceren op je kappers-website voor verdere details.
 
 ## Drempel 2: te weinig informatie over wie er werkt
 
@@ -96,7 +96,7 @@ Voor een kappersalon is dit een paar dagen werk verspreid over enkele weken. Res
 
 **Niet meten voor én na.** Kijk in je boekingssysteem of in Google Analytics naar de conversie voor je verandert. Anders weet je niet wat het oplevert.
 
-**Te veel informatie op de boekingspagina.** De pagina moet duidelijk zijn, niet volgeladen. Minder is meer. Informatie die niet direct helpt bij de boekings-beslissing hoort niet daar. Lees onze bredere aanpak voor [kappers-website conversie](/blog/kapperszaak-website-meer-boekingen) voor het complete plaatje.
+**Te veel informatie op de boekingspagina.** De pagina moet duidelijk zijn, niet volgeladen. Minder is meer. Informatie die niet direct helpt bij de boekings-beslissing hoort niet daar. Lees onze bredere aanpak voor kappers-website conversie voor het complete plaatje.
 
 ## Waar begin je
 

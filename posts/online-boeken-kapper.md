@@ -93,4 +93,4 @@ Benieuwd wat dit voor jouw salon kan betekenen? [Vraag een gratis scan aan](/gra
 
 Online boeken is geen luxe meer — het is de standaard die klanten verwachten. Salons die 24/7 reserveren mogelijk maken, zien hogere bezettingsgraden, minder no-shows en meer nieuwe klanten. Hoe eerder je start, hoe sneller je profiteert.
 
-Bekijk ook onze andere tips voor [meer klanten via Google](/blog/hoe-een-kapper-meer-klanten-krijgt-via-google) en hoe je [social media inzet als kapper](/blog/social-media-voor-kappers).
+Bekijk ook onze andere tips voor [meer klanten via Google](/blog/hoe-een-kapper-meer-klanten-krijgt-via-google) en hoe je social media inzet als kapper.

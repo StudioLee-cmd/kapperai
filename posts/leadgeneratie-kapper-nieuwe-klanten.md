@@ -32,7 +32,7 @@ Het draait om wederkerigheid: jij stuurt klanten hun kant op, zij sturen klanten
 
 ## Social media als leadkanaal
 
-[Social media](/blog/social-media-voor-kappers) is meer dan een etalage — het is een actief wervingskanaal als je het goed inzet.
+Social media is meer dan een etalage — het is een actief wervingskanaal als je het goed inzet.
 
 **Reels en voor-en-na content**. Korte video's van transformaties worden het meest gedeeld en bereiken mensen buiten je bestaande volgers. Elke viral reel is potentieel tientallen nieuwe klanten.
 
