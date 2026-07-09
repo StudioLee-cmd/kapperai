@@ -2,98 +2,91 @@
 title: "Review-borden kapsalon: NFC, QR of sticker?"
 slug: review-borden-kapsalon-nfc-qr-sticker
 date: "2026-07-09"
-excerpt: "NFC-kaart, QR-code of een geprinte sticker op de balie? We vergelijken de drie review-borden voor je kapsalon en tonen welke echt meer reviews oplevert."
+excerpt: "Welk review-hulpmiddel levert je kapsalon de meeste Google reviews op: een NFC-kaart, een QR-code of een fysieke sticker? De eerlijke vergelijking."
 image: "/images/blog/review-borden-kapsalon-nfc-qr-sticker.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews", "Kapsalon", "Google Reviews"]
+tags: ["Reviews", "Kapsalon", "Google reviews"]
 cluster: "reviews"
 ---
 
-De klant staat op na de knipbeurt, kijkt tevreden in de spiegel, rekent af en loopt de deur uit. Nog een blije klant. En nog een review die je nooit krijgt. Dat is het lekke gaatje in bijna elke kapsalon: de waardering is er wel, maar hij belandt niet online waar je nieuwe klanten hem moeten zien.
+De klant staat af te rekenen, kijkt nog even tevreden in de spiegel en zegt "wat heb je het weer mooi gedaan". Dat is het moment. Precies daar, met de föhn nog warm en het compliment nog vers, is de kans op een oprechte review het grootst. De vraag is alleen: hoe vang je dat moment op zonder dat het ongemakkelijk wordt of dat jij het vergeet?
 
-Een fysiek review-punt op je balie sluit dat gaatje. Het is je stille reviewvrager: het staat er altijd, het vraagt niet zenuwachtig en het werkt precies op het moment dat de klant het meest tevreden is. De vraag is alleen: welk soort? Een NFC-bordje, een QR-code of gewoon een geprinte sticker met een linkje. Ze lijken op elkaar, maar ze werken anders en ze leveren niet evenveel op. Hieronder zet ik de drie naast elkaar, zodat je in vijf minuten weet welke bij jouw salon past.
+Steeds meer salons zetten daar een fysiek hulpmiddel voor neer op de balie. Grofweg zijn er drie smaken: een NFC-kaart waar de klant zijn telefoon tegenaan houdt, een QR-code om te scannen, of een klassieke sticker of bordje met een uitnodiging. Ze zien er alledrie simpel uit, maar in de praktijk verschilt het rendement flink. Hieronder de eerlijke vergelijking, toegespitst op de kapsalon.
 
-## Waarom een bordje op de balie überhaupt werkt
+## Waarom dat balie-hulpmiddel de moeite waard is
 
-Bijna niemand laat uit zichzelf een review achter. De klant die laaiend enthousiast is doet het soms, en de klant die woedend is bijna altijd. De grote middengroep, jouw gewone tevreden klant, heeft een klein zetje nodig. Geen speech, gewoon een zichtbare uitnodiging op het juiste moment.
+Even het waarom, want anders is de rest een detail. Google reviews doen twee dingen tegelijk voor je salon. Ze bepalen mede hoe hoog je in Google Maps verschijnt als iemand "kapper in de buurt" zoekt, en ze zijn het eerste wat een nieuwe klant ziet voordat die belt of boekt. Een salon met 120 reviews en een 4,8 wint het bijna altijd van de buurman met 14 reviews, ook als het knipwerk identiek is.
 
-Dat moment is bij het afrekenen. De knipbeurt zit er net op, het resultaat staat vers in het hoofd, en de klant heeft even niks te doen terwijl je de pin klaarzet. Een bordje dat op dat exacte moment zegt "laat even een review achter" pakt precies die stilte. En het loont: reviews zijn voor de meeste mensen de eerste check voordat ze een nieuwe kapper kiezen, en meer recensies helpen je ook nog eens hoger in Google Maps. Dat maakt review verzamelen niet los van je [lokale SEO voor kappers](/seo), maar er een direct onderdeel van.
+Het probleem is bekend: tevreden klanten laten zelden uit zichzelf een review achter, niet omdat ze het niet willen maar omdat het net te veel moeite is. Een review-hulpmiddel op de balie haalt precies die drempel weg. Het maakt van "ik doe het thuis wel" een handeling van vijf seconden, nu meteen. Wil je de bredere aanpak lezen? Bekijk dan hoe je met [lokale SEO voor kappers](/seo) structureel hoger in je stad komt, en hoe [automatisch reviews verzamelen voor kappers](/reviews) werkt als vast onderdeel van je salon.
 
-Het bordje is dus geen leuk hebbeding. Het is het goedkoopste marketinginstrument in je salon. Maar de uitvoering bepaalt of het echt tikt of alleen maar staat te staan.
+## De drie opties, kort uitgelegd
 
-## NFC-bordje: één tik, geen app, geen gedoe
+**NFC-kaart.** Een pasje of standaard met een chip erin. De klant houdt zijn telefoon er kort tegenaan en gaat direct naar jouw Google-reviewpagina. Geen app, geen camera, geen typen.
 
-Een NFC-bordje heeft een chip ingebouwd. De klant houdt zijn telefoon er kort tegenaan en je Google-reviewpagina opent vanzelf in de browser. Geen app, niks scannen, niks typen. Van klantcontact naar reviewscherm in een seconde of drie.
+**QR-code.** Een gedrukte code op een kaartje, sticker of standaard. De klant opent de camera, scant de code en tikt op de link die verschijnt.
 
-Dat is meteen het grote voordeel: de drempel is zo laag als hij kan zijn. Elke extra handeling die je van een klant vraagt kost je reacties, en NFC vraagt de minste handelingen van alle drie. Het werkt op vrijwel alle moderne Android-toestellen en op iPhones vanaf de iPhone 7 (iOS 13 of hoger), die scannen automatisch zodra de telefoon in de buurt komt.
+**Fysieke sticker of bordje.** Een uitnodiging met een korte tekst en meestal een QR-code of een korte weblink erbij. Denk aan een raamsticker, een bordje op de balie of een kaartje in de spiegellijst. Passief: het nodigt uit, maar de klant moet zelf de stap zetten.
 
-De nadelen zijn eerlijk gezegd klein, maar ze bestaan. Een NFC-bordje kost meer dan een sticker (reken op zo'n 25 tot 40 euro voor een bordje of standaard). Een handjevol oudere iPhones herkent NFC niet automatisch. En een deel van je klanten weet simpelweg niet dat je een telefoon "ergens tegenaan kunt houden", dus je medewerker moet er heel soms even bij wijzen. Voor een salon met veel klantcontact aan de balie is NFC bijna altijd de sterkste keuze.
+## De vergelijking op vier punten
 
-## QR-code: werkt op elke telefoon, maar vraagt een extra stap
+Voor een kapsalon tellen vier dingen echt: hoe makkelijk het is voor de klant, hoeveel reviews het oplevert, wat het kost en hoe lang het meegaat.
 
-Een QR-code is het vertrouwde blokje dat iedereen inmiddels kent van het terras. De klant opent de camera, richt op de code, tikt op de melding en komt op je reviewpagina. Het werkt op letterlijk elke smartphone met een camera, ook op dat ene oude toestel dat NFC niet snapt.
-
-Die brede compatibiliteit is de kracht van QR. En het is spotgoedkoop: een QR-code kun je op van alles zetten, van een bordje tot je kassabon tot een spiegelsticker, zonder chip en dus zonder meerprijs. Voor een salon die het gewoon wil proberen zonder te investeren, is QR een prima startpunt.
-
-De prijs betaal je in stapjes. De klant moet de camera openen, stil blijven richten tot de code scherp is, en dán pas op de link tikken. Dat zijn meer momenten waarop iemand afhaakt dan bij een NFC-tik. In de praktijk merk je: QR werkt, maar iets minder soepel dan NFC. Het slimste is daarom om een bordje te kiezen met NFC én een QR-code erop, zodat de klant zelf kiest wat het snelst voelt.
-
-![Close-up van een NFC review-bordje en een geprinte QR-sticker naast een pinautomaat op de balie van een kapsalon](/images/blog/review-borden-kapsalon-nfc-qr-sticker-2.jpg)
-
-## Geprinte sticker met link: goedkoopst, hoogste drempel
-
-De simpelste variant is een geprinte sticker of kaartje met alleen een korte link of QR-code erop, geplakt op de spiegel, de balie of meegegeven in de hand. Kosten: bijna niets. Je print ze zelf of laat een setje maken voor een paar euro.
-
-Voor een startende salon of als tweede reviewpunt op een extra plek is dat prima. Maar wees eerlijk over wat een kale sticker doet: hij vraagt de meeste moeite van je klant. Een link overtypen doet vrijwel niemand, en een losse sticker valt sneller weg tegen de rest van je balie. Een geprinte sticker is dus vooral een aanvulling, geen vervanging. Zet hem naast een NFC- of QR-oplossing, niet in plaats daarvan.
-
-## Welke past bij jouw salon?
-
-Even alles naast elkaar, zodat je in één blik ziet wat je kiest:
-
-| | NFC-bordje | QR-code | Geprinte sticker |
+| | NFC-kaart | QR-code | Fysieke sticker/bordje |
 |---|---|---|---|
-| **Drempel voor de klant** | Laagst (één tik) | Middel (scannen) | Hoogst (scannen/typen) |
-| **Kosten** | ~€25 tot €40 | Laag | Bijna gratis |
-| **Werkt op elke telefoon** | Bijna alle (iPhone 7+) | Ja, alle | Ja, alle |
-| **Waar plaatsen** | Balie, afrekenpunt | Balie, bon, spiegel | Spiegel, extra plek |
-| **Beste voor** | Salon met veel baliecontact | Wie eerst wil testen | Als aanvulling |
+| Handelingen voor de klant | 1 (tik) | 3 (camera, scan, tik) | 3+ (zelf link typen of scannen) |
+| Conversie naar review | Hoog | Gemiddeld | Laag tot gemiddeld |
+| Kosten | Hoger, maar herbruikbaar | Laag | Laagst |
+| Duurzaamheid | Jaren, blijft op de balie | Print slijt, code blijft geldig | Sticker verkleurt, moet vervangen |
 
-De korte versie: heb je een vaste balie waar iedereen afrekent, ga dan voor NFC (of een bordje met NFC én QR erop). Wil je eerst voelen of het werkt zonder te investeren, start met een QR-code. En een geprinte sticker is een goedkope extra op een tweede plek, niet je hoofdoplossing. Wie het in één keer goed wil neerzetten, kiest een [complete review setup voor kappers](/review-pakket) waarin het bordje, de juiste reviewlink en de opvolging al op elkaar afgestemd zijn.
+Op **gebruiksgemak** wint de NFC-kaart duidelijk. Eén tik tegen de kaart en de reviewpagina staat open. Een QR-code vraagt drie handelingen, en juist die extra stapjes zijn waar mensen afhaken of denken "later". Later wordt nooit.
 
-## Het bordje is 10 procent, de opvolging is 90 procent
+Op **conversie** zie je hetzelfde terug: hoe minder de klant hoeft te doen op het moment dat hij nog enthousiast is, hoe meer reviews je binnenkrijgt. De NFC-kaart pakt dat directe moment het beste. De fysieke sticker scoort het laagst, simpelweg omdat niemand hem actief onder de aandacht brengt, hij hangt er maar wat.
 
-Hier zit de fout die de meeste salons maken. Ze kopen een mooi bordje, zetten het op de balie en denken dat de reviews nu vanzelf binnenstromen. Dat gebeurt niet. Een bordje vangt alleen de klant die er op dat moment toevallig even naar kijkt én zin heeft. De meeste klanten lopen er langs zonder het te zien.
+Op **kosten** draait het om. Een sticker of geprint kaartje is een paar euro, een NFC-kaart of standaard is duurder in aanschaf. Maar die kaart gebruik je jarenlang met duizenden klanten. Reken de aanschaf dus niet af op de dagprijs, maar op de kosten per review over een heel jaar. Dan is de NFC-kaart al snel het voordeligst.
 
-Het echte werk zit in de opvolging. De klant die vanmiddag tevreden de deur uitliep, is vanavond op de bank de perfecte kandidaat voor een review, maar dan moet je hem wel bereiken. Een automatisch berichtje via WhatsApp of SMS een paar uur na de afspraak, met een directe reviewlink, haalt er veruit de meeste reacties uit. Dat berichtje verstuurt zichzelf, elke dag, voor elke klant, zonder dat jij eraan denkt. Precies daar zit de winst van [automatische opvolging voor kappers](/automatisering): het bordje is de zichtbare herinnering in de salon, de opvolging is de vangnet-actie die de rest binnenhaalt.
+Kort samengevat: de NFC-kaart converteert het beste, de QR-code is een prima toegankelijke back-up, en de fysieke sticker is vooral een aanvulling, niet je hoofdmiddel. Wil je precies weten hoe zo'n NFC-kaart in de praktijk werkt in een salon? Lees dan [hoe een NFC-reviewkaart werkt voor kappers](/blog/nfc-kaart-reviews-kapper). Voor de complete kant-en-klare set is er het [review pakket voor kappers](/review-pakket) met NFC-kaart en fysiek materiaal in één.
 
-Zie het bordje en de opvolging dus als één systeem, niet als twee losse dingen. Het bordje pakt de klant die nú tevreden is; het automatische bericht pakt de klant die het bordje niet zag. Samen maken ze van [review management voor kappers](/reviews) iets dat draait zonder dat jij achter mensen aan hoeft te bellen. Wil je zien hoe je dat het slimst inricht, lees dan ook wanneer je het beste een [review kunt vragen na de afspraak](/blog/review-vragen-timing-kapper); de timing bepaalt meer dan het bordje.
+![NFC-reviewstandaard en smartphone met sterren-notificatie op de balie van een kapsalon](/images/blog/review-borden-kapsalon-nfc-qr-sticker-2.jpg)
 
-## Zo haal je er het maximale uit
+## Waar zet je het neer in de salon?
 
-Een paar praktische dingen die het verschil maken tussen een bordje dat staat te staan en een bordje dat echt reviews oplevert:
+Het beste hulpmiddel op de verkeerde plek levert alsnog niets op. In een kapsalon zijn er een paar logische plekken, en ze zijn niet allemaal even sterk.
 
-- **Plaats het op ooghoogte bij het afrekenpunt.** Niet ergens in een hoek, maar precies waar de klant staat te wachten op de pin. Dat is het moment van tevredenheid en verveling in één.
-- **Laat je medewerker er kort naar verwijzen.** Eén zin, "als je tevreden bent, tik je 'm hier even aan", levert een stuk meer reacties op. Het bordje alleen is passief; een mens die er even naar wijst maakt het actief.
-- **Houd de tekst op het bordje kort.** Eén regel plus je logo en het Google-icoon. Hoe minder de klant hoeft te lezen, hoe groter de kans dat hij het doet.
-- **Combineer het altijd met een automatisch opvolgbericht.** Dat is het punt uit de vorige paragraaf, maar het is zo belangrijk dat het hier nog een keer staat. Als je één ding automatiseert in je salon, maak het dit. De basis is dat je klantgegevens goed vastlegt; de [NFC-reviewkaart voor kappers](/blog/nfc-kaart-reviews-kapper) legt uit hoe dat aan de balie werkt.
+- **De balie bij het afrekenen.** Dit is de winnaar. De klant heeft net het resultaat gezien, is blij en staat toch al stil met zijn telefoon of pinpas in de hand. Zet je NFC-kaart hier.
+- **Bij het pinapparaat.** Vlak na het betalen is de aandacht er nog. Een kleine standaard naast de terminal werkt goed als aanvulling.
+- **Het spiegelstation.** Prima voor een subtiel bordje of sticker, maar tijdens het knippen is het niet het moment. Zie het als zaadje planten, niet als hoofdactie.
+- **De wachtbank.** Zwak. Wachtende klanten hebben nog geen ervaring om te beoordelen. Hooguit geschikt voor een sticker die je merk laat zien.
+
+De rode draad: koppel het hulpmiddel aan het moment van afrekenen. Daar zit de energie, en daar staat de klant sowieso even stil.
+
+## De eerlijke waarheid: het bordje is het halve werk
+
+Nu het stukje dat de meeste vergelijkingen overslaan. Een NFC-kaart of QR-code krijgt de klant tot aan je reviewpagina, en dat is waardevol. Maar het pakt alleen de klanten die op dat exacte moment zin en tijd hebben. De klant die haast heeft, die de kinderen moet ophalen of die net "ja leuk, thuis even" zegt, glipt er nog steeds tussenuit.
+
+Dat gat vul je niet met nog een sticker, maar met opvolging. Een korte, vriendelijke WhatsApp of sms een paar uur na de afspraak, met de directe reviewlink erin, haalt precies die vergeten groep alsnog binnen. De kaart op de balie en de automatische herinnering na de afspraak zijn geen concurrenten, ze versterken elkaar. Zo werkt [automatische opvolging na de afspraak](/automatisering): de klant krijgt op het juiste moment een zetje, zonder dat jij eraan hoeft te denken.
+
+Reken maar mee. Van tien tevreden klanten laten er met alleen een balie-kaart misschien twee een review achter. Voeg je de automatische opvolging toe, dan worden dat er al snel vier of vijf. Datzelfde aantal klanten, meer dan het dubbele aan reviews. Jij knipt, het systeem regelt de rest.
+
+## Zo begin je vandaag
+
+1. Maak eerst je Google Bedrijfsprofiel op orde, zodat de reviewlink klopt en klanten je meteen vinden.
+2. Kies je hoofdmiddel: een NFC-kaart op de balie is voor de meeste salons de beste keuze.
+3. Leg een QR-kaartje of sticker als back-up bij het pinapparaat, voor de klanten met een oudere telefoon.
+4. Zet de automatische review-herinnering aan, zodat je ook de klanten pakt die op de zaak nog nee zeiden.
+5. Reageer op elke review die binnenkomt, ook de neutrale. Dat telt mee voor Google en laat nieuwe klanten zien dat je betrokken bent.
+
+Wil je weten waar jouw salon nu staat en hoeveel reviews je laat liggen? Vraag een [gratis AI-scan voor kappers](/gratis-scan) aan. We laten zien wat er te winnen is, en met de Groei-of-Geld-Terug Garantie loop je geen risico. Meer klanten, minder gedoe.
 
 ## Veelgestelde vragen
 
-**Werkt een NFC-bordje op een iPhone?**
-Ja, op vrijwel alle iPhones vanaf de iPhone 7 met iOS 13 of hoger. Die scannen automatisch zodra de telefoon vlakbij het bordje komt. Alleen een handjevol oudere modellen heeft een aparte app nodig. Daarom staat op een goed bordje vaak ook een QR-code, zodat echt iedereen uit de voeten kan.
+**Werkt een NFC-kaart op elke telefoon?**
+Op vrijwel alle moderne smartphones wel, zowel iPhone als Android. Voor de enkele klant met een ouder toestel zonder NFC is een QR-code de perfecte back-up. Daarom werkt een combinatie van beide in de praktijk het beste.
 
-**Wat kost zo'n review-bordje?**
-Een geprinte sticker of kaartje kost een paar euro. Een NFC-bordje of standaard voor op de balie ligt meestal tussen de 25 en 40 euro, eenmalig. Er zijn geen maandkosten en je kunt het bordje onbeperkt en jarenlang gebruiken.
+**Hoeveel reviews kan ik er realistisch bij krijgen?**
+Dat hangt af van je klantaantal, maar salons die een balie-kaart combineren met automatische opvolging zien hun review-instroom vaak verdubbelen of meer. Het gaat niet om nieuwe klanten, maar om meer reviews uit je bestaande stroom.
 
-**Mag ik mijn klanten wel om een review vragen?**
-Ja, zolang je iedereen dezelfde vraag stelt en geen reviews koopt of alleen tevreden klanten selecteert. Een bordje op de balie of een neutraal opvolgbericht aan elke klant is volledig toegestaan en precies zoals Google het bedoelt.
+**Mag ik klanten een korting geven voor een review?**
+Nee. Google verbiedt het belonen van reviews en kan je profiel eronder afstraffen. Vraag om een eerlijke beoordeling, niet om een positieve. Het gemak van de NFC-kaart doet het werk, geen incentive nodig.
 
-**QR of NFC, wat is beter voor een kapsalon?**
-NFC vraagt de minste moeite en levert daardoor meestal net wat meer reviews op aan een drukke balie. QR werkt op elke telefoon en is goedkoper om te testen. Het mooiste is een bordje met allebei erop, dan kiest de klant zelf de snelste weg.
-
-## Begin klein, maar begin met een systeem
-
-Je hoeft niet te kiezen tussen duur en niks. Zet een NFC- of QR-bordje op je balie, koppel er een automatisch opvolgbericht aan en je hebt binnen een week een reviewmotor die draait terwijl jij knipt. Meer reviews betekent meer vertrouwen, een hogere plek in Google Maps en meer klanten die jou kiezen boven de salon om de hoek.
-
-Wil je weten hoeveel reviews jouw salon nu laat liggen en waar de winst zit? Vraag een [gratis ai scan voor kappers](/gratis-scan) aan; we kijken naar je Google-profiel, je reviews en je vindbaarheid en zeggen precies wat de eerste stap is. En omdat we in ons eigen systeem geloven, werken we met een **Groei-of-Geld-Terug Garantie**: levert het geen groei op, dan krijg je je geld terug.
-
-Jij knipt, wij regelen de rest.
+**Is een fysieke sticker dan zinloos?**
+Niet zinloos, maar wel het zwakste als hoofdmiddel. Als merkuiting op de deur of spiegel is een sticker prima. Voor het echt binnenhalen van reviews leunt je op de NFC-kaart en de opvolging.
