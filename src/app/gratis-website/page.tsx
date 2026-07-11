@@ -6,8 +6,8 @@ const niche = siteDetails.niche?.toLowerCase() || "bedrijven";
 const nicheSingular = niche.endsWith("s") ? niche.slice(0, -1) : niche;
 
 export const metadata: Metadata = {
-  title: `Gratis Website voor ${siteDetails.niche} — of laten maken vanaf €800 | ${siteDetails.siteName}`,
-  description: `Gratis website design voor ${niche} of een complete website laten maken vanaf €800 eenmalig. Live preview binnen 48 uur, SEO-geoptimaliseerd, mobielvriendelijk. Of het complete 25-in-1 AI platform vanaf €79/maand.`,
+  title: `Gratis Website voor ${siteDetails.niche} — of laten maken vanaf €800`,
+  description: `Gratis website design voor ${niche} of een complete website laten maken vanaf €800. Live preview binnen 48 uur, SEO-geoptimaliseerd en mobielvriendelijk.`,
   keywords: [
     `gratis website ${nicheSingular}`,
     `website laten maken ${nicheSingular}`,
