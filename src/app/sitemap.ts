@@ -22,7 +22,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         '/gratis-scan', '/review-pakket',
         '/tarieven', '/gratis-website',
         '/chatbot', '/voice-ai', '/seo', '/reviews', '/social-media', '/automatisering', '/crm', '/free-trial',
-        '/herinneringen', '/privacy', '/legal', '/algemene-voorwaarden',
+        '/privacy', '/legal', '/algemene-voorwaarden',
     ]
     const staticRoutes = staticPages.map((route) => ({
         url: `${baseUrl}${route}`,
