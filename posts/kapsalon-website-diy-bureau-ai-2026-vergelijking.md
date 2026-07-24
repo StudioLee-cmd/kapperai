@@ -134,4 +134,4 @@ Bij KapperAI helpen we MKB-kapsalons hun website-keuze maken en uitvoeren via de
 - Een Groei-of-Geld-Terug Garantie op het complete pakket
 - Of als de AI-route niet past, een transparant doorverwijzings-advies naar een passend traditioneel bureau
 
-[Plan een gratis AI-scan voor kappers](/gratis-scan) of bekijk onze tarieven. Vragen? [Plan een gesprek met Tim](https://calendly.com/tim-studiolee).
+[Plan een gratis AI-scan voor kappers](/gratis-scan) of bekijk onze tarieven. Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).

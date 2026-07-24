@@ -138,4 +138,4 @@ Bij KapperAI helpen we MKB-kapsalons hun Google Bedrijfsprofiel structureel opti
 - Een geautomatiseerde [reviews-flow voor kappers](/reviews) die je GBP-sterren-score actief vergroot
 - Een Groei-of-Geld-Terug Garantie op het complete pakket
 
-[Plan een gratis AI-scan voor kappers](/gratis-scan) of bekijk onze tarieven. Vragen? [Plan een gesprek met Tim](https://calendly.com/tim-studiolee).
+[Plan een gratis AI-scan voor kappers](/gratis-scan) of bekijk onze tarieven. Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).

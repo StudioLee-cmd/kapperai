@@ -144,4 +144,4 @@ Bij KapperAI helpen we MKB-kapsalons hun online boekingssysteem-keuze maken op b
 - Een dashboard dat je per kwartaal je commissie-besparing en groei-omzet laat zien
 - Een Groei-of-Geld-Terug Garantie op het complete pakket
 
-[Plan een gratis AI-scan voor kappers](/gratis-scan) of bekijk onze tarieven. Vragen? [Plan een gesprek met Tim](https://calendly.com/tim-studiolee).
+[Plan een gratis AI-scan voor kappers](/gratis-scan) of bekijk onze tarieven. Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).

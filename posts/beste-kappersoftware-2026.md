@@ -101,4 +101,4 @@ Er is geen "beste" kappersoftware die voor iedereen werkt. Het hangt af van wat 
 
 [KapperAI](/) combineert agenda, klantbeheer en AI-marketing in één systeem — de operationele basis én de groeikanalen in één.
 
-Benieuwd wat [KapperAI](/) voor jouw salon kan betekenen? [Plan een gratis gesprek](https://calendly.com/tim-studiolee) — we denken graag mee.
+Benieuwd wat [KapperAI](/) voor jouw salon kan betekenen? [Plan een gratis gesprek](https://cal.com/studiolee) — we denken graag mee.

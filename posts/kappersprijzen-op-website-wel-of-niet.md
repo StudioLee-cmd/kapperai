@@ -76,4 +76,4 @@ Ook als je net begint en je prijzen nog aan het testen bent, kan het slim zijn o
 
 Voor de meeste kappers is het antwoord duidelijk: ja, zet je prijzen op je website. Doe het met context, doe het met stijl, en combineer het met goede reviews en een makkelijk boekingsproces. Je trekt de juiste klanten aan, bespaart tijd op prijsvragen, en verbetert je vindbaarheid in Google.
 
-Wil je hulp bij het optimaliseren van je salonwebsite en online zichtbaarheid? Bekijk wat [KapperAI](/) voor je kan betekenen of [plan een gratis gesprek](https://calendly.com/tim-studiolee).
+Wil je hulp bij het optimaliseren van je salonwebsite en online zichtbaarheid? Bekijk wat [KapperAI](/) voor je kan betekenen of [plan een gratis gesprek](https://cal.com/studiolee).
