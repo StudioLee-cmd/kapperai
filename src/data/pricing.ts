@@ -1,5 +1,11 @@
 import { IPricing } from "@/types";
 
+// PROPOSITIE-CONTRACT ⛔1 (niche-sites-upgrade-programma.md §PROPOSITIE-CONTRACT): GEEN tool-namen,
+// niet extern en niet intern. Tot 24-07 stonden hier de productnamen uit de gereedschapskist
+// ("SaaS Toolbox", "Social Media Planner", "Video & Photo AI", "Voice AI (Basic)", "Ad Manager").
+// Iemand die een merknaam leest gaat 'm googelen en zelf proberen; dan verkoop je je eigen concurrent.
+// Vervangen door de UITKOMST. Bedragen en betaallinks zijn bewust ongewijzigd: prijzen zijn een
+// business-beslissing (RULE 5), en de site-vs-Stripe-afwijking staat als apart punt bij Tim.
 export const tiers: IPricing[] = [
     {
         name: 'Managed Groei Basis',
@@ -8,19 +14,17 @@ export const tiers: IPricing[] = [
         ctaType: 'trial',
         features: [
 
-            'SaaS Toolbox (Self-Service App)',
-            '1x SEO Blog per week (beheerd)',
-            '25 Credits Trial (14 dagen)',
-            'Maandelijkse 15 min strategie call',
-            'Daarna 50 Credits p/m',
-            'Video & Photo AI (Basic)',
-            'Voice AI (Basic)',
-            'LazyAds & Social AI',
-            'Social Media Planner',
-            'Ad Manager',
-            'On-site Chatbot',
+            'Je eigen dashboard: agenda, berichten en klanten op één plek',
+            'Elke week een nieuw artikel op je site, zodat je gevonden wordt',
+            'Eerste 14 dagen gratis uitproberen',
+            'Elke maand een kwartier overleg over wat er beter kan',
+            'Maandelijks tegoed voor gesprekken en beelden',
+            'Beelden voor je social media, automatisch klaargezet',
+            'Telefoon die opneemt als jij je handen niet vrij hebt',
+            'Posts en advertenties die vanzelf klaarstaan',
+            'Chatbot op je site die vragen opvangt buiten openingstijden',
         ],
-        focus: 'Focus: Ideale start voor ZZP & Starters.',
+        focus: 'Focus: de instap. Zodat je site gaat draaien in plaats van stilstaan.',
         savings: 'BTW Inclusief',
     },
     {
@@ -32,16 +36,16 @@ export const tiers: IPricing[] = [
         stripeMonthly: 'https://buy.stripe.com/14AcN68ahdreb475p4bjW09',
         stripeYearly: 'https://buy.stripe.com/9B65kEeyF72Q8VZ6t8bjW0b',
         features: [
-            'Alles uit Basic',
-            'Volledig up-to-date in 15 min per maand',
-            'Managed Studio (Agency Power)',
-            'UGC Product Video\'s (AI Modellen)',
-            '1x SEO Blog + 4x Social Post p/w',
-            'Managed Dashboard & Setup',
-            'Onbeperkt Credits (Managed)',
-            'Groei-Garantie',
+            'Alles uit de instap',
+            'Volledig bijgewerkt met een kwartier van jouw tijd per maand',
+            'Wij doen het werk, jij staat in de salon',
+            'Video van je werk, gemaakt zonder shoot',
+            'Wekelijks een artikel plus vier posts',
+            'Wij richten alles voor je in en houden het bij',
+            'Onbeperkt gebruik, door ons beheerd',
+            'Groei-garantie',
         ],
-        focus: 'Focus: MKB - Externe high-end software service.',
+        focus: 'Focus: de salon die wil groeien zonder er zelf tijd in te steken.',
         savings: 'Bespaar 20%',
     },
     {
@@ -54,16 +58,16 @@ export const tiers: IPricing[] = [
         stripeYearly: 'https://buy.stripe.com/8x2cN6bmtcna1tx8BgbjW0c',
         features: [
             'Alles uit Pro',
-            'Growth Partner (Ambitieuze Bedrijven)',
-            'Maandelijkse 1 uur diepe strategie sessie',
-            'High-End UGC Video\'s (Reels/TikTok)',
-            '2x SEO Blogs + 8x Social Posts p/w',
-            'Deep-Level SEO Editor',
-            'Ads Strategie (Meta/Google)',
-            'Client App (Afspraken maken)',
-            'Physical Review Solutions (NFC/QR)',
+            'Een vaste partner die met je meedenkt over groei',
+            'Elke maand een uur samen de cijfers en de planning door',
+            'Korte video\'s voor Reels en TikTok, op niveau',
+            'Twee artikelen plus acht posts per week',
+            'Diepere optimalisatie van je vindbaarheid',
+            'Advertenties op Google en social, door ons beheerd',
+            'Eigen app waarin klanten zelf hun afspraak maken',
+            'Kaartjes en stickers waarmee klanten je een review geven',
         ],
-        focus: 'Focus: Best Value - Maximale inzet & dominantie.',
+        focus: 'Focus: meerdere stoelen of meerdere vestigingen.',
         savings: 'Bespaar 20%',
     },
     {
@@ -75,11 +79,11 @@ export const tiers: IPricing[] = [
         guarantee: true,
         features: [
             'Volledig op maat samengesteld',
-            'Kies zelf je diensten en KPI\'s',
-            'Custom strategie op jouw doelen',
-            'Geen vast pakket — alles flexibel',
+            'Kies zelf wat je wél en niet wilt',
+            'Een plan op jouw doelen, niet op een pakket',
+            'Alles flexibel',
         ],
-        focus: 'Focus: 100% custom — jij bepaalt wat erin zit.',
+        focus: 'Focus: 100% op maat — jij bepaalt wat erin zit.',
         savings: 'Bespaar 20%',
     },
 ]

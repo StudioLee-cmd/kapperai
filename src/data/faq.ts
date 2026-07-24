@@ -1,52 +1,56 @@
 import { IFAQ } from "@/types";
 
+// Kappers-FAQ. Tot 24-07 stond hier de loodgieter-tekst van de bron-template ("terwijl je onder de
+// vloer zit", "kun je LoodgieterAI gebruiken", installateurs-software) — de template-kopieerlek uit
+// TEMPLATING-STRATEGIE §6. Herschreven naar het vak, en per het PROPOSITIE-CONTRACT zonder tool-namen:
+// we verkopen de uitkomst, niet de gereedschapskist.
 export const faqs: IFAQ[] = [
     {
-        question: "Hoe zit het met de veiligheid van mijn bedrijfsdata?",
-        answer: "Veiligheid is onze topprioriteit. Wij gebruiken hoogwaardige encryptie en voldoen aan strikte Europese AVG/GDPR richtlijnen. Jouw bedrijfsdata en klantgegevens blijven van jou en worden nooit gebruikt om publieke AI-modellen te trainen zonder jouw expliciete toestemming.",
+        question: "Hoe zit het met de veiligheid van mijn klantgegevens?",
+        answer: "Veiligheid is onze topprioriteit. Wij gebruiken hoogwaardige encryptie en voldoen aan strikte Europese AVG/GDPR-richtlijnen. Je klantenbestand blijft van jou en wordt nooit gebruikt om publieke AI-modellen te trainen zonder jouw expliciete toestemming.",
     },
     {
-        question: "Wat levert het mij concreet op (ROI)?",
-        answer: "Gemiddeld besparen onze klanten 10+ uur per week aan administratie en telefoontjes. Daarnaast mis je geen oproepen meer, wat direct leidt tot meer omzet. Eén geredde klus per maand dekt vaak de kosten al, nog los van de professionele uitstraling.",
+        question: "Wat levert het mij concreet op?",
+        answer: "Je mist geen telefoontjes meer terwijl je aan het knippen of kleuren bent, en lege stoelen door no-shows worden zeldzaam omdat herinneringen vanzelf gaan. Eén extra kleurafspraak per maand dekt de kosten vaak al, nog los van de tijd die je bespaart aan appjes en administratie.",
     },
     {
         question: "Heb ik technische kennis nodig om dit te beheren?",
-        answer: "Nee, absoluut niet. Ons dashboard is ontworpen voor gebruiksgemak: als je WhatsApp kunt gebruiken, kun je LoodgieterAI gebruiken. Voor complexere inrichting bieden we bovendien onze 'Managed Service' aan.",
+        answer: "Nee, absoluut niet. Het dashboard is gemaakt voor gebruiksgemak: als je WhatsApp kunt gebruiken, kun je hier ook mee overweg. Wil je er zelf helemaal niet naar omkijken, dan doen wij het beheer.",
     },
     {
-        question: "Kan ik de AI koppelen aan mijn eigen software?",
-        answer: "Ja, wij integreren naadloos met systemen zoals Google Calendar, Outlook, Syntess, Exact en vele anderen. Via ons open platform kunnen we vrijwel elke koppeling realiseren om jouw workflow te automatiseren.",
+        question: "Kan ik dit koppelen aan mijn agenda en boekingssysteem?",
+        answer: "Ja. We sluiten aan op de agenda en het boekingssysteem waar je al mee werkt, zodat afspraken die de AI maakt gewoon in jouw planning verschijnen. Werk je nog met een papieren afsprakenboek, dan zetten we de online agenda voor je op.",
     },
     {
         question: "Wat als de AI het antwoord niet weet?",
-        answer: "De AI is getraind om eerlijk te zijn. Als hij het antwoord niet weet of de vraag te complex is, schakelt hij het gesprek netjes door naar jou, of neemt hij een boodschap aan zodat je zelf kunt terugbellen. Je raakt dus nooit een lead kwijt.",
+        answer: "De AI is getraind om eerlijk te zijn. Weet hij iets niet, of is de vraag te specifiek — een kleurcorrectie bijvoorbeeld — dan verwijst hij netjes naar jou of noteert hij een terugbelverzoek. Je raakt dus nooit een klant kwijt.",
     },
     {
-        question: "Is dit geschikt voor ZZP'ers of alleen grote bedrijven?",
-        answer: "Ons systeem is schaalbaar. Voor ZZP'ers is het ideaal om bereikbaar te zijn terwijl je onder de vloer zit. Voor grotere bedrijven biedt het krachtige dispatch- en routingmogelijkheden om het kantoorpersoneel te ontlasten.",
+        question: "Is dit geschikt voor een eenmanszaak of alleen voor grote salons?",
+        answer: "Juist als je alleen staat is het waardevol: de telefoon gaat door terwijl jij iemand in de stoel hebt. Werk je met meerdere stylisten, dan helpt het bij het verdelen van afspraken over de agenda's en het opvullen van gaten.",
     },
     {
-        question: "Kan ik 's avonds en in het weekend andere instellingen gebruiken?",
-        answer: "Zeker. Je kunt specifieke 'flows' instellen voor buiten openingstijden. Bijvoorbeeld: 'Alleen doorverbinden bij spoed, anders een afspraak inplannen voor maandagochtend'. Zo heb je ook écht weekend.",
+        question: "Kan ik buiten openingstijden andere instellingen gebruiken?",
+        answer: "Zeker. Je stelt in wat er buiten openingstijden gebeurt. Bijvoorbeeld: alleen een afspraak inplannen voor de eerstvolgende dag dat je open bent, en spoed doorverbinden. Zo heb je ook écht vrij.",
     },
     {
-        question: "Is het testen echt gratis?",
-        answer: "Ja, de software-toegang is 14 dagen 100% gratis. Je betaalt alleen voor je daadwerkelijke verbruik (zoals belminuten, AI-generaties en SMS'jes), omdat wij deze kosten ook direct moeten afdragen. Je zit nergens aan vast.",
+        question: "Wat krijg ik precies gratis?",
+        answer: "Het website-ontwerp, en het bestand. Je kiest een van onze ontwerpen, ziet 'm meteen met je eigen salonnaam erin, en het ontwerpbestand mag je houden. Geen bedenktijd, geen voorwaarden. Wat níét gratis is, is het draaiend krijgen en houden: live zetten, gevonden worden, teksten die blijven komen en iemand die opneemt. Dat zit in het abonnement.",
     },
     {
         question: "Is de strategie-call echt gratis?",
-        answer: "Honderd procent. Geen addertjes. Wij denken graag met je mee hoe je dit systeem het beste kunt inzetten voor jouw bedrijf. Of je daarna klant wordt of niet, je krijgt van ons altijd eerlijk advies waar je direct mee aan de slag kunt.",
+        answer: "Honderd procent. Geen addertjes. We denken graag met je mee hoe je dit het beste inzet voor jouw salon. Of je daarna klant wordt of niet, je krijgt altijd eerlijk advies waar je direct mee verder kunt.",
     },
     {
-        question: "Waarom is de managed service niet geautomatiseerd?",
-        answer: "Omdat de huidige technologie nog niet betrouwbaar genoeg is om dit volledig te automatiseren. Hoewel het technisch mogelijk is, kan AI foutjes maken. Juist de menselijke touch van een expert zorgt voor een betere merkverbinding en een positief resultaat, in plaats van dat het spammerig overkomt.",
+        question: "Waarom is de managed service niet volledig geautomatiseerd?",
+        answer: "Omdat de techniek nog niet betrouwbaar genoeg is om dit helemaal zonder mens te doen. AI kan fouten maken, en juist bij een salon telt hoe iets klinkt. Een expert die meekijkt zorgt voor een merk dat klopt in plaats van iets dat spammerig overkomt.",
     },
     {
         question: "Hoe snel is het inzetbaar?",
-        answer: "De basisinrichting staat binnen 5 minuten. Wil je een uitgebreide kennisbank en complexe koppelingen? Dan ben je met onze hulp vaak binnen één werkdag volledig operationeel.",
+        answer: "De basis staat binnen enkele minuten. Wil je dat de AI je prijskaart, behandelingen en werkwijze écht kent, dan vul je één keer je salon-profiel in en ben je met onze hulp vaak binnen een werkdag volledig operationeel.",
     },
     {
         question: "Wat moet ik zelf nog doen?",
-        answer: "Dat bepaal je helemaal zelf. Je kunt kiezen tussen Self-Service, waarbij je alles zelf beheert via ons gebruiksvriendelijke dashboard, of onze Managed Service, waarbij wij alles voor je regelen. Bij de managed optie hoef je slechts ~15 minuten per maand te bellen met je vaste accountmanager voor updates en afstemming. De rest doen wij.",
+        answer: "Dat bepaal je zelf. Je kunt alles zelf beheren via het dashboard, of ons het laten doen. Bij de managed variant bel je ongeveer een kwartier per maand met je vaste contactpersoon voor updates en afstemming. De rest doen wij.",
     }
 ];

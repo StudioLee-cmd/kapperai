@@ -1,74 +1,77 @@
 import { ITestimonial } from "@/types";
 
-
+// Niche-placeholders (skill niche_template_pages §3 + highlevel_client_setup #32: de template levert
+// illustratieve quotes en die HOREN per niche herschreven te worden). Tot 24-07 stonden hier nog de
+// loodgieter-quotes van de bron-template: tien installateurs op de homepage van een kapperssite.
+// Vervangen door kappers-vocabulaire. Zodra er echte klant-quotes zijn vervangen die deze regels.
 export const testimonials: ITestimonial[] = [
     {
         name: 'Marieke Jansen',
-        role: 'Loodgietersbedrijf Jansen, Utrecht',
-        message: 'Mijn vrouw is blij dat ik eindelijk weer eens op tijd thuis ben voor het eten. De planning vult zichzelf, ik hoef alleen maar te rijden. Top spul.',
+        role: 'Salon Marieke, Utrecht',
+        message: 'Ik stond met mijn handen in de folie en de telefoon ging voor de derde keer. Nu wordt er opgenomen en staat de afspraak er al in als ik klaar ben. Scheelt me elke dag gedoe.',
         avatar: '/images/testimonials/testimonial-1.jpg',
         stars: 5
     },
     {
         name: 'Sarah de Vries',
-        role: 'De Vries Installatietechniek, Rotterdam',
-        message: 'Ik was sceptisch over "AI", dacht dat het robotachtig zou klinken. Maar klanten hebben géén idee. Ze zijn gewoon blij dat er opgenomen wordt.',
+        role: 'De Vries Hair & Beauty, Rotterdam',
+        message: 'Ik was sceptisch over "AI", ik dacht dat het robotachtig zou klinken. Maar klanten hebben géén idee. Ze zijn gewoon blij dat er opgenomen wordt.',
         avatar: '/images/testimonials/testimonial-2.png',
         stars: 5
     },
     {
         name: 'Peter Bakker',
-        role: 'Bakker Totaalonderhoud, Amsterdam',
-        message: 'Eerst nam ik de telefoon op tijdens het solderen. Niet handig. Nu doet de AI het, en hij klinkt nog vriendelijker dan ik als ik gestrest ben ook.',
+        role: 'Barbershop Bakker, Amsterdam',
+        message: 'Eerst nam ik op met de tondeuse in mijn hand. Niet handig, en niet netjes naar de klant in de stoel. Nu doet de assistent het, en die klinkt vriendelijker dan ik op een drukke zaterdag.',
         avatar: '/images/testimonials/testimonial-3.png',
         stars: 5
     },
     {
-        name: 'Johan "De Pijp" Visser',
-        role: 'Visser Loodgieters, Den Haag',
-        message: 'Minder lekkages in mijn agenda dan bij de klant! Serieus, geen gaten meer, geen dubbele afspraken. Het systeem betaalt zichzelf terug in een week.',
+        name: 'Joanne Visser',
+        role: 'Visser Kappers, Den Haag',
+        message: 'No-shows waren mijn grootste ergernis. Een lege stoel van drie kwartier haal je nooit meer in. Sinds de herinneringen automatisch gaan is dat bijna weg.',
         avatar: '/images/testimonials/testimonial-4.jpg',
         stars: 5
     },
     {
-        name: 'Karel van den Berg',
-        role: 'Karel Klust, Eindhoven',
-        message: 'Als ZZP’er is de telefoon je grootste vijand. Nu is het mijn beste vriend. Ik krijg gewoon een appje: "Nieuwe klus in agenda". Heerlijk.',
+        name: 'Karin van den Berg',
+        role: 'Studio Karin, Eindhoven',
+        message: 'Als je alleen staat is de telefoon je grootste vijand. Nu krijg ik gewoon een appje: nieuwe afspraak ingepland. Ik kan doorwerken.',
         avatar: '/images/testimonials/testimonial-5.png',
         stars: 5
     },
     {
         name: 'Thijs de Groot',
-        role: 'De Groot Sanitair, Arnhem',
-        message: 'De automatische facturatie is goud. Vroeger deed ik zondagavond de administratie, nu lig ik op de bank. Mijn boekhouder is er ook blij mee.',
+        role: 'De Groot Haarmode, Arnhem',
+        message: 'De automatische facturatie en de betaallinks zijn goud. Vroeger deed ik zondagavond de administratie, nu lig ik op de bank.',
         avatar: '/images/testimonials/testimonial-6.png',
         stars: 5
     },
     {
         name: 'Tom van Dijk',
-        role: 'Van Dijk & Zonen, Groningen',
-        message: 'Wij groeiden hard, maar de telefoniste was ziek. Paniek. Deze software opgezet en het liep gewoon door. Klanten worden netjes te woord gestaan.',
+        role: 'Van Dijk & Zonen Barbers, Groningen',
+        message: 'Wij groeiden hard, maar onze receptie viel uit. Paniek. Dit stond binnen een dag te draaien en klanten werden gewoon netjes te woord gestaan.',
         avatar: '/images/testimonials/testimonial-7.png',
         stars: 4
     },
     {
         name: 'Arjan Meijer',
-        role: 'Meijer Installaties, Zwolle',
-        message: 'Het stukje "Gemiste Oproep SMS" levert me direct geld op. Klant belt, ik neem niet op, zij krijgen appje, en boeken zelf een afspraak. Briljant.',
+        role: 'Meijer Kapsalon, Zwolle',
+        message: 'Dat stukje "gemiste oproep krijgt een appje" levert direct geld op. Klant belt tijdens het knippen, ik neem niet op, zij boeken zelf een tijd. Briljant.',
         avatar: '/images/testimonials/testimonial-8.jpg',
         stars: 5
     },
     {
         name: 'Daan de Jong',
-        role: 'Daan Doet Het, Tilburg',
-        message: 'Ik ben handig met buizen, niet met computers. Maar dit dashboard snap ik zelfs. Simpel, duidelijk en het doet wat het moet doen.',
+        role: 'Daan Knipt, Tilburg',
+        message: 'Ik ben handig met een schaar, niet met computers. Maar dit dashboard snap ik zelfs. Simpel, duidelijk, en het doet wat het moet doen.',
         avatar: '/images/testimonials/testimonial-9.jpg',
         stars: 5
     },
     {
-        name: 'Robert Veenstra',
-        role: 'Veenstra Loodgieters, Maastricht',
-        message: 'De investering waard? Dubbel en dwars. Eén spoedklus die je anders had gemist en je hebt het er al uit. Niet twijfelen, gewoon doen.',
+        name: 'Robin Veenstra',
+        role: 'Veenstra Hairstyling, Maastricht',
+        message: 'De investering waard? Dubbel en dwars. Eén kleurafspraak die je anders had gemist en je hebt het er al uit. Niet twijfelen, gewoon doen.',
         avatar: '/images/testimonials/testimonial-10.png',
         stars: 5
     },

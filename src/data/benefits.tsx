@@ -39,9 +39,9 @@ export const benefits: IBenefit[] = [
         imageSrc: "/images/benefits/voice-ai.png"
     },
 
-    // 2. Social Media Planner
+    // 2. Zichtbaar blijven zonder eraan te denken
     {
-        title: "Social Media Planner",
+        title: "Zichtbaar blijven zonder eraan te denken",
         tier: 'basis',
         description: "De krachtige Social Media Scheduler in app.AIReclameStudio.nl. Connecteert met FB, IG, LinkedIn, TikTok en X.",
         bullets: [
@@ -75,9 +75,9 @@ export const benefits: IBenefit[] = [
         imageSrc: "/images/benefits/social-media-planner.png"
     },
 
-    // 3. Reputatie Manager
+    // 3. Meer en betere reviews
     {
-        title: "Reputatie Manager",
+        title: "Meer en betere reviews",
         tier: 'basis',
         description: "Automatiseert je Reputatie Management.",
         bullets: [
@@ -111,9 +111,9 @@ export const benefits: IBenefit[] = [
         imageSrc: "/images/benefits/reputatie-manager.png"
     },
 
-    // 4. Factuur AI & Sales Deck AI
+    // 4. Sneller betaald krijgen
     {
-        title: "Factuur AI & Sales Deck AI",
+        title: "Sneller betaald krijgen",
         tier: 'basis',
         description: "Creëer professionele facturen en overtuigende sales presentaties binnen minuten. Volledig automatisch met AI-gegenereerde visuals.",
         bullets: [
@@ -293,9 +293,9 @@ export const benefits: IBenefit[] = [
         imageSrc: "/images/benefits/workflow-ai.png"
     },
 
-    // 9. SEO Tekstschrijver
+    // 9. Teksten die je vindbaar maken
     {
-        title: "SEO Tekstschrijver",
+        title: "Teksten die je vindbaar maken",
         tier: 'basis',
         description: "Genereert hoog scorende Google artikelen door slim gebruik van AI.",
         bullets: [
@@ -408,9 +408,9 @@ export const benefits: IBenefit[] = [
         imageSrc: "/images/benefits/offerte-ai.png"
     },
 
-    // 12. AI Email Assistent
+    // 12. Je mail bijgehouden
     {
-        title: "AI Email Assistent",
+        title: "Je mail bijgehouden",
         tier: 'basis',
         description: "Leest en labelt inkomende mails en zet concepten klaar via workflows.",
         bullets: [
@@ -480,9 +480,9 @@ export const benefits: IBenefit[] = [
         imageSrc: "/images/benefits/centrale-inbox.png"
     },
 
-    // 13. Advertentie Dashboard
+    // 13. Advertenties die blijven lopen
     {
-        title: "Advertentie Dashboard",
+        title: "Advertenties die blijven lopen",
         tier: 'basis',
         description: "Beheer en analyseer je Google & Facebook campagnes.",
         bullets: [
@@ -588,9 +588,9 @@ export const benefits: IBenefit[] = [
         imageSrc: "/images/benefits/klantebeheer.jpg"
     },
 
-    // 16. AI Fotostudio
+    // 16. Foto's van je werk, zonder shoot
     {
-        title: "AI Fotostudio",
+        title: "Foto's van je werk, zonder shoot",
         tier: 'basis',
         description: "Genereer hyper-realistische beelden met de allerbeste nieuwe AI modellen.",
         bullets: [
@@ -664,9 +664,9 @@ export const benefits: IBenefit[] = [
         videoSrc: "/videos/benefits/video-ai.mp4"
     },
 
-    // 18. SEO Editor (Pro)
+    // 18. Dieper sturen op vindbaarheid
     {
-        title: "SEO Editor (Pro)",
+        title: "Dieper sturen op vindbaarheid",
         tier: 'pro',
         description: "Geavanceerde editor voor het optimaliseren van bestaande teksten. (Binnenkort beschikbaar).",
         bullets: [
@@ -700,9 +700,9 @@ export const benefits: IBenefit[] = [
         imageSrc: "/images/benefits/seo-editor-ai.png"
     },
 
-    // 19. Elite Managed Service
+    // 19. Alles volledig uit handen
     {
-        title: "Elite Managed Service",
+        title: "Alles volledig uit handen",
         tier: 'elite',
         description: "Domineer jouw markt in het AI-tijdperk zonder technische zorgen. Wij automatiseren alles: van dagelijkse content tot complexe workflows.",
         buttonText: "Plan een Strategie Call",

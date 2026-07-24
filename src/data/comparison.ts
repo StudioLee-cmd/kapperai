@@ -58,4 +58,6 @@ export const comparisonData: IComparisonItem[] = [
 ];
 
 export const totalTraditionalCost = 3220;
-export const loodgieterAICost = 297;
+// Merk-neutrale naam: de export heette de merknaam van een andere niche-site (template-kopieerlek).
+// Alleen de NAAM is gecorrigeerd; het bedrag blijft ongewijzigd — prijzen zijn business (RULE 5).
+export const onzePrijsPerMaand = 297;
