@@ -8,10 +8,9 @@ image: "/images/blog/social-media-kappers-instagram.png"
 tags: ["Social Media", "Marketing", "Groei"]
 cluster: "social-media"
 ---
-
 ## Waarom social media onmisbaar is voor kappers
 
-Social media is allang niet meer alleen voor grote bedrijven met marketingafdelingen. In 2026 is het een basisvoorziening voor elke kapper die wil groeien. Of je nu net begint of al jarenlang actief bent — zonder online zichtbaarheid loop je klanten mis.
+Social media is allang niet meer alleen voor grote bedrijven met marketingafdelingen. In 2026 is het een basisvoorziening voor elke kapper die wil groeien. Of je nu net begint of al jarenlang actief bent — zonder [online zichtbaarheid](/social-media) loop je klanten mis.
 
 De cijfers liegen niet: meer dan 13 miljoen Nederlanders zijn dagelijks actief op social media. Je potentiële klanten scrollen door Instagram, Facebook en LinkedIn terwijl jij dit leest. De vraag is niet of je op social media moet zijn, maar hoe je het slim aanpakt.
 
@@ -35,7 +34,7 @@ Niet elk platform is geschikt voor elke branche. Instagram is veruit het belangr
 
 ## Visuele content is king voor kappers
 
-Als kapper werk je in een visueel vak. Dat is een enorm voordeel op social media. Platforms zoals Instagram en TikTok belonen visueel aantrekkelijke content met meer bereik. Denk aan: voor-en-na transformaties, styling tutorials als Reels, behind-the-scenes in de salon, seizoenstips voor haarverzorging.
+Als kapper werk je in een visueel vak. Dat is een enorm voordeel op [social media](/blog/kapsalon-reels-scroll-stoppen-3-seconden). Platforms zoals Instagram en TikTok belonen visueel aantrekkelijke content met meer bereik. Denk aan: voor-en-na transformaties, styling tutorials als Reels, behind-the-scenes in de salon, seizoenstips voor haarverzorging.
 
 Het belangrijkste? Consistentie. Post minimaal 3 keer per week en gebruik een herkenbare stijl. Kies vaste filters, kleuren en lettertypes zodat je feed er professioneel uitziet.
 
