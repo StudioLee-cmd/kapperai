@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Chatbot", "Boekingen", "Website"]
 cluster: "chatbot"
 ---
-
 Een klant scrolt op donderdagavond om 21:34 door Instagram, ziet de Reel van een mooi blond highlight-resultaat van jouw kapsalon, klikt door naar je website. Op je site is een chat-bubble rechtsonder. Ze typt: "Doen jullie ook balayage? Welke prijs ongeveer?" Het is donderdagavond, half tien. Jij zit op de bank met een kop thee en geen zin om vandaag nog werk te doen. De website-chat-melding op je telefoon ping, jij denkt: "morgen vroeg even reageren". Vrijdagochtend om 09:15 lees je het bericht. Geen antwoord meer van de klant. Want zij heeft gisteravond om 21:38 al een afspraak gemaakt bij de kapper die haar binnen 4 minuten antwoordde.
 
 Dat is het patroon. Niet de chat-bezoeker die nooit klant wordt. Wel de chat-bezoeker die in haar koopstemming op vrijdagavond geen antwoord kreeg en het maandagochtend al niet meer relevant vindt. Dit artikel gaat over welke 5 vraag-categorieen je website-chatbot veilig kan overnemen 24/7, welke vragen ALTIJD mens moeten blijven, en hoe je voorkomt dat de chatbot je salon-imago goedkoop maakt.
@@ -122,6 +121,8 @@ Bij een gemiddelde klantwaarde van €85 per bezoek en 4-6 bezoeken per jaar (�
 Een werkende kapsalon-chatbot inclusief de 5 vraag-categorieen, de tone-of-voice setup, de Salonized/Phorest/Treatwell-koppeling, en de continue verbetering door wekelijkse review-loop, zit inbegrepen in onze Managed Pro vanaf €179 per maand exclusief BTW. Plus de [Groei-of-Geld-Terug Garantie](/tarieven): als na 3 maanden je chat-conversie niet meetbaar omhoog is, krijg je je geld terug.
 
 Wat we niet doen: een chatbot lanceren op dag 1 en hopen dat hij goed werkt. Wel: week 1 is een gewenningsweek waarin de chatbot meekijkt en suggesties geeft die jij goedkeurt. Week 2 gaat hij primair, met jou als back-line. Week 3 evalueer je de antwoorden en pas de prijzen-tabel/FAQ-bibliotheek aan. Plan een [gratis ai scan voor kappers](/gratis-scan) als startpunt, dan kijken we naar je huidige chat-volume en wat de eerste 3 optimalisaties zouden zijn.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/live-chat-of-ai-chatbot-kapsalon" class="text-dark fw-semibold">Live chat of AI chatbot voor je kapsalon: wat past beter?</a> →</p></div></div></div>
 
 ## Terug naar je donderdagavond
 
