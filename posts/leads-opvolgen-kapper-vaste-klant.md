@@ -58,8 +58,10 @@ Binnen 15 minuten is ideaal. Na een uur is de kans op conversie gehalveerd. Auto
 
 Houd het persoonlijk en relevant. Geen generieke berichten, maar specifiek: verwijs naar hun interesse, gebruik hun naam, bied waarde (een tip, een link naar beschikbaarheid).
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/lead-opvolging-kapper-dm-vaste-klant" class="text-dark fw-semibold">Lead opvolgen als kapper: van DM tot vaste klant</a> →</p></div></div></div>
+
 ## Conclusie
 
-Leads opvolgen als kapper is het verschil tussen een volle en een halfvolle agenda. Automatiseer de eerste reactie, personaliseer de follow-up en bouw een retentiestrategie. De investering is minimaal, het resultaat direct.
+[Leads opvolgen als kapper](/blog/leads-opvolgen-als-kapper) is het verschil tussen een volle en een halfvolle agenda. Automatiseer de eerste reactie, personaliseer de follow-up en bouw een retentiestrategie. De investering is minimaal, het resultaat direct.
 
 Wil je ontdekken hoe KapperAI je lead opvolging automatiseert? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt het — jij knipt.
