@@ -7,7 +7,6 @@ image: "/images/blog/hoe-een-kapper-meer-klanten-krijgt-via-google.png"
 tags: ["Vindbaarheid", "Google", "Marketing", "Klanten"]
 cluster: "vindbaarheid"
 ---
-
 ## Waarom Google voor kappers niet optioneel is
 
 Elke dag zoeken mensen in jouw stad naar een kapper. Ze typen "kapper [stad]" of "kapsalon bij mij in de buurt" in Google — en ze kiezen negen van de tien keer een van de eerste drie resultaten die ze zien. Als jij daar niet tussen staat, gaat die klant naar je concurrent. Zo simpel is het.
@@ -18,7 +17,7 @@ Het goede nieuws: de meeste kappers hebben hun online vindbaarheid nog niet seri
 
 ## Stap 1: Claim en optimaliseer je Google Bedrijfsprofiel
 
-Je Google Bedrijfsprofiel (vroeger Google My Business) is het allerbelangrijkste wat je kunt doen voor lokale vindbaarheid. Dit is het blokje dat rechts verschijnt als iemand naar jouw kapsalon zoekt — met je adres, openingstijden, reviews en foto's.
+Je Google Bedrijfsprofiel (vroeger Google My Business) is het allerbelangrijkste wat je kunt doen voor lokale [vindbaarheid](/seo). Dit is het blokje dat rechts verschijnt als iemand naar jouw kapsalon zoekt — met je adres, openingstijden, reviews en foto's.
 
 **Wat je moet doen:**
 
