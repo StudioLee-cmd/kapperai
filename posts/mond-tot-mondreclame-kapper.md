@@ -8,7 +8,6 @@ image: "/images/blog/mond-tot-mondreclame-kapper.png"
 tags: ["mond-tot-mond", "kapper", "marketing"]
 cluster: "branding"
 ---
-
 "Ken je een goede kapper?" Het is misschien wel de meest gestelde vraag in vriendengroepen. En het antwoord bepaalt waar die nieuwe klant naartoe gaat. Mond-tot-mondreclame is voor kappers de krachtigste en goedkoopste manier om te groeien.
 
 In dit artikel leer je hoe je mond-tot-mond als kapper actief stimuleert — zonder opdringerig te zijn.
@@ -17,7 +16,7 @@ In dit artikel leer je hoe je mond-tot-mond als kapper actief stimuleert — zon
 
 Een kapbeurt is persoonlijk. Klanten delen hun kapper met dezelfde overtuiging als hun huisarts. Ze vertrouwen erop dat hun aanbeveling serieus wordt genomen. Dat maakt mond-tot-mond krachtiger dan welke advertentie ook.
 
-De cijfers bevestigen dit: de meeste nieuwe klanten in kapsalons komen via aanbevelingen — niet via Google of social media.
+De cijfers bevestigen dit: de meeste nieuwe klanten in kapsalons komen via aanbevelingen — niet via Google of [social media](/social-media).
 
 ## Wat klanten doet aanbevelen
 
