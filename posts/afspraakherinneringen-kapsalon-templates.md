@@ -104,6 +104,8 @@ Je hebt geen apart personeelslid nodig om dit te draaien. Wel een systeem dat:
 
 Wij bouwen dit systeem voor kapsalons in onze managed service. Gebaseerd op jouw boekingssysteem en jouw agenda, met jouw branche-specifieke templates. Binnen een paar weken draait het in de achtergrond en jij hoeft alleen nog de antwoorden te bekijken.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/beste-kappersoftware-2026" class="text-dark fw-semibold">Beste kappersoftware 2026: top tools vergeleken</a> →</p></div></div></div>
+
 ## Groei-of-Geld-Terug Garantie
 
 Als de no-shows na drie maanden niet meetbaar gedaald zijn, krijg je je investering terug. Wil je eerst zien wat het voor jouw salon kan betekenen, vraag een [gratis scan](/gratis-scan) aan of bekijk de [tarieven](/tarieven) voor het complete pakket. We zetten het systeem live, jij knipt.
