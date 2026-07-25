@@ -7,12 +7,11 @@ image: "/images/blog/salonized-alternatief-zonder-commissie.jpg"
 tags: ["Vergelijking", "Software", "Groei"]
 cluster: "automatisering"
 ---
-
 ## Wat doet Salonized goed?
 
 Salonized is populaire salon software in Nederland. Het biedt een online agenda, klantenbeheer, voorraadbeheer en een kassasysteem. Voor salons die primair een boekingssysteem zoeken, is het een degelijke keuze.
 
-Het is gebruiksvriendelijk, biedt een Nederlandse helpdesk, en de basisfuncties werken goed. Maar als je als kapper wilt groeien — meer klanten aantrekken, beter vindbaar worden, automatisch reviews verzamelen — dan loop je tegen de grenzen van Salonized aan.
+Het is gebruiksvriendelijk, biedt een Nederlandse helpdesk, en de basisfuncties werken goed. Maar als je als kapper wilt groeien — meer klanten aantrekken, beter vindbaar worden, automatisch [reviews verzamelen](/reviews) — dan loop je tegen de grenzen van Salonized aan.
 
 ## Waar Salonized tekortschiet
 
@@ -64,6 +63,8 @@ Het echte verschil zit niet in de features — het zit in wie het werk doet. Sal
 Dat betekent geen avonden besteden aan social media posts. Geen weekenden bezig met je website. Geen stress over Google-vindbaarheid. Wij doen het, jij knipt haar.
 
 En met de Groei-of-Geld-Terug Garantie is er geen risico.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/treatwell-alternatief-kapper" class="text-dark fw-semibold">Treatwell alternatief: waarom kappers overstappen</a> →</p></div></div></div>
 
 ## Overstappen zonder gedoe
 
