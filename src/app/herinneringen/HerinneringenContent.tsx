@@ -128,35 +128,24 @@ export default function HerinneringenContent() {
       <section className="py-12 md:py-20 px-4">
         <div className="max-w-4xl mx-auto text-center">
           <motion.p
-            initial={{ opacity: 0, y: 10 }}
-            animate={{ opacity: 1, y: 0 }}
-            className="text-primary font-semibold text-sm uppercase tracking-wider mb-4"
+            className="text-primary font-semibold text-sm uppercase tracking-wider mb-4 sl-reveal"
           >
             Automatische Herinneringen
           </motion.p>
           <motion.h1
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.1 }}
-            className="text-4xl md:text-5xl font-bold mb-6"
+            className="text-4xl md:text-5xl font-bold mb-6 sl-reveal sl-reveal-1"
           >
             Automatische herinneringen voor {siteDetails.niche}: minder no-shows, meer omzet
           </motion.h1>
           <motion.p
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.2 }}
-            className="text-lg text-foreground-accent max-w-2xl mx-auto mb-8"
+            className="text-lg text-foreground-accent max-w-2xl mx-auto mb-8 sl-reveal sl-reveal-1"
           >
             WhatsApp en SMS herinneringen die je no-show-percentage met 60-80%
             verlagen. Klanten bevestigen of verzetten in één tik — geen
             telefoonrondjes, geen vergeten afspraken.
           </motion.p>
           <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.3 }}
-            className="flex flex-col sm:flex-row gap-4 justify-center"
+            className="flex flex-col sm:flex-row gap-4 justify-center sl-reveal sl-reveal-2"
           >
             <a
               href="https://cal.com/studiolee"
