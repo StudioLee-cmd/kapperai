@@ -7,7 +7,6 @@ image: "/images/blog/no-shows-kapsalon-voorkomen.jpg"
 tags: ["No-shows", "Klantenmanagement", "Groei"]
 cluster: "automatisering"
 ---
-
 ## Wat kost een no-show je kapsalon?
 
 Een gemiste afspraak lijkt misschien een klein ongemak, maar de kosten lopen snel op. Reken maar mee: een gemiddelde behandeling brengt €45 tot €85 op. Bij drie no-shows per week verlies je als kapper al snel €7.000 tot €13.000 per jaar aan omzet. Geld dat je niet terugkrijgt, terwijl je kosten gewoon doorlopen.
@@ -18,7 +17,7 @@ De verborgen kosten zijn nog hoger dan de directe omzetschade. Producten die je 
 
 ## Automatische herinneringen via WhatsApp
 
-De meest effectieve manier om no-shows te verminderen is simpel: herinner je klanten aan hun afspraak. Onderzoek laat zien dat automatische herinneringen het aantal no-shows met 40 tot 60 procent kan verlagen.
+De meest effectieve manier om no-shows te verminderen is simpel: herinner je klanten aan hun afspraak. Onderzoek laat zien dat [automatische herinneringen](/automatisering) het aantal no-shows met 40 tot 60 procent kan verlagen.
 
 ![Professioneel kappersstation met gereedschap](/images/blog/no-shows-kapsalon-voorkomen-2.jpg)
 
