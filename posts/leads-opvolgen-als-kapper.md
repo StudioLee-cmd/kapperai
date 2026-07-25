@@ -66,6 +66,8 @@ Kappers die een leadopvolgsysteem gebruiken zien gemiddeld:
 - Hogere klanttevredenheid door snellere reacties
 - Meer mond-tot-mondreclame omdat klanten de service waarderen
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/leadgeneratie-kapper-nieuwe-klanten" class="text-dark fw-semibold">Leadgeneratie als kapper: zo trek je nieuwe klanten buiten Google om</a> →</p></div></div></div>
+
 ## Conclusie
 
 Leads opvolgen is geen luxe — het is het verschil tussen een volle en een halflege agenda. Je hoeft het niet zelf te doen. Met de juiste automatisering reageert je salon binnen seconden, ook als jij in de stoel zit.
