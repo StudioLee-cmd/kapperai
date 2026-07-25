@@ -8,16 +8,17 @@ image: "/images/blog/meer-reviews-met-ai.png"
 tags: ["Marketing", "Reviews", "Groei"]
 cluster: "reviews"
 ---
-
 Als je zelf een nieuw restaurant of schoonheidsspecialist zoekt, wat doe je dan? Precies: je kijkt op Google en checkt de sterren. Heeft een salon 3,4 sterren? Dan scroll je door. Heeft hij 4,9 sterren met 200 reviews? Dan maak je een afspraak.
 
-Voor jouw kapsalon werkt het precies hetzelfde. Google Reviews zijn de levensader. Heb je minder dan 20 reviews? Dan besta je in de ogen van de moderne klant eigenlijk niet.
+Voor jouw kapsalon werkt het precies hetzelfde. [Google Reviews](/reviews) zijn de levensader. Heb je minder dan 20 reviews? Dan besta je in de ogen van de moderne klant eigenlijk niet.
 
 ## Het Probleem: Vragen is Ongemakkelijk
 
 Je hebt prachtige highlights gezet, de klant straalt. Dit is hét moment voor een review. Maar ja, je staat bij de kassa, het is druk, en om dan nog te zeggen: "Joh, geef je even 5 sterren?" voelt als bedelen.
 
 Of je stuurt 's avonds een mailtje, maar de klant vergeet het. Het resultaat? Je levert topkwaliteit, maar online ziet niemand dat.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/reviews-automatisch-verzamelen-kapper" class="text-dark fw-semibold">Reviews automatisch verzamelen als kapper</a> →</p></div></div></div>
 
 ## De Oplossing: Volledige Automatisering
 
