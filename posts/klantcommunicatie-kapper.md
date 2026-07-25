@@ -7,7 +7,6 @@ image: "/images/blog/klantcommunicatie-kapper.png"
 tags: ["klantcommunicatie", "kapper", "klanttevredenheid"]
 cluster: "automatisering"
 ---
-
 Elke klant die in je stoel plaatsneemt, heeft al meerdere contactmomenten met je salon gehad. De manier waarop je communiceert — van de eerste boeking tot de follow-up na het bezoek — bepaalt of die klant terugkomt of niet. Toch laten veel kappers deze kans liggen.
 
 In dit artikel lees je hoe je als kapper je klantcommunicatie naar een hoger niveau tilt, zonder dat het je uren extra werk kost.
@@ -89,4 +88,4 @@ De **Groei-of-Geld-Terug Garantie** maakt het risicovloos: geen groei, geen kost
 
 ## Conclusie
 
-Klantcommunicatie is geen luxe maar een noodzaak voor moderne kapsalons. De kappers die investeren in gestructureerde, warme communicatie zien het terug in hogere retentie, minder no-shows en meer mond-tot-mondreclame. Begin vandaag met de 5 contactmomenten en merk het verschil.
+[Klantcommunicatie](/automatisering) is geen luxe maar een noodzaak voor moderne kapsalons. De kappers die investeren in gestructureerde, warme communicatie zien het terug in hogere retentie, minder no-shows en meer mond-tot-mondreclame. Begin vandaag met de 5 contactmomenten en merk het verschil.
