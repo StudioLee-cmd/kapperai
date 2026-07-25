@@ -7,7 +7,6 @@ image: "/images/blog/treatwell-alternatief-kapper.jpg"
 tags: ["Vergelijking", "Software", "Groei"]
 cluster: "automatisering"
 ---
-
 ## Het probleem met Treatwell
 
 Treatwell is het grootste boekingsplatform voor salons in Nederland. Het klinkt aantrekkelijk: klanten boeken via de app, jij krijgt de afspraken. Maar er zit een keerzijde aan die steeds meer kappers stoort.
@@ -18,7 +17,7 @@ Het is alsof je een winkel huurt in een winkelcentrum waar de eigenaar 35 procen
 
 ## Wat kappers echt nodig hebben
 
-Wat je als kapper wilt is simpel: klanten die rechtstreeks bij jou boeken, zonder tussenpartij. Een eigen online agenda waar klanten 24/7 kunnen boeken. Automatische herinneringen zodat je minder no-shows hebt. Reviews die op jouw Google-profiel staan. En een systeem dat je helpt groeien zonder dat je er constant mee bezig bent.
+Wat je als kapper wilt is simpel: klanten die rechtstreeks bij jou boeken, zonder tussenpartij. Een eigen online agenda waar klanten 24/7 kunnen boeken. [Automatische herinneringen](/automatisering) zodat je minder no-shows hebt. Reviews die op jouw Google-profiel staan. En een systeem dat je helpt groeien zonder dat je er constant mee bezig bent.
 
 ![Receptie van een moderne kapsalon](/images/blog/treatwell-alternatief-kapper-2.jpg)
 
@@ -54,6 +53,8 @@ Dit is het grootste verschil. Treatwell is een tool die je zelf moet beheren. Ka
 Wat jij doet: 15 minuten per maand bellen om te checken of alles past bij je doelen. Dat is het. De rest doen wij. Dat is geen software kopen — dat is een compleet marketingbureau vervangen voor een fractie van de prijs.
 
 En met onze Groei-of-Geld-Terug Garantie loop je geen risico. Geen groei? Geld terug.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/hoe-ai-kappers-helpt" class="text-dark fw-semibold">Hoe AI Kappers Helpt Bij Het Besparen Van Tijd (En Waarom Je Concurrentie Al Om Is)</a> →</p></div></div></div>
 
 ## Overstappen in 3 stappen
 
