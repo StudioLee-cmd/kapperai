@@ -60,6 +60,8 @@ Dat kan, maar het kost tijd die je beter kunt besteden aan knippen. Een website 
 
 Een goed geoptimaliseerde website begint na 2-3 maanden zichtbaar te worden in Google. Na 6 maanden consistente SEO zie je structureel meer boekingen binnenkomen via je website.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/kapsalon-aan-huis-beginnen-checklist" class="text-dark fw-semibold">Kapsalon aan huis beginnen: checklist, kosten en systemen</a> →</p></div></div></div>
+
 ## Begin met een sterke basis
 
 Je concurrent heeft al een website. Jouw klanten zoeken je op Google. Hoe langer je wacht, hoe meer boekingen je mist. Het goede nieuws: je hoeft het niet alleen te doen. Vraag een [gratis scan](/gratis-scan) aan en ontdek binnen 24 uur waar jouw online kansen liggen.
