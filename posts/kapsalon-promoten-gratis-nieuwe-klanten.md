@@ -100,6 +100,8 @@ Met automatisering regel je de repetitieve taken zonder er zelf naar om te kijke
 
 Dit hoef je niet zelf te bouwen of te programmeren. Een systeem dat dit voor je regelt bespaart makkelijk 5 tot 10 uur per week. Dat zijn uren die je kunt besteden aan knippen, kleuren en klanten blij maken.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/klanttevredenheid-meten-kapper" class="text-dark fw-semibold">Klanttevredenheid meten en verbeteren als kapper</a> →</p></div></div></div>
+
 ## Zet vandaag de eerste stap
 
 Je hoeft niet alles tegelijk op te pakken. Begin met stap 1 en 2: je Google Bedrijfsprofiel compleet maken en reviews verzamelen. Die twee hebben de snelste impact op je vindbaarheid en kosten je hooguit een halfuur.
