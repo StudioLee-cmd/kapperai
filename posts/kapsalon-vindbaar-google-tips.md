@@ -119,6 +119,8 @@ Deel regelmatig:
 
 Link vanuit je social media profielen naar je website. Hoe meer verkeer Google ziet richting je site, hoe relevanter je wordt in de zoekresultaten. Meer weten over een effectieve social media aanpak? Lees ons artikel over [social media strategieen voor kappers](/blog/social-media-kappers-instagram).
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/kapper-vindbaar-chatgpt-ai-search" class="text-dark fw-semibold">Vindbaar in ChatGPT als kapper: AI-search gids</a> →</p></div></div></div>
+
 ## Hoe snel zie je resultaten?
 
 SEO is geen knop die je omzet. Reken op 2 tot 4 maanden voordat je merkbare verbetering ziet in je Google positie. Maar de resultaten zijn duurzaam: een goed geoptimaliseerd profiel en website blijven klanten opleveren, ook wanneer je er even geen aandacht aan besteedt.
