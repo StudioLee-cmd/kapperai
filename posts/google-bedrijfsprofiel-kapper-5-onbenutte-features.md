@@ -8,7 +8,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["Google Bedrijfsprofiel", "Lokale SEO", "Vindbaarheid", "Gratis Marketing", "Kapper"]
 cluster: "vindbaarheid"
 ---
-
 **In het kort:**
 - 70% van de Nederlandse kapsalons gebruikt minder dan 30% van de gratis features in hun Google Bedrijfsprofiel (GBP). De vijf meest onbenutte: Posts, Q&A, Booking-link, Insights-data en Services-uitsplitsing. Elke feature alleen al levert gemiddeld 15-30% meer profiel-bezoeken op.
 - GBP is voor een lokale kapsalon het hoogst-conversie marketing-kanaal. 65-80% van nieuwe klanten vindt de kapsalon via Google Maps of de lokale 3-pack, niet via een directe website-zoekopdracht. Wie zijn GBP optimaal heeft staan, krijgt 3-5 keer meer profiel-impressies dan een matig-ingericht profiel.
@@ -63,7 +62,7 @@ Tijdsinvestering: 15 minuten initiële invulling van 5-8 zelf-vragen, dan 2-3 mi
 
 ## Feature 3: Booking-link integratie
 
-Google biedt sinds 2023 een directe booking-link in het GBP voor branches die online boeken hebben. Voor kappers zijn de officiële integraties: Salonized, Treatwell, Booksy, en sinds 2025 de meeste alles-in-één-platform-tools.
+Google biedt sinds 2023 een directe booking-link in het GBP voor branches die online boeken hebben. [Voor kappers](/blog/lokale-landingspagina-kapper-per-stad) zijn de officiële integraties: Salonized, Treatwell, Booksy, en sinds 2025 de meeste alles-in-één-platform-tools.
 
 De link verschijnt prominent als blauwe "Boek direct" knop op je profiel. Conversion: 18-32% van profiel-bezoekers klikt door, waarvan 35-55% een afspraak maakt. Op een gemiddeld profiel met 200-400 bezoekers per maand is dat 12-25 directe boekingen via Google.
 
