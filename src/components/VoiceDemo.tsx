@@ -1,5 +1,5 @@
 "use client";
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 
 declare global {
     interface Window {
@@ -10,57 +10,54 @@ declare global {
 const VoiceDemo: React.FC = () => {
     const [isCalling, setIsCalling] = useState(false);
     const [status, setStatus] = useState("Status: Stand-by");
-    const [isSDKReady, setIsSDKReady] = useState(false);
 
     const publicKey = "5cf7462d-30fe-4d70-9ea1-89ce0bd65ec5";
     const assistantId = "b1738305-8aba-4337-8dab-1ed9c93e8747";
 
-    useEffect(() => {
-        // 1. Check if already loaded
-        if (typeof window !== 'undefined' && window.vapiSDK) {
-            setIsSDKReady(true);
-            return;
-        }
+    // ⚡ De Vapi-SDK wordt pas bij de EERSTE KLIK van de CDN gehaald (25-07,
+    //    niche-homepage-395kb-js-blokkeert-lcp). Dit stond in een MOUNT-effect: élke bezoeker haalde
+    //    een third-party script van jsdelivr op — mét een poll-interval dat daarna elke 500 ms bleef
+    //    draaien — voor een knop die vrijwel niemand aanraakt. Nu: één promise die 'm ophaalt op het
+    //    moment dat 'ie nodig is, en die zichzelf onthoudt zodat een tweede klik niets opnieuw doet.
+    const sdkRef = useRef<Promise<any> | null>(null);
 
-        // 2. Manual Script Injection
-        const script = document.createElement('script');
-        script.src = "https://cdn.jsdelivr.net/gh/VapiAI/html-script-tag@latest/dist/assets/index.js";
-        script.defer = true;
-        script.async = true;
-
-        script.onload = () => {
-            console.log("Vapi script loaded manually");
-            setTimeout(() => {
-                if (window.vapiSDK) setIsSDKReady(true);
-            }, 500);
-        };
-
-        script.onerror = () => {
-            console.error("Failed to load Vapi script");
-            setStatus("Status: Script Error - check connection");
-        };
-
-        document.body.appendChild(script);
-
-        // 3. Poll fallback
-        const intervalId = setInterval(() => {
+    const laadSDK = () => {
+        if (sdkRef.current) return sdkRef.current;
+        sdkRef.current = new Promise<any>((resolve, reject) => {
             if (typeof window !== 'undefined' && window.vapiSDK) {
-                setIsSDKReady(true);
-                clearInterval(intervalId);
+                resolve(window.vapiSDK);
+                return;
             }
-        }, 500);
+            const script = document.createElement('script');
+            script.src = "https://cdn.jsdelivr.net/gh/VapiAI/html-script-tag@latest/dist/assets/index.js";
+            script.defer = true;
+            script.async = true;
+            script.onload = () => {
+                // het script zet `window.vapiSDK` nét ná onload — vandaar dezelfde poll als eerst,
+                // nu mét een harde bovengrens zodat 'ie niet eeuwig door kan tikken.
+                const start = Date.now();
+                const intervalId = setInterval(() => {
+                    if (typeof window !== 'undefined' && window.vapiSDK) {
+                        clearInterval(intervalId);
+                        resolve(window.vapiSDK);
+                    } else if (Date.now() - start > 10000) {
+                        clearInterval(intervalId);
+                        sdkRef.current = null;
+                        reject(new Error('vapiSDK kwam niet beschikbaar'));
+                    }
+                }, 250);
+            };
+            script.onerror = () => {
+                console.error("Failed to load Vapi script");
+                sdkRef.current = null;      // een volgende klik mag het opnieuw proberen
+                reject(new Error('Vapi-script laadde niet'));
+            };
+            document.body.appendChild(script);
+        });
+        return sdkRef.current;
+    };
 
-        return () => {
-            clearInterval(intervalId);
-        };
-    }, []);
-
-    const handleClick = () => {
-        if (!isSDKReady || !window.vapiSDK) {
-            alert("Vapi SDK niet geladen. Probeer de pagina te verversen.");
-            return;
-        }
-
+    const handleClick = async () => {
         if (!isCalling) {
             // Cookie consent required before VAPI
             const consent = localStorage.getItem('cookie_consent');
@@ -68,8 +65,17 @@ const VoiceDemo: React.FC = () => {
                 setStatus('Status: Accepteer eerst cookies');
                 return;
             }
+            setStatus("Status: Verbinden...");
+            let sdk: any;
             try {
-                const vapi = window.vapiSDK.run({
+                sdk = await laadSDK();
+            } catch {
+                setStatus("Status: Script Error - check connection");
+                return;
+            }
+
+            try {
+                const vapi = sdk.run({
                     apiKey: publicKey,
                     assistant: assistantId,
                     config: { position: "bottom-right" }
@@ -137,14 +143,13 @@ const VoiceDemo: React.FC = () => {
             `}</style>
             <button
                 onClick={handleClick}
-                disabled={!isSDKReady}
                 className={`
                     btn-shine flex items-center justify-center px-8 h-14 rounded-full text-lg font-semibold transition-all duration-300 shadow-lg hover:shadow-xl hover:scale-105 active:scale-95
-                    ${!isSDKReady ? 'bg-gray-400 cursor-not-allowed opacity-70' : isCalling ? 'bg-red-500 hover:bg-red-600 text-white' : 'bg-[#007bff] hover:bg-blue-600 text-white'}
+                    ${isCalling ? 'bg-red-500 hover:bg-red-600 text-white' : 'bg-[#007bff] hover:bg-blue-600 text-white'}
                 `}
                 style={{ minWidth: '205px' }}
             >
-                {!isSDKReady ? "Laden..." : isCalling ? "Ophangen" : "Test Live Demo"}
+                {isCalling ? "Ophangen" : "Test Live Demo"}
             </button>
             <p className="text-sm text-foreground/60 font-medium">
                 {status}

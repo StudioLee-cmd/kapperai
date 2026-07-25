@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { GoogleAnalytics } from '@next/third-parties/google';
-import { Source_Sans_3, Manrope, Caveat, Outfit } from "next/font/google";
+import { Source_Sans_3, Caveat, Outfit } from "next/font/google";
 
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
@@ -11,9 +11,8 @@ import "./globals.css";
 import Script from 'next/script';
 import CookieBanner from "@/components/CookieBanner";
 
-const manrope = Manrope({ subsets: ['latin'] });
 const sourceSans = Source_Sans_3({ subsets: ['latin'] });
-const caveat = Caveat({ subsets: ['latin'], variable: '--font-caveat' });
+const caveat = Caveat({ subsets: ['latin'], weight: ['700'], variable: '--font-caveat' });
 const outfit = Outfit({ subsets: ['latin'], variable: '--font-outfit' });
 
 export const metadata: Metadata = {
@@ -54,7 +53,7 @@ export default function RootLayout({
   return (
     <html lang="nl-NL" suppressHydrationWarning>
       <body
-        className={`${manrope.className} ${sourceSans.className} ${outfit.variable} ${caveat.variable} antialiased`}
+        className={`${sourceSans.className} ${outfit.variable} ${caveat.variable} antialiased`}
       >
         <ThemeProvider>
           {siteDetails.googleAnalyticsId && <GoogleAnalytics gaId={siteDetails.googleAnalyticsId} />}
