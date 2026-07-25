@@ -8,7 +8,6 @@ image: "/images/blog/specialiseren-kapper-niche-expertise.png"
 tags: ["specialisatie", "kapper", "groei"]
 cluster: "branding"
 ---
-
 Er zijn honderden kapsalons in elke regio. De meeste bieden hetzelfde: knippen, kleuren, stylen. Dat werkt, maar het maakt je inwisselbaar. Specialisatie is de snelste manier om op te vallen, betere klanten aan te trekken en hogere tarieven te vragen.
 
 In dit artikel leer je hoe je als kapper een specialisatie kiest die bij je past en hoe je die inzet voor groei.
@@ -49,7 +48,7 @@ Hoeveel andere kappers in je regio bieden dezelfde specialisatie? Hoe groot is d
 
 ### Begin klein
 
-Je hoeft niet van de ene dag op de andere je hele aanbod te wijzigen. Begin met het uitlichten van je specialisatie op je website, social media en in gesprekken met klanten.
+Je hoeft niet van de ene dag op de andere je hele aanbod te wijzigen. Begin met het uitlichten van je specialisatie op je website, [social media](/social-media) en in gesprekken met klanten.
 
 ## Je specialisatie communiceren
 
