@@ -61,6 +61,8 @@ Dat is geen theorie. Dat is omzet die nu verloren gaat en met relatief eenvoudig
 
 Benieuwd hoe je [chatbot](/chatbot) en automatische herinneringen jouw salon kunnen ondersteunen? Begin met een overzicht van je huidige situatie.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/no-show-kosten-kapsalon" class="text-dark fw-semibold">Wat kost een no-show je kapsalon? De échte cijfers</a> →</p></div></div></div>
+
 ## Begin met het terugwinnen van verloren omzet
 
 No-shows zijn geen onvermijdelijk onderdeel van een kapsalon runnen. Met de juiste combinatie van herinneringen, beleid en automatisering draai je het verlies grotendeels terug. De eerste stap is weten hoeveel het je nu kost. De tweede stap is daar iets aan doen. Vraag een [gratis scan](/gratis-scan) aan en ontvang een concrete berekening voor jouw salon.
