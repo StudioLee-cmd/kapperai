@@ -7,7 +7,6 @@ image: "/images/blog/no-shows-voorkomen-kapsalon.png"
 tags: ["Kapsalon", "No-shows", "Klantbehoud"]
 cluster: "automatisering"
 ---
-
 ## Wat no-shows je kapsalon écht kosten
 
 Een gemiste afspraak lijkt misschien een klein ongemak. Maar reken eens mee: als je gemiddeld 3 no-shows per week hebt bij een behandeling van €45, loop je jaarlijks meer dan €7.000 aan omzet mis. En dat is nog zonder de tijd die je had kunnen vullen met een andere klant.
@@ -27,7 +26,7 @@ Het goede nieuws? Al deze redenen zijn op te lossen — vaak met heel simpele aa
 
 ## 1. Stuur automatische herinneringen (24 uur + 2 uur van tevoren)
 
-Dit is de meest effectieve maatregel. Salons die automatische herinneringen versturen via SMS of WhatsApp zien hun no-show percentage met 40-60% dalen.
+Dit is de meest effectieve maatregel. Salons die [automatische herinneringen](/automatisering) versturen via SMS of WhatsApp zien hun no-show percentage met 40-60% dalen.
 
 De ideale combinatie:
 - **24 uur van tevoren**: een vriendelijke herinnering met datum, tijd en behandeling
@@ -98,11 +97,13 @@ Salons die deze strategieën combineren, zien hun no-show percentage dalen van g
 
 Dat is het verschil tussen frustratie en een volle salon.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/no-shows-kapsalon-voorkomen" class="text-dark fw-semibold">No-shows in je kapsalon voorkomen: 6 bewezen strategieën</a> →</p></div></div></div>
+
 ## Conclusie
 
 No-shows zijn geen onvermijdelijk probleem — het is een oplosbaar probleem. Met de juiste combinatie van automatische herinneringen, slim boekingsbeheer en klantbinding houd je je stoelen bezet en je omzet op peil.
 
-Met [KapperAI](/) automatiseer je herinneringen, wachtlijsten en boekingen in één systeem. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [KapperAI](/) automatiseer je herinneringen, wachtlijsten en boekingen in één systeem. Onze [managed service](/blog/managed-ai-vs-agency) kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoeveel omzet jij verliest aan no-shows.
 
