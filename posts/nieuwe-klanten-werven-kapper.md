@@ -106,6 +106,8 @@ Al deze strategieën helpen je om nieuwe klanten binnen te halen. Maar het echte
 
 Zorg daarom dat je niet alleen focust op nieuwe klanten binnenhalen, maar ook op het terugbrengen van bestaande klanten voor dat cruciale derde bezoek. Automatische follow-ups, persoonlijke aandacht en een consistente ervaring maken het verschil.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/kapsalon-promoten-gratis-nieuwe-klanten" class="text-dark fw-semibold">Kapsalon promoten: 7 gratis manieren voor meer klanten</a> →</p></div></div></div>
+
 ## Waar begin je?
 
 Je hoeft niet alles tegelijk te doen. Start met de strategie die bij jouw situatie past:
