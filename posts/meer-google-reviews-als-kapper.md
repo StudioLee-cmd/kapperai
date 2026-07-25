@@ -7,12 +7,11 @@ image: "/images/blog/meer-google-reviews-als-kapper.png"
 tags: ["Reviews", "Google", "Automatisering"]
 cluster: "reviews"
 ---
-
 ## Waarom Google reviews cruciaal zijn voor kappers
 
 Stel: iemand zoekt een kapper in de buurt. Google toont drie opties. Eentje heeft 47 reviews met een gemiddelde van 4,8 sterren. De ander heeft er 3. Op wie klik jij?
 
-Precies. Dat is de kracht van Google reviews. Ze bepalen niet alleen of mensen je vertrouwen, maar ook of Google je überhaupt laat zien in de zoekresultaten. Meer reviews met een hoge score betekent een hogere positie in Google Maps — en dat betekent meer klanten.
+Precies. Dat is de kracht van [Google reviews](/reviews). Ze bepalen niet alleen of mensen je vertrouwen, maar ook of Google je überhaupt laat zien in de zoekresultaten. Meer reviews met een hoge score betekent een hogere positie in Google Maps — en dat betekent meer klanten.
 
 Maar er is nog iets. AI-zoekmachines zoals ChatGPT en Perplexity gebruiken reviews nu ook om antwoorden te geven. Als iemand vraagt "wie is de beste kapper in Amsterdam?", baseert de AI zich op Google reviews. Geen reviews? Dan besta je niet voor AI.
 
@@ -93,6 +92,6 @@ We werken met een kwartaalcommitment vanwege de software-investeringen die we do
 
 ## Conclusie
 
-Google reviews zijn geen "nice to have" — ze zijn essentieel voor elke kapper die online gevonden wil worden. Met de juiste aanpak en automatisering hoef je er zelf geen tijd aan te besteden en stromen de reviews vanzelf binnen.
+[Google reviews](/blog/review-borden-kapsalon-nfc-qr-sticker) zijn geen "nice to have" — ze zijn essentieel voor elke kapper die online gevonden wil worden. Met de juiste aanpak en automatisering hoef je er zelf geen tijd aan te besteden en stromen de reviews vanzelf binnen.
 
 Wil je weten hoe wij dit voor jouw bedrijf kunnen opzetten? [Plan een gratis gesprek](https://cal.com/studiolee) en we laten je precies zien hoe het werkt. Of lees meer over [hoe kappers AI inzetten](/blog/hoe-ai-kappers-helpt-slimmer-werken) om hun hele bedrijfsvoering te verbeteren.
