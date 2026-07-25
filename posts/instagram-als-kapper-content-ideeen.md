@@ -7,8 +7,7 @@ image: "/images/blog/instagram-als-kapper-content-ideeen.jpg"
 tags: ["Social Media", "Instagram"]
 cluster: "social-media"
 ---
-
-Als kapper heb je een oneerlijk voordeel op Instagram: je maakt elke dag visueel spectaculaire transformaties. Geen enkele andere branche heeft zoveel potentieel voor social media content — maar toch posten de meeste kappers te weinig, te onregelmatig of het verkeerde type content.
+Als kapper heb je een oneerlijk voordeel op Instagram: je maakt elke dag visueel spectaculaire transformaties. Geen enkele andere branche heeft zoveel potentieel voor [social media](/social-media) content — maar toch posten de meeste kappers te weinig, te onregelmatig of het verkeerde type content.
 
 Het goede nieuws? Je hoeft geen social media expert te zijn. Met een smartphone en deze 15 content ideeën bouw je een Instagram-profiel dat daadwerkelijk nieuwe klanten oplevert.
 
