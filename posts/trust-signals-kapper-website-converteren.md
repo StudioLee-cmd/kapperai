@@ -7,7 +7,6 @@ image: "/images/blog/trust-signals-kapper-website-converteren.jpg"
 tags: ["Website", "Conversie", "Lokale Marketing"]
 cluster: "website"
 ---
-
 ## In het kort
 
 - **Een potentiële klant beslist binnen 5 seconden** of jouw website betrouwbaar oogt, daarna ben je hem kwijt.
@@ -118,6 +117,8 @@ De zwakke schakel is bijhouden. Een homepage met reviews uit 2023 voelt achterha
 Met de juiste setup hoef je dit niet handmatig te doen. Reviews kunnen automatisch verschijnen op je homepage zodra ze op Google geplaatst worden. Foto's gemaakt in de salon kunnen via een [ai chatbot voor kappers](/chatbot) of een gekoppelde planner direct gepubliceerd worden. Stylist-profielen worden bijgewerkt zodra de planning wijzigt.
 
 Bij KapperAI bouwen we dit standaard in voor onze klanten, onderdeel van het complete pakket samen met [SEO voor kappers](/seo) en review-management. Wil je weten welke trust signals jouw eigen website nu mist? Vraag een [gratis ai scan voor kappers](/gratis-scan) aan, dan krijg je binnen 48 uur een rapport met de concrete elementen die je kunt verbeteren.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/kapper-website-laten-maken-wat-je-moet-weten" class="text-dark fw-semibold">Website voor je kapsalon: wat je moet weten</a> →</p></div></div></div>
 
 ## Conclusie
 
