@@ -7,12 +7,11 @@ image: "/images/blog/reviews-automatisch-verzamelen-kapper.jpg"
 tags: ["Reviews", "Automatisering", "Groei"]
 cluster: "reviews"
 ---
-
 ## Waarom Google Reviews cruciaal zijn voor kappers
 
 Wanneer iemand zoekt op "kapper in de buurt", bepalen Google Reviews wie bovenaan verschijnt. Niet je website, niet je Instagram — je reviews. Onderzoek wijst uit dat 87 procent van de consumenten online reviews leest voordat ze een lokale dienstverlener kiezen. Voor kappers betekent dit: meer reviews is meer klanten.
 
-Maar reviews verzamelen voelt als een extra taak bovenop een al volle agenda. Je bent de hele dag bezig met knippen, kleuren en föhnen. Wanneer moet je dan ook nog om reviews vragen? Het antwoord: dat hoef je helemaal niet zelf te doen.
+Maar [reviews verzamelen](/reviews) voelt als een extra taak bovenop een al volle agenda. Je bent de hele dag bezig met knippen, kleuren en föhnen. Wanneer moet je dan ook nog om reviews vragen? Het antwoord: dat hoef je helemaal niet zelf te doen.
 
 Met de juiste automatisering stromen reviews vanzelf binnen. Geen awkward gesprekken, geen vergeten — gewoon een systeem dat altijd draait.
 
