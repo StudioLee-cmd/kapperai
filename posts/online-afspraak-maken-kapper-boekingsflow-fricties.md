@@ -61,7 +61,7 @@ Toon ook je Google-rating-getal groot en herkenbaar. "4,8 ★ op Google (op basi
 
 ## Frictie 6: telefoon en WhatsApp ontbreken als alternatief
 
-Sommige mensen willen simpelweg niet online boeken. Oudere klanten, mensen met specifieke vragen, of mensen die liever even iemand spreken voor ze zich committeren. Als jouw boekingspagina alleen een formulier toont zonder telefonisch of WhatsApp-alternatief, verlies je die groep direct.
+Sommige mensen willen simpelweg niet [online boeken](/blog/online-boeken-kapper). Oudere klanten, mensen met specifieke vragen, of mensen die liever even iemand spreken voor ze zich committeren. Als jouw boekingspagina alleen een formulier toont zonder telefonisch of WhatsApp-alternatief, verlies je die groep direct.
 
 Oplossing: toon onderaan (of als sticky element) altijd een telefoonnummer en een WhatsApp-link. Niet als "contactbutton" verstopt in het menu, maar expliciet op de boekingspagina. Een zin als "Liever even bellen? 020-XXX XXXX. Appen kan ook: klik hier." haalt 15 tot 25 procent van de afhakers die anders niet zouden boeken alsnog binnen via een ander kanaal.
 
@@ -88,6 +88,8 @@ Binnen zeven dagen heb je een booking-flow die gemiddeld 15 tot 25 procent meer 
 In onze managed service pakken wij de volledige booking-flow-audit op: we doorlopen je huidige site alsof we een nieuwe klant zijn, identificeren welke van de zes fricties bij jou voorkomen, en lossen ze op binnen twee weken. Daarnaast koppelen we je booking-tool, je WhatsApp, je AI chatbot en je review-stroom aan elkaar zodat je één gestroomlijnde klantreis hebt.
 
 Bekijk de [tarieven](/tarieven) om te zien wat dit kost, of vraag een gratis scan aan om eerst je eigen boekingsflow te laten auditten.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/elite-salon-app" class="text-dark fw-semibold"></a> →</p></div></div></div>
 
 ## Groei-of-Geld-Terug Garantie
 
