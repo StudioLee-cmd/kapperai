@@ -114,6 +114,8 @@ Hier wordt het concreet. Zodra je salon door de 50 reviews heen breekt, met een 
 
 Het is het eenvoudigste rendement dat je in je salon kunt realiseren. Geen advertentiebudget, geen nieuwe website, alleen een proces dat je consequent uitvoert.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/review-vragen-timing-kapper" class="text-dark fw-semibold">Wanneer review vragen als kapper: het beste moment</a> →</p></div></div></div>
+
 ## Begin deze week
 
 Als je vandaag start, kun je binnen drie maanden je reviewaantal verdubbelen. Drie stappen voor deze week:
