@@ -7,7 +7,6 @@ image: "/images/blog/kappersprijzen-op-website-wel-of-niet.png"
 tags: ["Prijzen", "Website", "Strategie"]
 cluster: "website"
 ---
-
 Je kent het dilemma: een potentiële klant bezoekt je website, zoekt naar prijzen, vindt ze niet en klikt weg. Of juist: ze ziet je prijzen, vindt ze te hoog zonder context, en belt nooit. De vraag of je als kapper je prijzen op je website moet zetten is een van de meest gestelde in de branche — en het antwoord is genuanceerder dan je denkt.
 
 In dit artikel bekijken we beide kanten, delen we wat de data zegt, en geven we je een concrete strategie die werkt voor zowel kleine als grote salons in Nederland.
@@ -74,6 +73,6 @@ Ook als je net begint en je prijzen nog aan het testen bent, kan het slim zijn o
 
 ## Conclusie
 
-Voor de meeste kappers is het antwoord duidelijk: ja, zet je prijzen op je website. Doe het met context, doe het met stijl, en combineer het met goede reviews en een makkelijk boekingsproces. Je trekt de juiste klanten aan, bespaart tijd op prijsvragen, en verbetert je vindbaarheid in Google.
+Voor de meeste kappers is het antwoord duidelijk: ja, zet je prijzen op je website. Doe het met context, doe het met stijl, en combineer het met goede reviews en een makkelijk boekingsproces. Je trekt de juiste klanten aan, bespaart tijd op prijsvragen, en verbetert je [vindbaarheid](/seo) in Google.
 
 Wil je hulp bij het optimaliseren van je salonwebsite en online zichtbaarheid? Bekijk wat [KapperAI](/) voor je kan betekenen of [plan een gratis gesprek](https://cal.com/studiolee).
