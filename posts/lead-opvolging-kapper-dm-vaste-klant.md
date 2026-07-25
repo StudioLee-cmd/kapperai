@@ -97,6 +97,8 @@ Om dit allemaal handmatig te doen, ben je drie uur per dag bezig met berichten. 
 
 Wat je niet nodig hebt: een dure boekingsapp met 47 functies, een aparte CRM voor kappers, een marketing-automation tool van 200 euro per maand. De basis kun je opzetten voor 50 tot 100 euro per maand, of laten draaien voor een vast bedrag in een managed service. Bekijk de [tarieven](/tarieven) als je wilt zien wat een complete opvolgflow kost.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/automatische-opvolging-kapper-leads" class="text-dark fw-semibold">Automatische opvolging voor kappers: nooit meer een lead missen</a> →</p></div></div></div>
+
 ## Aan de slag: zo ziet jouw opvolgflow er vanaf morgen uit
 
 Kies één kanaal om te starten. Niet alles tegelijk, dat overweldigt en je doet uiteindelijk niets. Begin bij het kanaal waar je nu de meeste leads laat liggen: voor de meeste kapsalons is dat Instagram-DM of de gemiste oproep. Zet daar deze week één geautomatiseerde eerste reactie op, plus een 24-uurs bevestigings-WhatsApp en een 48-uurs reviewverzoek. Dat is genoeg om binnen twee weken het verschil te merken.
