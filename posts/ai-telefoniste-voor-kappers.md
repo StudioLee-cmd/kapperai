@@ -8,14 +8,13 @@ image: "/images/blog/ai-telefoniste-voor-kappers.png"
 tags: ["Voice AI", "Innovatie", "Ondernemen"]
 cluster: "voice-ai"
 ---
-
 Het meest frustrerende moment voor een kapper? Je bent net bezig met een lastige coupe of een nauwkeurige kleuring, en de telefoon gaat. Je kunt niet opnemen. Je laat hem gaan.
 
 Wat doet die klant? Belt hij later terug? Vaak niet. In 2026 is geduld op. Ze bellen de volgende kapper in de lijst. Weg klant. Weg omzet.
 
 ## Voice AI: Je nieuwe receptioniste die nooit pauze heeft
 
-Onze Voice AI is geen bandje met een keuzemenu. Dit is een geavanceerde AI (laten we haar Sarah noemen) die praat als een mens. Ze is vriendelijk, professioneel en ze weet alles van je salon.
+Onze [Voice AI](/voice-ai) is geen bandje met een keuzemenu. Dit is een geavanceerde AI (laten we haar Sarah noemen) die praat als een mens. Ze is vriendelijk, professioneel en ze weet alles van je salon.
 
 ### Wat ze voor je doet:
 - **24/7 Opnemen:** Ook als jij vrij bent, op vakantie bent of staat te knippen.
