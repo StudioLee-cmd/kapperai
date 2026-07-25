@@ -58,6 +58,8 @@ De herinnering bevat de afspraakdetails en een optie om te verzetten. Klanten di
 
 De combinatie van aanbetaling plus herinneringen is het meest effectieve systeem tegen no-shows. De aanbetaling creert commitment, de herinneringen voorkomen vergeten.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/no-shows-kosten-kapsalon-per-jaar" class="text-dark fw-semibold">Wat kosten no-shows je kapsalon per jaar?</a> →</p></div></div></div>
+
 ## Conclusie: kleine investering, groot resultaat
 
 Een depositosysteem kost weinig om in te richten en levert direct resultaat. Minder lege stoelen, meer omzet, minder frustratie. De klanten die serieus zijn, vinden een aanbetaling van 10 euro geen probleem. De klanten die toch niet waren gekomen, filter je eruit.
