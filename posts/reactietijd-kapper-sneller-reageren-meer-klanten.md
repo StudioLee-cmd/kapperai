@@ -20,7 +20,7 @@ Voor kappers is dit extra relevant. Je klant zoekt niet alleen een kapper, ze zo
 
 Klanten die een afspraak willen maken, zitten in een beslismoment. Ze hebben net besloten dat ze een knipbeurt willen. Dat gevoel van urgentie houdt geen uren stand. Na een uur zijn ze alweer bezig met iets anders, en na een dag zijn ze je vergeten of hebben ze bij iemand anders geboekt.
 
-Dit geldt vooral voor nieuwe klanten. Bestaande klanten kennen je en wachten iets langer. Maar die nieuwe klant die je via Google of Instagram vond? Die vergelijkt je met drie andere salons en boekt bij de eerste die reageert.
+Dit geldt vooral voor [nieuwe klanten](/blog/nieuwe-klanten-werven-kapper). Bestaande klanten kennen je en wachten iets langer. Maar die nieuwe klant die je via Google of Instagram vond? Die vergelijkt je met drie andere salons en boekt bij de eerste die reageert.
 
 Het is geen kwestie van kwaliteit. Je kunt de beste kapper van de stad zijn, maar als je drie uur later reageert, ben je te laat.
 
