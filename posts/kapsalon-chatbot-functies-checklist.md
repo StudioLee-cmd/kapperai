@@ -8,7 +8,6 @@ image: "/images/blog/kapsalon-chatbot-functies-checklist.jpg"
 tags: ["AI", "Chatbot", "Klantcontact"]
 cluster: "chatbot"
 ---
-
 ## Elke chatbot "kan alles". Tot je hem in je salon zet
 
 Vraag tien chatbot-leveranciers wat hun bot kan en je krijgt tien keer hetzelfde antwoord: alles. Afspraken, vragen, upsell, kleuradvies, meertalig, 24/7. Klinkt geweldig in een demo. Maar zet zo'n bot een maand op je eigen kapperswebsite en je merkt iets vreemds: je gebruikt maar een handvol functies echt. De rest is glitter voor de verkoopdemo.
@@ -78,6 +77,8 @@ Loop bij elke leverancier de vijf must-haves langs en stel per functie één con
 5. Klinkt hij in normaal Nederlands, in de toon van mijn salon?
 
 Krijg je op alle vijf een overtuigend ja, dan heb je een echte [24/7 chatbot voor kappers](/chatbot). Blijft het bij een van de vijf hangen, dan koop je een demo, geen medewerker. En de nice-to-haves? Die zijn leuk als het fundament staat, nooit als reden om te kiezen.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/chatbot-trainen-kapsalon-data-4-manieren" class="text-dark fw-semibold">AI chatbot trainen op je kapsalon-data: 4 manieren</a> →</p></div></div></div>
 
 ## Meer klanten, minder gedoe, zonder verkooppraat
 
