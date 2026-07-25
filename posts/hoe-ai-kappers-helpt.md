@@ -8,7 +8,6 @@ image: "/images/blog/hoe-ai-kappers-helpt.png"
 tags: ["AI", "Efficiëntie", "Automatisering"]
 cluster: "automatisering"
 ---
-
 Het runnen van een kapsalon anno 2026 is topsport. Je bent niet alleen haarstylist die de mooiste coupes moet knippen, maar je bent ook boekhouder, planner, telefoniste, marketingmanager en klantenservice in één. Veel kappers die wij spreken, staan de hele dag op hun benen, maar als ze eerlijk kijken, zijn ze daarnaast nog uren bezig met randzaken. Ruis in de vorm van eindeloze telefoontjes, appjes, afspraken verzetten en facturen doen.
 
 ## De "Oude" Manier vs. De AI Manier
@@ -20,7 +19,7 @@ Laten we de situatie eens schetsen. **Vroeger** zag je dag er zo uit: Je bent be
 ## Wat vervangt dit systeem precies?
 
 Veel kappers denken dat AI hun creativiteit wil vervangen. Dat is onzin. Het gaat om het vervangen van het dure, trage kantoorwerk. Onze AI tools vervangen in feite drie partijen:
-- **De Receptioniste:** Een parttime kracht aan de balie kost je al snel €25.000 per jaar. Onze Voice AI (onderdeel van het Elite pakket) neemt 24/7 op, plant afspraken, en beantwoordt vragen over prijzen.
+- **De Receptioniste:** Een parttime kracht aan de balie kost je al snel €25.000 per jaar. Onze [Voice AI](/voice-ai) (onderdeel van het Elite pakket) neemt 24/7 op, plant afspraken, en beantwoordt vragen over prijzen.
 - **Het Marketingbureau:** Wil je meer klanten in je stoel? Vroeger betaalde je een bureau €1.500 per maand. Onze Social Media AI & Tekstschrijver AI regelen je zichtbaarheid. Ze posten je mooiste transformaties op Instagram en schrijven blogs.
 - **De Boekhouder (deels):** Natuurlijk heb je een boekhouder nodig. Maar het dagelijkse werk? Kassa AI koppelt alles aan elkaar. Geen gedoe met bonnetjes meer.
 
