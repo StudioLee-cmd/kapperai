@@ -8,7 +8,6 @@ image: "/images/blog/klantbeleving-kapsalon-van-boeking-tot-nazorg.png"
 tags: ["Kapsalon", "Klantbeleving", "Service"]
 cluster: "automatisering"
 ---
-
 ## Waarom klantbeleving belangrijker is dan de knipbeurt
 
 Een goede kapper vinden is niet moeilijk. Er zijn er genoeg. Wat klanten doet terugkomen — en je aanbevelen bij vrienden — is niet alleen het kapsel. Het is hoe ze zich voelden. Van het moment dat ze een afspraak boekten tot het bericht dat ze drie dagen later kregen.
@@ -94,11 +93,13 @@ Na de behandeling:
 
 Met 200 klanten is dat het verschil tussen €36.000 en €69.300 per jaar.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/same-day-boeking-kapsalon" class="text-dark fw-semibold">Same-day boeking kapsalon: last-minute gaten vullen</a> →</p></div></div></div>
+
 ## Conclusie
 
 De perfecte klantbeleving begint bij het eerste contactmoment en eindigt nooit. Elke stap — van boeking tot nazorg — is een kans om een neutrale ervaring om te zetten in een wow-moment.
 
-Met [KapperAI](/) automatiseren we je boekingsbevestigingen, herinneringen, nazorg en reviewverzoeken. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [KapperAI](/) automatiseren we je boekingsbevestigingen, [herinneringen](/automatisering), nazorg en reviewverzoeken. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoe je de klantbeleving in je salon verbetert.
 
