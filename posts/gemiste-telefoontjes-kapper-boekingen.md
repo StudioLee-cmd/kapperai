@@ -53,6 +53,8 @@ Vergelijk het met het alternatief: een extra medewerker achter de balie kost al 
 
 Bekijk de [tarieven](/tarieven) voor een compleet overzicht van de mogelijkheden.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/ai-telefoniste-voor-kappers" class="text-dark fw-semibold"></a> →</p></div></div></div>
+
 ## Begin met weten hoeveel je mist
 
 De eerste stap is inzicht: hoeveel oproepen mis je per dag? Houd het een week bij. Noteer elk gemist telefoontje met het tijdstip. Na een week weet je precies hoeveel boekingen je verliest en op welke momenten. Dat is de basis voor je beslissing.
