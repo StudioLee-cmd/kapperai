@@ -8,7 +8,6 @@ image: "/images/blog/concurrentieanalyse-kapper-onderscheiden.jpg"
 tags: ["Concurrentie", "Strategie", "Groei"]
 cluster: "branding"
 ---
-
 ## Waarom concurrentieanalyse belangrijk is
 
 Als kapper werk je in een van de meest competitieve branches. In elke wijk zitten meerdere salons die strijden om dezelfde klanten. Toch nemen weinig kappers de tijd om hun concurrentie echt te analyseren. En dat is een gemiste kans.
@@ -19,7 +18,7 @@ Door structureel naar je concurrentie te kijken, kun je betere beslissingen neme
 
 ## Wat je van concurrenten kunt leren
 
-Begin met een lijst van de 5 tot 10 salons in jouw directe omgeving. Bekijk hun websites, social media en Google-reviews. Stel jezelf deze vragen:
+Begin met een lijst van de 5 tot 10 salons in jouw directe omgeving. Bekijk hun websites, [social media](/social-media) en Google-reviews. Stel jezelf deze vragen:
 
 - Welke diensten bieden zij aan die jij niet hebt?
 - Hoe presenteren ze zich online? Is hun website modern en overzichtelijk?
@@ -63,6 +62,8 @@ Kijk wat je concurrenten vragen voor vergelijkbare diensten. Positioneer jezelf 
 - **Budget**: Lage prijzen, hoog volume. Dit is een keuze, maar besef dat het moeilijk is om hier later uit te klimmen.
 
 De beste strategie is om je prijs te koppelen aan waarde. Als klanten begrijpen waarom jouw knipbeurt meer waard is — betere producten, meer ervaring, een betere sfeer — dan betalen ze graag meer.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/influencer-stylist-samenwerking-lokaal-kapper" class="text-dark fw-semibold">Lokale micro-influencer samenwerking als kapper</a> →</p></div></div></div>
 
 ## Actieplan: je salon onderscheiden
 
