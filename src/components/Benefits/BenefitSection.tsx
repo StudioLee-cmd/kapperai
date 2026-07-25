@@ -4,6 +4,7 @@ import clsx from "clsx";
 import { motion, Variants } from "framer-motion"
 
 import BenefitBullet from "./BenefitBullet";
+import BenefitDetails from "./BenefitDetails";
 import SectionTitle from "../SectionTitle";
 import { IBenefit } from "@/types";
 
@@ -47,12 +48,12 @@ export const childVariants = {
 };
 
 const BenefitSection: React.FC<Props> = ({ benefit, imageAtRight }: Props) => {
-    const { title, description, imageSrc, videoSrc, bullets, buttonText, buttonUrl } = benefit;
+    const { title, description, imageSrc, videoSrc, bullets, buttonText, buttonUrl, details } = benefit;
 
     return (
         <section className="benefit-section">
             <motion.div
-                className="flex flex-wrap flex-col items-center justify-center gap-2 lg:flex-row lg:gap-20 lg:flex-nowrap mb-24"
+                className="flex flex-wrap flex-col items-center justify-center gap-2 lg:flex-row lg:gap-20 lg:flex-nowrap mb-10"
                 variants={containerVariants}
                 initial="offscreen"
                 whileInView="onscreen"
@@ -133,6 +134,8 @@ const BenefitSection: React.FC<Props> = ({ benefit, imageAtRight }: Props) => {
                     </motion.div>
                 )}
             </motion.div>
+
+            {details && details.length > 0 && <BenefitDetails details={details} />}
         </section>
     );
 }
