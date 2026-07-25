@@ -7,7 +7,6 @@ image: "/images/blog/kapperswebsite-bezoeker-tot-boeking.png"
 tags: ["Website", "Conversie", "Online boeken"]
 cluster: "website"
 ---
-
 ## Waarom je website je belangrijkste medewerker is
 
 Je kapperswebsite is de eerste indruk die potentiële klanten van je salon krijgen. Terwijl jij bezig bent met knippen, kleuren en stylen, kan je website op de achtergrond afspraken binnenhalen. Toch functioneren veel kapperswebsites als niet meer dan een digitaal visitekaartje — een paar foto's, openingstijden en een telefoonnummer.
@@ -33,7 +32,7 @@ Populaire opties voor kappers zijn Treatwell, Salonized en Fresha. Deze tools in
 
 ## Snelheid en mobiel
 
-Meer dan 70% van je websitebezoekers komt via een smartphone. Als je website traag laadt of niet goed werkt op mobiel, verlies je direct potentiële klanten. Google straft trage websites bovendien af in de zoekresultaten.
+Meer dan 70% van je websitebezoekers komt via een smartphone. Als je website traag laadt of niet goed werkt op mobiel, verlies je direct potentiële klanten. Google straft trage websites bovendien af in de [zoekresultaten](/seo).
 
 Test je website op snelheid via Google PageSpeed Insights. Zorg dat afbeeldingen gecomprimeerd zijn, gebruik geen zware animaties en kies een snelle hosting. Een laadtijd van onder de 3 seconden is de norm — alles daarboven kost je boekingen.
 
