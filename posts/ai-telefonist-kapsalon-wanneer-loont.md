@@ -7,7 +7,6 @@ image: "/images/blog/ai-telefonist-kapsalon-wanneer-loont.jpg"
 tags: ["AI telefonist", "Voice AI", "Kapsalon"]
 cluster: "voice-ai"
 ---
-
 Een AI telefonist klinkt geweldig: nooit meer een gemiste oproep, je handen vrij om te knippen, en klanten die 's avonds gewoon kunnen boeken. Maar de eerlijke vraag is: loont het voor jouw kapsalon? Voor een eenpitter met 80 procent vaste klanten die rustig terugbellen, is het antwoord misschien nee. Voor een drukke salon van vier stylisten in een grote stad, vrijwel altijd ja.
 
 In dit artikel beantwoord je 5 simpele vragen waarmee je in 10 minuten weet of een AI telefonist voor jouw situatie de moeite waard is. Geen sales-praatje, gewoon eerlijke rekensom.
@@ -108,6 +107,8 @@ Eerlijk blijft eerlijk, een AI telefonist is niet de oplossing voor alles:
 - **Zeer dialect-zware gesprekken**, moderne AI's begrijpen Nederlands prima, maar plat dialect kan haperen. Test het altijd in jouw regio.
 
 Voor 80-90 procent van de inkomende oproepen (afspraak maken, openingstijden, locatie, prijsvraag) is de AI sneller en beter beschikbaar dan jij. Voor de overige 10-20 procent neemt hij netjes een bericht aan.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/meertalige-ai-telefonist-kapsalon-engels-pools" class="text-dark fw-semibold">Meertalige AI telefonist kapsalon: Nederlands, Engels, Pools</a> →</p></div></div></div>
 
 ## Hoe je het in 1 dag live krijgt
 
