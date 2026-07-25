@@ -8,7 +8,6 @@ image: "/images/blog/hoe-ai-kappers-helpt-slimmer-werken.png"
 tags: ["AI", "Automatisering", "Kappers"]
 cluster: "automatisering"
 ---
-
 Als kapper draait alles om vakmanschap en klantbinding. Maar achter elke tevreden klant zit een berg administratie: afspraken plannen, herinneringen sturen, reviews verzamelen, social media bijhouden. Dit vreet tijd die je liever aan je vak besteedt. AI verandert dat.
 
 Steeds meer kappers en kapsalons zetten AI-tools in om die terugkerende taken te automatiseren — zonder dat ze technisch onderlegd hoeven te zijn. Het resultaat: minder no-shows, meer reviews en een vollere agenda. In dit artikel lees je precies wat AI voor jouw salon kan doen en hoe je begint.
@@ -28,7 +27,7 @@ Je hoeft niet alles tegelijk te implementeren. Eén tool per proces is al genoeg
 
 ## Slimmer plannen en minder no-shows
 
-No-shows zijn de grootste kostenpost voor een kapsalon. Elke lege stoel betekent gederfde omzet. Met AI-gestuurde herinneringen — via WhatsApp, sms of e-mail — herinner je klanten automatisch aan hun afspraak, zonder dat je er zelf aan hoeft te denken.
+No-shows zijn de grootste kostenpost voor een kapsalon. Elke lege stoel betekent gederfde omzet. Met AI-gestuurde [herinneringen](/automatisering) — via WhatsApp, sms of e-mail — herinner je klanten automatisch aan hun afspraak, zonder dat je er zelf aan hoeft te denken.
 
 Moderne boekingssoftware zoals Salonized, PLAN4U of Da Vinci koppelt direct aan WhatsApp Business. De klant ontvangt een herinnering, kan bevestigen of annuleren met één klik, en de agenda past zich automatisch aan. Bij een annulering biedt het systeem de vrijgekomen plek direct aan aan klanten op de wachtlijst.
 
@@ -55,6 +54,8 @@ Je hoeft niet in één keer alles te veranderen. Zo pak je het stap voor stap aa
 **Stap 3 — Zet een AI-social media schema op.** Gebruik KapperAI om maandelijks je contentkalender te vullen. Minimale inspanning, maximale zichtbaarheid.
 
 Na 30 dagen meet je de resultaten: hoeveel minder no-shows, hoeveel nieuwe reviews, hoeveel uur bespaard. Op basis daarvan besluit je welke volgende stap je zet.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/crm-voor-kappers-klantkaart-stylist-klantbeleving" class="text-dark fw-semibold">CRM voor kappers: klantkaart die elke stylist kent</a> →</p></div></div></div>
 
 ## Conclusie: AI is geen luxe, maar een groeimiddel
 
