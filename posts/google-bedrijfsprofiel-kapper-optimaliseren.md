@@ -8,10 +8,9 @@ image: "/images/blog/google-bedrijfsprofiel-kapper-optimaliseren.png"
 tags: ["Kapsalon", "Google Bedrijfsprofiel", "Lokale SEO"]
 cluster: "vindbaarheid"
 ---
-
 ## Waarom je Google Bedrijfsprofiel belangrijker is dan je website
 
-Als iemand zoekt op "kapper [plaatsnaam]", toont Google eerst het zogenaamde Local Pack — drie bedrijven met kaart, reviews en openingstijden. Pas daarna volgen de gewone zoekresultaten. Je website kan perfect zijn, maar als je Google Bedrijfsprofiel niet geoptimaliseerd is, verschijn je simpelweg niet in dat Local Pack.
+Als iemand zoekt op "kapper [plaatsnaam]", toont Google eerst het zogenaamde Local Pack — drie bedrijven met kaart, reviews en openingstijden. Pas daarna volgen de gewone [zoekresultaten](/seo). Je website kan perfect zijn, maar als je Google Bedrijfsprofiel niet geoptimaliseerd is, verschijn je simpelweg niet in dat Local Pack.
 
 Voor kappers is dit extra belangrijk: 85% van de nieuwe klanten zoekt lokaal. Ze willen een salon in de buurt, liefst met goede reviews en de mogelijkheid om direct te bellen of een routebeschrijving te openen. Je Google Bedrijfsprofiel is vaak het eerste — en soms het enige — dat een potentiele klant van je ziet.
 
@@ -119,7 +118,7 @@ Een profiel zonder foto's oogt onbetrouwbaar. Het kost vijf minuten om een paar 
 
 ## Conclusie
 
-Je Google Bedrijfsprofiel is je digitale etalage. Het is gratis, het is krachtig, en het is vaak het eerste dat potentiele klanten zien. Met een compleet profiel, goede foto's, actieve posts en een stroom aan reviews sta je bovenaan wanneer iemand zoekt op "kapper bij mij in de buurt."
+Je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-foto-kapper-klanten) is je digitale etalage. Het is gratis, het is krachtig, en het is vaak het eerste dat potentiele klanten zien. Met een compleet profiel, goede foto's, actieve posts en een stroom aan reviews sta je bovenaan wanneer iemand zoekt op "kapper bij mij in de buurt."
 
 Met [KapperAI](/) automatiseren we je reviewverzoeken, social media posts en klantcommunicatie. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
 
