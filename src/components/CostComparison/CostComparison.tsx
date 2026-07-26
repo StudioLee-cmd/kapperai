@@ -45,17 +45,21 @@ const CostComparison: React.FC = () => {
                             <p className="text-gray-300 mb-8 relative z-10">Alles-in-één oplossing voor marktdominantie.</p>
 
                             <div className="space-y-4 mb-10 relative z-10">
+                                {/* PROPOSITIE-CONTRACT ⛔1: hier stonden drie TOOL-NAMEN in het vet
+                                    ("Review AI", "SEO Blog AI", "Photo & Social AI") — de gereedschapskist
+                                    in plaats van de uitkomst, op de plek waar de bezoeker juist de REKENING
+                                    vergelijkt (§②). Zelfde pas als het credit-blok eronder, 26-07. */}
                                 <div className="flex items-center gap-3">
                                     <BsCheckCircleFill className="text-green-400 flex-shrink-0" size={24} />
-                                    <span className="text-lg">Top Google Maps rankings dankzij <strong>Review AI</strong></span>
+                                    <span className="text-lg">Bovenaan in Google Maps, met <strong>reviews die vanzelf binnenkomen</strong></span>
                                 </div>
                                 <div className="flex items-center gap-3">
                                     <BsCheckCircleFill className="text-green-400 flex-shrink-0" size={24} />
-                                    <span className="text-lg">Dominantie in ChatGPT & Google AI met <strong>SEO Blog AI</strong></span>
+                                    <span className="text-lg">Gevonden worden in Google <strong>én in de AI-assistenten waar mensen nu zoeken</strong></span>
                                 </div>
                                 <div className="flex items-center gap-3">
                                     <BsCheckCircleFill className="text-green-400 flex-shrink-0" size={24} />
-                                    <span className="text-lg">Altijd een frisse, actuele uitstraling met <strong>Photo & Social AI</strong></span>
+                                    <span className="text-lg">Altijd <strong>verse foto&apos;s en posts</strong>, zonder dat jij er tijd in steekt</span>
                                 </div>
                                 <div className="flex items-center gap-3">
                                     <BsCheckCircleFill className="text-green-400 flex-shrink-0" size={24} />
