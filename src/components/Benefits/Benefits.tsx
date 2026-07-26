@@ -7,6 +7,13 @@ import { benefits, managedService } from "@/data/benefits";
 // PROPOSITIE-CONTRACT §① (niche-sites-upgrade-programma.md): de homepage toont PRECIES VIER dingen.
 // Tot 25-07 stond hier een tracking-bar met 20 tabs — een catalogus, geen propositie (⛔3). De onderdelen
 // zijn niet weg: ze vouwen open ONDER het ding waar ze bij horen (BenefitDetails).
+//
+// ⛔ DE KOP GAAT OVER DE UITKOMST, NOOIT OVER ONZE BEPERKING (Tim 25-07, keur 78). Hier stond
+// "Vier dingen. Meer doen we hier niet." — de LAYOUT keurde hij goed, die zin niet: *"it needs to WOW
+// them. It is a very very good system and it does do a lot of things. It's productized, it's what it
+// GETS them."* Een pagina die opent met wat je NIET doet verkleint een systeem dat juist veel kan.
+// De vier zijn de STRUCTUUR van het blok; de kop zegt wat de kapper eraan overhoudt, en de uitklap
+// eronder laat de diepte zien. Schrijf hier dus nooit een tel-, schaarste- of "meer-niet"-zin.
 
 const Benefits: React.FC = () => {
     const [activeTab, setActiveTab] = useState(0);
@@ -48,11 +55,12 @@ const Benefits: React.FC = () => {
         <div id="features" className="relative pb-20">
             <div className="max-w-4xl mx-auto text-center px-4 pt-4 pb-6">
                 <h2 className="text-3xl lg:text-4xl font-heading font-bold text-foreground">
-                    Vier dingen. Meer doen we hier niet.
+                    Je zaak werkt door terwijl jij knipt.
                 </h2>
                 <p className="mt-3 text-foreground-accent leading-normal">
-                    Een chatbot op je site, een telefoon die opneemt, marketing die vanzelf loopt en een website die
-                    zichzelf bijwerkt. Klik een van de vier open om te zien wat er allemaal onder valt.
+                    De klant die &apos;s avonds op je site komt krijgt antwoord. De beller die jij niet kunt opnemen
+                    wordt ingepland. Nieuwe klanten vinden je vanzelf, en je site staat er over een jaar nóg goed bij.
+                    Klik een van de vier open — er draait meer onder dan je hier ziet.
                 </p>
             </div>
 
@@ -117,7 +125,7 @@ const Benefits: React.FC = () => {
                 <div className="rounded-2xl border border-amber-300 dark:border-amber-500/40 bg-amber-50/60 dark:bg-amber-900/20 p-6 md:p-8 flex flex-col md:flex-row md:items-center gap-4 md:gap-8">
                     <div className="flex-1">
                         <h3 className="text-xl font-heading font-semibold text-foreground">
-                            Of je laat deze vier volledig uit handen nemen
+                            Of je laat het helemaal uit handen nemen
                         </h3>
                         <p className="mt-2 text-foreground-accent leading-normal">
                             {managedService.description}

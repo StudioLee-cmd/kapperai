@@ -85,7 +85,7 @@ const FallingText = () => {
                 "Jouw AI Receptioniste 🤖",
                 "Stop Omzetlekkages 💸",
                 "Geen Gedoe Met Facturen 🧾",
-                "Alle Tools in 1 App 📱",
+                "Alles op Eén Plek 📱",
                 "Meer Vrijheid, Minder Stress 🧘",
                 "100% Jouw Eigen Stijl 🎨",
                 "Klanten & AI in 1 Systeem 🤝",

@@ -793,7 +793,10 @@ export const benefits: IBenefit[] = [
 export const managedService: IBenefit = {
         title: "Alles volledig uit handen",
         tier: 'elite',
-        description: "Domineer jouw markt in het AI-tijdperk zonder technische zorgen. Wij automatiseren alles: van dagelijkse content tot complexe workflows.",
+        // ⛔ Uitkomst-taal, geen AI-hype (Tim 25-07, keur 78). Hier stond "Domineer jouw markt in het
+        // AI-tijdperk zonder technische zorgen" — dat is precies de vage AI-taal die de sales-lessen
+        // afkeuren (bewijs verslaat belofte; de kapper zit op niveau 1-2, niet op marktdominantie).
+        description: "Dan zetten wij het op, houden wij het bij en sturen wij het elke maand bij. Jij ziet alleen de afspraken binnenkomen.",
         buttonText: "Plan een Strategie Call",
         buttonUrl: "https://cal.com/studiolee",
         bullets: [
