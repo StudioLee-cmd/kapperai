@@ -1,4 +1,14 @@
 "use client";
+// ⛔ BOUWSTEEN 4 VAN HET BOODSCHAP-FRAME — dit blok beantwoordt WAT KOST HET LOS, verder niets.
+// Volle wet: niche-sites-upgrade-programma.md §HET BOODSCHAP-FRAME (28-07). Het propositie-contract §②
+// schrijft deze vergelijking zelfs voor ("vergelijk de REKENING, nooit de onderdelen") — de TABEL klopte
+// dus, de KOP erboven niet. Wat er tot 28-07 stond ("Waarom teveel betalen?" / "Stop met het verspillen
+// van geld aan dure freelancers. KapperAI doet het beter, sneller en goedkoper") faalde op twee
+// toon-regels, en stond zo op alle 14 live sites:
+//   · drie onbewezen superlatieven op een rij (beter, sneller, goedkoper) — we meten er geen van drie
+//   · het kleineert de lezer: wie vandaag een fotograaf inhuurt "verspilt geld". Dat is precies de
+//     ondernemer die we willen spreken, en je opent bij hem met een verwijt.
+// De rekensom zelf is ongemoeid gelaten: de bedragen zijn prijs-presentatie en dus business (RULE 5).
 import React from 'react';
 import Link from 'next/link';
 import Section from '../Section';
@@ -13,8 +23,8 @@ const CostComparison: React.FC = () => {
     return (
         <Section
             id="comparison"
-            title="Waarom teveel betalen?"
-            description="Stop met het verspillen van geld aan dure freelancers. KapperAI doet het beter, sneller en goedkoper."
+            title="Wat dit los bij elkaar kost"
+            description="Dezelfde dingen los inkopen — een vaste kracht voor je social, iemand voor je teksten, losse abonnementen voor je agenda en je website. Dit is wat je daar per maand aan kwijt bent, naast wat je hier voor hetzelfde werk betaalt."
         >
             <Container>
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
@@ -79,7 +89,7 @@ const CostComparison: React.FC = () => {
                                     transition={{ delay: 0.3, type: "spring" }}
                                     className="mt-4 text-green-400 font-bold bg-green-400/10 inline-block px-4 py-2 rounded-full"
                                 >
-                                    Je bespaart € {totalTraditionalCost - onzePrijsPerMaand} per maand!
+                                    Verschil per maand: € {totalTraditionalCost - onzePrijsPerMaand},-
                                 </motion.p>
                             </div>
                         </motion.div>
