@@ -37,7 +37,7 @@ export const voiceDemos: VoiceDemoOpname[] = [
     {
         id: 'afspraak-inplannen',
         titel: 'Een nieuwe afspraak inplannen',
-        richting: 'Een nieuwe klant belt voor knippen én kleuren; de agent vraagt door op haarlengte en reserveert meteen de langere tijdslot.',
+        richting: 'Een nieuwe klant belt voor knippen én kleuren; de agent vraagt door op haarlengte en reserveert meteen het langere tijdslot.',
         stem: 'Thomas',
         src: null,
         duur: null,
@@ -53,7 +53,7 @@ export const voiceDemos: VoiceDemoOpname[] = [
     {
         id: 'vraag-buiten-openingstijd',
         titel: 'Een vraag om half elf ’s avonds',
-        richting: 'Iemand vraagt ’s avonds wat balayage kost en hoeveel tijd dat in de stoel is.',
+        richting: 'Iemand vraagt ’s avonds wat balayage kost en hoe lang je daarvoor in de stoel zit.',
         stem: 'Eva',
         src: null,
         duur: null,
