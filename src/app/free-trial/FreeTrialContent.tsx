@@ -84,7 +84,7 @@ const FreeTrialPage = () => {
             });
 
             if (response.ok) {
-                // Success - redirect to Mollie checkout
+                // Success - door naar de bevestigingspagina
                 router.push('/aanmelding-gelukt');
             } else {
                 throw new Error('Er is iets misgegaan bij het versturen van je aanmelding.');
