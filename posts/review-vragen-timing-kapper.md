@@ -61,7 +61,7 @@ De juiste timing klinkt simpel, maar in de praktijk staat je salon-realiteit in 
 
 Het werkt zo: zodra een afspraak is afgerond, start er automatisch een korte wachttijd, en daarna gaat het reviewverzoek de deur uit via WhatsApp of sms, netjes in het avondvenster. Jij doet niets, de klant krijgt het op het beste moment, en je profiel groeit week na week. Dat is precies wat [automatisch reviews verzamelen voor kappers](/reviews) doet: het neemt de timing uit jouw hoofd en legt hem in een vaste flow. Je kunt het combineren met [de juiste woorden in je verzoek](/blog/google-reviews-vragen-kapsalon-script), zodat niet alleen het moment maar ook de toon klopt.
 
-Meer reviews betekenen bovendien meer dan alleen een mooier rapportcijfer. Een vers, groeiend stroompje sterren is een van de signalen waarop je hoger in de lokale zoekresultaten komt, dus goede review-timing werkt direct mee aan je [lokale vindbaarheid in Google](/seo). En als je het beheer helemaal uit handen wilt geven, regelt KapperAI het [verzamelen van Google reviews als kapper](/reviews) van begin tot eind, met onze Groei-of-Geld-Terug Garantie: levert het binnen de afgesproken periode niets op, dan krijg je je geld terug.
+Meer reviews betekenen bovendien meer dan alleen een mooier rapportcijfer. Een vers, groeiend stroompje sterren is een van de signalen waarop je hoger in de lokale zoekresultaten komt, dus goede review-timing werkt direct mee aan je [lokale vindbaarheid in Google](/seo). Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 ## Veelgestelde vragen
 

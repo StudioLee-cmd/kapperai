@@ -71,7 +71,7 @@ Zet daar de opbrengst eens naast. Een gemiddelde knipafspraak van €35 die ande
 
 Het stappenplan is overzichtelijker dan het klinkt. Eerst wordt je zakelijke nummer geverifieerd op de API. Daarna wordt de chatbot getraind op jouw salon: prijslijst, behandelingen, openingstijden, huisregels. Vervolgens gaat de agenda-koppeling erop, zodat antwoorden ook echt boekingen worden. Dan een week proefdraaien met je eigen team als testklanten, en live.
 
-Wil je dat niet zelf uitzoeken, dan doen wij dit als managed dienst: een [chatbot voor kappers](/chatbot) die website én WhatsApp afdekt, getraind op jouw zaak, met wekelijkse bijsturing op de gesprekken die hij voerde. Daar hoort onze Groei-of-Geld-Terug Garantie bij: levert het systeem aantoonbaar geen extra boekingen op, dan krijg je je geld terug.
+Wil je dat niet zelf uitzoeken, dan doen wij dit als managed dienst: een [chatbot voor kappers](/chatbot) die website én WhatsApp afdekt, getraind op jouw zaak, met wekelijkse bijsturing op de gesprekken die hij voerde. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 ## Veelgestelde vragen
 

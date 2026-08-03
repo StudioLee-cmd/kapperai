@@ -79,6 +79,6 @@ Ja, met een gratis NFC-schrijf-app kun je zelf je Google Reviews-link op de kaar
 
 Een NFC-kaart is een van de simpelste en effectiefste manieren om als kapper [meer Google Reviews](/blog/meer-reviews-met-ai) te verzamelen. De investering is minimaal, de drempel voor klanten is nagenoeg nul, en het effect op je online zichtbaarheid is direct merkbaar.
 
-Wil je weten hoe je reviews volledig kunt automatiseren? Met de Groei-of-Geld-Terug Garantie loop je geen risico: geen meetbare groei? Geld terug.
+Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Bekijk het [review-pakket](/review-pakket) of start een [gratis scan](/gratis-scan) om te zien wat StudioLee voor jouw salon kan betekenen.

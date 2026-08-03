@@ -69,7 +69,7 @@ Heb je ooit een site laten verbouwen of pagina's verplaatst, dan blijven er vaak
 
 Een site die binnen twee seconden klaar is, doet precies wat je wilt: de bezoeker is nog in de stemming om te boeken op het moment dat de agenda in beeld komt. Dat is het verschil tussen [van bezoeker naar boeking](/blog/kapperswebsite-bezoeker-tot-boeking) en een gemiste kans. Snelheid werkt bovendien samen met de rest van je site: een snelle pagina maakt het makkelijker om [je boekingsconversie te verbeteren](/blog/kappers-boekings-conversie-verbeteren) met duidelijke knoppen en goede foto's.
 
-Wil je hier niet zelf in duiken, dan bouwen of optimaliseren wij je site zo dat snelheid van de basis af goed zit. Een [gratis website voor kappers](/gratis-website) van KapperAI wordt licht opgeleverd: gecomprimeerde beelden, een snelle boekingsmodule en goede hosting inbegrepen. Met onze Groei-of-Geld-Terug Garantie: levert het binnen de afgesproken periode geen extra boekingen op, dan krijg je je geld terug.
+Wil je hier niet zelf in duiken, dan bouwen of optimaliseren wij je site zo dat snelheid van de basis af goed zit. Een [gratis website voor kappers](/gratis-website) van KapperAI wordt licht opgeleverd: gecomprimeerde beelden, een snelle boekingsmodule en goede hosting inbegrepen. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 ## Veelgestelde vragen
 

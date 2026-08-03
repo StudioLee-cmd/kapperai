@@ -106,4 +106,4 @@ Een kassasysteem kiezen voelt als een technische beslissing, maar het is er voor
 
 Test die drie dingen in elke demo die je aanvraagt, en vraag daarna pas naar de rest. Wat je overhoudt is een salon waarin de cijfers kloppen zonder dat iemand ze heeft nagelopen.
 
-Wil je dat de afrekening ook meteen je opvolging in gang zet, dan zetten we bij KapperAI de hele keten voor je in: van klantkaart tot [automatische herinneringen voor kappers](/automatisering) en het review-verzoek erna. En omdat we in resultaat geloven, werken we met een Groei-of-Geld-Terug Garantie: levert het niets op, dan krijg je je geld terug. Jij knipt, wij regelen de rest.
+Wil je dat de afrekening ook meteen je opvolging in gang zet, dan zetten we bij KapperAI de hele keten voor je in: van klantkaart tot [automatische herinneringen voor kappers](/automatisering) en het review-verzoek erna. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Jij knipt, wij regelen de rest.

@@ -105,7 +105,7 @@ Niet per se, mits je huidige software met je mee kan groeien. Kies daarom softwa
 
 Kies je kapsalon software niet op de langste functielijst, maar op waar jouw salon nu staat. Eén stoel vraagt om simpel en goedkoop, drie stylisten om planning en klantbeheer, vijf plus om een systeem waarin alles in elkaar haakt. Op vier punten (prijsmodel, agenda, klantbeheer en automatisering) zie je meteen of een pakket bij jou past.
 
-Weet je niet zeker of je huidige tools bij je salongrootte passen? Doe een [gratis ai scan voor kappers](/gratis-scan) en we laten zien waar je tijd of klanten laat liggen. Werk je met ons samen, dan geldt onze Groei-of-Geld-Terug Garantie: groeit je salon niet, dan krijg je je geld terug.
+Weet je niet zeker of je huidige tools bij je salongrootte passen? Doe een [gratis ai scan voor kappers](/gratis-scan) en we laten zien waar je tijd of klanten laat liggen. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 <p class="lees-ook" style="background-color: rgba(193, 255, 114, 0.18); padding: 12px 16px; border-radius: 8px;"><strong>Lees ook:</strong> <a href="/blog/kapsalon-automatiseren-tijdbesparing">Kapsalon automatiseren: waar je de meeste tijd bespaart</a> &rarr;</p>
 

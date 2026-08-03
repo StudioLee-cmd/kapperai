@@ -98,6 +98,6 @@ Nee. Het schrijven kost je vooral eerlijk nadenken. Wel loont het om het verhaal
 
 Je merkverhaal is het enige wat een concurrent niet kan kopiëren. Schrijf het deze week op, in gewone taal, en laat het terugkomen op je website, je Google-profiel en je social media. Zo wordt elke nieuwe klant sneller een vaste klant.
 
-Wil je weten hoe sterk je merk nu online overkomt? Doe de [gratis ai scan voor kappers](/gratis-scan) en ontdek waar je verhaal nog blijft hangen. Bij KapperAI werken we met een Groei-of-Geld-Terug Garantie: groeit je salon niet, dan krijg je je geld terug. Jij knipt, wij regelen de rest.
+Wil je weten hoe sterk je merk nu online overkomt? Doe de [gratis ai scan voor kappers](/gratis-scan) en ontdek waar je verhaal nog blijft hangen. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Jij knipt, wij regelen de rest.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/branding-refresh-salon-naam-visuele-identiteit" class="text-dark fw-semibold">Branding refresh: salon-naam en visuele identiteit</a> →</p>

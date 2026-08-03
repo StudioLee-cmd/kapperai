@@ -108,7 +108,7 @@ Eerlijk: dit is niet moeilijk, het is vooral iets dat er nooit van komt. De nege
 
 Daarom richten wij bij KapperAI je Google Bedrijfsprofiel compleet in, vragensectie inbegrepen, en zorgen we dat de antwoorden en je [professionele website voor kappers](/gratis-website) hetzelfde verhaal vertellen. Jij knipt, wij regelen de rest.
 
-We werken met een Groei-of-Geld-Terug Garantie: zien we na de afgesproken periode geen verbetering in je lokale vindbaarheid, dan krijg je je geld terug.
+Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 En die vreemde achter je balie uit het begin? Die staat er over twee weken nog steeds. Het enige verschil is dat jij dan al hebt geantwoord.
 

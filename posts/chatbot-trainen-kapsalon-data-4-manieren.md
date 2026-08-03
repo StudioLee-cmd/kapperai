@@ -105,7 +105,7 @@ Reken op wekelijks tien minuten in de eerste twee maanden, daarna maandelijks. P
 
 Wat het kost hangt af van of je het zelf doet of laat doen. Zelf doen kost je vooral tijd: het opschrijven van je prijsmatrix en je huisregels is het echte werk, de techniek erachter is bij de meeste platforms een kwestie van invoeren. Laat je het doen, dan koop je die uren af plus het wekelijks meelezen. Wat een [24/7 chatbot voor kappers](/chatbot) bij ons kost staat gewoon bij de [tarieven van KapperAI](/tarieven), inclusief wat er wel en niet bij zit.
 
-Bij KapperAI, het kapperslabel van StudioLee, doen we dit als managed dienst: wij zetten de vier bronnen op met jouw prijslijst en behandelmenu, en sturen wekelijks bij op de gesprekken die hij voerde. Daar hoort onze Groei-of-Geld-Terug Garantie bij: levert het niet op wat we afspreken, dan krijg je je geld terug.
+Bij KapperAI, het kapperslabel van StudioLee, doen we dit als managed dienst: wij zetten de vier bronnen op met jouw prijslijst en behandelmenu, en sturen wekelijks bij op de gesprekken die hij voerde. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 ## Veelgestelde vragen
 

@@ -52,7 +52,7 @@ Dit is het grootste verschil. Treatwell is een tool die je zelf moet beheren. Ka
 
 Wat jij doet: 15 minuten per maand bellen om te checken of alles past bij je doelen. Dat is het. De rest doen wij. Dat is geen software kopen — dat is een compleet marketingbureau vervangen voor een fractie van de prijs.
 
-En met onze Groei-of-Geld-Terug Garantie loop je geen risico. Geen groei? Geld terug.
+Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/hoe-ai-kappers-helpt" class="text-dark fw-semibold">Hoe AI Kappers Helpt Bij Het Besparen Van Tijd (En Waarom Je Concurrentie Al Om Is)</a> →</p></div></div></div>
 

@@ -84,6 +84,6 @@ Dat kan, maar het is zelden nodig. De AI vangt alles op wat jij niet aanneemt, d
 
 Voicemail was ooit de oplossing, nu is het de reden dat bellers afhaken. Een [AI voice agent voor kappers](/voice-ai) draait dat om: elke oproep aangenomen, elke boeking direct in je agenda, ook als jij met je handen in het folie staat.
 
-Benieuwd hoeveel oproepen jouw salon nu laat lopen? Vraag de [gratis AI-scan voor kappers](/gratis-scan) aan, dan zie je zwart op wit waar de lekkage zit. Werk je met KapperAI samen, dan geldt bovendien de Groei-of-Geld-Terug Garantie: groeit je salon niet, dan krijg je je geld terug. Jij knipt, wij regelen de rest.
+Benieuwd hoeveel oproepen jouw salon nu laat lopen? Vraag de [gratis AI-scan voor kappers](/gratis-scan) aan, dan zie je zwart op wit waar de lekkage zit. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Jij knipt, wij regelen de rest.
 
 <p class="lees-ook" style="background-color: rgba(193, 255, 114, 0.18); padding: 12px 16px; border-radius: 8px; margin: 28px 0;"><strong>Lees ook:</strong> <a href="/blog/voice-ai-of-antwoorddienst-voor-kapsalons-roi-vergelijking">Voice AI of antwoorddienst voor kapsalons: ROI-vergelijking</a> &rarr;</p>
