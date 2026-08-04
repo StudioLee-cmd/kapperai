@@ -97,7 +97,7 @@ Salons die deze strategieën combineren, zien hun no-show percentage dalen van g
 
 Dat is het verschil tussen frustratie en een volle salon.
 
-<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/no-shows-kapsalon-voorkomen" class="text-dark fw-semibold">No-shows in je kapsalon voorkomen: 6 bewezen strategieën</a> →</p></div></div></div>
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/no-shows-voorkomen-kapsalon" class="text-dark fw-semibold">No-shows in je kapsalon voorkomen: 6 bewezen strategieën</a> →</p></div></div></div>
 
 ## Conclusie
 

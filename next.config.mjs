@@ -24,6 +24,8 @@ const nextConfig = {
             { source: '/blog/robot-knipt-beter-dan-jij', destination: '/', permanent: true },
             { source: '/blog/personeel-werven-kapper-stylisten', destination: '/', permanent: true },
             { source: '/blog/social-media-voor-kappers', destination: '/blog/social-media-kappers-instagram', permanent: true },
+            { source: '/blog/no-shows-kapsalon-voorkomen', destination: '/blog/no-shows-voorkomen-kapsalon', permanent: true },
+            { source: '/blog/leads-opvolgen-kapper-vaste-klant', destination: '/blog/lead-opvolging-kapper-dm-vaste-klant', permanent: true },
         ];
     },
 };

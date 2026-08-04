@@ -71,4 +71,4 @@ Bij KapperAI is dit volledig beheerd: wij zetten het op, trainen het op jouw sal
 
 De eerste stap is weten waar je nu leads verliest. [Vraag een gratis scan aan](/gratis-scan) en ontdek binnen twee minuten welke kanalen het meeste opleveren voor jouw salon. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
-Meer lezen over hoe je leads omzet in vaste klanten? Bekijk ons artikel over [leads opvolgen als kapper](/blog/leads-opvolgen-kapper-vaste-klant).
+Meer lezen over hoe je leads omzet in vaste klanten? Bekijk ons artikel over [leads opvolgen als kapper](/blog/lead-opvolging-kapper-dm-vaste-klant).
