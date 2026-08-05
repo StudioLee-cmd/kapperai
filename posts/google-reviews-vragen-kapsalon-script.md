@@ -26,7 +26,7 @@ Drie redenen waarom kappers reviews mislopen:
 - **Het wordt op het verkeerde moment gevraagd.** Net na het afrekenen, terwijl de volgende klant al wacht, is de klant met haar gedachten al bij de parkeermeter.
 - **Er is geen makkelijke link.** "Zoek ons op Google" werkt niet. Klanten geven alleen een review als de drempel praktisch nul is.
 
-Een paar kleine veranderingen lossen alle drie de problemen op. En de impact is groot: salons met 50+ reviews verschijnen tot 70 procent vaker in de top drie van het Google kaartresultaat. Dat is meer omzet, zonder extra advertentiebudget.
+Een paar kleine veranderingen lossen alle drie de problemen op. En de impact is groot: salons met 50+ reviews verschijnen duidelijk vaker in de top drie van het Google kaartresultaat. Dat is meer omzet, zonder extra advertentiebudget.
 
 ## Het juiste moment om te vragen
 
