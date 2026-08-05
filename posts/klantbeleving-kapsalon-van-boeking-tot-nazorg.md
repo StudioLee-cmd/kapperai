@@ -12,13 +12,13 @@ cluster: "automatisering"
 
 Een goede kapper vinden is niet moeilijk. Er zijn er genoeg. Wat klanten doet terugkomen — en je aanbevelen bij vrienden — is niet alleen het kapsel. Het is hoe ze zich voelden. Van het moment dat ze een afspraak boekten tot het bericht dat ze drie dagen later kregen.
 
-Onderzoek onder salons in Nederland laat zien dat 68% van de klanten die vertrekken dat niet doen vanwege een slecht kapsel, maar vanwege een neutrale ervaring. Ze voelden zich niet speciaal. En dan is de volgende salon slechts een Google-zoekopdracht verwijderd.
+De meeste klanten die vertrekken doen dat niet vanwege een slecht kapsel, maar vanwege een neutrale ervaring. Ze voelden zich niet speciaal. En dan is de volgende salon slechts een Google-zoekopdracht verwijderd.
 
 ## Het boekingsproces: de eerste indruk
 
 ### Online boeken is de standaard
 
-In 2026 verwacht 80% van de klanten dat ze online kunnen boeken. Geen belletje, geen voicemail, geen "we bellen u terug." Gewoon een kalender openen, een tijdstip kiezen en een bevestiging ontvangen.
+In 2026 verwachten verreweg de meeste klanten dat ze online kunnen boeken. Geen belletje, geen voicemail, geen "we bellen u terug." Gewoon een kalender openen, een tijdstip kiezen en een bevestiging ontvangen.
 
 Wat een goed boekingssysteem bevat:
 - **Behandeling kiezen** met duidelijke omschrijving en prijs
@@ -37,7 +37,7 @@ Persoonlijk, warm en uitnodigend — dat zet de toon.
 
 ## De ontvangst: de eerste 60 seconden
 
-De eerste minuut in je salon bepaalt 40% van de totale beleving. Wat een klant verwacht:
+De eerste minuut in je salon bepaalt een groot deel van de totale beleving. Wat een klant verwacht:
 
 - **Begroeting binnen 10 seconden** — oogcontact en een glimlach
 - **Jas ophangen** — kleine moeite, groot effect
@@ -86,7 +86,7 @@ Na de behandeling:
 
 | Zonder klantbeleving-focus | Met klantbeleving-focus |
 |---------------------------|------------------------|
-| 40% terugkeerpercentage | 70% terugkeerpercentage |
+| Laag terugkeerpercentage | Hoog terugkeerpercentage |
 | 1 op 20 schrijft review | 1 op 5 schrijft review |
 | Gem. bezoekfrequentie: 4x/jaar | Gem. bezoekfrequentie: 6x/jaar |
 | Gem. besteding: €45 | Gem. besteding: €55 (incl. producten) |
