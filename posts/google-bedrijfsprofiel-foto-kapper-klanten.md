@@ -19,7 +19,7 @@ Een kapsalon verkoopt geen product dat je vooraf kunt zien, je verkoopt een erva
 Google gebruikt foto's ook als rangschikkingsignaal. Profielen die regelmatig nieuwe foto's toevoegen, scoren hoger in de "lokale 3-pack" (de drie bedrijven die boven de organische resultaten worden getoond). Voor een kapper die in zijn stad gevonden wil worden, is dat de meest waardevolle plek op de hele zoekpagina. Lees ook hoe je structureel hoger komt in [lokale SEO voor kappers](/seo).
 
 **In het kort:**
-- Profielen met 100+ foto's krijgen 520 procent meer oproepen dan profielen met minder dan 10.
+- Profielen met 100+ foto's krijgen vele malen meer oproepen dan profielen met minder dan 10.
 - Twaalf foto-categorieën dekken samen het hele klantbeslissing-proces.
 - Smartphone is voldoende, mits je de basisregels volgt.
 - Twee uur per maand uploaden houdt je profiel hoog in de zoekresultaten.
@@ -118,7 +118,7 @@ Dat is in totaal acht tot tien nieuwe foto's per maand. Een ervaren stylist doet
 
 ## De zes meest gemaakte fouten
 
-We zien deze fouten dagelijks bij salons die ons benaderen voor een audit. Vermijd ze en je profiel staat al boven 80 procent van de concurrenten.
+We zien deze fouten dagelijks bij salons die ons benaderen voor een audit. Vermijd ze en je profiel staat al boven verreweg de meeste concurrenten.
 
 ### Alleen voor-en-na foto's
 
@@ -148,10 +148,10 @@ Een kerstpiek-foto in juni is vreemd. Wissel je profielfoto en omslagfoto vier k
 
 We hebben dit voor onze eigen kapsalon-klanten gemeten over een periode van zes maanden. De resultaten waren consistent. Salons die hun foto-aantal verdrievoudigden van 15 naar 45 zagen gemiddeld:
 
-- 38 procent meer profielweergaven per week
-- 22 procent meer route-aanvragen
-- 17 procent meer boekingsklikken vanuit het profiel
-- 12 procent meer nieuwe klanten in de eerste maand na de upload
+- Merkbaar meer profielweergaven per week
+- Meer route-aanvragen per week
+- Meer boekingsklikken vanuit het profiel
+- Meer nieuwe klanten in de eerste maand na de upload
 
 Dit is geen reclame voor onze dienst, dit is gewoon hoe Google werkt. Foto's zijn één van de drie sterkste signalen die Google gebruikt voor lokale ranking, naast reviews en categorie-keuze. Als je geen foto's hebt, laat je rankings liggen die je makkelijk had kunnen pakken. Wil je weten hoeveel boekingen je nu nog laat liggen door een ondermaats profiel? Vraag een [gratis scan](/gratis-scan) aan en we kijken samen.
 
@@ -172,7 +172,7 @@ Je hebt geen camera nodig. Een moderne smartphone heeft een lens die ruimschoots
 
 ### Hoeveel foto's moet ik minimaal hebben?
 
-Twintig is een goed startpunt. Veertig is sterk. Honderd is de top 10 procent. Onder de tien foto's wek je weinig vertrouwen, daarboven groeit het effect lineair met het aantal tot ongeveer 100.
+Twintig is een goed startpunt. Veertig is sterk. Honderd hoort bij de absolute top. Onder de tien foto's wek je weinig vertrouwen, daarboven groeit het effect lineair met het aantal tot ongeveer 100.
 
 ### Kan ik dezelfde foto's ook op Instagram gebruiken?
 
