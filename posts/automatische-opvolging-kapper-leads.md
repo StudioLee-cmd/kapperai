@@ -10,7 +10,7 @@ tags: ["AI", "Leads", "Automatisering"]
 ---
 Je Instagram-DM stroomt vol, er belt iemand terwijl je midden in een balayage zit, en die ene reactie op je Google-post? Die zie je pas drie dagen later. Herkenbaar? Voor veel kappers is het dagelijkse realiteit: genoeg interesse, maar te weinig tijd om elke potentiële klant netjes op te volgen.
 
-Het resultaat: leads die afhaken. Niet omdat je salon niet goed genoeg is, maar omdat iemand anders sneller reageert. Onderzoek laat zien dat de kans op een boeking met 80% daalt als je niet binnen vijf minuten reageert op een aanvraag. Vijf minuten. Terwijl jij staat te knippen.
+Het resultaat: leads die afhaken. Niet omdat je salon niet goed genoeg is, maar omdat iemand anders sneller reageert. De kans op een boeking daalt hard als je niet binnen vijf minuten reageert op een aanvraag. Vijf minuten. Terwijl jij staat te knippen.
 
 In dit artikel lees je hoe automatische opvolging werkt, welke kanalen het effectiefst zijn, en hoe je het opzet zonder er zelf tijd aan kwijt te zijn.
 
@@ -30,9 +30,9 @@ Het verschil met handmatig opvolgen:
 
 ### WhatsApp en SMS
 
-De meeste klanten communiceren het liefst via WhatsApp. Een automatisch bericht na een gemiste oproep ("Hé, ik zag dat je belde! Wil je een afspraak inplannen? Klik hier om te boeken.") brengt gemiddeld 30 tot 40 procent van die gemiste oproepen alsnog terug als boeking.
+De meeste klanten communiceren het liefst via WhatsApp. Een automatisch bericht na een gemiste oproep ("Hé, ik zag dat je belde! Wil je een afspraak inplannen? Klik hier om te boeken.") brengt een flink deel van die gemiste oproepen alsnog terug als boeking.
 
-Hetzelfde geldt voor afspraakbevestigingen en herinneringen. Een simpel WhatsApp-bericht 24 uur voor de afspraak vermindert no-shows met 60 procent of meer.
+Hetzelfde geldt voor afspraakbevestigingen en herinneringen. Een simpel WhatsApp-bericht 24 uur voor de afspraak vermindert no-shows fors.
 
 ### AI-chatbot op je website
 
