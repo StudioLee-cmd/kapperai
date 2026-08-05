@@ -15,7 +15,7 @@ Online boeken lost dit probleem definitief op. Je klanten maken een afspraak wan
 
 ## Waarom klanten online willen boeken
 
-Onderzoek laat zien dat meer dan 70% van de consumenten een voorkeur heeft voor online reserveren boven bellen. Vooral jongere generaties (18-35 jaar) beschouwen telefonisch boeken als ouderwets. Ze willen:
+Verreweg de meeste consumenten hebben een voorkeur voor online reserveren boven bellen. Vooral jongere generaties (18-35 jaar) beschouwen telefonisch boeken als ouderwets. Ze willen:
 
 - **Direct beschikbaarheid zien** — geen heen-en-weer gepraat over tijden
 - **Op elk moment boeken** — ook buiten openingstijden
@@ -34,7 +34,7 @@ Elke telefoonbeantwoording kost gemiddeld 3-5 minuten. Bij 15 telefonische boeki
 
 ### Minder no-shows
 
-De meeste online boekingssystemen sturen automatische herinneringen via SMS of WhatsApp. Dit verlaagt het aantal no-shows met 40-60%. Lees ook hoe je [no-shows voorkomt in je kapsalon](/blog/no-shows-voorkomen-kapsalon) voor meer strategieën.
+De meeste online boekingssystemen sturen automatische herinneringen via SMS of WhatsApp. Dit verlaagt het aantal no-shows fors. Lees ook hoe je [no-shows voorkomt in je kapsalon](/blog/no-shows-voorkomen-kapsalon) voor meer strategieën.
 
 ### Hogere bezettingsgraad
 
@@ -62,7 +62,7 @@ Er zijn twee routes om online boeken aan te bieden:
 
 **Via een platform (Treatwell, Fresha):**
 - Voordeel: direct zichtbaar voor nieuwe klanten via het platform
-- Nadeel: commissie per boeking (soms 25-35%), je bouwt aan hún merk, niet aan het jouwe
+- Nadeel: een stevige commissie per boeking, je bouwt aan hún merk, niet aan het jouwe
 
 **Via je eigen website:**
 - Voordeel: geen commissie, klantdata is van jou, versterkt je eigen merk
