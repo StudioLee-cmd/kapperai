@@ -47,7 +47,7 @@ Na de zomer komen klanten met beschadigd haar door zon, chloor en zout water. Da
 
 De beste seizoensacties zijn simpel, tijdsgebonden en relevant:
 
-- **Lentefrisse kleur**: 15% korting op kleurbehandelingen in maart en april. Duidelijk, aantrekkelijk en seizoensgebonden
+- **Lentefrisse kleur**: korting op kleurbehandelingen in maart en april. Duidelijk, aantrekkelijk en seizoensgebonden
 - **Back-to-school knipbeurt**: gezinspakketten in augustus. Ouders waarderen het gemak
 - **Herfstverzorgingspakket**: knipbeurt + behandeling voor een vaste prijs in september-oktober
 - **Kerst-cadeaubon**: koop een bon van 50 euro, krijg 10 euro extra. Simpel en effectief
