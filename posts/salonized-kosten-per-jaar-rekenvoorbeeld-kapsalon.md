@@ -127,7 +127,7 @@ Onder 150 online boekingen per maand: vast tarief is goedkoper. Tussen 150-300: 
 
 **1. Alleen het maandbedrag tellen.** Het zichtbare bedrag is de begrijpelijke kant. Commissie + SMS + add-ons zijn vaak 2-3x het maandbedrag op jaarbasis.
 
-**2. Add-ons als optioneel zien.** SMS-bevestigingen voorkomen no-shows, dus de meeste salons activeren ze. E-mail marketing wordt ook door 80%+ van de Premium-klanten erbij geboekt. Reken ze gewoon mee.
+**2. Add-ons als optioneel zien.** SMS-bevestigingen voorkomen no-shows, dus de meeste salons activeren ze. E-mail marketing wordt ook door verreweg de meeste Premium-klanten erbij geboekt. Reken ze gewoon mee.
 
 **3. "We groeien wel naar 400 boekingen toe" als rechtvaardiging.** Salonized rekent vandaag op vandaag. Je groeit, je betaalt meer, je groeit nog meer, je betaalt nog meer. Het maakt geen verschil voor je beslissing nu.
 
@@ -147,7 +147,7 @@ Niet officieel, maar SMS en payment-processing (Mollie/Stripe) lopen apart. Tele
 
 ### Is Salonized goedkoper dan Treatwell?
 
-Hangt af van de boeking-mix. Treatwell rekent typisch 8-15% commissie op nieuwe-klant-boekingen, wat duurder uitvalt voor salons met veel nieuwe instroom. Wij behandelen dat in een andere [software-vergelijking voor kappers](/seo).
+Hangt af van de boeking-mix. Treatwell rekent een stevige commissie op nieuwe-klant-boekingen, wat duurder uitvalt voor salons met veel nieuwe instroom. Wij behandelen dat in een andere [software-vergelijking voor kappers](/seo).
 
 ### Wanneer is Salonized de juiste keuze?
 
