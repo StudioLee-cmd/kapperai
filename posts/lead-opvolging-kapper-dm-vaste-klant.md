@@ -62,7 +62,7 @@ Bevestig de boeking binnen 30 seconden met een concrete tekst: datum, tijd, prij
 
 Tussen boeking en afspraak zit gemiddeld zeven tot tien dagen wachttijd. In die periode verandert het leven van de klant: ze gaat weg dat weekend, een vriendin trouwt, ze vergeet simpelweg dat ze bij jou had geboekt. Een no-show kost je 60 tot 150 euro per stoel, plus de reputatieschade van een gat in je dag.
 
-Stuur 24 uur van tevoren een WhatsApp-bevestiging met één-klik bevestigen of verzetten. "Hoi [naam], je hebt morgen om 14:00 een afspraak voor balayage. Klopt het nog? Antwoord JA om te bevestigen, of klik hier om te verzetten." 92 procent reageert binnen drie uur, en degenen die niet kunnen, geven hun plek vrij zodat jij iemand op de wachtlijst kunt plaatsen.
+Stuur 24 uur van tevoren een WhatsApp-bevestiging met één-klik bevestigen of verzetten. "Hoi [naam], je hebt morgen om 14:00 een afspraak voor balayage. Klopt het nog? Antwoord JA om te bevestigen, of klik hier om te verzetten." Verreweg de meeste klanten reageren binnen drie uur, en degenen die niet kunnen, geven hun plek vrij zodat jij iemand op de wachtlijst kunt plaatsen.
 
 ## Fase 4 — Na het bezoek: het moment waarop je vaste klanten maakt
 
@@ -84,7 +84,7 @@ De gemiddelde knipfrequentie is zes tot acht weken, kleurfrequentie tien tot vee
 - Week 6: WhatsApp met "Hoi [naam], ben weer aan jou aan het denken. Tijd voor een nieuwe knipbeurt? Ik heb komende week ruimte op woensdag of vrijdag."
 - Week 8: laatste, persoonlijke push als ze nog niet heeft geboekt: "Hoi [naam], 8 weken alweer. Wil ik je helpen plannen of komt het iets later uit deze keer?"
 
-Door drie momenten te raken in plaats van één, verhoog je de rebook-rate van rond de 35 procent (industriegemiddelde) naar 60-70 procent. Vaste klanten zijn de meest winstgevende klanten die je kunt hebben, want acquisitiekosten zijn nul.
+Door drie momenten te raken in plaats van één, verhoog je de rebook-rate fors ten opzichte van het industriegemiddelde. Vaste klanten zijn de meest winstgevende klanten die je kunt hebben, want acquisitiekosten zijn nul.
 
 ## Welke tools je nodig hebt (en welke je kunt overslaan)
 
