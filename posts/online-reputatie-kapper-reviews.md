@@ -76,7 +76,7 @@ Wacht niet tot er iets misgaat. Bouw een buffer op van positieve reviews zodat e
 
 Salons die actief aan hun online reputatie werken, zien gemiddeld:
 
-- 25% meer nieuwe boekingen via Google
+- Merkbaar meer nieuwe boekingen via Google
 - Hogere gemiddelde besteding (vertrouwen = bereidheid meer uit te geven)
 - Minder prijsgevoelige klanten (ze kiezen op kwaliteit, niet op prijs)
 
