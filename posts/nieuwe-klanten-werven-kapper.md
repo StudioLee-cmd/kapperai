@@ -25,7 +25,7 @@ Zorg dat je Google Bedrijfsprofiel compleet is:
 - Beschrijving met zoekwoorden: "Kapsalon in [stad], gespecialiseerd in [niche]"
 - Reageer op elke review, positief en negatief
 
-Salons met meer dan 20 Google reviews en een score boven de 4,5 verschijnen tot 3 keer vaker in lokale zoekresultaten dan salons zonder reviews.
+Salons met meer dan 20 Google reviews en een score boven de 4,5 verschijnen duidelijk vaker in lokale zoekresultaten dan salons zonder reviews.
 
 ## 2. Instagram als portfolio en leadmachine
 
@@ -34,7 +34,7 @@ Instagram is het platform waar kappers het meeste resultaat behalen. Niet door w
 ### Content die werkt
 
 - **Voor-en-na foto's**: de beste converters. Laat het verschil zien, gebruik goede belichting
-- **Reels van het proces**: 15 tot 30 seconden, versneld, met trending audio. Dit type content krijgt 2 tot 3 keer meer bereik dan standaard posts
+- **Reels van het proces**: 15 tot 30 seconden, versneld, met trending audio. Dit type content krijgt fors meer bereik dan standaard posts
 - **Stories met polls en vragen**: "Welke kleur vinden jullie het mooist?" Engagement verhoogt je bereik
 
 ### Van volger naar klant
@@ -47,11 +47,11 @@ Een groot bereik zonder boekingen is zinloos. Zorg dat je bio een directe boekin
 
 Mond-tot-mondreclame is nog steeds de sterkste vorm van marketing. Maar je kunt het versterken met een doorverwijsprogramma:
 
-- Bestaande klant verwijst iemand door? Beide krijgen 10 procent korting op de volgende behandeling
+- Bestaande klant verwijst iemand door? Beide krijgen korting op de volgende behandeling
 - Geef je vaste klanten 5 visitekaartjes met een unieke code om uit te delen
 - Automatiseer de tracking: het systeem herkent de code en past de korting automatisch toe
 
-Salons met een actief doorverwijsprogramma zien gemiddeld 15 tot 20 procent van hun nieuwe klanten via deze route binnenkomen.
+Salons met een actief doorverwijsprogramma zien een flink deel van hun nieuwe klanten via deze route binnenkomen.
 
 ## 4. Lokale SEO: gevonden worden zonder te adverteren
 
@@ -65,7 +65,7 @@ Dit kost je niets behalve tijd, en die artikelen blijven jarenlang verkeer naar 
 
 ## 5. Reviews actief verzamelen en tonen
 
-Reviews zijn de nieuwe mond-tot-mondreclame. 88 procent van de consumenten vertrouwt online reviews evenveel als persoonlijke aanbevelingen. Toch vragen de meeste kappers nooit actief om een review.
+Reviews zijn de nieuwe mond-tot-mondreclame. Verreweg de meeste consumenten vertrouwen online reviews evenveel als persoonlijke aanbevelingen. Toch vragen de meeste kappers nooit actief om een review.
 
 Automatiseer het: stuur 2 uur na elke afspraak een vriendelijk berichtje via SMS of WhatsApp met een directe link naar je Google reviewpagina. Maak het de klant zo makkelijk mogelijk, twee klikken en klaar.
 
