@@ -44,7 +44,7 @@ Een mooie website zonder [SEO](/seo) is als een salon op een industrieterrein zo
 - Publiceer regelmatig content: trends, tips, seizoensartikelen
 - Zorg voor snelle laadtijden en een mobiele versie die perfect werkt
 
-Meer dan 60% van je websitebezoekers komt via een telefoon. Als je website niet perfect werkt op mobiel, verlies je de helft van je potentiële klanten.
+Verreweg de meeste websitebezoekers komen via een telefoon. Als je website niet perfect werkt op mobiel, verlies je een groot deel van je potentiële klanten.
 
 ## Veelgestelde vragen
 
