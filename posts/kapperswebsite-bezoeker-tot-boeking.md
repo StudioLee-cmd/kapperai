@@ -32,7 +32,7 @@ Populaire opties voor kappers zijn Treatwell, Salonized en Fresha. Deze tools in
 
 ## Snelheid en mobiel
 
-Meer dan 70% van je websitebezoekers komt via een smartphone. Als je website traag laadt of niet goed werkt op mobiel, verlies je direct potentiële klanten. Google straft trage websites bovendien af in de [zoekresultaten](/seo).
+Verreweg de meeste websitebezoekers komen via een smartphone. Als je website traag laadt of niet goed werkt op mobiel, verlies je direct potentiële klanten. Google straft trage websites bovendien af in de [zoekresultaten](/seo).
 
 Test je website op snelheid via Google PageSpeed Insights. Zorg dat afbeeldingen gecomprimeerd zijn, gebruik geen zware animaties en kies een snelle hosting. Een laadtijd van onder de 3 seconden is de norm — alles daarboven kost je boekingen.
 
