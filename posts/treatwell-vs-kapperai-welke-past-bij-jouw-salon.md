@@ -21,7 +21,7 @@ Treatwell doet één ding: boekingen. Het is goed in dat ene ding, maar het stop
 KapperAI is een 20-in-1 AI-platform dat speciaal is gebouwd voor kapsalons. Het combineert alles wat je nodig hebt in één systeem:
 
 - **AI-telefoniste** die 24/7 afspraken aanneemt
-- **Automatische WhatsApp-herinneringen** die no-shows met 40–60% reduceren
+- **Automatische WhatsApp-herinneringen** die no-shows fors reduceren
 - **Google Reviews automatisering** die structureel je beoordeling opbouwt
 - **Social media planning** met AI-gegenereerde content
 - **SEO en AI-vindbaarheid** zodat je salon gevonden wordt in Google én in AI-chatbots
@@ -35,7 +35,7 @@ Eén platform, één prijs, alles geïntegreerd. Bekijk alle mogelijkheden op on
 | Criterium | Treatwell | KapperAI |
 |-----------|-----------|----------|
 | **Boekingen** | ✓ Via het Treatwell-platform | ✓ Via je eigen website + AI-telefoniste |
-| **Commissie per boeking** | Ja, 25–35% op Treatwell-boekingen | Nee, vast maandtarief |
+| **Commissie per boeking** | Ja, een fors percentage op Treatwell-boekingen | Nee, vast maandtarief |
 | **WhatsApp-herinneringen** | Beperkt | ✓ Volledig geautomatiseerd |
 | **Google Reviews** | ✗ | ✓ Automatisch na elke afspraak |
 | **Social media** | ✗ | ✓ AI-gegenereerde content |
