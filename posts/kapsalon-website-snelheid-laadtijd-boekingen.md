@@ -14,7 +14,7 @@ Snelheid voelt als een technisch detail waar je een websitebouwer voor hebt. Maa
 
 **In het kort:**
 
-- Ongeveer 1 op de 4 bezoekers haakt af als een site er langer dan 3 seconden over doet om te laden. Op mobiel, waar de meeste kappers-klanten boeken, is dat nog scherper.
+- Een flink deel van de bezoekers haakt af als een site er langer dan 3 seconden over doet om te laden. Op mobiel, waar de meeste kappers-klanten boeken, is dat nog scherper.
 - Mik op een laadtijd onder de 2,5 seconde voor het belangrijkste deel van je pagina. Dat is ook de norm die Google hanteert (Largest Contentful Paint).
 - De grootste boosdoeners op een kapsalon-site: te zware voor/na-foto's, te veel lettertypen, een log boekingswidget, geen caching, trage hosting en oude redirects.
 - Test het zelf gratis met Google PageSpeed Insights, of laat het meenemen in een [professionele website voor kappers](/gratis-website) die van de basis af snel is gebouwd.
