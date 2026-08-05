@@ -114,7 +114,7 @@ Voor een kapsalon met €180.000-€250.000 omzet per jaar en gemiddeld 60 chat-
 - 15 vragen escaleren naar kapper (gem. 2-3 min, want voorgestructureerd), ~40 minuten kapper-tijd per maand
 - 24/7 beschikbaarheid: ~10-15 potentiele klanten per maand WEL gevangen die anders weg waren
 
-Bij een gemiddelde klantwaarde van €85 per bezoek en 4-6 bezoeken per jaar (€340-€510 lifetime year-1), is 10 extra klanten per maand €3.400 tot €5.100 extra omzet per maand. Min de kosten van een chatbot (€79-€179/maand inbegrepen in [tarieven KapperAI](/tarieven)), netto €3.000-€4.500 per maand. Tijdwinst van 3-4 uur per maand on top.
+Bij een gemiddelde klantwaarde van €85 per bezoek en 4-6 bezoeken per jaar (€340-€510 lifetime year-1), is 10 extra klanten per maand €3.400 tot €5.100 extra omzet per maand. Min de kosten van een chatbot (zie [tarieven KapperAI](/tarieven)), netto €3.000-€4.500 per maand. Tijdwinst van 3-4 uur per maand on top.
 
 ## Wat StudioLee voor jou doet
 
