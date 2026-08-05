@@ -47,7 +47,7 @@ Social media is meer dan een etalage — het is een actief wervingskanaal als je
 
 Je bestaande klanten zijn je beste verkoopteam. Maar je moet het ze makkelijk maken.
 
-**Beloning voor doorverwijzingen**. "Breng een vriendin mee en jullie krijgen allebei 15% korting." Simpel, aantrekkelijk en het werkt. De kosten zijn minimaal vergeleken met advertenties.
+**Beloning voor doorverwijzingen**. "Breng een vriendin mee en jullie krijgen allebei korting." Simpel, aantrekkelijk en het werkt. De kosten zijn minimaal vergeleken met advertenties.
 
 **Maak het deelbaar**. Geef klanten een persoonlijke kortingscode die ze via WhatsApp kunnen delen. Hoe minder moeite het kost, hoe vaker het gebeurt.
 
