@@ -71,7 +71,7 @@ Een rebrand klinkt als een halfjaar-project. Voor een eenmanszaak tot 5-koppig t
 
 **Week 5, Social en review-portage.** Instagram-handle wijzigen (Meta laat dit toe, je oude followers verhuizen mee), Facebook-paginanaam wijzigen, Google Bedrijfsprofiel updaten, [review management voor kappers](/reviews) opnieuw inrichten op de nieuwe brandvoer (oude reviews mee-portage zie sectie hieronder).
 
-**Week 6, Soft launch en lancering.** Trouwe klanten krijgen een appje 3 dagen voor go-live ("we hebben iets nieuws voor je"), de publieke lancering op een vrijdagochtend (vrijdag- en zaterdagboekingen pieken in de eerste week meestal +15-20%).
+**Week 6, Soft launch en lancering.** Trouwe klanten krijgen een appje 3 dagen voor go-live ("we hebben iets nieuws voor je"), de publieke lancering op een vrijdagochtend (vrijdag- en zaterdagboekingen pieken in de eerste week meestal duidelijk).
 
 ## Klant-retentie tijdens de transitie
 
@@ -111,6 +111,6 @@ Voor een nuchtere check op welke tier bij jouw situatie past, kijk naar de [tari
 
 ## Wanneer een rebrand zich heeft terugverdiend
 
-Twee meetbare signalen vertellen je binnen 6-12 maanden of het werk renderend was. Eén: nieuwe-klanten-instroom uit Instagram en Google stijgt met 15-30% in de drie maanden na lancering, gestabiliseerd in maand 4-6. Twee: gemiddeld bestedingsniveau per nieuwe klant zit op of boven je nieuwe-positionering-target, als je naar premium-segment hebt verschoven en de bonkaart-omzet stagneert, klopt het merk wel maar niet de uitvoering eronder.
+Twee meetbare signalen vertellen je binnen 6-12 maanden of het werk renderend was. Eén: nieuwe-klanten-instroom uit Instagram en Google stijgt merkbaar in de drie maanden na lancering, gestabiliseerd in maand 4-6. Twee: gemiddeld bestedingsniveau per nieuwe klant zit op of boven je nieuwe-positionering-target, als je naar premium-segment hebt verschoven en de bonkaart-omzet stagneert, klopt het merk wel maar niet de uitvoering eronder.
 
 Mocht je willen weten waar jouw salon nu staat op merk-coherentie (klopt naam, visuele identiteit en online aanwezigheid nog?) voordat je iets in beweging zet, dan bekijkt de [gratis ai scan voor kappers](/gratis-scan) de huidige presence-staat over website, Google-profiel, Instagram en reviews tegen elkaar. Dat zegt veel meer dan een buikgevoel of een vriendin die je naam saai vindt.
