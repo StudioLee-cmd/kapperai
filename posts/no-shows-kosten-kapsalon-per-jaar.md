@@ -37,7 +37,7 @@ Naast de directe omzet zijn er kosten die minder zichtbaar zijn maar net zo hard
 
 ## Waarom klanten niet komen opdagen
 
-De meeste no-shows zijn geen kwade opzet. Uit onderzoek blijkt dat 62 procent van de gemiste afspraken simpelweg wordt vergeten. Klanten boeken een afspraak, leven hun drukke week en vergeten dat ze donderdag om 14:00 een knipbeurt hadden staan.
+De meeste no-shows zijn geen kwade opzet. Het merendeel van de gemiste afspraken wordt simpelweg vergeten. Klanten boeken een afspraak, leven hun drukke week en vergeten dat ze donderdag om 14:00 een knipbeurt hadden staan.
 
 Andere veelvoorkomende redenen: dubbele afspraken in de privéagenda, veranderde plannen zonder dat de moeite wordt genomen om af te bellen, of drempelvrees om te annuleren. Dat laatste is een onderschat probleem. Sommige klanten voelen zich ongemakkelijk om af te bellen en kiezen dan voor de makkelijkste optie: gewoon niet komen. Een laagdrempelig systeem om afspraken te wijzigen of annuleren verlaagt die drempel aanzienlijk.
 
@@ -45,17 +45,17 @@ Andere veelvoorkomende redenen: dubbele afspraken in de privéagenda, veranderde
 
 De meest effectieve aanpak combineert meerdere maatregelen tegelijk. Geen enkele maatregel werkt perfect op zichzelf, maar samen dekken ze het grootste deel van het probleem af.
 
-**Automatische herinneringen via WhatsApp of SMS.** Een herinnering 24 tot 48 uur voor de afspraak vermindert no-shows met 40 tot 60 procent. WhatsApp werkt beter dan e-mail omdat het direct wordt gelezen. Een [AI telefonist](/voice-ai) kan dit volledig automatiseren, inclusief de mogelijkheid voor klanten om direct te reageren als ze willen verzetten.
+**Automatische herinneringen via WhatsApp of SMS.** Een herinnering 24 tot 48 uur voor de afspraak vermindert no-shows fors. WhatsApp werkt beter dan e-mail omdat het direct wordt gelezen. Een [AI telefonist](/voice-ai) kan dit volledig automatiseren, inclusief de mogelijkheid voor klanten om direct te reageren als ze willen verzetten.
 
 **Online boeken met duidelijk annuleringsbeleid.** Laat klanten eenvoudig zelf boeken, verzetten en annuleren. Hoe makkelijker het is om te wijzigen, hoe minder vaak ze simpelweg wegblijven. Vermeld je annuleringsvoorwaarden bij elke boeking, zodat klanten weten waar ze aan toe zijn.
 
-**Aanbetalingen voor duurdere behandelingen.** Bij kleuringen, extensions of andere behandelingen boven de 75 euro is een aanbetaling redelijk en effectief. Klanten die vooruit betalen komen vrijwel altijd opdagen. Het hoeft geen hoog bedrag te zijn: 25 tot 50 procent van de behandelprijs is genoeg om de no-show kans drastisch te verlagen.
+**Aanbetalingen voor duurdere behandelingen.** Bij kleuringen, extensions of andere behandelingen boven de 75 euro is een aanbetaling redelijk en effectief. Klanten die vooruit betalen komen vrijwel altijd opdagen. Het hoeft geen hoog bedrag te zijn: een kwart tot de helft van de behandelprijs is genoeg om de no-show kans drastisch te verlagen.
 
 **Opvolging van veelplegers.** Houd bij welke klanten herhaaldelijk niet komen opdagen. Na twee no-shows is een persoonlijk gesprek op zijn plaats. Soms werkt het om voortaan alleen met aanbetaling te boeken voor deze klanten.
 
 ## Hoeveel levert het op om actie te ondernemen
 
-Salons die automatische herinneringen combineren met een duidelijk annuleringsbeleid en aanbetalingen voor duurdere behandelingen, rapporteren een daling van 60 tot 90 procent in no-shows. Bij drie no-shows per week en 55 euro gemiddeld bespaart een daling van 70 procent al bijna 6.000 euro per jaar.
+Salons die automatische herinneringen combineren met een duidelijk annuleringsbeleid en aanbetalingen voor duurdere behandelingen, rapporteren een forse daling in no-shows. In dit rekenvoorbeeld: bij drie no-shows per week en 55 euro gemiddeld bespaart een daling van 70 procent al bijna 6.000 euro per jaar.
 
 Dat is geen theorie. Dat is omzet die nu verloren gaat en met relatief eenvoudige aanpassingen weer terugkomt. De investering in een goed herinneringssysteem betaalt zich binnen enkele weken terug. Hoe eerder je begint, hoe eerder je salon dat geld weer in de kassa heeft.
 
