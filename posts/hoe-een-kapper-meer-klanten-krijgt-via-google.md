@@ -27,7 +27,7 @@ Je Google Bedrijfsprofiel (vroeger Google My Business) is het allerbelangrijkste
 - Voeg een "Afspraak maken"-knop toe die linkt naar je boekingssysteem
 - Reageer op élke review, ook de negatieve — Google beloont activiteit
 
-Kappers die hun profiel volledig hebben ingevuld en actief bijhouden, scoren gemiddeld 70% meer profielbezoeken dan kappers met een kaal profiel. En meer profielbezoeken betekent meer telefoontjes en boekingen.
+Kappers die hun profiel volledig hebben ingevuld en actief bijhouden, scoren duidelijk meer profielbezoeken dan kappers met een kaal profiel. En meer profielbezoeken betekent meer telefoontjes en boekingen.
 
 ---
 
@@ -43,7 +43,7 @@ Stel een automatisch WhatsApp-berichtje in dat een paar uur na de afspraak wordt
 
 > "Hey [naam], bedankt voor je bezoek vandaag! We hopen dat je blij bent met je nieuwe look. Zou je ons willen helpen met een Google-review? Het duurt maar een minuutje: [link]"
 
-Met de juiste automatisering gaat dit volledig vanzelf. Kappers die dit systeem gebruiken, verzamelen gemiddeld 3 tot 5 keer zo veel reviews als kappers die er handmatig om vragen.
+Met de juiste automatisering gaat dit volledig vanzelf. Kappers die dit systeem gebruiken, verzamelen veel meer reviews dan kappers die er handmatig om vragen.
 
 ---
 
@@ -83,7 +83,7 @@ ChatGPT en andere AI-zoekmachines halen hun antwoorden op uit openbare bronnen: 
 
 Een no-show kost je gemiddeld 30 tot 60 euro aan gemiste inkomsten per uur. En als klanten weten dat jij altijd bereikbaar bent en netjes communiceert, schrijven ze dat in hun reviews.
 
-Automatische herinneringen via WhatsApp of SMS — verstuurd 24 uur en 2 uur voor de afspraak — verlagen het no-show percentage gemiddeld met 30 tot 50%.
+Automatische herinneringen via WhatsApp of SMS — verstuurd 24 uur en 2 uur voor de afspraak — verlagen het no-show percentage fors.
 
 > "He [naam], morgen om 10:00 staat je afspraak bij ons klaar! Wil je verzetten of annuleren? Stuur ons dan even een berichtje."
 
