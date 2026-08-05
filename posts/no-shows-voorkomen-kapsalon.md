@@ -26,7 +26,7 @@ Het goede nieuws? Al deze redenen zijn op te lossen — vaak met heel simpele aa
 
 ## 1. Stuur automatische herinneringen (24 uur + 2 uur van tevoren)
 
-Dit is de meest effectieve maatregel. Salons die [automatische herinneringen](/automatisering) versturen via SMS of WhatsApp zien hun no-show percentage met 40-60% dalen.
+Dit is de meest effectieve maatregel. Salons die [automatische herinneringen](/automatisering) versturen via SMS of WhatsApp zien hun no-show percentage fors dalen.
 
 De ideale combinatie:
 - **24 uur van tevoren**: een vriendelijke herinnering met datum, tijd en behandeling
@@ -52,7 +52,7 @@ Zo werkt het:
 
 ## 4. Vraag een kleine aanbetaling bij dure behandelingen
 
-Voor behandelingen boven de €75 (verven, extensions, keratine) is een aanbetaling van 20-30% volkomen acceptabel. Klanten die betaald hebben, komen opdagen.
+Voor behandelingen boven de €75 (verven, extensions, keratine) is een aanbetaling van een vijfde tot een derde volkomen acceptabel. Klanten die betaald hebben, komen opdagen.
 
 Communiceer dit helder bij het boeken: "Om je plek te reserveren vragen we een aanbetaling van €[bedrag]. Dit wordt verrekend met de totale prijs."
 
@@ -60,7 +60,7 @@ Communiceer dit helder bij het boeken: "Om je plek te reserveren vragen we een a
 
 Positieve motivatie werkt beter dan straffen. Overweeg een loyaliteitsprogramma:
 
-- Na 5 afspraken: 10% korting op de volgende behandeling
+- Na 5 afspraken: korting op de volgende behandeling
 - Na 10 afspraken: gratis verzorgingsproduct
 - Nooit een no-show? Verjaardagskorting
 
@@ -87,7 +87,7 @@ Zorg dat je online boekingssysteem:
 
 ## Wat levert het op?
 
-Salons die deze strategieën combineren, zien hun no-show percentage dalen van gemiddeld 15-20% naar minder dan 5%. Bij een gemiddelde salon betekent dat:
+Salons die deze strategieën combineren, zien hun no-show percentage fors dalen. Bij een gemiddelde salon betekent dat:
 
 | Scenario | No-shows/week | Gemiste omzet/jaar |
 |----------|--------------|-------------------|
