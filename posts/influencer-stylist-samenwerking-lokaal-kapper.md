@@ -10,9 +10,9 @@ cluster: "branding"
 ---
 
 **In het kort:**
-- Lokale micro-influencers (1.000-10.000 Instagram-volgers in jouw regio) zijn in 2026 de hoogst-converterende referral-bron voor kapsalons. Conversie 8-15% (versus 1-3% bij betaalde ads). Een goede samenwerking: 1 gratis behandeling per maand tegen 2-3 UGC-posts + storyhighlights.
+- Lokale micro-influencers (1.000-10.000 Instagram-volgers in jouw regio) zijn in 2026 de hoogst-converterende referral-bron voor kapsalons. De conversie ligt een veelvoud hoger dan bij betaalde ads. Een goede samenwerking: 1 gratis behandeling per maand tegen 2-3 UGC-posts + storyhighlights.
 - Doelgroep voor selectie: niche-relevant (mode, lifestyle, lokale evenementen), 20-35 jaar, 1k-10k volgers, hoge engagement-rate (>4%), woonachtig in jouw klanten-regio. Geen "fashion-bloggers met 500K volgers", die werken niet meer.
-- Performance-tracking via een unieke promo-code per influencer (10-15% korting voor hun volgers). Resultaat 2-6 maanden: 8-25 nieuwe klanten per influencer, waarvan 35-50% vaste klant wordt. ROI: €450-€1.800 per influencer-jaar versus €85-€150 in "kosten" (gratis behandeling).
+- Performance-tracking via een unieke promo-code per influencer (reken met 10-15% korting voor hun volgers). Resultaat 2-6 maanden: 8-25 nieuwe klanten per influencer, waarvan een aanzienlijk deel vaste klant wordt. ROI: €450-€1.800 per influencer-jaar versus €85-€150 in "kosten" (gratis behandeling).
 - Een [crm voor kappers](/crm) met influencer-tracking module (per influencer: aantal aangebrachte klanten, conversie, total-spend) maakt het verschil tussen "we proberen wat" en "we hebben een meetbaar kanaal". Combineer met een [chatbot voor kappers](/chatbot) die promo-code-vragen 24/7 beantwoordt.
 
 ## Waarom micro-influencers werken (en macro niet meer)
@@ -33,7 +33,7 @@ Vier criteria:
 
 **1. Lokale relevantie.** Volgers moeten in jouw klanten-radius wonen (10-20 km). Check Instagram-locatie-tags van recente posts. Een Amsterdam-influencer is nutteloos voor een Eindhovense kapsalon.
 
-**2. Engagement-rate boven 4%.** Bereken: (gem. likes + comments) / volgers × 100. Volgers zijn dus minder belangrijk dan engagement.
+**2. Engagement-rate: reken met een ondergrens van 4%.** Bereken: (gem. likes + comments) / volgers × 100. Volgers zijn dus minder belangrijk dan engagement.
 
 **3. Niche-match.** Mode/lifestyle/beauty/fitness influencers werken voor kapsalons. Tech/gaming/cooking niet.
 
@@ -47,13 +47,13 @@ Standaard-pakket voor een gemiddelde micro-influencer (3.000-7.000 volgers):
 
 **Wat de influencer krijgt:**
 - 1 gratis kapbeurt + behandeling per kwartaal (4 per jaar, totaal €280-€480 service-waarde)
-- 25% korting voor extra services tussendoor
+- Korting voor extra services tussendoor
 
 **Wat de salon krijgt:**
 - 2-3 Instagram-posts per behandeling met @-tag van de salon
 - Story-highlights tijdens en na de behandeling (3-5 stories)
 - Reel/video van de transformation (1 per kwartaal)
-- Een unieke promo-code voor hun volgers (10-15% korting eerste behandeling)
+- Een unieke promo-code voor hun volgers (reken met 10-15% korting op de eerste behandeling)
 
 Contract: 1 jaar, opzegbaar per kwartaal. Eenvoudig PDF met afspraken, geen complexe juridische tekst.
 
@@ -67,7 +67,7 @@ Drie metrics die je per influencer bijhoudt:
 
 **Metric 1: Unieke promo-codes per influencer.** Elke influencer krijgt een eigen code (bijvoorbeeld "EMMA15" of "JULIA10"). In je booking-systeem koppel je elke code aan de influencer. Per maand zie je: aantal nieuwe boekingen met deze code.
 
-**Metric 2: Vervolgconversie.** Van de nieuwe klanten met code, hoeveel komt 2e keer terug? Hoeveel wordt vaste klant (3+ bezoeken in 12 maanden)? Goede influencer-leads hebben 35-50% vaste-klant-conversie.
+**Metric 2: Vervolgconversie.** Van de nieuwe klanten met code, hoeveel komt 2e keer terug? Hoeveel wordt vaste klant (3+ bezoeken in 12 maanden)? Goede influencer-leads hebben een duidelijk hogere vaste-klant-conversie.
 
 **Metric 3: Total spend per influencer-lead.** Eerste behandeling + alle vervolgbezoeken in 12 maanden. Geeft de werkelijke ROI per influencer.
 
