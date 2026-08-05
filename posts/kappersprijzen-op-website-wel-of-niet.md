@@ -13,7 +13,7 @@ In dit artikel bekijken we beide kanten, delen we wat de data zegt, en geven we 
 
 ## Waarom klanten prijzen willen zien
 
-Transparantie is in 2026 geen luxe meer — het is een verwachting. Uit onderzoek blijkt dat meer dan 70% van de consumenten prijsinformatie als een van de belangrijkste factoren noemt bij het kiezen van een dienstverlener. Voor kappers geldt dit nog sterker: een knipbeurt is een regelmatige uitgave, en klanten willen weten waar ze aan toe zijn.
+Transparantie is in 2026 geen luxe meer — het is een verwachting. Verreweg de meeste consumenten noemen prijsinformatie als een van de belangrijkste factoren bij het kiezen van een dienstverlener. Voor kappers geldt dit nog sterker: een knipbeurt is een regelmatige uitgave, en klanten willen weten waar ze aan toe zijn.
 
 Wanneer je geen prijzen toont, ontstaat er onzekerheid. Die onzekerheid leidt tot twee reacties: de klant belt om te vragen (wat jou tijd kost), of de klant klikt door naar een concurrent die wél transparant is. Beide scenario's kosten je geld.
 
