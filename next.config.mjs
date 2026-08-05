@@ -26,6 +26,7 @@ const nextConfig = {
             { source: '/blog/social-media-voor-kappers', destination: '/blog/social-media-kappers-instagram', permanent: true },
             { source: '/blog/no-shows-kapsalon-voorkomen', destination: '/blog/no-shows-voorkomen-kapsalon', permanent: true },
             { source: '/blog/leads-opvolgen-kapper-vaste-klant', destination: '/blog/lead-opvolging-kapper-dm-vaste-klant', permanent: true },
+            { source: '/blog/meer-reviews-met-ai', destination: '/blog/meer-google-reviews-als-kapper', permanent: true },
         ];
     },
 };
