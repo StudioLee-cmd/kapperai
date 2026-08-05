@@ -27,7 +27,7 @@ Het probleem: de meeste kappers hebben geen systeem om deze leads bij te houden.
 
 ## Waarom snelheid alles is
 
-Uit onderzoek blijkt dat de kans op het boeken van een afspraak met 80% daalt als je langer dan 5 minuten wacht met reageren. Bij kappers is dit nog extremer — klanten willen snel een plek en bellen gewoon de volgende salon als jij niet opneemt.
+De kans op het boeken van een afspraak daalt hard als je langer dan 5 minuten wacht met reageren. Bij kappers is dit nog extremer — klanten willen snel een plek en bellen gewoon de volgende salon als jij niet opneemt.
 
 ![Leads opvolgen in de praktijk](/images/blog/leads-opvolgen-als-kapper-2.jpg)
 
@@ -61,8 +61,8 @@ Je CRM herkent terugkerende nummers. Als een bestaande klant belt, zie je direct
 
 Kappers die een leadopvolgsysteem gebruiken zien gemiddeld:
 
-- 30-40% meer afspraken per maand uit dezelfde hoeveelheid aanvragen
-- 50% minder gemiste oproepen die onbeantwoord blijven
+- Merkbaar meer afspraken per maand uit dezelfde hoeveelheid aanvragen
+- Fors minder gemiste oproepen die onbeantwoord blijven
 - Hogere klanttevredenheid door snellere reacties
 - Meer mond-tot-mondreclame omdat klanten de service waarderen
 
