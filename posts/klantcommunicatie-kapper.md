@@ -19,7 +19,7 @@ Klanten kiezen niet alleen een kapper op basis van knipkwaliteit. Ze kiezen op b
 - **Herinneringen** verminderen [no-shows](/blog/no-shows-voorkomen-kapsalon)
 - **Nazorg** laat zien dat je geeft om het resultaat
 
-Uit onderzoek blijkt dat salons met gestructureerde communicatie tot 30% minder no-shows hebben en hogere klanttevredenheidsscores.
+Salons met gestructureerde communicatie hebben merkbaar minder no-shows en hogere klanttevredenheidsscores.
 
 ## De 5 contactmomenten die ertoe doen
 
@@ -34,7 +34,7 @@ Stuur binnen 1 minuut een automatische bevestiging via WhatsApp of SMS. Vermeld:
 
 ### 2. De herinnering (24 uur van tevoren)
 
-Een kort bericht: "Morgen om 14:00 verwachten we je voor je knipbeurt. Tot dan!" Dit verlaagt no-shows met gemiddeld 25%.
+Een kort bericht: "Morgen om 14:00 verwachten we je voor je knipbeurt. Tot dan!" Dit verlaagt no-shows merkbaar.
 
 ### 3. Tijdens het bezoek
 
@@ -52,9 +52,9 @@ Een kort bedankbericht: "Bedankt voor je bezoek! We hopen dat je blij bent met h
 
 | Kanaal | Geschikt voor | Openrate |
 |--------|--------------|----------|
-| WhatsApp | Bevestigingen, herinneringen | 90%+ |
-| SMS | Herinneringen als backup | 95%+ |
-| Email | Nieuwsbrieven, seizoenstips | 20-30% |
+| WhatsApp | Bevestigingen, herinneringen | zeer hoog |
+| SMS | Herinneringen als backup | zeer hoog |
+| Email | Nieuwsbrieven, seizoenstips | een stuk lager |
 | Telefoon | Persoonlijke service, klachten | 100% |
 
 WhatsApp is veruit het populairste kanaal in Nederland. Klanten verwachten het, en het voelt persoonlijker dan een generieke email.
