@@ -23,7 +23,7 @@ Telefoontjes tussendoor opnemen, WhatsApp-berichten beantwoorden met "heb je ple
 
 ### Herinneringen en no-shows afhandelen
 
-Elke gemiste afspraak kost je tussen de 40 en 80 euro aan misgelopen omzet. Handmatig bellen of appen om klanten te herinneren kost je daarbovenop nog eens 2 uur per week. Automatische herinneringen via SMS of WhatsApp, 24 uur en 2 uur voor de afspraak, reduceren no-shows met 40 tot 60 procent. Zonder dat jij er iets voor hoeft te doen.
+Elke gemiste afspraak kost je tussen de 40 en 80 euro aan misgelopen omzet. Handmatig bellen of appen om klanten te herinneren kost je daarbovenop nog eens 2 uur per week. Automatische herinneringen via SMS of WhatsApp, 24 uur en 2 uur voor de afspraak, reduceren no-shows fors. Zonder dat jij er iets voor hoeft te doen.
 
 ### Facturatie en boekhouding
 
@@ -55,7 +55,7 @@ Dit klinkt als veel werk, maar het draait precies één keer instellen. Daarna l
 
 ## Online boekingen vs. telefonisch plannen
 
-De cijfers zijn duidelijk: salons die overstappen naar online boeken zien gemiddeld 25 procent meer boekingen. Niet omdat ze meer klanten hebben, maar omdat klanten buiten openingstijden boeken. 40 procent van alle online salonboekingen vindt plaats na 20:00 uur, wanneer jij allang thuis bent.
+Het patroon is duidelijk: salons die overstappen naar online boeken zien merkbaar meer boekingen. Niet omdat ze meer klanten hebben, maar omdat klanten buiten openingstijden boeken. Een fors deel van alle online salonboekingen vindt plaats na 20:00 uur, wanneer jij allang thuis bent.
 
 Bovendien verdwijnt het probleem van dubbele boekingen. Het systeem laat alleen beschikbare tijdsloten zien. Geen verrassingen meer op drukke zaterdagen.
 
@@ -65,8 +65,8 @@ Laten we rekenen met een gemiddelde kapsalon:
 
 - 10 uur per week bespaard aan administratie
 - Bij een uurtarief van 50 euro is dat 500 euro per week aan vrijgekomen productieve tijd
-- 40 procent minder no-shows: bij 3 gemiste afspraken per week van 60 euro = 72 euro extra per week
-- 25 procent meer boekingen door online planning: bij een gemiddelde besteding van 55 euro per klant = honderden euro's per maand
+- In dit rekenvoorbeeld 40 procent minder no-shows: bij 3 gemiste afspraken per week van 60 euro = 72 euro extra per week
+- In dit rekenvoorbeeld 25 procent meer boekingen door online planning: bij een gemiddelde besteding van 55 euro per klant = honderden euro's per maand
 
 De investering in automatiseringssoftware ligt meestal tussen de 50 en 150 euro per maand. De terugverdientijd is vaak minder dan een week.
 
