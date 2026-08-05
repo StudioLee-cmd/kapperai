@@ -11,7 +11,7 @@ cluster: "vindbaarheid"
 ## In het kort
 
 - **ChatGPT, Perplexity en Google AI Overviews kiezen welke kapsalon ze noemen** op basis van autoriteit, reviews en gestructureerde data, niet op basis van klassieke Google-ranking.
-- **Een gemiddelde Nederlandse kapsalon wordt door ChatGPT in minder dan 4 procent van de relevante prompts genoemd**, terwijl ketens als Hairstyle Hairfashion en Kinki Kappers 60 tot 80 procent halen.
+- **Een gemiddelde Nederlandse kapsalon wordt door ChatGPT in maar een fractie van de relevante prompts genoemd**, terwijl ketens als Hairstyle Hairfashion en Kinki Kappers er veel vaker uit komen.
 - **Drie hefbomen werken bewezen:** vraag-antwoord content over behandelingen, HairSalon schema markup en externe vermeldingen op review-platformen.
 - **Verwacht resultaat:** binnen 8 tot 12 weken meetbare stijging van AI-search citaties; binnen 6 maanden tien tot twintig procent meer nieuwe boekingen.
 - **Wie het moet overwegen:** elke ZZP-kapper of kleine kapsalon die nu slecht zichtbaar is bij zoekopdrachten als "beste kapper [stad]" of "balayage [postcode]".
@@ -42,7 +42,7 @@ Hieronder zeven concrete acties, gerangschikt op verwachte impact in de eerste d
 
 **2. Implementeer HairSalon schema markup.** Voeg JSON-LD toe aan elke pagina van je website met HairSalon als hoofdtype, OpeningHoursSpecification voor je openingstijden en `hasOfferCatalog` voor je dienstenmenu inclusief prijzen. Test via Google's Rich Results Test of het foutloos wordt gelezen.
 
-**3. Verzamel reviews op platformen die ChatGPT leest.** ChatGPT en Perplexity wegen reviews op Google, Trustpilot, Treatwell en Salonized zwaar mee. Een salon met 80 Google-reviews en een 4.7-gemiddelde wordt veel vaker genoemd dan één met 12 reviews. Stuur na elke afspraak automatisch een WhatsApp met een review-link. Wij zien gemiddeld 28 procent conversie als de uitnodiging binnen 2 uur na de afspraak wordt verstuurd.
+**3. Verzamel reviews op platformen die ChatGPT leest.** ChatGPT en Perplexity wegen reviews op Google, Trustpilot, Treatwell en Salonized zwaar mee. Een salon met 80 Google-reviews en een 4.7-gemiddelde wordt veel vaker genoemd dan één met 12 reviews. Stuur na elke afspraak automatisch een WhatsApp met een review-link. Wij zien een duidelijk hogere conversie als de uitnodiging binnen 2 uur na de afspraak wordt verstuurd.
 
 **4. Zorg voor minimaal drie externe vermeldingen per kwartaal.** Schrijf een gastblog op een lifestyle-platform, geef commentaar in een lokale krant over een actueel onderwerp (haar-trends per seizoen, wat-zegt-je-kapsel-over-jou), of laat je interviewen voor een vakmedium als KAPPERSnieuws. Drie vermeldingen per kwartaal op middel- tot zware autoriteit-domeinen verhoogt je AI-citaties merkbaar.
 
@@ -66,7 +66,7 @@ Het derde veld is **knowsAbout** (of via additionalProperty). Hier vermeld je ex
 
 ## Reviews en autoriteit: waarom ChatGPT Treatwell en Trustpilot leest
 
-Toen wij in maart 2026 onze eerste AI-search audit deden voor 30 Nederlandse kapsalons, was de bevinding ondubbelzinnig: salons met minder dan 30 Google-reviews werden in ChatGPT-prompts vrijwel nooit genoemd. Salons met 100 of meer reviews en een gemiddelde van 4.6 of hoger werden in 60 tot 75 procent van de relevante prompts geciteerd.
+Toen wij in maart 2026 onze eerste AI-search audit deden voor 30 Nederlandse kapsalons, was de bevinding ondubbelzinnig: salons met minder dan 30 Google-reviews werden in ChatGPT-prompts vrijwel nooit genoemd. Salons met 100 of meer reviews en een gemiddelde van 4.6 of hoger werden in het merendeel van de relevante prompts geciteerd.
 
 Reviews op Google zijn de basis. Maar AI-modellen lezen ook andere bronnen. Treatwell, Trustpilot, Facebook en zelfs Instagram-comments wegen mee. Het patroon dat we zien: hoe diverser de review-bronnen, hoe groter de kans op vermelding. Vijftig Google-reviews wegen minder zwaar dan 30 Google-reviews plus 15 Treatwell-reviews plus 10 Trustpilot-reviews. AI-modellen interpreteren spreiding als bewijs van authenticiteit.
 
@@ -78,7 +78,7 @@ AI-modellen extraheren content op een hele specifieke manier. Drie regels die he
 
 **Schrijf antwoorden voor de openingszin van een paragraaf, niet voor de afsluiter.** ChatGPT pakt vrijwel altijd de eerste zin onder een H2- of H3-kop. Zet daar het concrete antwoord neer. Een paragraaf die opent met "Eerst wat context: balayage is al jaren een onderwerp van discussie..." wordt overgeslagen. Een paragraaf die opent met "Een balayage duurt gemiddeld 2.5 tot 3.5 uur, afhankelijk van haarlengte en uitgangskleur" wordt geciteerd.
 
-**Gebruik concrete getallen.** "De meeste klanten" wordt nooit geciteerd. "82 procent van de klanten met balayage komt elke 4 tot 6 maanden terug" wel. Front-load percentages, euro-bedragen en tijdsindicaties.
+**Gebruik concrete getallen.** "De meeste klanten" wordt nooit geciteerd. "[X] procent van de klanten met balayage komt elke 4 tot 6 maanden terug" wel. Front-load percentages, euro-bedragen en tijdsindicaties.
 
 **Vermijd promotie-taal.** ChatGPT is getraind om reclame eruit te filteren. Een zin als "Bij ons krijg je het beste vakmanschap" wordt overgeslagen. Een zin als "Onze kappers werken sinds 2018 met L'Oréal Professionnel kleuringen en hebben sindsdien meer dan 3.200 balayages uitgevoerd" wordt opgepakt omdat het feitelijk en verifieerbaar is.
 
@@ -105,7 +105,7 @@ In de eerste maand zijn drie acties uitgevoerd: HairSalon schema markup geïmple
 
 In maand drie was het Google-review-aantal gegroeid naar 53. Een gastblog over balayage-onderhoud in de zomer was geplaatst op een lifestyle-platform. In de hertest van dezelfde 25 prompts werd de salon in 8 prompts genoemd, inclusief drie specialisatie-prompts ("balayage Tilburg", "krullen knippen Tilburg" en "bruidskapsel Tilburg"). In maand zes, met 89 reviews en vijf externe vermeldingen, was dat opgelopen naar 15 prompts van de 25.
 
-De impact op echte boekingen: 24 procent meer nieuwe boekingen in mei en juni 2026 vergeleken met dezelfde maanden een jaar eerder. Een deel hiervan is toe te schrijven aan klassieke Google-ranking die ook verbeterde, maar bij zes nieuwe klanten gaf de aanvrager expliciet aan via ChatGPT te zijn gekomen.
+De impact op echte boekingen: duidelijk meer nieuwe boekingen in mei en juni 2026 vergeleken met dezelfde maanden een jaar eerder. Een deel hiervan is toe te schrijven aan klassieke Google-ranking die ook verbeterde, maar bij zes nieuwe klanten gaf de aanvrager expliciet aan via ChatGPT te zijn gekomen.
 
 ## Veelgestelde vragen
 
@@ -115,7 +115,7 @@ Bij goede uitvoering zie je eerste citaties na 8 tot 12 weken. AI-modellen index
 
 ### Werkt dit ook voor Perplexity en Google AI Overviews?
 
-Ja, voor 80 procent overlapt de aanpak. Perplexity weegt directe quotes en gestructureerde data zelfs nog zwaarder dan ChatGPT. Google AI Overviews leunt sterker op klassieke Google-ranking, dus daar telt traditionele SEO meer mee. De zeven tactieken hierboven werken voor alle drie.
+Ja, de aanpak overlapt grotendeels. Perplexity weegt directe quotes en gestructureerde data zelfs nog zwaarder dan ChatGPT. Google AI Overviews leunt sterker op klassieke Google-ranking, dus daar telt traditionele SEO meer mee. De zeven tactieken hierboven werken voor alle drie.
 
 ### Moet ik mijn klassieke Google SEO laten vallen?
 
