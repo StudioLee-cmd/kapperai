@@ -11,7 +11,7 @@ tags: ["Reviews", "Reputatie", "Google"]
 
 Je opent Google en daar staat het: een review van twee sterren met een klacht die je niet zag aankomen. De eerste reactie is vaak frustratie of teleurstelling. Dat is begrijpelijk, maar juist nu is het belangrijk om even afstand te nemen. Een negatieve review is geen ramp. Het is een kans om te laten zien hoe professioneel je omgaat met feedback.
 
-Potentiële klanten lezen niet alleen de review zelf. Ze lezen ook jouw reactie. Een doordachte, kalme respons wekt meer vertrouwen dan honderd vijfsterren-beoordelingen zonder reactie. Uit onderzoek blijkt dat 45 procent van de consumenten eerder een bedrijf bezoekt dat actief reageert op negatieve reviews. Je reactie is dus net zo belangrijk als de review zelf.
+Potentiële klanten lezen niet alleen de review zelf. Ze lezen ook jouw reactie. Een doordachte, kalme respons wekt meer vertrouwen dan honderd vijfsterren-beoordelingen zonder reactie. Een flink deel van de consumenten bezoekt eerder een bedrijf dat actief reageert op negatieve reviews. Je reactie is dus net zo belangrijk als de review zelf.
 
 ## Wat potentiële klanten echt zien
 
