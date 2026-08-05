@@ -19,7 +19,7 @@ Het mooie is dat die mensen jou al kennen. Ze weten waar je zit, ze weten wat je
 - Een kapper-klant is pas echt "inactief" als ze twee of meer knipcycli heeft overgeslagen: ongeveer vier maanden voor knippen, vijf tot zes maanden voor kleur. Korter dan dat is gewoon een rustige periode.
 - De flow bestaat uit vier mails over drie tot vier weken: een warme "we missen je", een concrete reden om nu te boeken, een eerlijk duwtje, en een nette afsluiter die je lijst meteen schoonmaakt.
 - Mailen naar bestaande klanten mag onder de AVG op basis van een bestaande klantrelatie, zolang je een duidelijke afmeldknop biedt en niet eindeloos doorgaat.
-- Realistisch haal je 5 tot 15 procent van je slapende lijst terug. Voor een salon met 150 slapende klanten zijn dat al snel 8 tot 20 klanten terug uit één keer inrichten.
+- Realistisch haal je een klein deel van je slapende lijst terug. Reken met 5 tot 15 procent: voor een salon met 150 slapende klanten zijn dat al snel 8 tot 20 klanten terug uit één keer inrichten.
 
 ## Wanneer is een kapper-klant echt inactief?
 
