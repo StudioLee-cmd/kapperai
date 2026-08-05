@@ -10,7 +10,7 @@ cluster: "automatisering"
 ---
 
 **In het kort:**
-- 60% van de Nederlandse kapsalons doet geen actieve upselling tijdens de knipbeurt, niet omdat het geen rendement oplevert, maar omdat de stylist bang is "pushy" te overkomen. Resultaat: 25-40% gemiste omzet uit behandelingen, aftercare-producten en next-appointment-bookings.
+- Het merendeel van de Nederlandse kapsalons doet geen actieve upselling tijdens de knipbeurt, niet omdat het geen rendement oplevert, maar omdat de stylist bang is "pushy" te overkomen. Resultaat: een fors deel gemiste omzet uit behandelingen, aftercare-producten en next-appointment-bookings.
 - De vier juiste upselling-momenten in elke afspraak (intake, was-stoel, mid-knipbeurt, afsluiting bij de kassa) maken upselling natuurlijk en welkom in plaats van opdringerig. Klanten waarderen het advies omdat het persoonlijk en gericht is, niet generiek of verkoop-gedreven.
 - Een kapsalon die structureel de 4-momenten-aanpak hanteert haalt gemiddeld €18 tot €35 extra per afspraak. Op een gemiddelde MKB-kapsalon-omzet van 35 afspraken per week is dat €630 tot €1.225 extra omzet per week, oftewel €30.000 tot €60.000 per jaar uit BESTAANDE klanten zonder extra acquisitie.
 - ACM Marktonderzoek Persoonlijke Verzorging 2025 noemt aftercare-en-behandeling-upsell als de top-3 onderschatte omzet-stroom in de kappersbranche, vooral bij MKB-salons die concurreren met budget-kappers op alleen knip-prijs.
@@ -25,9 +25,9 @@ Drie patronen die zonder gestructureerde upselling-aanpak voorkomen:
 
 **Aftercare-producten worden nooit voorgesteld.** Klant koopt zijn shampoo voor €4 bij de Albert Heijn in plaats van €18 in de salon. De salon mist €14 marge per verkoop, en de klant krijgt een product dat niet aansluit bij zijn haar-type.
 
-**Next appointment wordt niet gepland.** Klant betaalt en gaat weg. Belt over 8 weken weer als hij eraan denkt. Tussen die 8 weken loopt zijn haar-onderhouds-cyclus uit balans en is er een 30% kans dat hij naar een andere kapper gaat.
+**Next appointment wordt niet gepland.** Klant betaalt en gaat weg. Belt over 8 weken weer als hij eraan denkt. Tussen die 8 weken loopt zijn haar-onderhouds-cyclus uit balans en is er een reële kans dat hij naar een andere kapper gaat.
 
-ACM Marktonderzoek Persoonlijke Verzorging 2025 wijst aftercare-en-upsell aan als top-3 onderschatte omzet-stroom in de kappersbranche, vooral bij MKB-salons die zonder structurele aanpak gemiddeld 25-40% lagere omzet per klant halen dan vergelijkbare salons met goed georganiseerde upselling.
+ACM Marktonderzoek Persoonlijke Verzorging 2025 wijst aftercare-en-upsell aan als top-3 onderschatte omzet-stroom in de kappersbranche, vooral bij MKB-salons die zonder structurele aanpak een duidelijk lagere omzet per klant halen dan vergelijkbare salons met goed georganiseerde upselling.
 
 [Plan een gratis AI-scan voor kappers](/gratis-scan) brengt voor jouw situatie in kaart hoe groot de upselling-gap is en welke 4 momenten je het meeste opleveren.
 
@@ -61,7 +61,7 @@ Tijdens de knipbeurt zelf is er continue conversatie mogelijk. Twee specifieke u
 
 **De service-toevoeging:** "Wil je een snelle styling-bijles aan het eind? Ik kan je laten zien hoe je deze kapsel het beste thuis stylet (kost 5 minuten extra en geeft je 6 weken plezier ervan)."
 
-Conversion op deze momenten ligt rond 25-40% omdat de klant ON-LOCATIE is en het product/de service direct kan ervaren of afspreken.
+Conversion op deze momenten ligt hoog omdat de klant ON-LOCATIE is en het product/de service direct kan ervaren of afspreken.
 
 ![Werkbench-corner met laptop, schaar en notebook voor upselling kapsalon](/images/blog/upselling-kapsalon-4-momenten-zonder-pushy-2.jpg)
 
@@ -73,7 +73,7 @@ Bij het afrekenen heb je de klant in een ontvangst-modus voor één laatste sugg
 
 **De volgende-afspraak-booking:** "Wil ik je volgende afspraak alvast inplannen? Voor jouw type knip is 6 weken ideaal. Ik heb [datum] om [tijd]." Met direct openbare agenda zichtbaar.
 
-Een [crm voor kappers](/crm) met integrated booking-app maakt deze laatste stap een klik in plaats van een gesprek. Conversion-rate op next-appointment-booking-aan-de-kassa: 55-75%, tegenover 12-18% via mail-reminder achteraf.
+Een [crm voor kappers](/crm) met integrated booking-app maakt deze laatste stap een klik in plaats van een gesprek. De conversion-rate op next-appointment-booking-aan-de-kassa ligt een veelvoud hoger dan via een mail-reminder achteraf.
 
 ## Welke services het beste opleveren per moment
 
