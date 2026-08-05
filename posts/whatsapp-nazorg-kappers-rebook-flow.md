@@ -25,7 +25,7 @@ Dat is niet omdat ze niet tevreden was. Dat is omdat jij vergeten bent dat de af
 
 Kappers die hun no-shows op orde hebben, hebben meestal goede afspraakherinneringen ingericht. Dat is de zichtbare kant van klantcommunicatie. De onzichtbare kant zit erna. Tussen het moment dat een klant de stoel verlaat en het moment dat ze weer iets boekt, ligt gemiddeld zes tot acht weken voor een knipbeurt en tien tot veertien weken voor kleur of highlights. In die periode wordt jouw kapsalon stiller en stiller in haar hoofd. De concurrentie heeft die periode niet nodig, eentje moet maar een keer langs op Instagram komen of een aanbieding pushen, en je vaste klant is opeens niet meer vaste klant.
 
-De reden dat dit gebeurt is bijna nooit ontevredenheid. Branche-onderzoek laat al jaren zien dat ongeveer 60 tot 70 procent van de klanten die wisselen dat doen vanuit neutrale ervaringen, niet vanuit slechte. Ze waren tevreden, maar niemand hield ze warm. Een goede vorm van [klantcommunicatie automatiseren als kapper](/automatisering) lost dat op zonder dat je elke vrijdagavond zelf gaat zitten appen. Drie korte berichten in een vooraf gebouwde flow doen het werk.
+De reden dat dit gebeurt is bijna nooit ontevredenheid. Het merendeel van de klanten die wisselen doet dat vanuit neutrale ervaringen, niet vanuit slechte. Ze waren tevreden, maar niemand hield ze warm. Een goede vorm van [klantcommunicatie automatiseren als kapper](/automatisering) lost dat op zonder dat je elke vrijdagavond zelf gaat zitten appen. Drie korte berichten in een vooraf gebouwde flow doen het werk.
 
 ## De 3-berichten nazorg-flow
 
@@ -35,7 +35,7 @@ De kern is timing. Niet de inhoud van de berichten, niet de tone of voice, niet 
 
 De avond na de afspraak is het beste moment voor twee dingen tegelijk: een persoonlijk bedankje en de eerste vraag om een review. Op dat moment is de emotie nog vers, de klant heeft net een goede ervaring gehad, en ze heeft haar telefoon waarschijnlijk al een paar keer opengeklikt om naar haar haar in de spiegel te kijken. Een bericht binnen vier uur na afronding krijgt veruit de hoogste antwoordsnelheid en de hoogste review-conversie.
 
-Wat het bericht doet: bedanken, kort en op naam, met één duidelijke vraag of ze tevreden was. Tevreden klanten krijgen direct een review-link richting Google. Minder tevreden klanten krijgen een persoonlijke uitnodiging om dat met jou of de eigenaar te delen, zodat het niet als negatieve review op Google belandt. Deze splitsing is hoe een goed [automatisch reviews verzamelen voor kappers](/reviews) systeem werkt en is precies waarom WhatsApp daar beter voor is dan e-mail. De open rate van WhatsApp ligt boven de 95 procent, de antwoordsnelheid is meestal binnen het uur, en het voelt persoonlijker dan een formuliertje per mail.
+Wat het bericht doet: bedanken, kort en op naam, met één duidelijke vraag of ze tevreden was. Tevreden klanten krijgen direct een review-link richting Google. Minder tevreden klanten krijgen een persoonlijke uitnodiging om dat met jou of de eigenaar te delen, zodat het niet als negatieve review op Google belandt. Deze splitsing is hoe een goed [automatisch reviews verzamelen voor kappers](/reviews) systeem werkt en is precies waarom WhatsApp daar beter voor is dan e-mail. De open rate van WhatsApp ligt zeer hoog, de antwoordsnelheid is meestal binnen het uur, en het voelt persoonlijker dan een formuliertje per mail.
 
 ### Bericht 2: nazorg-tip rond week 3 of 4
 
