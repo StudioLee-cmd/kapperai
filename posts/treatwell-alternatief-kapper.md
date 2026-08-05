@@ -11,9 +11,9 @@ cluster: "automatisering"
 
 Treatwell is het grootste boekingsplatform voor salons in Nederland. Het klinkt aantrekkelijk: klanten boeken via de app, jij krijgt de afspraken. Maar er zit een keerzijde aan die steeds meer kappers stoort.
 
-Treatwell rekent commissie per boeking — tot wel 35 procent op nieuwe klanten. Bij een knipbeurt van €45 gaat er €15 naar Treatwell. Dat is geld dat je eigenlijk zelf zou moeten verdienen. Daarnaast bouw je je klantenbestand op hun platform, niet op dat van jou. Je reviews staan op Treatwell, niet op Google. En als je stopt? Dan ben je alles kwijt.
+Treatwell rekent commissie per boeking — reken met tot wel 35 procent op nieuwe klanten. Bij een knipbeurt van €45 gaat er €15 naar Treatwell. Dat is geld dat je eigenlijk zelf zou moeten verdienen. Daarnaast bouw je je klantenbestand op hun platform, niet op dat van jou. Je reviews staan op Treatwell, niet op Google. En als je stopt? Dan ben je alles kwijt.
 
-Het is alsof je een winkel huurt in een winkelcentrum waar de eigenaar 35 procent van je omzet pakt en je klanten bij vertrek meeneemt.
+Het is alsof je een winkel huurt in een winkelcentrum waar de eigenaar een dik deel van je omzet pakt en je klanten bij vertrek meeneemt.
 
 ## Wat kappers echt nodig hebben
 
@@ -25,7 +25,7 @@ Wat je als kapper wilt is simpel: klanten die rechtstreeks bij jou boeken, zonde
 
 | Wat | Treatwell | KapperAI |
 |---|---|---|
-| Commissie per boeking | Tot 35% op nieuwe klanten | Geen commissie, vast bedrag |
+| Commissie per boeking | Een fors percentage op nieuwe klanten | Geen commissie, vast bedrag |
 | Klantgegevens | Van Treatwell | Van jou |
 | Reviews | Op Treatwell | Op jouw Google-profiel |
 | Online boeken | Via Treatwell app | Via jouw eigen website |
