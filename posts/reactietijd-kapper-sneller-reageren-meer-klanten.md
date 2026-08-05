@@ -12,7 +12,7 @@ tags: ["Lead opvolging", "Kapper", "Klanten"]
 
 Een potentiele klant stuurt een bericht via je website, Instagram DM of WhatsApp. Ze wil een afspraak voor highlights, liefst deze week. Hoe lang duurt het voordat jij reageert?
 
-Als het antwoord "een paar uur" of "als ik klaar ben met knippen" is, dan heb je haar waarschijnlijk al verloren. Onderzoek laat zien dat bedrijven die binnen 5 minuten reageren op online aanvragen, hun conversie met 391 procent verhogen ten opzichte van bedrijven die 30 minuten wachten.
+Als het antwoord "een paar uur" of "als ik klaar ben met knippen" is, dan heb je haar waarschijnlijk al verloren. Bedrijven die binnen 5 minuten reageren op online aanvragen, verhogen hun conversie vele malen ten opzichte van bedrijven die 30 minuten wachten.
 
 Voor kappers is dit extra relevant. Je klant zoekt niet alleen een kapper, ze zoekt een kapper die nu beschikbaar is. Reageert de concurrent sneller, dan boekt ze daar.
 
