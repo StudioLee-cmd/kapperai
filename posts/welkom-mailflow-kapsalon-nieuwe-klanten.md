@@ -16,7 +16,7 @@ Dat is zonde, want een eerste afspraak is het duurst verdiende moment dat je heb
 **In het kort:**
 
 - De grootste lekkage in een kapsalon zit niet bij no-shows, maar bij eerste klanten die nooit een tweede keer boeken. Een welkom-flow dicht dat gat.
-- Welkomstmails worden gemiddeld rond de 60 procent geopend, fors hoger dan een gewone nieuwsbrief. De eerste mails na een bezoek zijn het best gelezen moment dat je krijgt.
+- Welkomstmails worden veel vaker geopend dan een gewone nieuwsbrief. De eerste mails na een bezoek zijn het best gelezen moment dat je krijgt.
 - De flow bestaat uit vier mails over zes weken: een warm bedankje, een verzorgingstip voor thuis, een vraag hoe het was met een review-verzoek, en een uitnodiging om de volgende afspraak te boeken.
 - Personaliseer op naam, stylist en behandeling. Een mail die weet wat ze heeft laten doen, voelt als service, niet als reclame.
 - Je richt het één keer in en het draait daarna vanzelf op elke nieuwe boeking. Geen wekelijks appen, geen handwerk.
@@ -25,7 +25,7 @@ Dat is zonde, want een eerste afspraak is het duurst verdiende moment dat je heb
 
 Een klant die één keer komt, is een kostenpost. Een klant die terugkomt, is winst. Het verschil tussen die twee zit bijna volledig in wat er gebeurt in de weken na dat eerste bezoek. Iemand die vier of vijf keer per jaar bij je knipt, is al snel 150 tot 250 euro per jaar waard, en blijft dat jarenlang als de band goed is. Mis je die tweede afspraak, dan ben je niet alleen één knipbeurt kwijt, maar de hele toekomstige waarde van die klant.
 
-Het mooie is dat het na een eerste afspraak makkelijker is om aandacht te geven dan op welk ander moment ook. Je klant kent je net, is nieuwsgierig en staat open voor wat je stuurt. Dat is precies waarom welkomstmails zo goed werken: ze worden rond de 60 procent geopend, waar een doorsnee nieuwsbrief blij is met de helft daarvan. Bovendien blijkt dat mensen die je eerste mail openen, ook je latere mails veel vaker lezen. Die eerste indruk in de inbox bepaalt dus hoe warm je hele relatie verloopt.
+Het mooie is dat het na een eerste afspraak makkelijker is om aandacht te geven dan op welk ander moment ook. Je klant kent je net, is nieuwsgierig en staat open voor wat je stuurt. Dat is precies waarom welkomstmails zo goed werken: ze worden veel vaker geopend dan een doorsnee nieuwsbrief. Bovendien blijkt dat mensen die je eerste mail openen, ook je latere mails veel vaker lezen. Die eerste indruk in de inbox bepaalt dus hoe warm je hele relatie verloopt.
 
 Wat je daarvoor nodig hebt, is geen groot marketingplan, maar een goed gevuld klantprofiel: naam, gekozen stylist, behandeling en de datum van het bezoek. Heb je dat netjes vastliggen in een [crm voor kappers](/crm), dan kun je elke mail persoonlijk maken zonder er een letter voor te typen. Een mail die begint met "Hoi Sanne, wat fijn dat je bij Lisa in de stoel zat" leest totaal anders dan een algemene "Beste klant".
 
