@@ -9,7 +9,7 @@ tags: ["Boekingen", "Website", "Conversie"]
 cluster: "website"
 ---
 
-De typische kappers-website krijgt per maand tussen de 400 en 1.200 bezoekers. Van die bezoekers klikt 30 tot 45 procent door naar de boekingspagina. En van die bezoekers boekt slechts 15 tot 22 procent daadwerkelijk een afspraak. De rest verdwijnt. Dat is een conversie-funnel waar 80 procent van de intentie uitloopt tussen "ik heb interesse" en "ik heb een afspraak". Die 80 procent bestaat uit mensen die oprecht geïnteresseerd waren — ze klikten door, scrolden, keken naar tijden. Iets heeft ze in die laatste minuten weerhouden. Dit artikel legt uit welke vijf afhaak-redenen we zien op Nederlandse kappers-websites, en hoe elk ervan in een middag op te lossen is.
+De typische kappers-website krijgt per maand tussen de 400 en 1.200 bezoekers. Van die bezoekers klikt maar een deel door naar de boekingspagina. En van die bezoekers boekt slechts een klein deel daadwerkelijk een afspraak. De rest verdwijnt. Dat is een conversie-funnel waar het grootste deel van de intentie uitloopt tussen "ik heb interesse" en "ik heb een afspraak". Die groep bestaat uit mensen die oprecht geïnteresseerd waren — ze klikten door, scrolden, keken naar tijden. Iets heeft ze in die laatste minuten weerhouden. Dit artikel legt uit welke vijf afhaak-redenen we zien op Nederlandse kappers-websites, en hoe elk ervan in een middag op te lossen is.
 
 ## Waarom de boekingspagina het kritieke moment is
 
@@ -34,7 +34,7 @@ Bandbreedtes met duidelijke nuance ("exacte prijs afhankelijk van lengte en cond
 
 In een salon met twee of drie medewerkers wil de klant weten bij wie ze terecht komen. Niet iedere klant past bij iedere medewerker. Sommigen willen specifiek Mirjam omdat ze gespecialiseerd is in balayage. Anderen willen Lisa omdat ze een rustige energie heeft en geen praatjesmaker is.
 
-Een boekingspagina die alleen "tijdslot" laat kiezen zonder medewerker-onderscheid faalt aan 20 tot 30 procent van de klanten die dus geen voorkeur kunnen uiten. Toon per beschikbaar slot welke medewerker werkt, met een korte profielschets: "Mirjam — 8 jaar ervaring, specialist in balayage en bruidskapsels. Werkt dinsdag, woensdag en zaterdag."
+Een boekingspagina die alleen "tijdslot" laat kiezen zonder medewerker-onderscheid faalt bij een flink deel van de klanten, die dus geen voorkeur kunnen uiten. Toon per beschikbaar slot welke medewerker werkt, met een korte profielschets: "Mirjam — 8 jaar ervaring, specialist in balayage en bruidskapsels. Werkt dinsdag, woensdag en zaterdag."
 
 Die context maakt dat klanten zich thuis voelen bij hun keuze in plaats van blind op tijd te moeten klikken.
 
@@ -72,8 +72,8 @@ Dit verhoogt vertrouwen zonder af te leiden van de boeking. Het zijn bekende ver
 
 Kappers waar we deze vijf verbeteringen hebben doorgevoerd zien na 60 dagen:
 
-- **Conversie van boekingspagina-bezoek naar afspraak** stijgt van 18 procent naar 32 tot 40 procent
-- **Aantal geboekte afspraken per maand** stijgt met 35 tot 55 procent zonder extra marketing
+- **Conversie van boekingspagina-bezoek naar afspraak** stijgt fors, vaak richting een verdubbeling
+- **Aantal geboekte afspraken per maand** stijgt fors zonder extra marketing
 - **Gemiddelde afspraak-waarde** stijgt omdat klanten betere info krijgen over duur en tarieven (minder verrassingen = minder annuleringen)
 - **No-show tarief** daalt omdat klanten bewuster boeken
 
