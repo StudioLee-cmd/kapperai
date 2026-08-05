@@ -9,7 +9,7 @@ cluster: "reviews"
 ---
 ## Waarom Google Reviews cruciaal zijn voor kappers
 
-Wanneer iemand zoekt op "kapper in de buurt", bepalen Google Reviews wie bovenaan verschijnt. Niet je website, niet je Instagram — je reviews. Onderzoek wijst uit dat 87 procent van de consumenten online reviews leest voordat ze een lokale dienstverlener kiezen. Voor kappers betekent dit: meer reviews is meer klanten.
+Wanneer iemand zoekt op "kapper in de buurt", bepalen Google Reviews wie bovenaan verschijnt. Niet je website, niet je Instagram — je reviews. Verreweg de meeste consumenten lezen online reviews voordat ze een lokale dienstverlener kiezen. Voor kappers betekent dit: meer reviews is meer klanten.
 
 Maar [reviews verzamelen](/reviews) voelt als een extra taak bovenop een al volle agenda. Je bent de hele dag bezig met knippen, kleuren en föhnen. Wanneer moet je dan ook nog om reviews vragen? Het antwoord: dat hoef je helemaal niet zelf te doen.
 
@@ -23,7 +23,7 @@ Het beste moment voor kappers:
 
 - **Direct na de behandeling**: de klant is blij met het resultaat en voelt zich goed
 - **Binnen 2 uur na vertrek**: ze hebben net complimenten gekregen van collega's of vrienden
-- **Niet na 24 uur**: dan is de beleving al genormaliseerd en daalt de kans op een review met 60 procent
+- **Niet na 24 uur**: dan is de beleving al genormaliseerd en daalt de kans op een review sterk
 
 De gouden regel: hoe korter na de positieve ervaring, hoe groter de kans op een enthousiaste review.
 
@@ -72,7 +72,7 @@ Google beloont actieve profielen. Regelmatig reageren verbetert je positie in de
 
 Met een combinatie van automatische WhatsApp-berichten en fysieke NFC-touchpoints is 100 reviews binnen drie maanden haalbaar voor een gemiddelde kapsalon.
 
-De rekensom is simpel: als je 20 klanten per week hebt en 25 procent een review achterlaat, heb je na 12 weken 60 nieuwe reviews. Met een goed systeem en dubbele opvolging stijgt dat percentage naar 35 tot 40 procent.
+De rekensom is simpel: reken met 20 klanten per week waarvan 25 procent een review achterlaat, dan heb je na 12 weken 60 nieuwe reviews. Met een goed systeem en dubbele opvolging stijgt dat percentage nog verder.
 
 Het verschil tussen een salon met 15 reviews en eentje met 100+ reviews is enorm. Niet alleen voor je zichtbaarheid op Google, maar ook voor het vertrouwen van nieuwe klanten. Wie kies jij: de kapper met 4 reviews of die met 120?
 
