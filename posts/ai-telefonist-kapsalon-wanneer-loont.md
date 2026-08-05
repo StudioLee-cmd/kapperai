@@ -7,7 +7,7 @@ image: "/images/blog/ai-telefonist-kapsalon-wanneer-loont.jpg"
 tags: ["AI telefonist", "Voice AI", "Kapsalon"]
 cluster: "voice-ai"
 ---
-Een AI telefonist klinkt geweldig: nooit meer een gemiste oproep, je handen vrij om te knippen, en klanten die 's avonds gewoon kunnen boeken. Maar de eerlijke vraag is: loont het voor jouw kapsalon? Voor een eenpitter met 80 procent vaste klanten die rustig terugbellen, is het antwoord misschien nee. Voor een drukke salon van vier stylisten in een grote stad, vrijwel altijd ja.
+Een AI telefonist klinkt geweldig: nooit meer een gemiste oproep, je handen vrij om te knippen, en klanten die 's avonds gewoon kunnen boeken. Maar de eerlijke vraag is: loont het voor jouw kapsalon? Voor een eenpitter met vooral vaste klanten die rustig terugbellen, is het antwoord misschien nee. Voor een drukke salon van vier stylisten in een grote stad, vrijwel altijd ja.
 
 In dit artikel beantwoord je 5 simpele vragen waarmee je in 10 minuten weet of een AI telefonist voor jouw situatie de moeite waard is. Geen sales-praatje, gewoon eerlijke rekensom.
 
@@ -39,14 +39,14 @@ Bedenk ook: de meeste mensen bellen niet terug als ze geen voicemail hebben inge
 
 ## Vraag 2: Wanneer komen die oproepen binnen?
 
-Kijk in je oproephistorie naar het tijdstip. Stylisten die ik spreek, zijn vaak verbaasd: meer dan 60 procent van de oproepen komt buiten reguliere "rustige" momenten. De pieken:
+Kijk in je oproephistorie naar het tijdstip. Stylisten die ik spreek, zijn vaak verbaasd: het merendeel van de oproepen komt buiten reguliere "rustige" momenten. De pieken:
 
 - **Tussen 17:00 en 20:00**, mensen die net thuis zijn en denken "oh, ik moet nog een afspraak maken"
 - **Zaterdag tussen 9:00 en 12:00**, wanneer jij vol zit met klanten en niet kunt opnemen
 - **Zondag**, klanten plannen hun week
 - **Tijdens behandelingen**, je staat met de schaar in de hand
 
-Als 50 procent of meer van je gemiste oproepen in deze "blinde vlek" valt, is een AI telefonist exact wat je nodig hebt. Hij neemt op precies de momenten waarop jij niet kúnt opnemen.
+Als de helft of meer van je gemiste oproepen in deze "blinde vlek" valt, is een AI telefonist exact wat je nodig hebt. Hij neemt op precies de momenten waarop jij niet kúnt opnemen.
 
 ## Vraag 3: Hoeveel is een gemiste boeking je waard?
 
@@ -57,12 +57,12 @@ Gemiste oproepen per maand × conversiekans × gemiddelde behandelwaarde = verlo
 ```
 
 **Voorbeeld 1, kleine herensalon:**
-- 25 gemiste oproepen × 40% conversie × €40 = **€400/maand verloren omzet** (€4.800/jaar)
+- In dit rekenvoorbeeld: 25 gemiste oproepen × 40% conversie × €40 = **€400/maand verloren omzet** (€4.800/jaar)
 
 **Voorbeeld 2, middelgrote dames-salon:**
-- 60 gemiste oproepen × 50% conversie × €75 = **€2.250/maand verloren omzet** (€27.000/jaar)
+- In dit rekenvoorbeeld: 60 gemiste oproepen × 50% conversie × €75 = **€2.250/maand verloren omzet** (€27.000/jaar)
 
-Veel kappers schatten hun gemiste omzet 5x lager in dan ze werkelijk verliezen. Doe deze rekensom een keer goed, het is bijna altijd een schok.
+Veel kappers schatten hun gemiste omzet stelselmatig veel lager in dan ze werkelijk verliezen. Doe deze rekensom een keer goed, het is bijna altijd een schok.
 
 ## Vraag 4: Hoeveel tijd verlies je nu aan de telefoon?
 
@@ -106,7 +106,7 @@ Eerlijk blijft eerlijk, een AI telefonist is niet de oplossing voor alles:
 - **Verkoop van losse producten**, kan technisch wel, maar de meeste salons doen dit beter via Instagram of in de salon.
 - **Zeer dialect-zware gesprekken**, moderne AI's begrijpen Nederlands prima, maar plat dialect kan haperen. Test het altijd in jouw regio.
 
-Voor 80-90 procent van de inkomende oproepen (afspraak maken, openingstijden, locatie, prijsvraag) is de AI sneller en beter beschikbaar dan jij. Voor de overige 10-20 procent neemt hij netjes een bericht aan.
+Voor verreweg de meeste inkomende oproepen (afspraak maken, openingstijden, locatie, prijsvraag) is de AI sneller en beter beschikbaar dan jij. Voor de uitzonderingen neemt hij netjes een bericht aan.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/meertalige-ai-telefonist-kapsalon-engels-pools" class="text-dark fw-semibold">Meertalige AI telefonist kapsalon: Nederlands, Engels, Pools</a> →</p></div></div></div>
 
