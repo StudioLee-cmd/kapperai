@@ -12,22 +12,22 @@ Een klant scrolt op donderdagavond om 21:34 door Instagram, ziet de Reel van een
 
 Dat is het patroon. Niet de chat-bezoeker die nooit klant wordt. Wel de chat-bezoeker die in haar koopstemming op vrijdagavond geen antwoord kreeg en het maandagochtend al niet meer relevant vindt. Dit artikel gaat over welke 5 vraag-categorieen je website-chatbot veilig kan overnemen 24/7, welke vragen ALTIJD mens moeten blijven, en hoe je voorkomt dat de chatbot je salon-imago goedkoop maakt.
 
-## Het echte probleem: 70% van de chat-vragen komt buiten openingstijden
+## Het echte probleem: de meeste chat-vragen komen buiten openingstijden
 
 Voordat we naar de 5 categorieen kijken, eerst goed naar het patroon. Een kapper-website-chat krijgt gemiddeld 40 tot 80 vragen per maand. Daarvan komt:
 
-- **45 tot 50% tussen 19:00 en 23:00** (na het werk, op de bank, in tv-pauze)
-- **15 tot 20% in het weekend** (vooral zondagavond rond 20:00, plan-modus voor de week)
-- **10 tot 15% tijdens openingstijden** (vaak iemand op het werk die niet kan bellen)
-- **20% verspreid over de rest**
+- **De grootste piek tussen 19:00 en 23:00** (na het werk, op de bank, in tv-pauze)
+- **Een flink deel in het weekend** (vooral zondagavond rond 20:00, plan-modus voor de week)
+- **Een kleiner deel tijdens openingstijden** (vaak iemand op het werk die niet kan bellen)
+- **De rest verspreid over de overige uren**
 
-Het probleem is dus niet dat je geen chat hebt. Het probleem is dat 70% van je chat-vragen buiten de tijd binnenkomt waarin jij snel kunt antwoorden. En een vraag die niet binnen 30 minuten beantwoord wordt, krijgt 65% kans dat de klant niet meer wacht. Voor "koopstemming-vragen" zoals "wat kost een balayage" is dat percentage zelfs 80%, want de klant gaat dan naar de volgende kapper-site die wel reageert.
+Het probleem is dus niet dat je geen chat hebt. Het probleem is dat het merendeel van je chat-vragen binnenkomt buiten de tijd waarin jij snel kunt antwoorden. En een vraag die niet binnen 30 minuten beantwoord wordt, loopt een grote kans dat de klant niet meer wacht. Voor "koopstemming-vragen" zoals "wat kost een balayage" is die kans nog groter, want de klant gaat dan naar de volgende kapper-site die wel reageert.
 
 Een [ai chatbot voor kappers](/chatbot) lost dit op door 24/7 antwoord te geven op de vragen die geen vakkundigheid vereisen, en de moeilijke vragen naar jou door te sturen op een manier waar de klant zich aan committeert (afspraak vasthouden tot je terug bent).
 
 ## De 5 vraag-categorieen die de chatbot wel kan beantwoorden
 
-### Categorie 1: Prijzen en behandelingsoverzicht (30% van de vragen)
+### Categorie 1: Prijzen en behandelingsoverzicht (de grootste categorie)
 
 "Wat kost een balayage?" "Hoeveel betaal ik voor highlights met knippen?" "Doen jullie ook keratine-behandelingen, en wat kost dat?"
 
@@ -37,7 +37,7 @@ Dit zijn de meest gestelde chat-vragen en de makkelijkste om te automatiseren. D
 
 Wat NIET werkt: de chatbot één prijs laten noemen ("Balayage kost €185"). Want als de klant met dik schouderlang haar dan €280 op de afspraak hoort, voelt ze zich misleid. Range plus toelichting voorkomt teleurstellingen.
 
-### Categorie 2: Afspraak inplannen (25% van de vragen)
+### Categorie 2: Afspraak inplannen (de tweede categorie qua volume)
 
 "Kan ik vrijdag of zaterdag terecht?" "Heb je deze week nog een plekje voor een knipbeurt?"
 
@@ -51,13 +51,13 @@ Dit is de gouden categorie. De chatbot kijkt in jouw agenda (Salonized, Phorest,
 
 **Wat de bot NIET doet:** complexe-behandelingen-eerste-keer-klanten boeken. Een nieuwe klant die voor het eerst een full-color of balayage komt boeken, moet via een korte intake (kleur-foto sturen, haar-historie kort delen). Die intake gaat naar jou voor goedkeuring voordat de afspraak vast staat. Dat voorkomt dat een klant verkeerde verwachtingen heeft en de afspraak een teleurstelling wordt.
 
-### Categorie 3: Openingstijden, parkeren, route (15% van de vragen)
+### Categorie 3: Openingstijden, parkeren, route
 
 "Zijn jullie zondag open?" "Kan ik in de buurt parkeren?" "Hoe kom ik bij jullie?"
 
 Pure operations. Een chatbot doet dit in 3 seconden, geen mensentijd nodig. Stel de antwoorden vooraf in en update ze bij vakanties/feestdagen.
 
-### Categorie 4: Productadvies en houdbaarheid van resultaten (15% van de vragen)
+### Categorie 4: Productadvies en houdbaarheid van resultaten
 
 "Hoe lang houdt een balayage?" "Welk shampoo gebruiken jullie voor gekleurd haar?" "Kan ik mijn extensions in de wasstraat door?"
 
@@ -67,7 +67,7 @@ Deze vragen zijn voor jou en je collega's makkelijk, maar elke keer opnieuw bean
 
 ![Salon-receptie close-up: een paar zilveren kappersscharen op een witte handdoek, een kleine glazen vaas met een eucalyptus-takje, een matzwarte smartphone schuin tegen een bekertje koffie aan, een open papieren agenda met handgeschreven afsprakenlijst in pen (geen leesbare tekst), warm middaglicht door een groot raam met linnen gordijnen, geen mensen in beeld, schone modern-luxe salon-sfeer](/images/blog/ai-chatbot-kapsalon-website-vragen-automatiseren-2.jpg)
 
-### Categorie 5: Klantkaart-status en loyaliteitspunten (15% van de vragen)
+### Categorie 5: Klantkaart-status en loyaliteitspunten
 
 "Hoeveel knipbeurten heb ik nog over op mijn pakket?" "Wanneer is mijn 6e gratis knipbeurt?" "Kan ik mijn punten zien?"
 
@@ -99,7 +99,7 @@ Een generieke chatbot voor kappers werkt slecht. De 4 setting-keuzes die het ver
 
 **3. Cross-link naar Instagram.** Veel chat-bezoekers komen via Instagram. Sluit antwoorden af met "Volg ons op Instagram voor het laatste werk: @[salonnaam]". Dit verhoogt je IG-volgers en versterkt het social proof.
 
-**4. Anti-no-show-prikkel:** stuur de afspraakbevestiging via WhatsApp (niet alleen e-mail) en stuur een herinnering 24 uur voor de afspraak met een 1-klik-verzet-of-annuleer-knop. No-shows dalen daardoor met 35-50%, blijkt uit data van [online boekingssystemen voor kappers vergeleken](/blog/online-boekingssysteem-kapper-4-opties-vergeleken).
+**4. Anti-no-show-prikkel:** stuur de afspraakbevestiging via WhatsApp (niet alleen e-mail) en stuur een herinnering 24 uur voor de afspraak met een 1-klik-verzet-of-annuleer-knop. No-shows dalen daardoor fors, zoals we lieten zien in [online boekingssystemen voor kappers vergeleken](/blog/online-boekingssysteem-kapper-4-opties-vergeleken).
 
 ## De ROI in concrete getallen
 
@@ -107,7 +107,7 @@ Voor een kapsalon met €180.000-€250.000 omzet per jaar en gemiddeld 60 chat-
 
 **Zonder chatbot:**
 - 60 vragen × ~4 minuten gemiddeld antwoord-tijd = 240 minuten = 4 uur per maand kapper-tijd
-- Plus 65% van de chat-vragen valt buiten openingstijden, waarvan 50% niet meer terugkomt. Verlies: ~10-15 potentiele klanten per maand die elders boeken.
+- Plus het merendeel van de chat-vragen valt buiten openingstijden, en daarvan komt een groot deel niet meer terug. Verlies: ~10-15 potentiele klanten per maand die elders boeken.
 
 **Met chatbot:**
 - 60 × 75% afhandeling door bot = 0 kapper-tijd voor 45 vragen
