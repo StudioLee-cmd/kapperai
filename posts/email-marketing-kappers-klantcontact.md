@@ -10,7 +10,7 @@ cluster: "automatisering"
 
 ## Waarom e-mail nog steeds werkt
 
-Social media is belangrijk, maar e-mail blijft het kanaal met het hoogste rendement. Waar een Instagram-post misschien 5% van je volgers bereikt, wordt een goede e-mail door 20-30% van je ontvangers geopend. Voor kappers is dat een directe lijn naar je klantenbestand.
+Social media is belangrijk, maar e-mail blijft het kanaal met het hoogste rendement. Waar een Instagram-post maar een fractie van je volgers bereikt, wordt een goede e-mail door een aanzienlijk deel van je ontvangers geopend. Voor kappers is dat een directe lijn naar je klantenbestand.
 
 Het mooie aan e-mailmarketing is dat je klanten bereikt op momenten dat ze niet in je stoel zitten. Tussen twee afspraken in kun je top-of-mind blijven — zonder opdringerig te zijn. In combinatie met je [social media strategie](/blog/social-media-kappers-instagram) creëer je een marketingmix die consistent nieuwe en terugkerende boekingen oplevert.
 
@@ -18,7 +18,7 @@ Het mooie aan e-mailmarketing is dat je klanten bereikt op momenten dat ze niet 
 
 De sleutel is relevantie. Niemand wil spam, maar waardevolle content wordt gewaardeerd. Denk aan:
 
-- **Afspraakherinneringen**: 24-48 uur voor de afspraak, vermindert no-shows met 40-60%
+- **Afspraakherinneringen**: 24-48 uur voor de afspraak, vermindert no-shows aanzienlijk
 - **Seizoenstips**: haarverzorging in de zomer, bescherming tegen droge winterlucht
 - **Nieuwe behandelingen**: introduceer een nieuwe service met een speciale introductieprijs
 - **Persoonlijke aanbiedingen**: verjaardagskorting of jubileumactie
