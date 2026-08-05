@@ -15,9 +15,9 @@ Het goede nieuws? Je hoeft geen social media expert te zijn. Met een smartphone 
 
 Instagram is het platform voor visuele content. En hairstyling is per definitie visueel. De cijfers bevestigen dit:
 
-- **72% van de Instagram-gebruikers** zegt dat het platform hun aankoopbeslissingen beïnvloedt
-- Posts met voor-en-na foto's krijgen **3x meer engagement** dan andere content
-- Kappers met een actief Instagram-profiel ontvangen gemiddeld **25% meer nieuwe klanten** via social media
+- **Een groot deel van de Instagram-gebruikers** zegt dat het platform hun aankoopbeslissingen beïnvloedt
+- Posts met voor-en-na foto's krijgen **fors meer engagement** dan andere content
+- Kappers met een actief Instagram-profiel ontvangen **merkbaar meer nieuwe klanten** via social media
 
 Maar: gewoon af en toe een foto posten is niet genoeg. Je hebt een mix van content nodig die inspireert, informeert en vertrouwen opbouwt.
 
@@ -67,7 +67,7 @@ Maar: gewoon af en toe een foto posten is niet genoeg. Je hebt een mix van conte
 
 - **Feed:** 3-4x per week (consistentie is belangrijker dan frequentie)
 - **Stories:** dagelijks (5-10 stories per dag is ideaal voor het algoritme)
-- **Reels:** 2-3x per week (Reels krijgen meer bereik dan gewone posts)
+- **Reels:** 2-3x per week is een goed ritme; het bereik ligt doorgaans boven dat van gewone posts
 
 ## Veelgestelde vragen
 
