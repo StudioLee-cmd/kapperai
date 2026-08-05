@@ -33,7 +33,7 @@ Reken een gemiddelde kapsalon: 80 oproepen per maand, gemiddeld 2 minuten per ge
 
 Wat zit er níet in dat bedrag:
 
-- Avond-, nacht- en weekenduren krijgen vaak een toeslag van 25 tot 50 procent.
+- Avond-, nacht- en weekenduren krijgen vaak een stevige toeslag.
 - Anderstalige oproepen worden meestal als premium-minuten gerekend, óf doorgeschakeld naar voicemail.
 - Boekingen die de telefonist invoert in je agenda gaan ten koste van de minutenteller. Een 2 minuten gesprek wordt zo snel 3 minuten.
 
@@ -61,7 +61,7 @@ Wat zit er wél automatisch in dat vaste tarief:
 - Logging van elk gesprek in je CRM, doorzoekbaar.
 - Automatische [workflow automatisering voor kappers](/automatisering): herinneringen, no-show preventie, opvolg-WhatsApp.
 
-Wat je niet krijgt: een echt menselijk gesprek met een Nederlander die je salon bij naam kent. Voor 95 procent van de oproepen (boekingsvraag, openingstijden, prijs, parkeren) maakt dat geen verschil. Voor de 5 procent emotionele uitzonderingen wel.
+Wat je niet krijgt: een echt menselijk gesprek met een Nederlander die je salon bij naam kent. Voor verreweg de meeste oproepen (boekingsvraag, openingstijden, prijs, parkeren) maakt dat geen verschil. Voor de emotionele uitzonderingen wel.
 
 ## Het echte verschil: 8 punten waar ze niet vergelijkbaar zijn
 
@@ -104,7 +104,7 @@ Drukke salon: 4 stylisten, 180 oproepen per maand, gemiddelde behandelingswaarde
 **Optie A, antwoorddienst:**
 - Basis: €80/maand (zwaarder pakket voor agenda's van 4 stylisten)
 - 180 × 2 minuten × €1,30 = €468/maand
-- Weekend- en avondtoeslag (circa 30%): €56
+- Weekend- en avondtoeslag (reken met circa 30%): €56
 - Totaal: **circa €604 per maand**
 
 **Optie B, Voice AI:**
@@ -121,13 +121,13 @@ Wil je dit doorrekenen voor jouw exacte volume? De [tarieven KapperAI](/tarieven
 
 Eerlijk zijn: er zijn drie situaties waarin een traditionele antwoorddienst nog steeds de betere keuze is.
 
-1. **Bruidssalons en stylist-coaching salons.** Als je business-model leunt op een uur lang persoonlijk consult per nieuwe klant, en de eerste 30 seconden aan de telefoon dat consult eigenlijk al begint, dan wil je een echte stem die kan inhaken op emotie. Een [virtuele telefonist](/voice-ai) is dan 80 procent goed, niet 100 procent.
+1. **Bruidssalons en stylist-coaching salons.** Als je business-model leunt op een uur lang persoonlijk consult per nieuwe klant, en de eerste 30 seconden aan de telefoon dat consult eigenlijk al begint, dan wil je een echte stem die kan inhaken op emotie. Een [virtuele telefonist](/voice-ai) is dan grotendeels goed, maar niet helemaal.
 
 2. **Ondergrens-volume.** Onder de 30 oproepen per maand betaalt geen van beide opties zichzelf direct terug. Heb je structureel een rustige salon en geen ambitie om te groeien, dan is je eigen mobiel met voicemail nog steeds de eerlijkste keuze.
 
 3. **Operationele eenvoud, géén automatisering.** Sommige salonhouders willen bewust geen CRM, geen WhatsApp-herinneringen, geen agenda-koppeling. Alleen iemand die opneemt als de telefoon gaat. Dan past een antwoorddienst beter dan een AI-systeem dat al die andere dingen óók aanzet.
 
-Voor de 90 procent van de Nederlandse kapsalons die buiten deze drie uitzonderingen vallen, wint Voice AI op ROI. Niet omdat het beter klinkt op papier, maar omdat het in praktijk meer boekingen oppakt voor minder geld per maand.
+Voor verreweg de meeste Nederlandse kapsalons die buiten deze drie uitzonderingen vallen, wint Voice AI op ROI. Niet omdat het beter klinkt op papier, maar omdat het in praktijk meer boekingen oppakt voor minder geld per maand.
 
 ## De conclusie in één zin
 
