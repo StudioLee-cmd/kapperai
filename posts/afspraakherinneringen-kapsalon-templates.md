@@ -17,7 +17,7 @@ De meeste kappers versturen één herinnering 24 uur voor de afspraak en hopen d
 
 **48 uur van tevoren** is voor de bevestiging. De klant weet nog ruim op tijd of hij moet verzetten. **24 uur van tevoren** is voor de planning: kan de klant zijn dag er omheen bouwen. **3 uur van tevoren** is voor de laatste nudge: iemand die vandaag al niet gaat komen, heeft op dit moment nog net tijd om af te zeggen zodat jij de stoel kan doorschuiven. **De dag erna** is voor de relatie: een kort bedankje met optioneel een review-verzoek.
 
-Kapsalons die deze vier momenten automatiseren zien hun no-shows typisch met 40 tot 60 procent dalen. Niet omdat de klanten nu ineens perfecte mensen zijn, maar omdat het systeem hen meermaals even aanstoot op momenten waarop reageren nog makkelijk is.
+Kapsalons die deze vier momenten automatiseren zien hun no-shows fors dalen. Niet omdat de klanten nu ineens perfecte mensen zijn, maar omdat het systeem hen meermaals even aanstoot op momenten waarop reageren nog makkelijk is.
 
 ## 1. Bevestigings-moment: 48 uur vooraf
 
@@ -51,13 +51,13 @@ De winst zit in het detail van de voorbereiding. Klanten die onvoorbereid komen,
 
 ## 3. Last-minute nudge: 3 uur vooraf
 
-Dit is het belangrijkste bericht dat de meeste kapsalons overslaan. Op dit moment weet de klant al 90 procent zeker of het doorgaat, maar hij heeft vaak nog geen moeite gedaan om je te bellen. Een korte push op dit moment voorkomt de no-show zonder confrontatie.
+Dit is het belangrijkste bericht dat de meeste kapsalons overslaan. Op dit moment weet de klant eigenlijk al of het doorgaat, maar hij heeft vaak nog geen moeite gedaan om je te bellen. Een korte push op dit moment voorkomt de no-show zonder confrontatie.
 
 **Template 5: 3-uurs nudge**
 
 > Hi [naam], straks om [tijd] staan we klaar voor je. Mocht er iets tussenkomen, laat het even weten, dan kunnen we de tijd nog invullen. Tot zo!
 
-De toon is belangrijk: niet dreigend ("anders rekenen wij de tijd in"), wel transparant dat jij iemand anders kan helpen. Klanten zeggen in 70 procent van de gevallen niet expliciet af, ze komen gewoon niet. Dit bericht trekt ze net over de streep om wél even te appen.
+De toon is belangrijk: niet dreigend ("anders rekenen wij de tijd in"), wel transparant dat jij iemand anders kan helpen. Klanten zeggen meestal niet expliciet af, ze komen gewoon niet. Dit bericht trekt ze net over de streep om wél even te appen.
 
 Een klant die op dit moment niet reageert terwijl hij zijn WhatsApp heeft gelezen, is een signaal. Daarover gaan we het hieronder hebben.
 
