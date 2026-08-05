@@ -118,7 +118,7 @@ Bij een gemiddelde klantwaarde van €85 per bezoek en 4-6 bezoeken per jaar (�
 
 ## Wat StudioLee voor jou doet
 
-Een werkende kapsalon-chatbot inclusief de 5 vraag-categorieen, de tone-of-voice setup, de Salonized/Phorest/Treatwell-koppeling, en de continue verbetering door wekelijkse review-loop, zit inbegrepen in onze Managed Pro vanaf €179 per maand exclusief BTW. Onze [Groei-of-Geld-Terug Garantie](/tarieven) geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
+Een werkende kapsalon-chatbot inclusief de 5 vraag-categorieen, de tone-of-voice setup, de Salonized/Phorest/Treatwell-koppeling, en de continue verbetering door wekelijkse review-loop, zit inbegrepen in onze Managed Groei Pro. Onze [Groei-of-Geld-Terug Garantie](/tarieven) geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Wat we niet doen: een chatbot lanceren op dag 1 en hopen dat hij goed werkt. Wel: week 1 is een gewenningsweek waarin de chatbot meekijkt en suggesties geeft die jij goedkeurt. Week 2 gaat hij primair, met jou als back-line. Week 3 evalueer je de antwoorden en pas de prijzen-tabel/FAQ-bibliotheek aan. Plan een [gratis ai scan voor kappers](/gratis-scan) als startpunt, dan kijken we naar je huidige chat-volume en wat de eerste 3 optimalisaties zouden zijn.
 
