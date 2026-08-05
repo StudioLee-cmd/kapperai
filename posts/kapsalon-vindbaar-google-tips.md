@@ -27,7 +27,7 @@ Zorg dat je profiel 100 procent compleet is:
 - Minimaal 10 professionele foto's van je salon, werkplekken en resultaten
 - Wekelijks een Google Post met een behandeling, actie of tip
 
-Een compleet profiel scoort tot 70 procent beter in lokale zoekresultaten dan een profiel met alleen basisgegevens. Heb je je profiel al ingericht? Lees dan onze uitgebreide gids over het [optimaliseren van je Google Bedrijfsprofiel als kapper](/blog/google-bedrijfsprofiel-kapper-optimaliseren) voor extra tips.
+Een compleet profiel scoort duidelijk beter in lokale zoekresultaten dan een profiel met alleen basisgegevens. Heb je je profiel al ingericht? Lees dan onze uitgebreide gids over het [optimaliseren van je Google Bedrijfsprofiel als kapper](/blog/google-bedrijfsprofiel-kapper-optimaliseren) voor extra tips.
 
 ## 2. Kies de juiste zoekwoorden voor jouw salon
 
@@ -69,7 +69,7 @@ Het automatiseren van dit proces bespaart je uren per week. Met een [review-pakk
 
 ## 5. Zorg dat je website mobielvriendelijk en snel laadt
 
-Meer dan 70 procent van de zoekopdrachten naar kappers komt van een mobiel apparaat. Als je website niet goed werkt op een telefoon, verlies je het grootste deel van je potentiele klanten.
+Verreweg de meeste zoekopdrachten naar kappers komen van een mobiel apparaat. Als je website niet goed werkt op een telefoon, verlies je het grootste deel van je potentiele klanten.
 
 Google meet hoe snel je website laadt en hoe goed de mobiele ervaring is. Langzame websites worden lager getoond in de zoekresultaten. Test je website via Google PageSpeed Insights en let op:
 
