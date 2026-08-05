@@ -45,10 +45,10 @@ Je kunt eindeloos verfijnen, maar in een salon van één tot vijf stoelen zijn v
 
 | Groep | Wie het zijn | Drempel die werkt |
 |---|---|---|
-| Vaste kern | Komen op vaste ritme, boeken vaak meteen door | 6 keer of vaker per jaar, laatste bezoek binnen 10 weken |
+| Vaste kern | Komen op vaste ritme, boeken vaak meteen door | Minstens 6 bezoeken per jaar, laatste bezoek binnen 10 weken |
 | Hoge besteding | Komen minder vaak maar laten flink achter | 2 tot 4 keer per jaar, besteding ruim boven je gemiddelde |
 | Nieuw | Zijn 1 of 2 keer geweest, gaan nog nergens over | Eerste afspraak korter dan 3 maanden geleden |
-| Stil weggelopen | Kwamen regelmatig, en toen niet meer | Was 4 keer of vaker per jaar, laatste bezoek langer dan 4 maanden geleden |
+| Stil weggelopen | Kwamen regelmatig, en toen niet meer | Had minstens 4 bezoeken per jaar, laatste bezoek langer dan 4 maanden geleden |
 
 Die drempels zijn een startpunt, geen wet. Een barbershop met tweewekelijkse klanten legt de grens ergens anders dan een kleurspecialist. Kijk naar je eigen gemiddelde interval en verdubbel het: dat is meestal een bruikbare grens voor weggelopen.
 
