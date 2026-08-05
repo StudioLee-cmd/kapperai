@@ -26,7 +26,7 @@ Om het concreet te maken, hier een overzicht gebaseerd op een gemiddelde kapsalo
 | 3 | €50 | €600 | €7.200 |
 | 1 | €100 (kleuring) | €400 | €4.800 |
 
-Zonder herinneringen ligt het gemiddelde no-show percentage in salons tussen de 6 en 8 procent. Bij 25 afspraken per week betekent dat anderhalve tot twee klanten die simpelweg niet komen opdagen.
+Zonder herinneringen ligt het gemiddelde no-show percentage in salons hoog. Reken met 6 tot 8 procent: bij 25 afspraken per week betekent dat anderhalve tot twee klanten die simpelweg niet komen opdagen.
 
 Vergelijk dat eens met je vaste lasten. Die huur, energiekosten en productinkoop lopen gewoon door, ook als die stoel leeg blijft. Elke no-show is dus niet alleen gederfde omzet, maar ook een bevestiging dat je vaste kosten harder drukken dan nodig.
 
@@ -46,7 +46,7 @@ Als je salon [telefonisch niet altijd bereikbaar](/voice-ai) is, missen klanten 
 
 Het is verleidelijk om te denken dat klanten bewust wegblijven, maar de werkelijkheid is genuanceerder.
 
-- **Vergeten:** veruit de grootste oorzaak. Meer dan 60 procent van no-shows zijn simpelweg vergeten afspraken.
+- **Vergeten:** veruit de grootste oorzaak. Het merendeel van de no-shows zijn simpelweg vergeten afspraken.
 - **Geen financiële drempel:** als boeken gratis en vrijblijvend is, voelt afzeggen (of wegblijven) ook vrijblijvend.
 - **Onduidelijke annuleringsregels:** als een klant niet weet dat er consequenties zijn, voelt niet-komen als een optie zonder gevolgen.
 - **Persoonlijke omstandigheden:** ziekte, files, onverwachte verplichtingen. Dit is de kleinste categorie, maar het komt voor.
@@ -71,15 +71,15 @@ Het gaat niet om het bedrag alleen. Het gaat om de vrijheid die het je geeft als
 
 ### 1. Automatische herinneringen instellen
 
-Een herinnering per e-mail of sms 24 uur voor de afspraak vermindert no-shows met 50 tot 75 procent. Dat is de meest effectieve maatregel die er is. Moderne boekingssystemen doen dit automatisch. Combineer een bevestiging direct na het boeken met een reminder de dag ervoor voor het beste resultaat.
+Een herinnering per e-mail of sms 24 uur voor de afspraak vermindert no-shows fors. Dat is de meest effectieve maatregel die er is. Moderne boekingssystemen doen dit automatisch. Combineer een bevestiging direct na het boeken met een reminder de dag ervoor voor het beste resultaat.
 
 ### 2. Een kleine aanbetaling vragen
 
-Een deposit van 20 tot 30 procent bij het boeken geeft klanten een financieel commitment. Je hoeft dit niet bij elke klant te doen. Begin bij nieuwe klanten of bij duurdere behandelingen als balayage of extensions. Het bedrag hoeft niet hoog te zijn: zelfs €10 maakt het verschil.
+Reken met een deposit van 20 tot 30 procent bij het boeken; dat geeft klanten een financieel commitment. Je hoeft dit niet bij elke klant te doen. Begin bij nieuwe klanten of bij duurdere behandelingen als balayage of extensions. Het bedrag hoeft niet hoog te zijn: zelfs €10 maakt het verschil.
 
 ### 3. Duidelijke annuleringsvoorwaarden
 
-Communiceer bij het boeken wat er gebeurt bij een no-show. Zet het in je bevestigingsmail en op je boekingspagina. Een formulering als "Tot 24 uur van tevoren annuleren is kosteloos, daarna brengen we 50 procent in rekening" is duidelijk en redelijk.
+Communiceer bij het boeken wat er gebeurt bij een no-show. Zet het in je bevestigingsmail en op je boekingspagina. Een formulering als "Tot 24 uur van tevoren annuleren is kosteloos, daarna brengen we de helft in rekening" is duidelijk en redelijk.
 
 Juridisch is het belangrijk dat klanten je voorwaarden accepteren bij het boeken. Alleen huisregels ophangen in de salon of op Instagram vermelden is niet voldoende, zo bleek uit een rechterlijke uitspraak in Middelburg waarbij een kapsalon haar no-show kosten niet kon verhalen.
 
@@ -95,6 +95,6 @@ Registreer no-shows in je systeem. Als een klant drie keer niet komt opdagen, is
 
 Een no-show voelt als een klein incident, maar het is een structureel lek in je omzet. Zelfs één gemiste klant per week kost je honderden euro's per maand. Geld waarmee je je voorraad had kunnen aanvullen, een opleiding had kunnen volgen of je salon had kunnen verbeteren.
 
-De oplossing hoeft niet ingewikkeld te zijn. Herinneringen, aanbetalingen en duidelijke voorwaarden brengen je no-show percentage van 6 procent naar minder dan 2 procent. Dat is het verschil tussen duizenden euro's verlies en een betrouwbaar gevulde agenda.
+De oplossing hoeft niet ingewikkeld te zijn. Herinneringen, aanbetalingen en duidelijke voorwaarden brengen je no-show percentage terug naar een fractie van wat het was. Dat is het verschil tussen duizenden euro's verlies en een betrouwbaar gevulde agenda.
 
 Wil je weten waar jouw kapsalon kansen laat liggen? Vraag een [gratis scan](/gratis-scan) aan en ontdek binnen een week hoe je meer klanten vasthoudt, met minder gedoe. Inclusief onze Groei-of-Geld-Terug Garantie.
