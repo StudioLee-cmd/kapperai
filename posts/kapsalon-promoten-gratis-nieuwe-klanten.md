@@ -30,7 +30,7 @@ Benieuwd hoe je [vindbaarheid in Google](/seo) er nu voor staat? Dat is een goed
 
 ## 2. Vraag elke tevreden klant om een Google review
 
-Reviews zijn de digitale versie van mond-tot-mondreclame, maar dan krachtiger. Uit onderzoek blijkt dat 93% van de consumenten online reviews leest voordat ze een keuze maken. Voor kappers geldt dat extra sterk: potentiële klanten willen bewijs zien dat jij het kapsel kunt leveren dat ze in gedachten hebben.
+Reviews zijn de digitale versie van mond-tot-mondreclame, maar dan krachtiger. Verreweg de meeste consumenten lezen online reviews voordat ze een keuze maken. Voor kappers geldt dat extra sterk: potentiële klanten willen bewijs zien dat jij het kapsel kunt leveren dat ze in gedachten hebben.
 
 Het probleem is meestal niet dat klanten ontevreden zijn. Het probleem is dat je het simpelweg niet vraagt. De meeste klanten willen best een review schrijven, maar vergeten het zodra ze de deur uit lopen.
 
@@ -43,7 +43,7 @@ Wil je dit volledig automatisch laten verlopen? Met een [review-systeem](/review
 
 ## 3. Maak je website snel en mobielvriendelijk
 
-Meer dan 70% van de mensen zoekt op hun telefoon naar een kapper. Als je website traag laadt of niet goed werkt op een klein scherm, ben je die bezoeker kwijt voordat diegene je prijslijst heeft gezien.
+Verreweg de meeste mensen zoeken op hun telefoon naar een kapper. Als je website traag laadt of niet goed werkt op een klein scherm, ben je die bezoeker kwijt voordat diegene je prijslijst heeft gezien.
 
 Check deze punten:
 - Laadt je site binnen 3 seconden? Test het via Google PageSpeed Insights
