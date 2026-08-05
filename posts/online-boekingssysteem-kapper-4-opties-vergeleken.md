@@ -11,9 +11,9 @@ cluster: "website"
 
 **In het kort:**
 - Het verschil tussen een goed en slecht online boekingssysteem voor een MKB-kapsalon zit in 2026 gemiddeld €4.000 tot €15.000 per jaar netto. Niet door de licentie-kosten zelf (€25-€80 per maand), maar door commissie-percentages, conversie-rate en de uren admin die niet wegvallen.
-- De vier hoofdopties op de NL markt: Treatwell (12-15% commissie, hoge zichtbaarheid maar duur), Salonized (€39-€79/mnd zonder commissie, sterke admin), Booksy (€15-€60/mnd, internationale tool met lokale beperking), en alles-in-één AI-platform (€60-€180/mnd inclusief website + WhatsApp + reviews).
-- Voor 65-80% van Nederlandse MKB-kapsalons is een alles-in-één platform OF Salonized de beste keuze. Treatwell werkt voor solo-stylisten die zichtbaarheid boven marge stellen; Booksy alleen voor specifieke niche-segmenten met internationale klantenstroom.
-- ACM Marktonderzoek Persoonlijke Verzorging 2025 wijst commissie-platforms aan als de top-2 verborgen kostenpost voor MKB-kapsalons. Een salon met 35 boekingen per week via 12% commissie betaalt jaarlijks €13.000-€19.000 aan platform-fees over de boekingen, terwijl een eigen systeem dat voor €60-€180 per maand zou doen.
+- De vier hoofdopties op de NL markt: Treatwell (stevige commissie per boeking, hoge zichtbaarheid maar duur), Salonized (€39-€79/mnd zonder commissie, sterke admin), Booksy (€15-€60/mnd, internationale tool met lokale beperking), en alles-in-één AI-platform (€60-€180/mnd inclusief website + WhatsApp + reviews).
+- Voor verreweg de meeste Nederlandse MKB-kapsalons is een alles-in-één platform OF Salonized de beste keuze. Treatwell werkt voor solo-stylisten die zichtbaarheid boven marge stellen; Booksy alleen voor specifieke niche-segmenten met internationale klantenstroom.
+- ACM Marktonderzoek Persoonlijke Verzorging 2025 wijst commissie-platforms aan als de top-2 verborgen kostenpost voor MKB-kapsalons. In dit rekenvoorbeeld betaalt een salon met 35 boekingen per week via 12% commissie jaarlijks €13.000-€19.000 aan platform-fees over de boekingen, terwijl een eigen systeem dat voor €60-€180 per maand zou doen.
 
 ## Waarom de keuze meer is dan alleen "welke maandprijs"
 
@@ -21,9 +21,9 @@ Een online boekingssysteem-keuze gaat over vier dimensies, niet één:
 
 **Directe kosten:** maandlicentie + setup-fee.
 
-**Commissie per boeking:** Treatwell rekent 12-15% over elke boeking via hun marktplaats. Op €60 gemiddelde knipbeurt is dat €7,20-€9,00 per boeking. Bij 35 boekingen per week telt dat op tot €260-€315 per week, oftewel €13.000-€16.000 per jaar.
+**Commissie per boeking:** Treatwell rekent een commissie over elke boeking via hun marktplaats. Reken met 12-15%: op €60 gemiddelde knipbeurt is dat €7,20-€9,00 per boeking. Bij 35 boekingen per week telt dat op tot €260-€315 per week, oftewel €13.000-€16.000 per jaar.
 
-**Conversie-rate van bezoeker naar boeking:** een goed geintegreerd systeem op je eigen website converteert 8-12%. Een externe marketplace-only-systeem brengt vaak nieuwe-klant-aanvragen, maar bestaande-klant-rebookings gaan door je site (en daar moet de conversie ook hoog zijn).
+**Conversie-rate van bezoeker naar boeking:** een goed geintegreerd systeem op je eigen website converteert duidelijk beter. Een externe marketplace-only-systeem brengt vaak nieuwe-klant-aanvragen, maar bestaande-klant-rebookings gaan door je site (en daar moet de conversie ook hoog zijn).
 
 **Admin-tijd die wel/niet wegvalt:** sommige systemen verminderen je admin-werk (notificaties, herinneringen, factuur-flow), andere voegen toe (extra app om in te checken, dubbele agenda-coordinatie). Gemiddeld 4-8 uur per week verschil tussen het beste en slechtste systeem.
 
@@ -37,7 +37,7 @@ ACM Marktonderzoek Persoonlijke Verzorging 2025 noemt commissie-platforms als to
 
 **Kosten 2026:**
 - Maandlicentie: €0 (geen vaste kosten, alleen commissie)
-- Commissie: 12-15% over elke boeking via Treatwell-platform (lager voor terugkerende klanten)
+- Commissie: een stevig percentage over elke boeking via Treatwell-platform (lager voor terugkerende klanten)
 - Setup: gratis
 
 **Sterk:** zichtbaarheid voor nieuwe klanten in nieuwe stadsdelen, ingebouwde reviews, Treatwell-app op telefoons van klanten.
@@ -46,7 +46,7 @@ ACM Marktonderzoek Persoonlijke Verzorging 2025 noemt commissie-platforms als to
 
 **Beste voor:** solo-stylisten die nieuwe-klant-acquisitie boven marge stellen, of salons in nieuwe markten waar geen lokale bekendheid bestaat.
 
-**Niet beste voor:** MKB-salons met €100K+ omzet en 70%+ vaste klanten. De commissie-kosten lopen exponentieel op.
+**Niet beste voor:** MKB-salons met €100K+ omzet en overwegend vaste klanten. De commissie-kosten lopen exponentieel op.
 
 ## Optie 2: Salonized
 
@@ -75,7 +75,7 @@ ACM Marktonderzoek Persoonlijke Verzorging 2025 noemt commissie-platforms als to
 **Kosten 2026:**
 - Starter: €15/mnd (basis-functies)
 - Pro: €40-€60/mnd (multi-staff, marketing-tools)
-- Commissie: 0-3% per nieuw-klant-boeking via Booksy Marketplace (bestaande klanten gratis)
+- Commissie: een laag percentage per nieuw-klant-boeking via Booksy Marketplace (bestaande klanten gratis)
 
 **Sterk:** zeer goede mobile-UX voor klanten (boeking in 30 seconden), ingebouwde reviews, lage commissie-structuur.
 
@@ -104,7 +104,7 @@ ACM Marktonderzoek Persoonlijke Verzorging 2025 noemt commissie-platforms als to
 
 ## De vergelijking in cijfers
 
-Voor een typische MKB-kapsalon met 35 boekingen per week, €60 gemiddelde omzet per boeking, 70% vaste klanten, 30% nieuwe klanten:
+In dit rekenvoorbeeld een typische MKB-kapsalon met 35 boekingen per week, €60 gemiddelde omzet per boeking, 70% vaste klanten, 30% nieuwe klanten:
 
 | Optie | Maandlicentie | Commissie/jaar | Admin/wk | Totaal jaar 1 |
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ Voor een typische MKB-kapsalon met 35 boekingen per week, €60 gemiddelde omzet
 | Booksy | €40/mnd | €1.000-€2.000 | 3-4 uur | €1.480-€2.480 |
 | AI-platform | €120/mnd | €0 | 1-2 uur | €1.440 |
 
-**Voor 75% van MKB-salons:** Salonized of AI-platform geeft de laagste totale kosten + hoogste netto-omzet uit klanten.
+**Voor verreweg de meeste MKB-salons:** Salonized of AI-platform geeft de laagste totale kosten + hoogste netto-omzet uit klanten.
 
 Een goede [crm voor kappers](/crm) gekoppeld aan je [reviews-flow](/reviews) maakt de groei-potentie van een eigen-systeem-route zichtbaar in een dashboard.
 
@@ -124,7 +124,7 @@ Een veel gemaakte denkfout: "ik moet kiezen tussen Treatwell EN een eigen systee
 - **Treatwell:** alleen voor nieuwe-klant-acquisitie in stads delen waar je nog geen bekendheid hebt.
 - **Eigen systeem (Salonized of AI-platform):** voor alle vaste klanten en alle boekingen via je eigen website/WhatsApp/Google-bedrijfsprofiel.
 
-Resultaat: 80% van je boekingen via je eigen systeem (kosten €60-€120/mnd) + 20% via Treatwell (commissie alleen op die specifieke boekingen). Totale kosten gemiddeld €4.000-€7.000 per jaar lager dan Treatwell-only.
+Resultaat: het leeuwendeel van je boekingen via je eigen systeem (kosten €60-€120/mnd) + een klein deel via Treatwell (commissie alleen op die specifieke boekingen). Totale kosten gemiddeld €4.000-€7.000 per jaar lager dan Treatwell-only.
 
 Een [chatbot voor kappers](/chatbot) op je website vangt nieuwe klanten 24/7 op en routeert ze naar je eigen boekingssysteem in plaats van Treatwell, wat de hybride-mix nog efficiënter maakt.
 
