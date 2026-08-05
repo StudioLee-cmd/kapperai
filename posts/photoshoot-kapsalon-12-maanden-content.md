@@ -12,7 +12,7 @@ cluster: "social-media"
 **In het kort:**
 - Een professionele photoshoot voor een kapsalon (5 modellen, 8 looks, 1 dag) levert 180 tot 250 high-quality fotos op. Dit is voldoende voor 12 maanden Instagram-content (3 tot 4 posts per week), volledige website-redesign, plus Meta Ads en lokale-print materiaal. Investering: 1.250 tot 2.850 euro eenmalig. ROI per gemiddelde salon: 8.500 tot 22.000 euro extra omzet uit verhoogde boekings-conversie en social-volgers.
 - Het 1-daagse productie-model werkt het beste: 5 modellen plus 3 stylisten plus 1 visagist plus 1 fotograaf in een 8-uurs sessie produceren 8 verschillende kapsel-looks (kort, mid, lang, gekleurd, opgestoken, etc.) plus business-portraits van het team. Dit elimineert de planningsdruk van wekelijkse-foto-sessies en zorgt voor visuele consistentie.
-- De keuze van fotograaf bepaalt 60 tot 75 procent van het resultaat. Voor kapsalons werken specifieke beauty-fotografen of editorial-fotografen het beste (NIET algemene event-fotografen). Tarieven 2026: junior-beauty-fotograaf 650 tot 1.250 euro per dag, mid-level 1.250 tot 2.250 euro, gevestigde beauty-naam 2.500 tot 4.500 euro plus inclusief retoucheer-werk.
+- De keuze van fotograaf bepaalt het grootste deel van het resultaat. Voor kapsalons werken specifieke beauty-fotografen of editorial-fotografen het beste (NIET algemene event-fotografen). Tarieven 2026: junior-beauty-fotograaf 650 tot 1.250 euro per dag, mid-level 1.250 tot 2.250 euro, gevestigde beauty-naam 2.500 tot 4.500 euro plus inclusief retoucheer-werk.
 - Een [reviews-flow voor kappers](/reviews) gecombineerd met sterke before-after-content uit de photoshoot bouwt structureel sociaal bewijs op. Met een [seo voor kappers](/seo) traject worden de nieuwe foto-asset op je website ook organisch gevonden op zoektermen als "kapper [stad] [haartype] specialist".
 
 ## Waarom 1 photoshoot per jaar het juiste interval is voor kapsalons
@@ -73,10 +73,10 @@ Concrete cijfers voor een gemiddelde NL-kapsalon-photoshoot in 2026:
 **Totaal:** 1.250 tot 2.850 euro voor een complete productiedag (variabel afhankelijk van fotograaf-niveau en locatie).
 
 **ROI per asset-categorie (eerste 12 maanden):**
-- Instagram-followers groei: 25 tot 45 procent meer engagement, gemiddeld 400 tot 1.200 nieuwe volgers per jaar voor middelgrote salons
-- Website-conversie: 18 tot 32 procent hogere boekings-conversie door professionele foto-galerij
-- Meta Ads CTR: 35 tot 65 procent hogere click-through-rate met professionele fotos vs smartphone
-- Lokale-print Google Maps: 12 tot 25 procent hogere call-to-action-rate
+- Instagram-followers groei: merkbaar meer engagement, gemiddeld 400 tot 1.200 nieuwe volgers per jaar voor middelgrote salons
+- Website-conversie: duidelijk hogere boekings-conversie door professionele foto-galerij
+- Meta Ads CTR: fors hogere click-through-rate met professionele fotos vs smartphone
+- Lokale-print Google Maps: merkbaar hogere call-to-action-rate
 
 **Geschatte extra omzet eerste 12 maanden:** 8.500 tot 22.000 euro afhankelijk van salon-grootte en marketing-actief-niveau.
 
