@@ -35,7 +35,7 @@ Niet elk veld is even waardevol. De volgende negen velden dragen het zwaarst aan
 Wie deze klant bij voorkeur ziet. Voor scheduling EN voor "wie kan je het beste helpen als de vaste er niet is".
 
 **2. Laatste kleur-formule (productmerk + percentages + ontwikkelaar-volume)**
-Het belangrijkste single veld voor kapsalons die kleur doen. Schrijf het op exact zoals je het mengt: bijvoorbeeld "Wella Koleston 7/0 + 9/00 (50/50) met 9% activator, processing time 25 min".
+Het belangrijkste single veld voor kapsalons die kleur doen. Schrijf het op exact zoals je het mengt: in dit voorbeeld "Wella Koleston 7/0 + 9/00 (50/50) met 9% activator, processing time 25 min".
 
 **3. Allergieën en gevoeligheden**
 Vrij tekstveld voor "PPD-gevoelig", "pijngevoelig bij wenkbrauwen-epileren", etc. Markeer dit veld duidelijk in rood/oranje in de UI zodat het opvalt voor je begint.
@@ -62,7 +62,7 @@ Een [eenvoudig crm voor kappers](/crm) hoeft niet meer dan deze 9 velden te onde
 
 ## De grootste uitdaging: stylisten consistent laten invullen
 
-Hier is waar 80% van de kapsalon-CRM-implementaties strandt. De software is geïnstalleerd, het stylist-team is enthousiast over de demo, eerste twee weken wordt alles netjes ingevoerd. Daarna zakt het in. Drie weken later kijkt niemand er meer naar.
+Hier is waar de meeste kapsalon-CRM-implementaties stranden. De software is geïnstalleerd, het stylist-team is enthousiast over de demo, eerste twee weken wordt alles netjes ingevoerd. Daarna zakt het in. Drie weken later kijkt niemand er meer naar.
 
 Vier dingen die het wél laten werken:
 
@@ -104,7 +104,7 @@ Een [alles-in-één crm voor kappers](/crm) zoals het KapperAI platform regelt d
 
 Salonized, Phorest en Salonkee hebben CRM-functionaliteit ingebouwd. Tools als Pipedrive of HubSpot zijn aparte CRM's die je naast je booking moet draaien. Welke wanneer?
 
-**All-in-één (booking + CRM in één systeem), voor 90% van de kapsalons:**
+**All-in-één (booking + CRM in één systeem), voor verreweg de meeste kapsalons:**
 - Kleinere salon (1-5 stylisten)
 - Standaard service-mix (knip, kleur, behandelingen)
 - Geen complexe segmentatie of marketing-automation nodig
@@ -144,7 +144,7 @@ Een goed-geïmplementeerd kapsalon-CRM levert drie kwantificeerbare effecten op:
 | Klantbeleving-NPS | 47 | 62 |
 | Cross-stylist consistency klacht | 8/maand | 1/maand |
 | Tijd voor klant-overdracht bij afwezigheid | 12 min | 2 min |
-| Re-boek-percentage na eerste bezoek | 38% | 51% |
+| Re-boek-percentage na eerste bezoek | ruim een derde | ruim de helft |
 
 De NPS-uplift en de re-boek-uplift zijn de kern: klanten ervaren persoonlijke service ook als hun vaste stylist er niet is, en boeken vaker hun volgende afspraak direct na de eerste.
 
