@@ -19,7 +19,7 @@ AI is geen robot achter de kappersstoel. Het is een digitale assistent die repet
 Praktische toepassingen voor kappers:
 
 - **Afsprakenbeheer**: AI-gedreven planningssoftware vult automatisch lege plekken in de agenda op, stuurt bevestigingen en past tijden aan bij uitval.
-- **WhatsApp-herinneringen**: Geautomatiseerde berichten 24 uur voor de afspraak reduceren no-shows met 40–60%.
+- **WhatsApp-herinneringen**: Geautomatiseerde berichten 24 uur voor de afspraak reduceren no-shows aanzienlijk.
 - **Voice AI**: Een virtuele telefoniste beantwoordt inkomende gesprekken buiten openingstijden, noteert de afspraakaanvraag en stuurt een bevestiging.
 - **Social media**: AI genereert captionteksten en plant posts in voor Instagram en Facebook op de momenten waarop jouw volgers actief zijn.
 
