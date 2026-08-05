@@ -41,7 +41,7 @@ Het beste moment voor een review-verzoek is direct na een compliment. "Wat leuk 
 
 ## Wat levert het concreet op?
 
-Salons die NFC-kaarten gebruiken zien gemiddeld 3 tot 5 keer meer reviews per maand dan salons die alleen mondeling vragen. Dat komt doordat de drempel zo laag is: de klant hoeft niets te onthouden, niets te zoeken en niets in te typen behalve de review zelf.
+Salons die NFC-kaarten gebruiken zien duidelijk meer reviews per maand dan salons die alleen mondeling vragen. Dat komt doordat de drempel zo laag is: de klant hoeft niets te onthouden, niets te zoeken en niets in te typen behalve de review zelf.
 
 Meer reviews betekent:
 
