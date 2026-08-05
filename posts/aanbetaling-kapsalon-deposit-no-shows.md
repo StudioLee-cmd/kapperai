@@ -14,11 +14,11 @@ No-shows kosten de gemiddelde kapsalon tussen de 500 en 1.500 euro per maand aan
 
 Het principe is simpel: bij het boeken van een afspraak betaalt de klant een klein bedrag vooraf, meestal 10 tot 25 euro. Komt ze opdagen? Dan wordt het bedrag verrekend met de behandeling. Komt ze niet? Dan behoud je de aanbetaling als vergoeding voor de verloren tijd.
 
-Salons die een depositosysteem invoeren, zien hun no-show percentage dalen met 50 tot 70 procent. Klanten die hun portemonnee hebben geopend, verschijnen.
+Salons die een depositosysteem invoeren, zien hun no-show percentage fors dalen. Klanten die hun portemonnee hebben geopend, verschijnen.
 
 ## Welk bedrag is redelijk
 
-Het aanbetaalbedrag moet hoog genoeg zijn om serieuze commitment te creeren, maar laag genoeg om klanten niet af te schrikken. De vuistregel: 10 tot 25 procent van de behandelprijs, met een minimum van 10 euro.
+Het aanbetaalbedrag moet hoog genoeg zijn om serieuze commitment te creeren, maar laag genoeg om klanten niet af te schrikken. De vuistregel: een tiende tot een kwart van de behandelprijs, met een minimum van 10 euro.
 
 Voor een knipt en foehnt van 45 euro is een aanbetaling van 10 euro passend. Voor een balayage van 200 euro is 25 tot 40 euro redelijk. Het bedrag communiceert: "Ik neem je afspraak serieus, en ik verwacht dat jij dat ook doet."
 
