@@ -17,7 +17,7 @@ Het probleem is niet dat je onbereikbaar wilt zijn. Het probleem is dat je fysie
 
 ## Hoeveel het je echt kost
 
-Laten we rekenen. Een gemiddelde kapsalon mist 3 tot 5 oproepen per dag. Niet elke oproep is een boeking, maar conservatief geschat is een op de drie een serieuze klant. Dat zijn 1 tot 2 gemiste boekingen per dag.
+Laten we rekenen. Een gemiddelde kapsalon mist 3 tot 5 oproepen per dag. Niet elke oproep is een boeking, maar reken met een op de drie als serieuze klant. Dat zijn 1 tot 2 gemiste boekingen per dag.
 
 Bij een gemiddelde behandelwaarde van 55 euro verlies je 55 tot 110 euro per dag aan gemiste omzet. Per week is dat 275 tot 550 euro. Per maand 1.200 tot 2.400 euro. Per jaar 14.000 tot 28.000 euro.
 
@@ -43,7 +43,7 @@ Spoedvragen worden direct afgehandeld. Routineboekingen worden genoteerd en kun 
 
 Naast het beantwoorden van oproepen kan het systeem automatisch een WhatsApp sturen bij een gemiste oproep: "Je hebt gebeld met [salonnaam]. We zijn momenteel bezig met een klant. Wil je online boeken via [link] of beschrijf je vraag en we reageren zo snel mogelijk?"
 
-Meer dan 70 procent van de bellers reageert hierop. De boeking is niet verloren, alleen vertraagd. En de klant voelt zich gezien in plaats van genegeerd.
+Verreweg de meeste bellers reageren hierop. De boeking is niet verloren, alleen vertraagd. En de klant voelt zich gezien in plaats van genegeerd.
 
 ## De investering versus de opbrengst
 
