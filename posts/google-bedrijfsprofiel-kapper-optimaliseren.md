@@ -12,7 +12,7 @@ cluster: "vindbaarheid"
 
 Als iemand zoekt op "kapper [plaatsnaam]", toont Google eerst het zogenaamde Local Pack — drie bedrijven met kaart, reviews en openingstijden. Pas daarna volgen de gewone [zoekresultaten](/seo). Je website kan perfect zijn, maar als je Google Bedrijfsprofiel niet geoptimaliseerd is, verschijn je simpelweg niet in dat Local Pack.
 
-Voor kappers is dit extra belangrijk: 85% van de nieuwe klanten zoekt lokaal. Ze willen een salon in de buurt, liefst met goede reviews en de mogelijkheid om direct te bellen of een routebeschrijving te openen. Je Google Bedrijfsprofiel is vaak het eerste — en soms het enige — dat een potentiele klant van je ziet.
+Voor kappers is dit extra belangrijk: verreweg de meeste nieuwe klanten zoeken lokaal. Ze willen een salon in de buurt, liefst met goede reviews en de mogelijkheid om direct te bellen of een routebeschrijving te openen. Je Google Bedrijfsprofiel is vaak het eerste — en soms het enige — dat een potentiele klant van je ziet.
 
 ## Stap 1: Claim en verifieer je profiel
 
@@ -36,7 +36,7 @@ Google beloont volledigheid. Hoe meer informatie je invult, hoe hoger je scoort.
 
 ## Stap 3: Voeg professionele foto's toe
 
-Salons met meer dan 10 foto's krijgen 35% meer klikken naar hun website dan salons zonder foto's. Welke foto's werken het best?
+Salons met meer dan 10 foto's krijgen duidelijk meer klikken naar hun website dan salons zonder foto's. Welke foto's werken het best?
 
 - **Buitenkant van je salon** — zodat klanten je herkennen op straat
 - **Interieur** — laat je sfeer zien (schoon, modern, gezellig)
@@ -111,9 +111,9 @@ Een profiel zonder foto's oogt onbetrouwbaar. Het kost vijf minuten om een paar 
 
 | Actie | Verwacht resultaat |
 |-------|-------------------|
-| Profiel compleet invullen | 2x meer profielweergaven |
-| 10+ foto's toevoegen | 35% meer websitekliks |
-| Wekelijks Google Posts | 20% meer interactie |
+| Profiel compleet invullen | Fors meer profielweergaven |
+| 10+ foto's toevoegen | Duidelijk meer websitekliks |
+| Wekelijks Google Posts | Merkbaar meer interactie |
 | 50+ reviews met 4.5+ score | Top 3 Local Pack positie |
 
 ## Conclusie
