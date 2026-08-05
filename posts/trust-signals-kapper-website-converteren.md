@@ -12,8 +12,8 @@ cluster: "website"
 - **Een potentiële klant beslist binnen 5 seconden** of jouw website betrouwbaar oogt, daarna ben je hem kwijt.
 - **Vijf trust signals halen de meeste twijfel weg:** echte foto's, reviews, prijzen, naam-en-gezicht en een snelle boekingsknop.
 - **Geen "premium" of "luxe" zonder bewijs.** Tekst zonder onderbouwing telt niet als trust signal.
-- **Mobile first:** 70% bekijkt jouw site op de telefoon. Daar moet alles binnen één duim-scroll zichtbaar zijn.
-- **Eén ontbrekend signaal kost je tot 30% van de boekingen.**
+- **Mobile first:** verreweg de meeste bezoekers bekijken jouw site op de telefoon. Daar moet alles binnen één duim-scroll zichtbaar zijn.
+- **Eén ontbrekend signaal kost je een fors deel van de boekingen.**
 
 ## Waarom een nieuwe klant aarzelt
 
@@ -21,7 +21,7 @@ Iemand zoekt op zijn telefoon naar "kapper Utrecht Oost". Klikt door op jouw web
 
 Wat hij in die 5 seconden zoekt is geen marketing-tekst. Hij scant naar bewijs dat jij een echte, betrouwbare salon bent met goed werk en eerlijke prijzen. Vindt hij dat bewijs niet snel genoeg, dan tikt hij weg. Geen tweede kans, geen e-mail erachteraan, niets. Hij kiest gewoon de volgende.
 
-Dat scangedrag bepaalt 80% van je website-conversie. Niet je tekst, niet je verhaal, niet je font. Je trust signals.
+Dat scangedrag bepaalt het grootste deel van je website-conversie. Niet je tekst, niet je verhaal, niet je font. Je trust signals.
 
 ## De 5 trust signals die echt werken
 
@@ -98,7 +98,7 @@ Loop dit lijstje af op je eigen website en je weet binnen 10 minuten waar je sta
 - [ ] Boekingsknop werkt op mobiel binnen 2 tikken
 - [ ] Trust badges alleen bekende platforms (Google, eventueel Treatwell)
 
-Mis je vier of meer punten? Dan laat je gemiddeld 25-30% van je mogelijke boekingen liggen. Het kost een vrije ochtend om dit op te lossen.
+Mis je vier of meer punten? Dan laat je een flink deel van je mogelijke boekingen liggen. Het kost een vrije ochtend om dit op te lossen.
 
 ## Hoe verschillende salon-stijlen dit invullen
 
