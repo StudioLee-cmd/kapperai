@@ -9,9 +9,9 @@ tags: ["Google Bedrijfsprofiel", "Lokale SEO", "Vindbaarheid", "Gratis Marketing
 cluster: "vindbaarheid"
 ---
 **In het kort:**
-- 70% van de Nederlandse kapsalons gebruikt minder dan 30% van de gratis features in hun Google Bedrijfsprofiel (GBP). De vijf meest onbenutte: Posts, Q&A, Booking-link, Insights-data en Services-uitsplitsing. Elke feature alleen al levert gemiddeld 15-30% meer profiel-bezoeken op.
-- GBP is voor een lokale kapsalon het hoogst-conversie marketing-kanaal. 65-80% van nieuwe klanten vindt de kapsalon via Google Maps of de lokale 3-pack, niet via een directe website-zoekopdracht. Wie zijn GBP optimaal heeft staan, krijgt 3-5 keer meer profiel-impressies dan een matig-ingericht profiel.
-- ACM Marktonderzoek Persoonlijke Verzorging 2025 noemt lokale Google-zichtbaarheid als de top-1 acquisitie-driver voor MKB-kapsalons. Een 0,2-sterren hogere gemiddelde GBP-score levert gemiddeld 25-40% meer telefonische aanvragen op.
+- De meeste Nederlandse kapsalons gebruiken maar een fractie van de gratis features in hun Google Bedrijfsprofiel (GBP). De vijf meest onbenutte: Posts, Q&A, Booking-link, Insights-data en Services-uitsplitsing. Elke feature alleen al levert merkbaar meer profiel-bezoeken op.
+- GBP is voor een lokale kapsalon het hoogst-conversie marketing-kanaal. Verreweg de meeste nieuwe klanten vinden de kapsalon via Google Maps of de lokale 3-pack, niet via een directe website-zoekopdracht. Wie zijn GBP optimaal heeft staan, krijgt veel meer profiel-impressies dan een matig-ingericht profiel.
+- ACM Marktonderzoek Persoonlijke Verzorging 2025 noemt lokale Google-zichtbaarheid als de top-1 acquisitie-driver voor MKB-kapsalons. Een hogere gemiddelde GBP-score levert merkbaar meer telefonische aanvragen op.
 - De 5 features kosten samen 60-90 minuten initiële inrichting plus 15 minuten per week onderhoud. ROI: gemiddeld 8-15 nieuwe klanten per maand extra. Op €60 gemiddelde eerste-afspraak-omzet is dat €5.760-€10.800 jaarlijkse extra omzet uit gratis Google-functionaliteit.
 
 ## Waarom de meeste kappers slechts de basis-features gebruiken
@@ -22,9 +22,9 @@ De reden is niet onwilligheid maar onbekendheid. Google heeft de afgelopen 2 jaa
 
 Drie patronen die zonder gebruik van de geavanceerde features voorkomen:
 
-**Lage profile-zichtbaarheid in zoekresultaten.** Google's algoritme rangschikt actieve profielen (die regelmatig nieuwe content posten, vragen beantwoorden, services bijwerken) hoger dan passieve profielen. Een kapsalon zonder Posts en Q&A-activiteit verliest 30-50% van zijn potentiele zichtbaarheid aan de actievere concurrent twee straten verderop.
+**Lage profile-zichtbaarheid in zoekresultaten.** Google's algoritme rangschikt actieve profielen (die regelmatig nieuwe content posten, vragen beantwoorden, services bijwerken) hoger dan passieve profielen. Een kapsalon zonder Posts en Q&A-activiteit verliest een fors deel van zijn potentiele zichtbaarheid aan de actievere concurrent twee straten verderop.
 
-**Hoge bounce-rate uit search-results.** Een gebruiker die jouw profiel in de 3-pack ziet maar niet kan zien welke services je biedt, klikt naar de volgende kapsalon. Een Services-uitsplitsing op het profiel verlaagt deze bounce met 40-60%.
+**Hoge bounce-rate uit search-results.** Een gebruiker die jouw profiel in de 3-pack ziet maar niet kan zien welke services je biedt, klikt naar de volgende kapsalon. Een Services-uitsplitsing op het profiel verlaagt deze bounce aanzienlijk.
 
 **Geen data over wat werkt.** Zonder Insights-tracking weet je niet welke zoekwoorden je profielbezoek opleveren, welke acties bezoekers nemen of vanuit welke buurten ze komen. Dat is data die elke kapsalon zou moeten gebruiken om zijn marketing slimmer te maken.
 
@@ -36,7 +36,7 @@ Posts zijn korte updates op je GBP die direct in zoekresultaten verschijnen onde
 
 Voor een kapsalon werken vier post-types het beste:
 
-**Wekelijkse "wat is nieuw"-post:** "Deze week: nieuwe lente-kleuren in onze keratine-treatment-lijn. Tot 30 mei 15% korting op intensive-care behandelingen."
+**Wekelijkse "wat is nieuw"-post:** "Deze week: nieuwe lente-kleuren in onze keratine-treatment-lijn. Tot 30 mei [X]% korting op intensive-care behandelingen."
 
 **Aanbiedingen:** "Vandaag nog vrij: 14:00 en 16:30. Boek direct via [link]."
 
@@ -44,7 +44,7 @@ Voor een kapsalon werken vier post-types het beste:
 
 **Klantcase (met toestemming):** "Voor en na: Marieke met haar nieuwe pixie-cut. Boek je eigen verandering via [link]."
 
-Tijdsinvestering: 5-10 minuten per week. Effect: 20-35% meer profiel-bezoeken in de week na een actieve post-cyclus van 4 weken.
+Tijdsinvestering: 5-10 minuten per week. Effect: merkbaar meer profiel-bezoeken in de week na een actieve post-cyclus van 4 weken.
 
 ## Feature 2: Vragen & Antwoorden (Q&A)
 
@@ -64,7 +64,7 @@ Tijdsinvestering: 15 minuten initiële invulling van 5-8 zelf-vragen, dan 2-3 mi
 
 Google biedt sinds 2023 een directe booking-link in het GBP voor branches die online boeken hebben. [Voor kappers](/blog/lokale-landingspagina-kapper-per-stad) zijn de officiële integraties: Salonized, Treatwell, Booksy, en sinds 2025 de meeste alles-in-één-platform-tools.
 
-De link verschijnt prominent als blauwe "Boek direct" knop op je profiel. Conversion: 18-32% van profiel-bezoekers klikt door, waarvan 35-55% een afspraak maakt. Op een gemiddeld profiel met 200-400 bezoekers per maand is dat 12-25 directe boekingen via Google.
+De link verschijnt prominent als blauwe "Boek direct" knop op je profiel. Een deel van de profiel-bezoekers klikt door, en daarvan maakt een deel een afspraak. Op een gemiddeld profiel met 200-400 bezoekers per maand levert dat een handvol directe boekingen via Google per maand.
 
 Een goede [crm voor kappers](/crm) of online-boekingssysteem koppelt automatisch aan je GBP. Zonder die koppeling moet je elke afspraak handmatig overzetten.
 
