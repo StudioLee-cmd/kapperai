@@ -13,9 +13,9 @@ Het punt is dit: die afhakers zijn meestal geen klanten die jou afwijzen. Het zi
 
 ## Waarom boekers afhaken zonder iets te zeggen
 
-Een afhaker laat meestal geen spoor achter. Ze komen, klikken, haken af, en je weet niet eens dat ze er waren. Tenzij je analytics hebt geïnstalleerd zie je alleen het eindresultaat: een paar boekingen per week die significant lager liggen dan je eigenlijk op basis van je bezoekersaantallen zou verwachten. De term die analytics-mensen hiervoor gebruiken is "booking funnel drop-off", en bij kappers ligt dat cijfer in Nederland gemiddeld rond de 70 procent.
+Een afhaker laat meestal geen spoor achter. Ze komen, klikken, haken af, en je weet niet eens dat ze er waren. Tenzij je analytics hebt geïnstalleerd zie je alleen het eindresultaat: een paar boekingen per week die significant lager liggen dan je eigenlijk op basis van je bezoekersaantallen zou verwachten. De term die analytics-mensen hiervoor gebruiken is "booking funnel drop-off", en bij kappers ligt dat cijfer in Nederland hoog.
 
-Die afhaak-ratio is geen universele wetmatigheid, het is een optelsom van specifieke momenten op je pagina waar de bezoeker twijfelt. Die twijfels zijn bijna altijd dezelfde zes, in bijna alle salon-websites. Als je ze herkent en wegneemt, schuift het percentage boekingen snel richting de 45 tot 55 procent. Dat is niet marginaal, dat is bijna een verdubbeling in opdrachten zonder dat je één extra bezoeker aantrekt.
+Die afhaak-ratio is geen universele wetmatigheid, het is een optelsom van specifieke momenten op je pagina waar de bezoeker twijfelt. Die twijfels zijn bijna altijd dezelfde zes, in bijna alle salon-websites. Als je ze herkent en wegneemt, schuift het percentage boekingen fors omhoog. Dat is niet marginaal, dat is bijna een verdubbeling in opdrachten zonder dat je één extra bezoeker aantrekt.
 
 ## Frictie 1: prijs is niet direct zichtbaar bij de dienstkeuze
 
@@ -23,7 +23,7 @@ De meest voorkomende afhaker zit al op het eerste scherm. De klant selecteert "k
 
 Oplossing: toon bij elke dienst een prijsrange of een vanaf-prijs direct in de keuzelijst. "Knippen: vanaf €38" presteert veel beter dan "Knippen: klik voor meer info". Ook als de uiteindelijke prijs varieert op basis van haarlengte, geef je in elk geval een ondergrens. Klanten willen weten waar ze ongeveer op uitkomen voor ze tien minuten in een boekingsproces investeren.
 
-Wanneer je een nieuwe [website laten maken](/gratis-website) hebt, of een bestaande website laat auditten, is dit het eerste wat we aanpassen. In de praktijk levert het gemiddeld 12 tot 18 procent meer afgeronde boekingen op, simpel omdat de klant niet meer afhaakt op onzekerheid.
+Wanneer je een nieuwe [website laten maken](/gratis-website) hebt, of een bestaande website laat auditten, is dit het eerste wat we aanpassen. In de praktijk levert het merkbaar meer afgeronde boekingen op, simpel omdat de klant niet meer afhaakt op onzekerheid.
 
 ## Frictie 2: te veel stappen voor de eerste keuze
 
@@ -57,13 +57,13 @@ De boekingspagina is vaak een minimalistisch scherm met formuliervelden en een b
 
 Oplossing: plaats direct op de boekingspagina twee tot drie reviews met naam en datum, een foto van de salon, en logos van de belangrijkste review-platforms (Google, Treatwell, of NFC-kaart rating). Dit zijn geen grote ingrepen, maar ze halen een meetbare mentale drempel weg.
 
-Toon ook je Google-rating-getal groot en herkenbaar. "4,8 ★ op Google (op basis van 94 reviews)" doet in conversie-onderzoek meer dan 10 procent verschil versus geen zichtbare rating. Als je nog geen 25 reviews hebt, is het slim om je [reviewstrategie](/gratis-scan) eerst aan te pakken voordat je probeert conversies op de boekingspagina te verbeteren, want zonder sociale bewijs werken de andere fricties ook niet goed.
+Toon ook je Google-rating-getal groot en herkenbaar. "4,8 ★ op Google (op basis van 94 reviews)" doet in conversie-onderzoek een duidelijk verschil versus geen zichtbare rating. Als je nog geen 25 reviews hebt, is het slim om je [reviewstrategie](/gratis-scan) eerst aan te pakken voordat je probeert conversies op de boekingspagina te verbeteren, want zonder sociale bewijs werken de andere fricties ook niet goed.
 
 ## Frictie 6: telefoon en WhatsApp ontbreken als alternatief
 
 Sommige mensen willen simpelweg niet [online boeken](/blog/online-boeken-kapper). Oudere klanten, mensen met specifieke vragen, of mensen die liever even iemand spreken voor ze zich committeren. Als jouw boekingspagina alleen een formulier toont zonder telefonisch of WhatsApp-alternatief, verlies je die groep direct.
 
-Oplossing: toon onderaan (of als sticky element) altijd een telefoonnummer en een WhatsApp-link. Niet als "contactbutton" verstopt in het menu, maar expliciet op de boekingspagina. Een zin als "Liever even bellen? 020-XXX XXXX. Appen kan ook: klik hier." haalt 15 tot 25 procent van de afhakers die anders niet zouden boeken alsnog binnen via een ander kanaal.
+Oplossing: toon onderaan (of als sticky element) altijd een telefoonnummer en een WhatsApp-link. Niet als "contactbutton" verstopt in het menu, maar expliciet op de boekingspagina. Een zin als "Liever even bellen? 020-XXX XXXX. Appen kan ook: klik hier." haalt een deel van de afhakers die anders niet zouden boeken alsnog binnen via een ander kanaal.
 
 Voor kapsalons die buiten openingstijden niet kunnen opnemen, is een [AI telefonist](/voice-ai) de logische toevoeging. Die neemt de oproep aan, stelt de juiste vragen en plant direct een voorlopige afspraak in, zodat de klant zich gehoord voelt op het moment dat ze belt.
 
@@ -81,7 +81,7 @@ Donderdag: voeg reviews en vertrouwenselementen toe aan je boekingspagina. Dat z
 
 Vrijdag: zet een WhatsApp-knop en telefoonnummer op de boekingspagina. Test of alles goed doorklikt op zowel desktop als mobiel.
 
-Binnen zeven dagen heb je een booking-flow die gemiddeld 15 tot 25 procent meer boekingen per bezoeker oplevert. Op een salon met 500 websitebezoekers per maand is dat 7 tot 12 extra boekingen per maand, structureel en zonder extra marketingbudget.
+Binnen zeven dagen heb je een booking-flow die merkbaar meer boekingen per bezoeker oplevert. In dit rekenvoorbeeld: op een salon met 500 websitebezoekers per maand zijn dat 7 tot 12 extra boekingen per maand, structureel en zonder extra marketingbudget.
 
 ## Wat wij voor je bouwen
 
