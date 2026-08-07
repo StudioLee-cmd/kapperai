@@ -2,14 +2,14 @@
 title: "Google Bedrijfsprofiel kapper: 5 onbenutte features"
 slug: google-bedrijfsprofiel-kapper-5-onbenutte-features
 date: "2026-05-10"
-excerpt: "Google Bedrijfsprofiel als kapper: 5 onbenutte gratis features (Posts, Q&A, Booking-link, Insights, Services) die direct meer klanten opleveren."
+excerpt: "Google Bedrijfsprofiel als kapper: 5 onbenutte gratis features (Posts, kenmerken, booking-link, Insights, Services) die direct meer klanten opleveren."
 image: "/images/blog/google-bedrijfsprofiel-kapper-5-onbenutte-features.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Google Bedrijfsprofiel", "Lokale SEO", "Vindbaarheid", "Gratis Marketing", "Kapper"]
 cluster: "vindbaarheid"
 ---
 **In het kort:**
-- De meeste Nederlandse kapsalons gebruiken maar een fractie van de gratis features in hun Google Bedrijfsprofiel (GBP). De vijf meest onbenutte: Posts, Q&A, Booking-link, Insights-data en Services-uitsplitsing. Elke feature alleen al levert merkbaar meer profiel-bezoeken op.
+- De meeste Nederlandse kapsalons gebruiken maar een fractie van de gratis features in hun Google Bedrijfsprofiel (GBP). De vijf meest onbenutte: Posts, je bedrijfsomschrijving met kenmerken, Booking-link, Insights-data en Services-uitsplitsing. Elke feature alleen al levert merkbaar meer profiel-bezoeken op.
 - GBP is voor een lokale kapsalon het hoogst-conversie marketing-kanaal. Verreweg de meeste nieuwe klanten vinden de kapsalon via Google Maps of de lokale 3-pack, niet via een directe website-zoekopdracht. Wie zijn GBP optimaal heeft staan, krijgt veel meer profiel-impressies dan een matig-ingericht profiel.
 - ACM Marktonderzoek Persoonlijke Verzorging 2025 noemt lokale Google-zichtbaarheid als de top-1 acquisitie-driver voor MKB-kapsalons. Een hogere gemiddelde GBP-score levert merkbaar meer telefonische aanvragen op.
 - De 5 features kosten samen 60-90 minuten initiële inrichting plus 15 minuten per week onderhoud. ROI: gemiddeld 8-15 nieuwe klanten per maand extra. Op €60 gemiddelde eerste-afspraak-omzet is dat €5.760-€10.800 jaarlijkse extra omzet uit gratis Google-functionaliteit.
@@ -22,7 +22,7 @@ De reden is niet onwilligheid maar onbekendheid. Google heeft de afgelopen 2 jaa
 
 Drie patronen die zonder gebruik van de geavanceerde features voorkomen:
 
-**Lage profile-zichtbaarheid in zoekresultaten.** Google's algoritme rangschikt actieve profielen (die regelmatig nieuwe content posten, vragen beantwoorden, services bijwerken) hoger dan passieve profielen. Een kapsalon zonder Posts en Q&A-activiteit verliest een fors deel van zijn potentiele zichtbaarheid aan de actievere concurrent twee straten verderop.
+**Lage profile-zichtbaarheid in zoekresultaten.** Google's algoritme rangschikt actieve profielen (die regelmatig nieuwe content posten, reviews beantwoorden, services bijwerken) hoger dan passieve profielen. Een kapsalon zonder Posts en zonder actuele diensten verliest een fors deel van zijn potentiele zichtbaarheid aan de actievere concurrent twee straten verderop.
 
 **Hoge bounce-rate uit search-results.** Een gebruiker die jouw profiel in de 3-pack ziet maar niet kan zien welke services je biedt, klikt naar de volgende kapsalon. Een Services-uitsplitsing op het profiel verlaagt deze bounce aanzienlijk.
 
@@ -46,19 +46,19 @@ Voor een kapsalon werken vier post-types het beste:
 
 Tijdsinvestering: 5-10 minuten per week. Effect: merkbaar meer profiel-bezoeken in de week na een actieve post-cyclus van 4 weken.
 
-## Feature 2: Vragen & Antwoorden (Q&A)
+## Feature 2: Bedrijfsomschrijving en kenmerken
 
-Bezoekers kunnen vragen stellen op je GBP-profiel. Veel kapsalons weten niet dat deze sectie bestaat en laten vragen onbeantwoord, wat slecht overkomt.
+Dit is het veld waar de meeste salons één keer iets in typten en daarna nooit meer naar keken. Sinds de vragensectie van het profiel is verdwenen, is het juist het belangrijkste tekstveld dat je hebt.
 
-Twee gebruiks-modes:
+Wat er gebeurd is: Google stopte op 3 november 2025 de koppeling waarmee software vragen en antwoorden kon lezen en plaatsen, en faseerde vanaf 3 december 2025 ook de publieke vragensectie uit. De vragen die klanten stelden zijn niet weg, alleen het vak waarin jij ze beantwoordde. Google stelt het antwoord nu zelf samen, en het leest daarvoor je bedrijfsomschrijving, je kenmerken, je dienstenlijst, je site en je reviews. In Nederland zie je dat terug in de AI-overzichten boven de zoekresultaten (sinds mei 2025) en in de AI-modus (sinds oktober 2025).
 
-**Beantwoord binnen 24 uur:** elke nieuwe vraag krijgt antwoord. Stel een Google-account-melding in voor nieuwe vragen.
+Twee dingen die je vandaag kunt doen:
 
-**"Frequent gestelde vragen" zelf-toevoegen:** voeg zelf 5-8 vragen toe waar je hoge-frequentie-vragen van klanten op proactive antwoordt. Voorbeelden: "Hoeveel kost een knipbeurt voor lang haar?", "Doen jullie ook bridal styling?", "Werken jullie met biologische producten?".
+**Schrijf je omschrijving specifiek.** Niet "wij zijn een kapsalon in het centrum" maar wat je echt doet: krullend haar, balayage, kinderen knippen, op zaterdag ook zonder afspraak. Elke concrete zin is voer voor het antwoord dat Google over je samenstelt.
 
-Bij elke nieuwe vraag die binnenkomt: stel je antwoord helder en kort op. Google promoveert profielen met actieve Q&A-sectie hoger in zoekresultaten.
+**Vink je kenmerken aan.** Rolstoeltoegankelijk, pinnen, parkeergelegenheid, wifi. Het zijn aanvinkvelden van tien seconden per stuk, en ze beantwoorden precies de praktische vragen die klanten vroeger in de vragensectie typten.
 
-Tijdsinvestering: 15 minuten initiële invulling van 5-8 zelf-vragen, dan 2-3 minuten per nieuwe vraag (gemiddeld 1-3 per maand).
+Tijdsinvestering: 20 minuten voor je omschrijving, 10 minuten voor je kenmerken, daarna alleen bijwerken als er iets verandert. Waarom die sectie verdween en wat er verder voor in de plaats kwam staat in [Google Q&A kapsalon: de sectie is weg, dit kwam ervoor](/blog/google-qa-kapsalon-verkoopkanaal).
 
 ## Feature 3: Booking-link integratie
 
@@ -102,7 +102,7 @@ Wel of geen prijs erbij is een keuze. Hoe transparanter je profiel, hoe beter Go
 De vijf features samen vereisen na initiële inrichting (60-90 minuten) een wekelijkse onderhoudsroutine van 15 minuten:
 
 - **Maandag (5 min):** nieuwe Post publiceren (wat is er deze week?).
-- **Woensdag (3 min):** Q&A check, antwoord op nieuwe vragen.
+- **Woensdag (3 min):** nieuwe reviews beantwoorden en je kenmerken nalopen als er iets veranderd is.
 - **Vrijdag (5 min):** foto-update (1-2 nieuwe foto's van werk uit deze week).
 - **Maandelijks (10 min):** Insights-data doorlopen, Services bijwerken indien nodig.
 
@@ -128,7 +128,7 @@ Bij KapperAI helpen we MKB-kapsalons hun Google Bedrijfsprofiel structureel opti
 
 - Volledige GBP-audit + 60-90 minuten initiële optimalisatie van alle 5 features
 - Een wekelijkse Posts-template-set in jouw branding (4 post-types per maand)
-- Een Q&A-template met de top-10 vragen die jouw klanten meestal stellen
+- Een bedrijfsomschrijving en kenmerken-set die de top-10 vragen van jouw klanten beantwoordt
 - Booking-link-integratie met je [crm voor kappers](/crm) of bestaand boekingssysteem
 - Maandelijkse Insights-rapportage met 3 actiepunten per maand
 - Een Services-uitsplitsing in jouw branding met 15-25 specifieke services
