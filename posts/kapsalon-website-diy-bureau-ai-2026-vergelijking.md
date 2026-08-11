@@ -11,7 +11,7 @@ cluster: "website"
 
 **In het kort:**
 - Het merendeel van de Nederlandse MKB-kapsalons heeft anno 2026 een website ouder dan 4 jaar of een DIY-Wix-site die niet voor mobile is geoptimaliseerd. Resultaat: een groot deel van de potentiele klanten haakt af binnen 10 seconden bij websitebezoek vanaf telefoon.
-- De drie routes om in 2026 een goede kapper-website te krijgen verschillen sterk in kosten, tijd en conversie-resultaat. DIY (€0-€300, 20-40 uur, lage conversie) is goed voor net-startende ZZP-stylisten met nul budget. Traditioneel bureau (€2.500-€8.000 eenmalig, 8-12 weken, hoge conversie maar hoge kosten) past kapsalons met €250K+ omzet die jaarlijks willen herontwerpen. AI-platform (€60-€180/mnd inclusief alles, 1-2 weken, hoge conversie en lage drempel) is de groeiende middelgroep voor MKB-kapsalons tussen 1-5 stylisten.
+- De drie routes om in 2026 een goede kapper-website te krijgen verschillen sterk in kosten, tijd en conversie-resultaat. DIY (€0-€300, 20-40 uur, lage conversie) is goed voor net-startende ZZP-stylisten met nul budget. Traditioneel bureau (€2.500-€8.000 eenmalig, 8-12 weken, hoge conversie maar hoge kosten) past kapsalons met €250K+ omzet die jaarlijks willen herontwerpen. AI-platform (één maandabonnement inclusief alles, 1-2 weken, hoge conversie en lage drempel; bedragen op /tarieven) is de groeiende middelgroep voor MKB-kapsalons tussen 1-5 stylisten.
 - Voor verreweg de meeste MKB-kapsalons is de AI-platform-route in 2026 de juiste keuze: lagere totale jaar-kosten dan een traditioneel bureau, hogere conversie dan een DIY, en geen lock-in op één design-cyclus. Wel met de juiste verwachtingen: een AI-website is geen unieke creative branding, maar een goed-converterende functionele site.
 - ACM Marktonderzoek Persoonlijke Verzorging 2025 noemt website-conversie (boekingen direct vanuit de site) als de top-2 acquisitie-driver voor MKB-kapsalons na lokale Google-zichtbaarheid. Een conversie-stijging op websiteverkeer levert al snel een handvol nieuwe klanten per maand extra.
 
@@ -63,8 +63,8 @@ Een gedetailleerde vergelijking van kosten, tijd, controle en conversie-resultaa
 
 **Kosten 2026:**
 - Eenmalig: €0 (geen design-fee bij standaard inrichting)
-- Maandelijks: €60-€180 voor alle modules
-- Totaal jaar 1: €720-€2.160
+- Maandelijks: één vast bedrag voor alle modules (actuele bedragen op /tarieven)
+- Totaal jaar 1: 12 x je maandbedrag
 
 **Tijdsinvestering:** 1-2 weken inrichting (4-8 uur eigen input voor branding, foto's en services-lijst). Daarna 0-1 uur per maand onderhoud (alles is geautomatiseerd).
 
@@ -82,12 +82,12 @@ Een gedetailleerde vergelijking van kosten, tijd, controle en conversie-resultaa
 |---|---|---|---|---|---|
 | DIY templates | €0-€300 | €15-€100 | 20-40 uur | reken met 1-3% | ZZP starter, nul budget |
 | Traditioneel bureau | €2.500-€8.000 | €80-€230 | 8-12 weken + 8-15 uur | reken met 5-10% | €250K+ omzet, sterk merkverhaal |
-| AI-platform | €0 | €60-€180 | 1-2 weken + 4-8 uur | reken met 6-12% | de meeste MKB-salons |
+| AI-platform | €0 | zie /tarieven | 1-2 weken + 4-8 uur | reken met 6-12% | de meeste MKB-salons |
 
 In dit rekenvoorbeeld: jaar-1 totale kosten + 200 bezoekers per maand x 12% conversie x €60 gemiddelde eerste-afspraak-omzet:
 - In dit rekenvoorbeeld DIY: €380 kosten + 200 x 1-3% x €60 x 12 = €1.440-€4.320 omzet uit web → netto €1.060-€3.940
 - In dit rekenvoorbeeld bureau: €4.000 kosten + 200 x 5-10% x €60 x 12 = €7.200-€14.400 omzet uit web → netto €3.200-€10.400
-- In dit rekenvoorbeeld AI: €720 kosten + 200 x 6-12% x €60 x 12 = €8.640-€17.280 omzet uit web → netto €7.920-€16.560
+- In dit rekenvoorbeeld AI: 200 x 6-12% x €60 x 12 = €8.640-€17.280 omzet uit web, minus 12 x je maandbedrag
 
 Voor een typische MKB-kapsalon levert de AI-route in jaar 1 dus 2-3 keer netto-omzet vergeleken met DIY en 1.5-2 keer netto-omzet vergeleken met een traditioneel bureau.
 

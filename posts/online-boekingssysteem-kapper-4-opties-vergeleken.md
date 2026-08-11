@@ -11,9 +11,9 @@ cluster: "website"
 
 **In het kort:**
 - Het verschil tussen een goed en slecht online boekingssysteem voor een MKB-kapsalon zit in 2026 gemiddeld €4.000 tot €15.000 per jaar netto. Niet door de licentie-kosten zelf (€25-€80 per maand), maar door commissie-percentages, conversie-rate en de uren admin die niet wegvallen.
-- De vier hoofdopties op de NL markt: Treatwell (stevige commissie per boeking, hoge zichtbaarheid maar duur), Salonized (€39-€79/mnd zonder commissie, sterke admin), Booksy (€15-€60/mnd, internationale tool met lokale beperking), en alles-in-één AI-platform (€60-€180/mnd inclusief website + WhatsApp + reviews).
+- De vier hoofdopties op de NL markt: Treatwell (stevige commissie per boeking, hoge zichtbaarheid maar duur), Salonized (salonsoftware, €39-€79/mnd zonder commissie, sterke admin), Booksy (€15-€60/mnd, internationale tool met lokale beperking), en een alles-in-één AI-platform dat website + WhatsApp + reviews in één abonnement bundelt (bedragen op /tarieven).
 - Voor verreweg de meeste Nederlandse MKB-kapsalons is een alles-in-één platform OF Salonized de beste keuze. Treatwell werkt voor solo-stylisten die zichtbaarheid boven marge stellen; Booksy alleen voor specifieke niche-segmenten met internationale klantenstroom.
-- ACM Marktonderzoek Persoonlijke Verzorging 2025 wijst commissie-platforms aan als de top-2 verborgen kostenpost voor MKB-kapsalons. In dit rekenvoorbeeld betaalt een salon met 35 boekingen per week via 12% commissie jaarlijks €13.000-€19.000 aan platform-fees over de boekingen, terwijl een eigen systeem dat voor €60-€180 per maand zou doen.
+- ACM Marktonderzoek Persoonlijke Verzorging 2025 wijst commissie-platforms aan als de top-2 verborgen kostenpost voor MKB-kapsalons. In dit rekenvoorbeeld betaalt een salon met 35 boekingen per week via 12% commissie jaarlijks €13.000-€19.000 aan platform-fees over de boekingen, terwijl een eigen systeem dezelfde boekingen zonder één cent commissie afhandelt.
 
 ## Waarom de keuze meer is dan alleen "welke maandprijs"
 
@@ -90,7 +90,7 @@ ACM Marktonderzoek Persoonlijke Verzorging 2025 noemt commissie-platforms als to
 **Wat het is:** één platform dat website + online boeken + WhatsApp + reviews + chatbot + facturatie + CRM combineert. Voorbeelden: HighLevel-based platforms, of branche-specifieke alles-in-één-suites zoals onze KapperAI.
 
 **Kosten 2026:**
-- Maandlicentie: €60-€180 (afhankelijk van team-grootte en modules)
+- Maandlicentie: één vast bedrag, afhankelijk van team-grootte en modules (actuele bedragen op /tarieven)
 - Commissie: €0 (geen marktplaats-fees, alle boekingen via je eigen kanalen)
 - Setup: €0-€499 begeleiding
 
@@ -111,7 +111,7 @@ In dit rekenvoorbeeld een typische MKB-kapsalon met 35 boekingen per week, €60
 | Treatwell | €0 | €13.000-€16.000 | 4-6 uur | €13.000-€16.000 |
 | Salonized | €59/mnd | €0 | 2-3 uur | €708 |
 | Booksy | €40/mnd | €1.000-€2.000 | 3-4 uur | €1.480-€2.480 |
-| AI-platform | €120/mnd | €0 | 1-2 uur | €1.440 |
+| AI-platform | zie /tarieven | €0 | 1-2 uur | 12 x je maandlicentie |
 
 **Voor verreweg de meeste MKB-salons:** Salonized of AI-platform geeft de laagste totale kosten + hoogste netto-omzet uit klanten.
 
@@ -124,7 +124,7 @@ Een veel gemaakte denkfout: "ik moet kiezen tussen Treatwell EN een eigen systee
 - **Treatwell:** alleen voor nieuwe-klant-acquisitie in stads delen waar je nog geen bekendheid hebt.
 - **Eigen systeem (Salonized of AI-platform):** voor alle vaste klanten en alle boekingen via je eigen website/WhatsApp/Google-bedrijfsprofiel.
 
-Resultaat: het leeuwendeel van je boekingen via je eigen systeem (kosten €60-€120/mnd) + een klein deel via Treatwell (commissie alleen op die specifieke boekingen). Totale kosten gemiddeld €4.000-€7.000 per jaar lager dan Treatwell-only.
+Resultaat: het leeuwendeel van je boekingen via je eigen systeem (één vaste maandlicentie) + een klein deel via Treatwell (commissie alleen op die specifieke boekingen). Totale kosten gemiddeld €4.000-€7.000 per jaar lager dan Treatwell-only.
 
 Een [chatbot voor kappers](/chatbot) op je website vangt nieuwe klanten 24/7 op en routeert ze naar je eigen boekingssysteem in plaats van Treatwell, wat de hybride-mix nog efficiënter maakt.
 
