@@ -21,7 +21,7 @@ Laten we de situatie eens schetsen. **Vroeger** zag je dag er zo uit: Je bent be
 Veel kappers denken dat AI hun creativiteit wil vervangen. Dat is onzin. Het gaat om het vervangen van het dure, trage kantoorwerk. Onze AI tools vervangen in feite drie partijen:
 - **De Receptioniste:** Een parttime kracht aan de balie kost je al snel €25.000 per jaar. Onze [Voice AI](/voice-ai) (onderdeel van het Elite pakket) neemt 24/7 op, plant afspraken, en beantwoordt vragen over prijzen.
 - **Het Marketingbureau:** Wil je meer klanten in je stoel? Vroeger betaalde je een bureau €1.500 per maand. Onze Social Media AI & SEO Blog AI regelen je zichtbaarheid. Ze posten je mooiste transformaties op Instagram en schrijven blogs.
-- **De Boekhouder (deels):** Natuurlijk heb je een boekhouder nodig. Maar het dagelijkse werk? Facturatie AI koppelt alles aan elkaar. Geen gedoe met bonnetjes meer.
+- **De Boekhouder (deels):** Natuurlijk heb je een boekhouder nodig. Maar het dagelijkse werk? Factuur AI koppelt alles aan elkaar. Geen gedoe met bonnetjes meer.
 
 ## Waarom het een No-Brainer is voor elke salon
 

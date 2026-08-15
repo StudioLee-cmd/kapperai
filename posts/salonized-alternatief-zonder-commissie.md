@@ -46,7 +46,7 @@ Met 25+ geïntegreerde tools krijg je alles in één systeem:
 |---|---|---|
 | Online agenda | Ja | Ja |
 | Klantenbeheer | Ja | Ja — uitgebreider met CRM |
-| Kassasysteem | Ja | Via facturatie AI |
+| Kassasysteem | Ja | Via Factuur AI |
 | AI Telefoniste | Nee | Ja |
 | Chatbot | Nee | Ja |
 | Review automatisering | Nee | Ja |
