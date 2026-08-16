@@ -95,7 +95,7 @@ Voor een typische MKB-kapsalon levert de AI-route in jaar 1 dus 2-3 keer netto-o
 
 Drie elementen die op ELKE kapper-website moeten staan, anders is welke route dan ook waardeloos:
 
-**1. Mobile-first bookingsflow.** Verreweg het meeste verkeer komt via telefoon. De boeking-knop moet binnen 5 seconden na pagina-laad zichtbaar zijn, met max 3 stappen tot complete boeking. Elke route die geen mobile-first oplevert is per definitie ongeschikt voor een [website voor kapper vanaf €800](/gratis-website)-budget.
+**1. Mobile-first bookingsflow.** Verreweg het meeste verkeer komt via telefoon. De boeking-knop moet binnen 5 seconden na pagina-laad zichtbaar zijn, met max 3 stappen tot complete boeking. Elke route die geen mobile-first oplevert is per definitie ongeschikt voor een [website voor kappers](/gratis-website)-budget.
 
 **2. Lokale-SEO-fundament.** Stad-naam in titel + meta + body, NAP-consistentie (Naam-Adres-Telefoon overal hetzelfde), embedded Google-Maps. Een [seo voor kappers](/seo)-koppeling helpt je site bij de eerste-pagina-positie voor "kapper [stad]".
 
