@@ -1,4 +1,6 @@
 'use client';
+import { publicContacts } from "@/data/publicContacts";
+
 
 import React, { useState } from 'react';
 import { useRouter } from 'next/navigation';
@@ -306,8 +308,8 @@ const FreeTrialPage = () => {
                     {/* Footer Note */}
                     <p className="text-center text-sm text-gray-500 mt-6">
                         Heb je vragen? Neem contact met ons op via{' '}
-                        <a href="mailto:tim@kapperai.nl" className="text-blue-600 hover:text-blue-700 font-medium">
-                            tim@kapperai.nl
+                        <a href={("mailto:" + publicContacts.primary.email)} className="text-blue-600 hover:text-blue-700 font-medium">
+                            {publicContacts.primary.email}
                         </a>
                     </p>
                 </div>
