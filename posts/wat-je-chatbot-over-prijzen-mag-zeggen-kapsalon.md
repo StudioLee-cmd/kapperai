@@ -17,7 +17,7 @@ Toch is de oplossing niet om prijsvragen te blokkeren. Een [ai chatbot voor kapp
 
 ## Waarom prijsvragen de gevaarlijkste chatvragen zijn
 
-Bij bijna elke andere vraag kan je bot niet echt de mist in. Openingstijden zijn openingstijden. Parkeren is parkeren. Bij prijs zit er iets tussen wat een systeem niet kan zien: het hoofd van de klant.
+Ook antwoorden over openingstijden en parkeren moeten uit een actuele bron komen. Bij prijsvragen is bovendien vaak informatie nodig die nog niet in de chat staat. Bij prijs zit er iets tussen wat een systeem niet kan zien: het hoofd van de klant.
 
 Twee mensen die "wat kost highlights" typen bedoelen zelden hetzelfde. De een heeft schouderlang blond haar en wil bijwerken. De ander heeft donker haar tot op het middel en wil in één sessie licht worden. Dat is een verschil van een halve dag stoeltijd, een ander aantal folies en een heel ander bedrag. Het woord in de chat is identiek.
 
@@ -35,9 +35,9 @@ Deel je dienstenlijst in drieën. Elke behandeling die je aanbiedt hoort in prec
 
 **Bakje 2, bandbreedte.** Kleuren, highlights, balayage, permanent. Er is een ondergrens en een bovengrens, en welke het wordt hangt af van een paar dingen die je vooraf kunt benoemen: haarlengte, hoeveel uitgroei er zit, hoeveel folies er nodig zijn, of er een eerdere kleuring overheen ligt. De bot mag de band noemen, maar alleen samen met die voorwaarden.
 
-**Bakje 3, alleen na intake.** Correctiekleuring, extensions, alles waar eerst iemand naar het haar moet kijken. Hier noemt de bot geen enkel bedrag, ook geen vanaf-prijs. Een vanaf-prijs bij een correctiekleuring is een cijfer dat gegarandeerd niet klopt en dat de klant tóch onthoudt.
+**Bakje 3, alleen na intake.** Correctiekleuring, extensions, alles waar eerst iemand naar het haar moet kijken. Hier noemt de bot geen enkel bedrag, ook geen vanaf-prijs. Als je vooraf geen betrouwbare prijs kunt bepalen, geef de bot dan ook geen vanaf-bedrag dat hij als toezegging kan laten klinken.
 
-Zet die indeling ook echt op papier voor je iemand iets laat instellen. In de praktijk is het uitzoeken van deze drie bakjes negentig procent van het werk en het invoeren tien.
+Zet die indeling ook echt op papier voor je iemand iets laat instellen. Bepaal eerst samen met je stylisten welke behandeling in welk bakje hoort en voer die afspraken daarna in.
 
 ## Wat je bot mag noemen bij een vaste prijs
 
@@ -51,7 +51,7 @@ En laat de bot de prijs uit één bron halen, niet uit zijn eigen geheugen. Staa
 
 Dit is het bakje waar het schuurt, want een band voelt als een niet-antwoord. Dat wordt het pas als je de voorwaarden weglaat.
 
-Vergelijk deze twee. "Kleuren kost tussen de X en Y" is een ontwijking: de klant weet nog steeds niets. "Kleuren ligt tussen de X en Y. Wat het bij jou wordt hangt af van je haarlengte, hoeveel uitgroei er zit en of er nog een oude kleur in zit. Stuur je een foto, dan kan ik je binnen een dag een exacter bedrag geven" is een antwoord. Dezelfde band, en de klant weet nu waarom.
+Vergelijk deze twee. "Kleuren kost tussen de X en Y" is een ontwijking: de klant weet nog steeds niets. "Kleuren ligt tussen de X en Y. Wat het bij jou wordt hangt af van je haarlengte, hoeveel uitgroei er zit en of er nog een oude kleur in zit. Stuur je een foto, dan kijkt een stylist mee en laat die weten welke intake nog nodig is" is een antwoord. Dezelfde band, en de klant weet nu waarom.
 
 De regel die daaronder ligt: elke band die je bot noemt gaat vergezeld van de factoren die hem bepalen. Zonder die factoren is het geen prijsinformatie maar een slag om de arm, en daar haakt iemand op af.
 
@@ -63,9 +63,9 @@ Twee dingen die je band betrouwbaar houden. Houd de bovengrens eerlijk hoog, ook
 
 Bakje 3 is waar de meeste bots hun klant verliezen, niet omdat ze zwijgen maar omdat ze niets aanbieden.
 
-Een goede reactie op "wat kost een correctiekleuring" bevat drie dingen en geen bedrag. Eerst de reden: dat hangt echt af van wat er nu in je haar zit, en een bedrag noemen zonder te kijken zou een gok zijn. Dan de stap: een gratis kleuradvies van een kwartier, waarin je precies hoort wat het wordt. En dan de actie: twee concrete momenten deze week waaruit ze kan kiezen, in de chat zelf boekbaar.
+Een goede reactie op "wat kost een correctiekleuring" bevat drie dingen en geen bedrag. Eerst de reden: dat hangt echt af van wat er nu in je haar zit, en een bedrag noemen zonder te kijken zou een gok zijn. Dan de stap: een intake volgens de voorwaarden van jouw salon, met de duur en eventuele kosten vooraf vermeld. En dan de actie: beschikbare momenten uit je echte agenda, in de chat boekbaar als die koppeling is ingericht.
 
-Dat laatste is het hele punt. Een bot die "bel even" zegt, verliest de helft. Een bot die twee tijdstippen toont, boekt.
+Dat laatste is het hele punt. Met alleen "bel even" laat je de klant alsnog zelf contact opnemen. Laat daarom beschikbare tijdstippen zien en bied de mogelijkheid om in de chat te boeken.
 
 Zorg dat wat er ná dat gesprek gebeurt ook automatisch loopt: een bevestiging, een herinnering en de vraag of ze de foto alvast wil sturen. Dat is [workflow automatisering voor kappers](/automatisering), en het scheelt je precies de nabelrondjes waar je op donderdagmiddag geen tijd voor hebt.
 
@@ -73,11 +73,11 @@ Dezelfde grens geldt trouwens aan de telefoon. Zet je een [ai telefonist voor ka
 
 ## Wat de toezichthouder hierover zegt
 
-Sinds oktober 2025 ligt er ook een duidelijke verwachting van buiten je salon. De Autoriteit Persoonsgegevens en de Autoriteit Consument en Markt riepen organisaties toen gezamenlijk op om verantwoordelijkheid te nemen bij het inzetten van chatbots.
+Sinds oktober 2025 ligt er ook een duidelijke verwachting van buiten je salon. De Autoriteit Persoonsgegevens en de Autoriteit Consument en Markt riepen organisaties toen [gezamenlijk op om verantwoordelijkheid te nemen bij het inzetten van chatbots](https://www.acm.nl/nl/publicaties/opinie-acm-en-ap-over-inzet-ai-chatbots-bij-klantenservice).
 
 Drie punten uit die oproep raken jouw prijsinstelling direct. Klanten moeten altijd de mogelijkheid hebben om een medewerker te spreken. Het moet duidelijk zijn dat iemand met een chatbot te maken heeft. En de organisatie moet erop toezien dat de chatbot geen onjuiste, ontwijkende of misleidende informatie geeft.
 
-Dat derde punt is precies de driedeling hierboven, in andere woorden. Een bedrag dat niet klopt is onjuist. Een kale band zonder voorwaarden is ontwijkend. Een vanaf-prijs bij een behandeling die altijd duurder uitvalt is misleidend. De indeling die je maakt om je kassa-gesprekken te voorkomen, is dus tegelijk de indeling die je hier netjes houdt.
+De driedeling hierboven is onze praktische vertaling van die oproep, geen indeling die de toezichthouders voorschrijven. Een bedrag dat niet klopt is onjuist. Een kale band zonder voorwaarden is ontwijkend. Een vanaf-prijs bij een behandeling die altijd duurder uitvalt is misleidend. De indeling die je maakt om je kassa-gesprekken te voorkomen, is dus tegelijk de indeling die je hier netjes houdt.
 
 Praktisch betekent dat ook: laat de bot zich aan het begin voorstellen als digitale assistent, en zorg dat er in elk gesprek een zichtbare weg naar een mens is. Dat kost je geen boekingen. Het kost je discussies.
 
