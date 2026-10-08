@@ -64,6 +64,7 @@ export default function RootLayout({
           <Footer />
         </ThemeProvider>
           <CookieBanner widgetId="69c4ef18d9121c5778d93245" />
+      <script src="/booking-context.js" defer />
       </body>
     </html>
   );
