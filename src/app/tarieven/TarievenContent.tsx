@@ -78,7 +78,7 @@ const customOptions = [
     description:
       "Volledig custom gebouwd. Eenmalige investering, geen maandbedrag. Je betaalt daarnaast alleen wat je écht verbruikt.",
     cta: "Vraag offerte aan",
-    ctaLink: "https://cal.com/studiolee",
+    ctaLink: "/demo",
   },
   {
     name: "Volledig uit handen",
@@ -86,7 +86,7 @@ const customOptions = [
     description:
       "Wij doen alles: de teksten, de vindbaarheid, de social, de opvolging. Jij staat in de salon. Wat het kost hangt af van wat je nodig hebt — dat rekenen we samen door.",
     cta: "Plan een gesprek",
-    ctaLink: "https://cal.com/studiolee",
+    ctaLink: "/demo",
   },
 ];
 
@@ -238,7 +238,7 @@ export default function TarievenContent() {
                 Dat scheelt € {besparing},- per maand.
               </p>
               <a
-                href="https://cal.com/studiolee"
+                href="/demo"
                 className="block text-center py-3 px-6 rounded-xl font-semibold bg-primary text-black hover:bg-primary-accent transition-all"
               >
                 Reken het samen door
@@ -331,7 +331,7 @@ export default function TarievenContent() {
               Kies je ontwerp
             </a>
             <a
-              href="https://cal.com/studiolee"
+              href="/demo"
               className="border border-foreground/20 px-8 py-3 rounded-xl font-semibold hover:bg-foreground/5 transition-all inline-flex items-center justify-center gap-2"
             >
               <BsCalendar3 /> Plan een gesprek
