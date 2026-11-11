@@ -85,13 +85,13 @@ export default function BlogGrid({ posts, clusters }: BlogGridProps) {
                             href={`/blog/${post.slug}`}
                             className="relative h-48 w-full overflow-hidden"
                         >
-                            {/* The first row is above the fold and its first picture is the page's largest paint, so the
-                                first row never waits for lazy loading (measured 11-11: 9.8 s LCP on mobile, 6 s of it load delay). */}
+                            {/* The first picture is the page's largest paint, so it never waits for lazy loading and is
+                                fetched first (measured 11-11: lazy-loaded LCP on mobile). The rest stay lazy so they do not compete. */}
                             <Image
                                 src={post.image}
                                 alt={post.title}
                                 fill
-                                loading={index < 3 ? "eager" : "lazy"}
+                                loading={index === 0 ? "eager" : "lazy"}
                                 fetchPriority={index === 0 ? "high" : "auto"}
                                 className="object-cover transition-transform duration-300 group-hover:scale-105"
                             />
