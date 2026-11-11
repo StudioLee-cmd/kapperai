@@ -76,7 +76,7 @@ export default function BlogGrid({ posts, clusters }: BlogGridProps) {
 
             {/* Post grid */}
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-                {filteredPosts.map((post) => (
+                {filteredPosts.map((post, index) => (
                     <div
                         key={post.slug}
                         className="group flex flex-col h-full border border-[var(--card-border)] bg-[var(--card-background)] rounded-2xl overflow-hidden hover:shadow-lg hover:-translate-y-1 transition-all duration-300"
@@ -85,10 +85,14 @@ export default function BlogGrid({ posts, clusters }: BlogGridProps) {
                             href={`/blog/${post.slug}`}
                             className="relative h-48 w-full overflow-hidden"
                         >
+                            {/* The first row is above the fold and its first picture is the page's largest paint, so the
+                                first row never waits for lazy loading (measured 11-11: 9.8 s LCP on mobile, 6 s of it load delay). */}
                             <Image
                                 src={post.image}
                                 alt={post.title}
                                 fill
+                                loading={index < 3 ? "eager" : "lazy"}
+                                fetchPriority={index === 0 ? "high" : "auto"}
                                 className="object-cover transition-transform duration-300 group-hover:scale-105"
                             />
                             {/* Supporting image: only for articles from 2026-04-15 onwards */}
