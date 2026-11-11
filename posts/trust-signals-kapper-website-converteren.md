@@ -124,4 +124,4 @@ Bij KapperAI bouwen we dit standaard in voor onze klanten, onderdeel van het com
 
 Vijf trust signals: foto's, reviews, prijzen, namen en gezichten, een werkende boekingsknop. Niet meer, niet minder. Geen mooie mission statement, geen drie alinea's over passie. Bewijs in plaats van beloftes.
 
-Wie deze vijf op orde heeft, heeft een website die voor zichzelf werkt. Wie er drie of meer mist, laat omzet liggen. De keuze is eenvoudig en de oplossing is een ochtend werk waard. Plan een [gratis ai scan voor kappers](/gratis-scan) en we zetten de checklist samen door, inclusief de Groei-of-Geld-Terug Garantie.
+Wie deze vijf op orde heeft, heeft een website die voor zichzelf werkt. Wie er drie of meer mist, laat omzet liggen. De keuze is eenvoudig en de oplossing is een ochtend werk waard.

@@ -104,6 +104,6 @@ De vraag was: live chat of een AI chatbot voor je kapsalon? Voor een salon van 1
 
 Zo kom je terug bij die avond van 21:15. Met een chatbot waren die drie vragen dezelfde minuut beantwoord en was de balayage-klant van zaterdag bij jou geboekt in plaats van bij de concurrent. Jij knipt, wij regelen de rest.
 
-Benieuwd wat dit voor jouw salon oplevert? Vraag de [gratis ai scan voor kappers](/gratis-scan) aan en zie binnen een paar minuten waar jouw website nu vragen en boekingen laat liggen. Alles wat KapperAI bouwt valt onder de Groei-of-Geld-Terug Garantie, dus het risico ligt bij ons, niet bij jou.
+Benieuwd wat dit voor jouw salon oplevert? Vraag de [gratis ai scan voor kappers](/gratis-scan) aan en zie binnen een paar minuten waar jouw website nu vragen en boekingen laat liggen.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/whatsapp-herinneringen-chatbot-combineren" class="text-dark fw-semibold">WhatsApp herinneringen + chatbot combineren: één flow voor de hele klantreis</a> →</p></div></div></div>

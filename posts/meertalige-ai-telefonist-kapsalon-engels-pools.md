@@ -98,6 +98,6 @@ Begin klein: laat het systeem eerst alleen de gesprekken opvangen die je nu toch
 
 Een klant die belt en de taal niet spreekt, is geen moeilijke klant. Het is een klant die op dat moment niemand tegenover zich heeft die de tijd heeft. Los je dat op, dan win je niet alleen die ene boeking, je wordt ook de salon waar mensen elkaar naartoe sturen omdat het er gewoon soepel gaat.
 
-Bij de meeste aanbieders zit een extra taal in een duurder pakket. Bij ons niet, en je ziet vooraf precies waar je aan toe bent: bekijk de [tarieven van KapperAI](/tarieven). Een [ai voice agent voor kappers](/voice-ai) neemt op in de taal van je klant, boekt in jouw agenda en levert de notitie in het Nederlands aan. En omdat we in ons eigen systeem geloven, werken we met een Groei-of-Geld-Terug Garantie: levert het niks op, dan krijg je je investering terug.
+Bij de meeste aanbieders zit een extra taal in een duurder pakket. Bij ons niet, en je ziet vooraf precies waar je aan toe bent: bekijk de [tarieven van KapperAI](/tarieven). Een [ai voice agent voor kappers](/voice-ai) neemt op in de taal van je klant, boekt in jouw agenda en levert de notitie in het Nederlands aan.
 
 Jij knipt, wij regelen de rest.

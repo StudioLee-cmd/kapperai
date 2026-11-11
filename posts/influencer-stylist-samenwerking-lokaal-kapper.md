@@ -102,7 +102,6 @@ Bij KapperAI helpen we kapsalons hun micro-influencer-kanaal professioneel inric
 - Een [crm voor kappers](/crm) met influencer-dashboard (aangebrachte klanten, conversie, total spend per influencer)
 - Een [chatbot voor kappers](/chatbot) die promo-code-vragen 24/7 beantwoordt
 - [Review management voor kappers](/reviews) opvolging waarbij influencer-leads worden aangemoedigd te reviewen
-- Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis AI-scan voor kappers](/gratis-scan) of bekijk onze [tarieven KapperAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
 

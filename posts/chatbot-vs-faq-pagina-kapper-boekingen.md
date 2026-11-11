@@ -92,4 +92,4 @@ Precies de vragen die je echt krijgt, niet meer. Een korte pagina met zes eerlij
 
 De vraag is nooit geweest of je een chatbot of een FAQ-pagina moet hebben. Je FAQ zorgt dat mensen je vinden en dat ze durven te boeken. Je chatbot zorgt dat de vraag die daarna alsnog binnenkomt niet stil blijft liggen tot maandagochtend. Schrijf je antwoorden één keer goed op, gebruik ze op allebei de plekken, en je hebt geen keuze meer nodig.
 
-Bij KapperAI zetten we die twee als één geheel neer: je vragen op je site zodat je gevonden wordt, en dezelfde antwoorden in een chat die doorvraagt en doorboekt. Inclusief onze Groei-of-Geld-Terug Garantie, zodat je het risico niet draagt. Jij knipt, wij regelen de rest.
+Bij KapperAI zetten we die twee als één geheel neer: je vragen op je site zodat je gevonden wordt, en dezelfde antwoorden in een chat die doorvraagt en doorboekt. Jij knipt, wij regelen de rest.

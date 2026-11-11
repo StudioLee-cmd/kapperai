@@ -89,4 +89,4 @@ Een beetje, maar veel minder dan de hook, de audio en je retentie. Zet er een ha
 
 Reels die de scroll stoppen zijn geen geluk, het is een systeem: de juiste hook, trending audio en een opvolging die niets laat vallen. Wil je dat niet elke week zelf verzinnen, dan zet ons team het voor je op en houden we het draaiend.
 
-Begin met een [gratis ai scan voor kappers](/gratis-scan). We kijken naar je huidige social media en laten zien waar je makkelijk boekingen laat liggen. En het mooie: onze aanpak werkt met een Groei-of-Geld-Terug Garantie, dus je zit nergens aan vast zonder resultaat.
+Begin met een [gratis ai scan voor kappers](/gratis-scan). We kijken naar je huidige social media en laten zien waar je makkelijk boekingen laat liggen.

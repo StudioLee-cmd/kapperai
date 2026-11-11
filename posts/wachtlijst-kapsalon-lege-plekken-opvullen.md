@@ -73,4 +73,4 @@ En het kost je niks. Geen advertentiebudget, geen korting, geen actie. Alleen ee
 
 Je hoeft niet te wachten tot je een compleet systeem hebt. Begin vandaag. Vraag je eerstvolgende drie klanten die niet direct terecht kunnen of ze op de wachtlijst willen. Noteer hun gegevens. De volgende keer dat iemand afbelt, heb je direct een plan B.
 
-Wil je weten hoe je je hele planning en klantbeheer kunt stroomlijnen? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt een helder overzicht van je salon, je planningsefficiency en concrete verbeterpunten. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je weten hoe je je hele planning en klantbeheer kunt stroomlijnen? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt een helder overzicht van je salon, je planningsefficiency en concrete verbeterpunten.

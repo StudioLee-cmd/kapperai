@@ -99,7 +99,7 @@ Met 200 klanten is dat het verschil tussen €36.000 en €69.300 per jaar.
 
 De perfecte klantbeleving begint bij het eerste contactmoment en eindigt nooit. Elke stap — van boeking tot nazorg — is een kans om een neutrale ervaring om te zetten in een wow-moment.
 
-Met [KapperAI](/) automatiseren we je boekingsbevestigingen, [herinneringen](/automatisering), nazorg en reviewverzoeken. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [KapperAI](/) automatiseren we je boekingsbevestigingen, [herinneringen](/automatisering), nazorg en reviewverzoeken. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoe je de klantbeleving in je salon verbetert.
 

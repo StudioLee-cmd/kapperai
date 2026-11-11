@@ -110,14 +110,12 @@ Een werkend 7-stappensysteem voor een gemiddelde Nederlandse kapsalon:
 
 Voor een salon met €18.500 maandomzet die door dit systeem groeit naar €32.000 in jaar één, is de ROI duidelijk. Tegenover €1.500 tot €2.000 jaarlijkse softwarekosten staat een maandelijkse extra omzet van €13.500 — meer dan de tools 7 keer terugverdienen.
 
-Voor een complete uitwerking van de [marketing voor kapsalons](https://www.kapperai.nl/seo) inclusief alle bovenstaande automatiseringen, zie onze service-pagina inclusief Groei-of-Geld-Terug Garantie.
-
 ## Begin met stap 1 — niet met alles tegelijk
 
 De grootste fout die kapsalons maken bij dit systeem is willen alle 7 stappen tegelijk implementeren. Dat is overweldigend en levert in de praktijk niets op. Begin met stap 1 (persoonlijke boekingsbevestiging) en stap 4 (review-verzoek na afspraak). Die twee stappen alleen verhogen je retentie al merkbaar in de eerste maand.
 
 Voeg na 30 dagen stap 5 (onderhoudstip op dag 7) toe. Daarna stap 7 (volgende afspraak op het juiste moment). Pas in maand 4-6 voeg je de overige stappen toe. Deze geleidelijke opbouw is duurzaam, terwijl alles-tegelijk vrijwel altijd leidt tot inconsistente uitvoering.
 
-Wil je weten hoe een [complete leadopvolging voor jouw kapsalon](https://www.kapperai.nl/gratis-website) eruit kan zien? Plan een vrijblijvend gesprek of bekijk de uitgewerkte aanpak online — inclusief Groei-of-Geld-Terug Garantie.
+Wil je weten hoe een [complete leadopvolging voor jouw kapsalon](https://www.kapperai.nl/gratis-website) eruit kan zien?
 
 Lees ook onze [andere artikelen over salonmarketing en klantbehoud voor kappers](https://www.kapperai.nl/blog).

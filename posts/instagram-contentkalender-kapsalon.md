@@ -101,6 +101,6 @@ Kijk maandelijks naar drie dingen: hoeveel nieuwe volgers, hoeveel mensen je pro
 
 "Wat post ik vandaag?" verdwijnt op het moment dat je het een keer hebt opgelost in plaats van dertig keer. De kalender hierboven is dat ene moment: vier pijlers, een vast weekskelet, een uur batchen per maand. Daarna draait je Instagram als je afsprakenboek, op de achtergrond, terwijl jij knipt.
 
-Wil je het hele systeem laten draaien zonder er zelf omkijken naar te hebben? KapperAI regelt [social media voor kappers](/social-media) van planning tot posten, inclusief AI-beelden en de juiste tijdstippen, met onze Groei-of-Geld-Terug Garantie. Jij knipt, wij regelen de rest.
+Wil je het hele systeem laten draaien zonder er zelf omkijken naar te hebben? Jij knipt, wij regelen de rest.
 
 <p style="background-color: rgba(193, 255, 114, 0.18); border-radius: 10px; padding: 14px 18px; margin: 28px 0; font-size: 0.95rem;"><strong>Lees ook:</strong> <a href="/blog/photoshoot-kapsalon-12-maanden-content"><strong>Photoshoot voor kapsalon: 1 dag, 12 maanden content</strong></a> &rarr;</p>

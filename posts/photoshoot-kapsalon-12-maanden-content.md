@@ -150,7 +150,6 @@ Bij KapperAI helpen we kapsalons de photoshoot-investering optimaal benutten en 
 - Een [seo voor kappers](/seo) traject zodat de nieuwe pagina organisch wordt gevonden
 - Een [reviews-flow voor kappers](/reviews) die klant-quotes naast de fotos plaatst
 - Een [chatbot voor kappers](/chatbot) met "Boek deze look" CTA gekoppeld aan elke foto
-- Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis AI-scan voor kappers](/gratis-scan) of bekijk onze [tarieven KapperAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
 

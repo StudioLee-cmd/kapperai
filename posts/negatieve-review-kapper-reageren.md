@@ -63,4 +63,4 @@ Vraag na elke tevreden knipbeurt om een review. Met een [automatisch review-syst
 
 Een negatieve review die professioneel beantwoord wordt, wekt meer vertrouwen dan een profiel zonder enkele kritische noot. Klanten weten dat niemand perfect is. Ze willen zien hoe je omgaat met imperfectie.
 
-Wil je weten hoe je online reputatie er nu voor staat? Vraag een [gratis scan](/gratis-scan) aan. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je weten hoe je online reputatie er nu voor staat? Vraag een [gratis scan](/gratis-scan) aan.

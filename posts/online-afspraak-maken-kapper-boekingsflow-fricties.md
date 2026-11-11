@@ -91,6 +91,4 @@ Bekijk de [tarieven](/tarieven) om te zien wat dit kost, of vraag een gratis sca
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/elite-salon-app" class="text-dark fw-semibold"></a> →</p></div></div></div>
 
-## Groei-of-Geld-Terug Garantie
-
-Als je booking-conversie na drie maanden niet meetbaar is gestegen, krijg je je investering terug. Vraag een [gratis scan](/gratis-scan) aan om als eerste stap te zien waar jouw specifieke fricties zitten. Jij knipt, wij regelen de rest.
+Vraag een [gratis scan](/gratis-scan) aan om als eerste stap te zien waar jouw specifieke fricties zitten. Jij knipt, wij regelen de rest.

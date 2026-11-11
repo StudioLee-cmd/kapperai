@@ -98,4 +98,4 @@ Prijsvragen zijn geen reden om je chat uit te laten. Ze zijn de reden om hem goe
 
 Loop je dienstenlijst één keer door en zet achter elke behandeling een 1, 2 of 3. Geef bakje 2 zijn voorwaarden mee. Geef bakje 3 een intake-aanbod met twee concrete tijdstippen in plaats van een bedrag. Meer is het niet, en het scheelt je het gesprek dat je nooit wilt voeren.
 
-Bij KapperAI zetten we die driedeling standaard in de [klantenservice chatbot](/chatbot) van je salon, gekoppeld aan één prijslijst, zodat een tariefwijziging op één plek gebeurt. Wil je eerst weten wat je chat nu zegt, dan meet onze [gratis ai scan voor kappers](/gratis-scan) dat voor je door. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet meetbaar beter zichtbaar in Ahrefs, dan krijg je je geld terug.
+Bij KapperAI zetten we die driedeling standaard in de [klantenservice chatbot](/chatbot) van je salon, gekoppeld aan één prijslijst, zodat een tariefwijziging op één plek gebeurt. Wil je eerst weten wat je chat nu zegt, dan meet onze [gratis ai scan voor kappers](/gratis-scan) dat voor je door.

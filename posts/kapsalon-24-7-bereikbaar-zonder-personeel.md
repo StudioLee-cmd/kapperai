@@ -91,6 +91,6 @@ Je begint klein: laat de assistent eerst alleen de avond en het weekend doen, en
 
 De telefoon die 's avonds overgaat in een lege salon is geen detail. Het is precies het moment waarop een nieuwe klant besluit of ze bij jou boekt of verder zoekt. Voicemail vangt dat niet op, een antwoorddienst geeft het alleen door, en een extra kracht is voor de meeste salons te duur. Een AI-telefonist dicht het gat wél, en zorgt dat je nooit meer [oproepen mist als kapper](/voice-ai), zonder personeel erbij.
 
-Benieuwd hoeveel oproepen jouw salon nu misloopt? Vraag een [gratis AI-scan](/gratis-scan) van KapperAI aan. We laten je precies zien waar je klanten weglekken en wat het je oplevert om dat te dichten. En omdat we in ons eigen systeem geloven, werken we met een Groei-of-Geld-Terug Garantie: levert het niks op, dan krijg je je investering terug.
+Benieuwd hoeveel oproepen jouw salon nu misloopt? Vraag een [gratis AI-scan](/gratis-scan) van KapperAI aan. We laten je precies zien waar je klanten weglekken en wat het je oplevert om dat te dichten.
 
 Jij knipt, wij regelen de rest.

@@ -133,6 +133,6 @@ Verder: tekst op de foto plakken (wordt vaak afgesneden), tien hashtags gebruike
 
 Terug naar die etalage uit het begin. Niemand verwacht dat daar elke week een compleet nieuw kunstwerk hangt. Wel dat het er verzorgd en actueel uitziet. Precies dat doen Google Posts voor je bedrijfsprofiel: elke week een klein, vers signaal dat jouw salon leeft.
 
-Met de 8 types, de mix-tabel en de 12-maanden kalender uit dit artikel heb je een jaar aan content klaarliggen voor 15 minuten per week. Liever helemaal geen omkijken naar je online vindbaarheid? KapperAI regelt je bedrijfsprofiel, posts, reviews en vindbaarheid als één geheel, met een Groei-of-Geld-Terug Garantie. Bekijk wat dat kost bij de [tarieven van KapperAI](/tarieven) en reken uit wat één extra klant per week je oplevert.
+Met de 8 types, de mix-tabel en de 12-maanden kalender uit dit artikel heb je een jaar aan content klaarliggen voor 15 minuten per week. Liever helemaal geen omkijken naar je online vindbaarheid? Bekijk wat dat kost bij de [tarieven van KapperAI](/tarieven) en reken uit wat één extra klant per week je oplevert.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/google-bedrijfsprofiel-kapper-5-onbenutte-features" class="text-dark fw-semibold">Google Bedrijfsprofiel kapper: 5 onbenutte features</a> →</p></div></div></div>

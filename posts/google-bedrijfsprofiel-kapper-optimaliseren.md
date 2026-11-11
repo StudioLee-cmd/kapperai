@@ -120,7 +120,7 @@ Een profiel zonder foto's oogt onbetrouwbaar. Het kost vijf minuten om een paar 
 
 Je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-foto-kapper-klanten) is je digitale etalage. Het is gratis, het is krachtig, en het is vaak het eerste dat potentiele klanten zien. Met een compleet profiel, goede foto's, actieve posts en een stroom aan reviews sta je bovenaan wanneer iemand zoekt op "kapper bij mij in de buurt."
 
-Met [KapperAI](/) automatiseren we je reviewverzoeken, social media posts en klantcommunicatie. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [KapperAI](/) automatiseren we je reviewverzoeken, social media posts en klantcommunicatie. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoe je salon beter gevonden wordt.
 
