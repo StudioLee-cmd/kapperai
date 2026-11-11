@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { GoogleAnalytics } from '@next/third-parties/google';
+import { Analytics } from '@vercel/analytics/next';
 import { Source_Sans_3, Caveat, Outfit } from "next/font/google";
 
 import Header from "@/components/Header";
@@ -65,6 +66,7 @@ export default function RootLayout({
         </ThemeProvider>
           <CookieBanner widgetId="69c4ef18d9121c5778d93245" />
       <script src="/booking-context.js" defer />
+      <Analytics />
       </body>
     </html>
   );
