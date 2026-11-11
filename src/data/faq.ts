@@ -19,7 +19,7 @@ export const faqs: IFAQ[] = [
     },
     {
         question: "Kan ik dit koppelen aan mijn agenda en boekingssysteem?",
-        answer: "Ja. We sluiten aan op de agenda en het boekingssysteem waar je al mee werkt, zodat afspraken die de AI maakt gewoon in jouw planning verschijnen. Werk je nog met een papieren afsprakenboek, dan zetten we de online agenda voor je op.",
+        answer: "Werkt met je eigen agenda en boekhouding. Afspraken komen direct in je Google- of Outlook-agenda. Werk je met Salonized of Treatwell, dan zetten we je klantenbestand over met een export die wij voor je inladen. Moneybird, e-Boekhouden en Exact Online koppelen we automatisch; bij andere pakketten kijken we eerst wat kan, voordat je iets betaalt.",
     },
     {
         question: "Wat als de AI het antwoord niet weet?",
