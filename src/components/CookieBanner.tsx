@@ -33,12 +33,12 @@ export default function CookieBanner({ widgetId }: { widgetId: string }) {
       <style>{`
         @keyframes ckspin{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}
         @media(max-width:600px){
-          .ck-banner-outer{padding:8px!important}
-          .ck-banner-inner{flex-wrap:wrap!important;padding:10px 14px!important;gap:8px!important;border-radius:16px!important}
+          .ck-banner-outer{padding:6px!important}
+          .ck-banner-inner{flex-wrap:wrap!important;padding:8px 12px!important;gap:6px!important;border-radius:14px!important}
           .ck-banner-inner img{display:none!important}
           .ck-banner-inner p{font-size:13px!important;line-height:1.4!important}
           .ck-banner-buttons{width:100%!important;display:flex!important}
-          .ck-banner-buttons button{flex:1!important;padding:7px 12px!important}
+          .ck-banner-buttons button{flex:1!important;padding:6px 12px!important}
         }
         @media(prefers-reduced-motion:reduce){.ck-banner-inner img{animation:none!important}}
       `}</style>
