@@ -5,7 +5,7 @@ date: "2026-07-14"
 excerpt: "De meeste kapsalon-Reels floppen in de eerste 3 seconden. Zo schrijf je hooks die de scroll stoppen, kies je trending audio en zet je views om in boekingen."
 image: "/images/blog/kapsalon-reels-scroll-stoppen-3-seconden.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social media", "Instagram", "Reels", "Kapper"]
+tags: ["Social media", "Instagram"]
 cluster: "social-media"
 ---
 

@@ -5,7 +5,7 @@ excerpt: "Je kapsalon staat op Google Maps, maar bovenaan? Dat is een ander verh
 date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-kapper-optimaliseren.png"
-tags: ["Kapsalon", "Google Bedrijfsprofiel", "Lokale SEO"]
+tags: ["Google Bedrijfsprofiel"]
 cluster: "vindbaarheid"
 ---
 ## Waarom je Google Bedrijfsprofiel belangrijker is dan je website

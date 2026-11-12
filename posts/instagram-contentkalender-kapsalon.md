@@ -5,7 +5,7 @@ date: "2026-06-29"
 excerpt: "Stop met elke dag bedenken wat je post. Met deze kant-en-klare 30-dagen Instagram contentkalender voor je kapsalon plan je een maand content in een uur."
 image: "/images/blog/instagram-contentkalender-kapsalon.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social media", "Instagram", "Content", "Planning", "Kapper"]
+tags: ["Social media", "Instagram"]
 cluster: "social-media"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-05-11"
 excerpt: "Upselling kapsalon zonder pushy: 4 momenten in elke afspraak waarop je behandelingen en aftercare natuurlijk voorstelt voor 25-40% meer omzet."
 image: "/images/blog/upselling-kapsalon-4-momenten-zonder-pushy.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Klantcommunicatie", "Upselling", "Behandelingen", "Aftercare", "Kapper"]
+tags: ["Klantcommunicatie"]
 cluster: "automatisering"
 ---
 

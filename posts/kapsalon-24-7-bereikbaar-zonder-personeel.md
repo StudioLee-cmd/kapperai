@@ -5,7 +5,7 @@ date: "2026-07-17"
 excerpt: "Je salon is dicht, maar de telefoon gaat door. Zo blijf je als kapsalon 24/7 bereikbaar zonder extra personeel, en mis je geen boeking meer."
 image: "/images/blog/kapsalon-24-7-bereikbaar-zonder-personeel.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Automatisering"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

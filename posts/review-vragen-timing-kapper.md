@@ -4,7 +4,7 @@ excerpt: "Het moment waarop je om een review vraagt bepaalt hoeveel je er krijgt
 date: "2026-06-21"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-vragen-timing-kapper.jpg"
-tags: ["Reviews", "Timing", "Klantcommunicatie"]
+tags: ["Reviews", "Klantcommunicatie"]
 cluster: "reviews"
 ---
 

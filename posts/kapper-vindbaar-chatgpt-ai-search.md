@@ -4,7 +4,7 @@ excerpt: "Zo wordt jouw kapsalon genoemd door ChatGPT, Perplexity en Google AI O
 date: "2026-04-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kapper-vindbaar-chatgpt-ai-search.jpg"
-tags: ["SEO", "AI Search", "ChatGPT", "Kapper"]
+tags: ["Vindbaarheid", "AI"]
 cluster: "vindbaarheid"
 ---
 

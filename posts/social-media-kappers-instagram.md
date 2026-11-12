@@ -5,7 +5,7 @@ excerpt: "Ontdek hoe kappers social media inzetten om meer klanten te bereiken. 
 date: "2026-03-09"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/social-media-kappers-instagram.png"
-tags: ["Social Media", "Marketing", "Groei"]
+tags: ["Social media", "Marketing"]
 cluster: "social-media"
 ---
 ## Waarom social media onmisbaar is voor kappers

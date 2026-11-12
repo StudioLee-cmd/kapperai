@@ -5,7 +5,7 @@ date: "2026-04-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-foto-kapper-klanten.jpg"
 cluster: "vindbaarheid"
-tags: ["Google Bedrijfsprofiel", "Lokale SEO", "Kapsalon Marketing"]
+tags: ["Google Bedrijfsprofiel"]
 ---
 
 Een potentiële klant zoekt op zijn telefoon naar "kapper in de buurt" en ziet drie kapsalons in Google Maps boven elkaar. Welke krijgt de boeking? Bijna altijd de salon met de meeste, mooiste en meest recente foto's. Onderzoek van Google laat zien dat profielen met meer dan 100 foto's gemiddeld 520 procent meer telefoonoproepen krijgen dan profielen met minder dan 10 foto's. Voor een kapper die concurreert met vijf andere salons in dezelfde straat, is dit het verschil tussen een volle agenda en een rustige donderdagmiddag.

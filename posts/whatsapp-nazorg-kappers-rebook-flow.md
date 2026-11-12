@@ -5,7 +5,7 @@ date: "2026-05-31"
 excerpt: "Klanten verdwijnen niet na de knipbeurt omdat ze ontevreden zijn, maar omdat niemand ze opvolgt. Zo bouw je een WhatsApp-flow die rebooks oplevert."
 image: "/images/blog/whatsapp-nazorg-kappers-rebook-flow.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Kapsalon", "WhatsApp", "Automatisering", "Klantcommunicatie", "Retentie"]
+tags: ["WhatsApp", "Automatisering"]
 cluster: "automatisering"
 ---
 

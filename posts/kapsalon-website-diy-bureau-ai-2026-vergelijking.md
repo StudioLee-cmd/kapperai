@@ -5,7 +5,7 @@ date: "2026-05-12"
 excerpt: "Kapsalon website maken: DIY templates, traditioneel bureau of AI-platform vergeleken op kosten, tijd en conversie voor MKB-kappers in 2026."
 image: "/images/blog/kapsalon-website-diy-bureau-ai-2026-vergelijking.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Website Conversie", "Vergelijking", "DIY", "AI Platform", "Kapper"]
+tags: ["Vergelijking", "Conversie", "AI"]
 cluster: "website"
 ---
 

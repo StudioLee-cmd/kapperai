@@ -5,7 +5,7 @@ date: "2026-04-11"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kapsalon-promoten-gratis-nieuwe-klanten.jpg"
-tags: ["Marketing", "Vindbaarheid", "Groei"]
+tags: ["Marketing", "Vindbaarheid"]
 ---
 ## Waarom de meeste kappers online onzichtbaar blijven
 

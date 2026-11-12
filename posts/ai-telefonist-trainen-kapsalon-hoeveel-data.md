@@ -5,7 +5,7 @@ date: "2026-11-12"
 excerpt: "Voice AI trainen als kapper vraagt minder data dan je denkt: 7 bronnen op 3 tot 5 A4, een woordenlijst en 4 tot 6 uur voorwerk. Dit moet er op dag 1 staan."
 image: "/images/blog/ai-telefonist-trainen-kapsalon-hoeveel-data.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Telefoon", "Kapsalon"]
+tags: ["Voice AI", "AI"]
 cluster: "voice-ai"
 ---
 

@@ -5,7 +5,7 @@ excerpt: "Ranken op 'kapper plus je stad'? Zo bouw je lokale stadspaginas die Go
 date: "2026-07-16"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lokale-landingspagina-kapper-per-stad.jpg"
-tags: ["Lokale SEO", "Vindbaarheid", "Google"]
+tags: ["Lokale SEO", "Vindbaarheid"]
 cluster: "vindbaarheid"
 ---
 

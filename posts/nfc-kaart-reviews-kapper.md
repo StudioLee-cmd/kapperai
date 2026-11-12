@@ -5,7 +5,7 @@ date: "2026-04-04"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nfc-kaart-reviews-kapper.jpg"
-tags: ["Reviews", "NFC", "Reputatie"]
+tags: ["Reviews", "Reputatie"]
 ---
 ## Waarom Google Reviews cruciaal zijn voor kappers
 

@@ -4,7 +4,7 @@ excerpt: "Vergelijk Salonized met KapperAI en ontdek waarom steeds meer kappers 
 date: "2026-03-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/salonized-alternatief-zonder-commissie.jpg"
-tags: ["Vergelijking", "Software", "Groei"]
+tags: ["Vergelijking", "Software"]
 cluster: "automatisering"
 ---
 ## Wat doet Salonized goed?

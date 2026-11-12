@@ -5,7 +5,7 @@ excerpt: "Waarom zou je €1500 per maand betalen aan een bureau als AI het bete
 date: "2026-01-25"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/managed-ai-vs-agency.png"
-tags: ["Managed Service", "Kostenbesparing", "Strategie"]
+tags: ["Strategie", "Automatisering"]
 cluster: "automatisering"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-05-25"
 excerpt: "Wanneer is een rebrand zinvol, hoe pak je de overgang aan zonder reviews en SEO te verliezen, en wat kost het? Praktische beslisroute voor kapsalons."
 image: "/images/blog/branding-refresh-salon-naam-visuele-identiteit.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Branding", "Huisstijl", "Salon", "Marketing", "Kapsalon"]
+tags: ["Branding", "Marketing"]
 cluster: "branding"
 ---
 

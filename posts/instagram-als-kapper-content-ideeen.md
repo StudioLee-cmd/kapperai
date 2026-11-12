@@ -4,7 +4,7 @@ excerpt: "Maak van je Instagram een klantenmagneet. 15 bewezen content ideeën e
 date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/instagram-als-kapper-content-ideeen.jpg"
-tags: ["Social Media", "Instagram"]
+tags: ["Social media", "Instagram"]
 cluster: "social-media"
 ---
 Als kapper heb je een oneerlijk voordeel op Instagram: je maakt elke dag visueel spectaculaire transformaties. Geen enkele andere branche heeft zoveel potentieel voor [social media](/social-media) content — maar toch posten de meeste kappers te weinig, te onregelmatig of het verkeerde type content.

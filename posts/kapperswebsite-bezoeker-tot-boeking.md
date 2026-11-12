@@ -4,7 +4,7 @@ excerpt: "Ontdek hoe je als kapper je website omzet in een boekingsmachine die 2
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kapperswebsite-bezoeker-tot-boeking.png"
-tags: ["Website", "Conversie", "Online boeken"]
+tags: ["Website", "Conversie"]
 cluster: "website"
 ---
 ## Waarom je website je belangrijkste medewerker is

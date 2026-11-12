@@ -6,7 +6,7 @@ date: "2026-04-09"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reactietijd-kapper-sneller-reageren-meer-klanten.jpg"
-tags: ["Lead opvolging", "Kapper", "Klanten"]
+tags: ["Lead Opvolging", "Klanten"]
 ---
 ## De 5-minuten regel die je salon vult
 

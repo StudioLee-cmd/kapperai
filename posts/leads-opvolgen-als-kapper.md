@@ -5,7 +5,7 @@ date: "2026-04-05"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-als-kapper.jpg"
-tags: ["Leads", "Kapper", "CRM"]
+tags: ["Leads", "CRM"]
 ---
 ## Hoeveel aanvragen beantwoord je echt?
 

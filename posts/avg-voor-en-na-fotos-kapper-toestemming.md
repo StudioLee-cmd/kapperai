@@ -5,7 +5,7 @@ excerpt: "Mag je een voor en na foto van een klant posten? Wat de AVG echt vraag
 date: "2026-07-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/avg-voor-en-na-fotos-kapper-toestemming.jpg"
-tags: ["Social Media", "Instagram", "Privacy"]
+tags: ["Social media", "Instagram"]
 cluster: "social-media"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-07-20"
 excerpt: "Je klantenbestand is geen lijst maar vier groepen. Zo deel je ze in op drie cijfers die je systeem al bijhoudt, en wat elke groep van je hoort."
 image: "/images/blog/klantsegmentatie-kapsalon-vip-klanten.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Klantsegmentatie", "CRM", "Automatisering"]
+tags: ["CRM", "Automatisering", "Klanten"]
 cluster: "automatisering"
 ---
 

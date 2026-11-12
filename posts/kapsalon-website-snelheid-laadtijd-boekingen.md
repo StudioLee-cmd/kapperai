@@ -4,7 +4,7 @@ excerpt: "Een trage kapsalon-website kost je boekingen: 1 op de 4 bezoekers haak
 date: "2026-06-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kapsalon-website-snelheid-laadtijd-boekingen.jpg"
-tags: ["Website", "Conversie", "Vindbaarheid"]
+tags: ["Website", "Conversie"]
 cluster: "website"
 ---
 

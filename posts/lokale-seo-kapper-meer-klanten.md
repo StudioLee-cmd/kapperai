@@ -5,7 +5,7 @@ date: "2026-04-03"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lokale-seo-kapper-meer-klanten.jpg"
-tags: ["Lokale SEO", "Vindbaarheid", "Kapper", "Google"]
+tags: ["Lokale SEO", "Vindbaarheid"]
 ---
 ## Waarom lokale SEO cruciaal is voor kappers
 

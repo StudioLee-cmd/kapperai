@@ -5,7 +5,7 @@ date: "2026-06-08"
 excerpt: "Een sterk merkverhaal maakt van losse klanten vaste fans. Zo bouw je het merkverhaal van je kapsalon in 5 stappen, en zo laat je het overal terugkomen."
 image: "/images/blog/merkverhaal-kapsalon-klanten-binden.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Branding", "Merkverhaal", "Kapsalon", "Marketing", "Klantbinding"]
+tags: ["Branding", "Marketing", "Klanten"]
 cluster: "branding"
 ---
 

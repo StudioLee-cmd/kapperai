@@ -5,7 +5,7 @@ excerpt: "Acht typen Google Posts voor kapsalons plus een 12-maanden contentkale
 date: "2026-07-06"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-posts-kapsalon-contentkalender.jpg"
-tags: ["Google Bedrijfsprofiel", "Lokale vindbaarheid", "Content"]
+tags: ["Google Bedrijfsprofiel"]
 cluster: "vindbaarheid"
 ---
 

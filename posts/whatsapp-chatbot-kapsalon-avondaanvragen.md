@@ -5,7 +5,7 @@ date: "2026-06-12"
 excerpt: "Avondaanvragen via WhatsApp blijven vaak tot de ochtend liggen. Zo beantwoordt een AI chatbot ze direct en maakt er boekingen van voor je kapsalon."
 image: "/images/blog/whatsapp-chatbot-kapsalon-avondaanvragen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["WhatsApp", "Chatbot", "Boekingen", "Bereikbaarheid"]
+tags: ["WhatsApp", "Chatbot", "Boekingen"]
 cluster: "chatbot"
 ---
 

@@ -5,7 +5,7 @@ excerpt: "De meeste kappers-websites converteren onder de 20 procent. De vijf re
 date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kappers-boekings-conversie-verbeteren.jpg"
-tags: ["Boekingen", "Website", "Conversie"]
+tags: ["Boekingen", "Website"]
 cluster: "website"
 ---
 

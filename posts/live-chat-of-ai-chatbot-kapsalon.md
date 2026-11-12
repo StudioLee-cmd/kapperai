@@ -5,7 +5,7 @@ date: "2026-07-03"
 excerpt: "Live chat of een AI chatbot op je kapsalon-website? Vergelijk kosten, bereikbaarheid en boekingen en kies het kanaal dat klanten oplevert."
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/live-chat-of-ai-chatbot-kapsalon.jpg"
-tags: ["Chatbot", "Bereikbaarheid", "Automatisering"]
+tags: ["Chatbot", "Bereikbaarheid"]
 cluster: "chatbot"
 ---
 

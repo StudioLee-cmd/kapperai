@@ -5,7 +5,7 @@ excerpt: "Mis nooit meer een afspraak omdat je met je handen in het haar zit. On
 date: "2026-01-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-telefoniste-voor-kappers.png"
-tags: ["Voice AI", "Innovatie", "Ondernemen"]
+tags: ["Voice AI", "Innovatie"]
 cluster: "voice-ai"
 ---
 Het meest frustrerende moment voor een kapper? Je bent net bezig met een lastige coupe of een nauwkeurige kleuring, en de telefoon gaat. Je kunt niet opnemen. Je laat hem gaan.

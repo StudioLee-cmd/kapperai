@@ -5,7 +5,7 @@ date: "2026-04-05"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klanttevredenheid-meten-kapper.jpg"
-tags: ["Klanttevredenheid", "Reviews", "Kapper"]
+tags: ["Klantbeleving", "Reviews"]
 ---
 ## Je klanten zeggen "het ziet er goed uit" — maar komen ze terug?
 

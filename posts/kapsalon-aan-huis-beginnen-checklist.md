@@ -5,7 +5,7 @@ date: "2026-07-21"
 excerpt: "Een kapsalon aan huis beginnen? Deze checklist loopt langs vergunning, inrichting, kosten en de systemen die je vanaf dag 1 nodig hebt."
 image: "/images/blog/kapsalon-aan-huis-beginnen-checklist.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Starten", "Website", "Boekingen"]
+tags: ["Website", "Boekingen"]
 cluster: "website"
 ---
 

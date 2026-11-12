@@ -5,7 +5,7 @@ date: "2026-07-22"
 excerpt: "Je chatbot kent het internet, maar niet jouw prijslijst. Dit zijn de 4 databronnen die je aanlevert en de fouten die kappers daarbij maken."
 image: "/images/blog/chatbot-trainen-kapsalon-data-4-manieren.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "AI", "Klantcontact"]
+tags: ["Chatbot", "AI"]
 cluster: "chatbot"
 ---
 

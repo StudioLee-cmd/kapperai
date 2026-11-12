@@ -5,7 +5,7 @@ date: "2026-05-13"
 excerpt: "Online boekingssysteem kapper vergeleken: Treatwell, Salonized, Booksy en alles-in-één AI-platform op kosten, commissie en conversie."
 image: "/images/blog/online-boekingssysteem-kapper-4-opties-vergeleken.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Software Vergelijking", "Online Boeken", "Treatwell", "Salonized", "Kapper"]
+tags: ["Vergelijking", "Boekingen"]
 cluster: "website"
 ---
 

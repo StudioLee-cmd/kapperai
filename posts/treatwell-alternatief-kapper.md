@@ -4,7 +4,7 @@ excerpt: "Ontdek waarom steeds meer kappers stoppen met Treatwell en overstappen
 date: "2026-03-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/treatwell-alternatief-kapper.jpg"
-tags: ["Vergelijking", "Software", "Groei"]
+tags: ["Vergelijking", "Software"]
 cluster: "automatisering"
 ---
 ## Het probleem met Treatwell

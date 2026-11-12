@@ -5,7 +5,7 @@ excerpt: "Welke functies heeft een kapsalon-chatbot echt nodig? Een eerlijke che
 date: "2026-07-15"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kapsalon-chatbot-functies-checklist.jpg"
-tags: ["AI", "Chatbot", "Klantcontact"]
+tags: ["AI", "Chatbot"]
 cluster: "chatbot"
 ---
 ## Elke chatbot "kan alles". Tot je hem in je salon zet

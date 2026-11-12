@@ -7,7 +7,7 @@ excerpt: "Google is niet je enige bron van nieuwe klanten. Zo bouw je als kapper
 image: "/images/blog/leadgeneratie-kapper-nieuwe-klanten.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["leadgeneratie", "kapper", "klanten"]
+tags: ["Leads", "Klanten"]
 cluster: "automatisering"
 ---
 

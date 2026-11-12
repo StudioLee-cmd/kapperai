@@ -4,7 +4,7 @@ excerpt: "Treatwell is populair, maar is het écht de beste keuze voor jouw kaps
 date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/treatwell-vs-kapperai-welke-past-bij-jouw-salon.png"
-tags: ["Tools", "Vergelijking", "Kappers"]
+tags: ["Vergelijking"]
 cluster: "automatisering"
 ---
 

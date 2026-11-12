@@ -5,7 +5,7 @@ date: "2026-07-07"
 excerpt: "Welke kapsalon software past bij jouw salon? We vergelijken de keuze voor 1 stoel, 3 stylisten en 5 plus op 4 punten die echt verschil maken."
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kapsalon-software-kiezen-salongrootte.jpg"
-tags: ["Software", "Automatisering", "Kapsalon"]
+tags: ["Software", "Automatisering"]
 cluster: "automatisering"
 ---
 

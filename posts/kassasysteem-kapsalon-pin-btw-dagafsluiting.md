@@ -5,7 +5,7 @@ date: "2026-07-29"
 excerpt: "Je kassa moet meer doen dan afrekenen. Zo regel je de pinkoppeling, de btw-splitsing van 9 en 21 procent en een dagafsluiting die klopt."
 image: "/images/blog/kapsalon-software-kiezen-salongrootte.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Kassasysteem", "Administratie", "Btw"]
+tags: ["Automatisering"]
 cluster: "automatisering"
 ---
 

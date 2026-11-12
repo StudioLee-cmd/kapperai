@@ -5,7 +5,7 @@ date: "2026-06-30"
 excerpt: "Een nieuwe klant knipte en verdween in de drukte? Met een welkom-mailflow van 4 mails maak je van die eerste afspraak automatisch een vaste klant."
 image: "/images/blog/welkom-mailflow-kapsalon-nieuwe-klanten.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Kapsalon", "E-mailmarketing", "Automatisering", "Klantbehoud"]
+tags: ["E-mailmarketing"]
 cluster: "automatisering"
 ---
 

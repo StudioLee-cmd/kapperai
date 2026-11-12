@@ -5,7 +5,7 @@ date: "2026-04-22"
 cluster: "website"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-afspraak-maken-kapper-boekingsflow-fricties.jpg"
-tags: ["Kapper", "Website", "Conversie", "Boekingen"]
+tags: ["Website", "Conversie"]
 ---
 Een klant bezoekt maandagavond om half tien je Instagram-profiel, klikt op de link naar je website, ziet de kleuren en de sfeer die haar aanspreekt, drukt op "afspraak maken" en boekt. Dat is het droomscenario. In de realiteit gebeurt iets anders: dezelfde klant komt op je boekingspagina, ziet iets wat ze niet begrijpt of vertrouwt, en sluit het tabblad. Gemiddelde Nederlandse kapsalons verliezen zo zes tot acht van elke tien potentiële boekingen in de seconden tussen website-bezoek en bevestigde afspraak.
 

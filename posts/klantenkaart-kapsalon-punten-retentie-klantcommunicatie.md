@@ -5,7 +5,7 @@ date: "2026-05-08"
 excerpt: "Hoe je een werkend punt-spaarsysteem opzet voor je kapsalon: welke spaarratio werkt, welke perk-drempels en welke software je het draait."
 image: "/images/blog/klantenkaart-kapsalon-punten-retentie-klantcommunicatie.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Klantcommunicatie", "Loyaliteit", "Klantenkaart"]
+tags: ["Klantcommunicatie", "Klanten"]
 cluster: "automatisering"
 ---
 
