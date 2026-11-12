@@ -25,8 +25,6 @@ In dit artikel lees je welke 7 bronnen dat zijn, hoe groot elk ervan moet zijn, 
 
 ## Trainen is het verkeerde woord: je geeft hem salonkennis
 
-![Trainen is het verkeerde woord: je geeft hem salonkennis](/images/blog/ai-telefonist-trainen-kapsalon-hoeveel-data-2.jpg)
-
 Bij "een AI trainen" denken veel salonhouders aan duizenden gesprekken die je moet aanleveren voordat het systeem iets snapt. Zo is een taalmodel ooit gebouwd, maar dat werk hebben de makers al gedaan. Wat er voor jouw salon gebeurt, is veel kleiner: de telefonist krijgt een kennisbank met jouw informatie en een set instructies over hoe hij zich gedraagt. Verander je een prijs of een openingstijd, dan pas je 1 regel aan en klopt het antwoord bij het volgende telefoontje.
 
 ### Wat de telefonist al kan
@@ -58,6 +56,8 @@ Bij elkaar is dat 3 tot 5 A4. Veel ervan staat al ergens: je prijslijst op je we
 Wat er niet in de lijst staat, is net zo belangrijk: geen opnames, geen klantenbestand, geen marketingteksten en geen lange uitleg over je salonfilosofie. Hoe meer losse tekst je aanlevert, hoe groter de kans dat de telefonist een alinea gaat voorlezen waar een beller 1 zin wil horen.
 
 ## Je behandelmenu: de bron die het vaakst misgaat
+
+![Je behandelmenu: de bron die het vaakst misgaat](/images/blog/ai-telefonist-trainen-kapsalon-hoeveel-data-2.jpg)
 
 De agenda is de belangrijkste koppeling, maar het behandelmenu is de belangrijkste tekst. Hier gaat het in de praktijk het vaakst mis, omdat de duur in je boekingssysteem vaak niet de duur is die je echt nodig hebt. Een telefonist die "knippen dames" voor 30 minuten inplant terwijl jij met wassen en föhnen 45 minuten kwijt bent, schuift je hele middag op. Na 4 van die boekingen loop je een uur achter.
 
