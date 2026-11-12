@@ -5,7 +5,7 @@ date: "2026-06-23"
 excerpt: "Een herinnering die niemand kan beantwoorden is een halve flow. Zo koppel je WhatsApp herinneringen en je chatbot tot één lijn van boeking tot nazorg."
 image: "/images/blog/whatsapp-herinneringen-chatbot-combineren.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["WhatsApp", "Chatbot"]
+tags: ["WhatsApp", "Herinneringen"]
 cluster: "chatbot"
 ---
 

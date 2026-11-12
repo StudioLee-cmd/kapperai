@@ -4,7 +4,7 @@ excerpt: "Ontdek hoe je als kapper een sterk persoonlijk merk opbouwt dat klante
 date: "2026-03-14"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/personal-branding-kapper-naam-in-regio.png"
-tags: ["Branding", "Marketing", "Groei"]
+tags: ["Branding"]
 cluster: "branding"
 ---
 

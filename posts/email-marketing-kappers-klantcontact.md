@@ -4,7 +4,7 @@ excerpt: "Leer hoe je als kapper met slimme e-mails klanten behoudt, no-shows ve
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/email-marketing-kappers-klantcontact.png"
-tags: ["E-mailmarketing", "Marketing"]
+tags: ["E-mailmarketing"]
 cluster: "automatisering"
 ---
 

@@ -5,7 +5,7 @@ excerpt: "Strategische samenwerkingen met beautysalons, bruidswinkels en fotogra
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/samenwerken-als-kapper-partnerschappen.png"
-tags: ["Samenwerkingen", "Groei"]
+tags: ["Samenwerkingen"]
 cluster: "branding"
 ---
 

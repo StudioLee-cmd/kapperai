@@ -4,7 +4,7 @@ excerpt: "Wat kost een antwoorddienst voor je kapsalon écht, en wint Voice AI o
 date: "2026-05-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/voice-ai-of-antwoorddienst-voor-kapsalons-roi-vergelijking.jpg"
-tags: ["Voice AI", "ROI", "Vergelijking"]
+tags: ["Antwoorddienst", "ROI"]
 cluster: "voice-ai"
 ---
 

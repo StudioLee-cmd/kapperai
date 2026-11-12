@@ -7,7 +7,7 @@ excerpt: "Elk seizoen brengt andere kapsels, kleuren en behandelingen. Ontdek ho
 image: "/images/blog/seizoenstrends-kapper-omzet.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["Omzet", "Automatisering"]
+tags: ["Seizoenswerk", "Omzet"]
 cluster: "automatisering"
 ---
 

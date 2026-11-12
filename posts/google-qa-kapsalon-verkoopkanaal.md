@@ -5,7 +5,7 @@ excerpt: "De vragensectie op je Google Bedrijfsprofiel bestaat niet meer. Google
 date: "2026-07-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-qa-kapsalon-verkoopkanaal.jpg"
-tags: ["Google Bedrijfsprofiel"]
+tags: ["Lokale SEO", "Vindbaarheid"]
 cluster: "vindbaarheid"
 ---
 

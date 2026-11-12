@@ -4,7 +4,7 @@ excerpt: "Welke trust signals op je kapper-website maken het verschil tussen kij
 date: "2026-04-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/trust-signals-kapper-website-converteren.jpg"
-tags: ["Website", "Conversie"]
+tags: ["Website", "Lokale Marketing"]
 cluster: "website"
 ---
 ## In het kort

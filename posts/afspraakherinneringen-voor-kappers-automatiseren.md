@@ -5,7 +5,7 @@ date: "2026-04-25"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/afspraakherinneringen-voor-kappers-automatiseren.jpg"
-tags: ["Automatisering", "WhatsApp"]
+tags: ["WhatsApp", "No-shows"]
 ---
 Iedere kapper weet dat een herinnering werkt. De vraag is hoe je dat soort herinneringen op de automatische piloot zet, zonder dat je elke avond zelf nog appjes zit te tikken en zonder dat je een dure salon-suite koopt waar je het merendeel van de functies nooit gebruikt. Dit artikel is daar een praktische gids voor: het systeem dat onder je herinneringen ligt, niet de tekst van de berichten zelf.
 

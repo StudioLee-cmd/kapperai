@@ -5,7 +5,7 @@ excerpt: "Ontdek hoe je als kapper de concurrentie analyseert en jouw salon laat
 date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/concurrentieanalyse-kapper-onderscheiden.jpg"
-tags: ["Strategie", "Groei", "Branding"]
+tags: ["Concurrentie"]
 cluster: "branding"
 ---
 ## Waarom concurrentieanalyse belangrijk is

@@ -5,7 +5,7 @@ date: "2026-07-08"
 excerpt: "Zo zet je als kapper TikTok in als groeikanaal: van je eerste video naar meer boekingen, met een vast ritme dat gewoon past tussen je klanten door."
 image: "/images/blog/tiktok-voor-kappers-eerste-video.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social media", "Groei"]
+tags: ["Social media", "TikTok"]
 cluster: "social-media"
 ---
 

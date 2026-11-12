@@ -5,7 +5,7 @@ date: "2026-04-12"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/wachtlijst-kapsalon-lege-plekken-opvullen.jpg"
-tags: ["No-shows", "Groei"]
+tags: ["No-shows", "Planning"]
 ---
 ## Annuleringen zijn onvermijdelijk, lege plekken niet
 

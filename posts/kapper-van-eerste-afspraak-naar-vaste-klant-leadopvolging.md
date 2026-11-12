@@ -5,7 +5,7 @@ date: "2026-05-01"
 excerpt: "Een nieuwe klant in je kappersstoel is pas het begin. Het 7-stappensysteem dat 65% van eerste klanten omzet in vaste bezoekers — zonder pushverkoop."
 image: "/images/blog/kapper-van-eerste-afspraak-naar-vaste-klant-leadopvolging.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Lead Opvolging", "Marketing"]
+tags: ["Lead Opvolging", "Reviews"]
 cluster: "automatisering"
 ---
 

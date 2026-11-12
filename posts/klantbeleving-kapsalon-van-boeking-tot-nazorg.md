@@ -5,7 +5,7 @@ excerpt: "De knipbeurt is maar een deel van het verhaal. De beste kapsalons winn
 date: "2026-03-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klantbeleving-kapsalon-van-boeking-tot-nazorg.png"
-tags: ["Klantbeleving"]
+tags: ["Klantbeleving", "Service"]
 cluster: "automatisering"
 ---
 ## Waarom klantbeleving belangrijker is dan de knipbeurt

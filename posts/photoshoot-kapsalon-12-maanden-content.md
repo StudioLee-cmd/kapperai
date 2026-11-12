@@ -5,7 +5,7 @@ date: "2026-05-16"
 excerpt: "Een professionele photoshoot levert een kapsalon 12 maanden Instagram, website en advertentie-content op. Planning, kosten en ROI-cijfers voor 2026."
 image: "/images/blog/photoshoot-kapsalon-12-maanden-content.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Branding", "Marketing"]
+tags: ["Photoshoot", "Content"]
 cluster: "social-media"
 ---
 

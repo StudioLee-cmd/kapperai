@@ -5,7 +5,7 @@ date: "2026-07-23"
 excerpt: "Een lege stoel om 14:00 is omzet die je nooit terugkrijgt. Zo vang je met same-day boeking last-minute vraag op en vul je agenda-gaten vanzelf."
 image: "/images/blog/same-day-boeking-kapsalon.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Boekingen"]
+tags: ["Planning", "No-shows"]
 cluster: "automatisering"
 ---
 

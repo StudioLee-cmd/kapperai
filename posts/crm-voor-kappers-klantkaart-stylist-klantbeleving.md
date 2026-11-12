@@ -5,7 +5,7 @@ date: "2026-05-09"
 excerpt: "Welke velden moet een CRM voor kappers minimaal bevatten, hoe krijg je alle stylisten ermee aan het werk en hoe regel je AVG-compliance bij notities."
 image: "/images/blog/crm-voor-kappers-klantkaart-stylist-klantbeleving.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["CRM", "Klantbeleving"]
+tags: ["CRM", "Klantkaart"]
 cluster: "automatisering"
 ---
 

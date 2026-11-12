@@ -5,7 +5,7 @@ date: "2026-07-13"
 excerpt: "De 5 workflows met de hoogste ROI voor je kapsalon, van afspraakherinneringen tot review-verzoeken, met per workflow het concrete trigger-actie-recept."
 image: "/images/blog/workflow-automatisering-kapsalon-hoogste-roi.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "ROI"]
+tags: ["Workflows", "ROI"]
 cluster: "automatisering"
 ---
 

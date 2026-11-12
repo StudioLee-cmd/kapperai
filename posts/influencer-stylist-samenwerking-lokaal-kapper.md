@@ -5,7 +5,7 @@ date: "2026-05-13"
 excerpt: "Lokale micro-influencers (1k-10k Instagram-volgers) als referral-kanaal voor kapsalons in 2026: ruil-model, UGC-content, promo-codes en hoe je het meet."
 image: "/images/blog/influencer-stylist-samenwerking-lokaal-kapper.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Samenwerkingen", "Instagram"]
+tags: ["Influencer", "Instagram", "UGC"]
 cluster: "branding"
 ---
 

@@ -5,7 +5,7 @@ excerpt: "Je online reputatie bepaalt of nieuwe klanten jouw salon kiezen. Leer 
 date: "2026-03-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-reputatie-kapper-reviews.png"
-tags: ["Reviews", "Reputatie"]
+tags: ["Online reputatie", "Reviews"]
 cluster: "reviews"
 ---
 

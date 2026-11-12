@@ -5,7 +5,7 @@ date: "2026-07-01"
 excerpt: "Reels leveren meer bereik dan gewone posts. Ontdek welke Instagram Reels voor kappers echt boekingen opleveren en hoe je ze in een uur per maand maakt."
 image: "/images/blog/instagram-reels-kapper-meer-boekingen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Social media", "Instagram"]
+tags: ["Instagram", "Reels", "Video"]
 cluster: "social-media"
 ---
 

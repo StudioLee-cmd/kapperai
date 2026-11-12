@@ -5,7 +5,7 @@ date: "2026-04-06"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nieuwe-klanten-werven-kapper.jpg"
-tags: ["Marketing", "Klanten"]
+tags: ["Klanten werven"]
 ---
 ## Waarom een volle agenda niet vanzelf komt
 

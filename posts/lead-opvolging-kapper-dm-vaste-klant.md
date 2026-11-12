@@ -5,7 +5,7 @@ date: "2026-04-16"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lead-opvolging-kapper-dm-vaste-klant.jpg"
-tags: ["AI", "Leads", "Klantcommunicatie"]
+tags: ["Leads", "Klantcommunicatie"]
 ---
 ## Waarom de meeste kappers leads laten liggen (zonder het door te hebben)
 

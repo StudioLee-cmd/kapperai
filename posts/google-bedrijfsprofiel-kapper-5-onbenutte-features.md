@@ -5,7 +5,7 @@ date: "2026-05-10"
 excerpt: "Google Bedrijfsprofiel als kapper: 5 onbenutte gratis features (Posts, kenmerken, booking-link, Insights, Services) die direct meer klanten opleveren."
 image: "/images/blog/google-bedrijfsprofiel-kapper-5-onbenutte-features.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Google Bedrijfsprofiel"]
+tags: ["Lokale SEO", "Vindbaarheid"]
 cluster: "vindbaarheid"
 ---
 **In het kort:**

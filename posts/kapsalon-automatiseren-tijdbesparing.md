@@ -5,7 +5,7 @@ date: "2026-04-06"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kapsalon-automatiseren-tijdbesparing.jpg"
-tags: ["Automatisering"]
+tags: ["Efficiëntie"]
 ---
 ## 12 uur per week aan taken die niets met knippen te maken hebben
 
