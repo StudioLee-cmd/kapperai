@@ -1,0 +1,414 @@
+{
+ "aanbetaling-kapsalon-deposit-no-shows": {
+  "lastmod": "2026-08-05T13:16:10+02:00",
+  "sha256": "57bcbdf805350e871d0d46c8926e9d92ae761722e401654d133ffdf1d13ddab3"
+ },
+ "afspraakherinneringen-kapsalon-templates": {
+  "lastmod": "2026-08-05T13:16:12+02:00",
+  "sha256": "c8be3db3112185eae01c9dcb2d8e7503c38ae192b3954688178f947988a49074"
+ },
+ "afspraakherinneringen-voor-kappers-automatiseren": {
+  "lastmod": "2026-08-05T13:16:14+02:00",
+  "sha256": "bae6e94aec4b17bb421c2c54a4e0d56bf42ed84cb88ce4df16a80321e797b014"
+ },
+ "ai-chatbot-kapsalon-website-vragen-automatiseren": {
+  "lastmod": "2026-08-05T13:16:16+02:00",
+  "sha256": "371cfe9e85f5610466d8a28e6fb37e7fc52582502069fab2a1da69306caf2047"
+ },
+ "ai-telefonist-kapsalon-wanneer-loont": {
+  "lastmod": "2026-08-05T13:16:18+02:00",
+  "sha256": "3c2402e0ad7cc78a168d73aba9e2e5a7a22e773a0e55874eecff83c28029bb9a"
+ },
+ "ai-telefoniste-voor-kappers": {
+  "lastmod": "2026-07-25T16:41:22+02:00",
+  "sha256": "5115ecea890807a98c429dd9de2555a1c82a73b00b4cba51d4b484e325c42af8"
+ },
+ "automatische-opvolging-kapper-leads": {
+  "lastmod": "2026-08-05T13:16:20+02:00",
+  "sha256": "7190651d0546ddaec043626699165289ace7638fcb0f1c8e2df7460637e93e6f"
+ },
+ "avg-voor-en-na-fotos-kapper-toestemming": {
+  "lastmod": "2026-07-28T18:37:24+02:00",
+  "sha256": "55efcdc749d7a40425779bc0dd7fde475dede97a601be1ffc8fb387647283427"
+ },
+ "beste-kappersoftware-2026": {
+  "lastmod": "2026-07-24T22:10:34+02:00",
+  "sha256": "e5972d9c20dce75c246e9446d5ecf3686001769911750f9ea3e7ee9d61d23079"
+ },
+ "branding-refresh-salon-naam-visuele-identiteit": {
+  "lastmod": "2026-08-05T13:16:22+02:00",
+  "sha256": "a737e436494faecdc6ff9f01bad90a7f7a1f83dfe73a6c2cffd5a46212467238"
+ },
+ "chatbot-trainen-kapsalon-data-4-manieren": {
+  "lastmod": "2026-08-03T23:12:05+02:00",
+  "sha256": "28d554183a281612d7892fff7e175c223af63cf6dcb69dc92197092d0df6530e"
+ },
+ "chatbot-vs-faq-pagina-kapper-boekingen": {
+  "lastmod": "2026-08-01T19:16:12+02:00",
+  "sha256": "911c397a8b131dbe8f6ab10c915617de544de175055a6de65c2a4153b354cafb"
+ },
+ "concurrentieanalyse-kapper-onderscheiden": {
+  "lastmod": "2026-07-25T16:41:24+02:00",
+  "sha256": "5a53ec3a94634f3bc3dd6cc32758795fdf1983ed619330c7655f90236040ecfa"
+ },
+ "crm-voor-kappers-klantkaart-stylist-klantbeleving": {
+  "lastmod": "2026-08-05T13:16:24+02:00",
+  "sha256": "e829778dd54a21dc69ca8ce831099f67ed28aeb0e9438d176f3f05eebbf7dc20"
+ },
+ "elite-salon-app": {
+  "lastmod": "2026-05-18T23:05:59+02:00",
+  "sha256": "34ac979208902f94cf81135247118c19c28f496183ec4cc319e66f32040ff19b"
+ },
+ "email-marketing-kappers-klantcontact": {
+  "lastmod": "2026-08-05T13:16:25+02:00",
+  "sha256": "9c9602f92e198bdcc5f3e455f13f4ef7700b01e2e1c7b84663e09f5b1d66f7fa"
+ },
+ "gemiste-telefoontjes-kapper-boekingen": {
+  "lastmod": "2026-08-05T13:16:27+02:00",
+  "sha256": "d2a3b1496c6822dc90c8cbd1c39dfbeb490c5ca9d7029dab99a7ef5e9ccf7f63"
+ },
+ "google-bedrijfsprofiel-foto-kapper-klanten": {
+  "lastmod": "2026-08-05T13:16:29+02:00",
+  "sha256": "88b04301b8f331f64d7c48a28b7a959cfb7f777d8d8b6d79636e59fecbf6863a"
+ },
+ "google-bedrijfsprofiel-kapper-5-onbenutte-features": {
+  "lastmod": "2026-08-07T10:57:52+02:00",
+  "sha256": "b2d771016e9bccbe763b2c20fad42a5a61292940d86a1ca567bf5969bbcee6a3"
+ },
+ "google-bedrijfsprofiel-kapper-optimaliseren": {
+  "lastmod": "2026-08-05T13:16:33+02:00",
+  "sha256": "afa4ae3a86592ea4c837ca5881fa93613f2cdf6dfbcd0db6323fedd02e454781"
+ },
+ "google-posts-kapsalon-contentkalender": {
+  "lastmod": "2026-07-06T22:14:41+02:00",
+  "sha256": "929220f751affda45ea19dc5d5eb7722c914d68f8e0893fabd0f2005e1c492fc"
+ },
+ "google-qa-kapsalon-verkoopkanaal": {
+  "lastmod": "2026-08-07T08:47:45+02:00",
+  "sha256": "653a833de345de5d71986ec87e9b7dd898a543ab7cd60178528c759e938637d5"
+ },
+ "google-reviews-vragen-kapsalon-script": {
+  "lastmod": "2026-08-05T13:16:35+02:00",
+  "sha256": "2104e8e7438fb42241ca65fd54d65189a50d3a625a8471b2c876465e7cba9c01"
+ },
+ "hoe-ai-kappers-helpt": {
+  "lastmod": "2026-08-15T09:11:22+02:00",
+  "sha256": "b13cc85fbdbb4b54c7b83f56c831600aa7f1f250173fdae719fe6c844f1386e8"
+ },
+ "hoe-ai-kappers-helpt-slimmer-werken": {
+  "lastmod": "2026-08-05T13:16:37+02:00",
+  "sha256": "b56f32feba9b8cedd680235906f50e2926801bc9874b94abff01e8bc2ba83040"
+ },
+ "hoe-een-kapper-meer-klanten-krijgt-via-google": {
+  "lastmod": "2026-08-05T13:16:38+02:00",
+  "sha256": "c5f6fa5c355c0096488e93ca416f5e14c26c7aa80633a8e2e4b6cb51b459809d"
+ },
+ "inactieve-klanten-terughalen-kapper-mailflow": {
+  "lastmod": "2026-08-05T13:16:40+02:00",
+  "sha256": "95789229e328a5ae200e5c701d894b470ea64a8b47f2c5d3ddb059860a854ae0"
+ },
+ "influencer-stylist-samenwerking-lokaal-kapper": {
+  "lastmod": "2026-08-05T13:16:42+02:00",
+  "sha256": "91f66cdd369485ae3486290c6898b97d433965cf55f035af5ef963dae8423b2b"
+ },
+ "instagram-als-kapper-content-ideeen": {
+  "lastmod": "2026-08-05T13:16:44+02:00",
+  "sha256": "c102fd77be156787b3f62d2578cfe8c396a1db984f7f3232bd31d10dcd3e9e9d"
+ },
+ "instagram-contentkalender-kapsalon": {
+  "lastmod": "2026-06-29T20:29:29+02:00",
+  "sha256": "9771bd5acc25d3c880812a3f8d88f7b03083156be47e2ac808420d3b9e9e3673"
+ },
+ "instagram-reels-kapper-meer-boekingen": {
+  "lastmod": "2026-07-01T18:03:29+02:00",
+  "sha256": "00d7f985389f299994697fcad8ce9b4109709f3d2486023f1638247dd50f8525"
+ },
+ "kapper-van-eerste-afspraak-naar-vaste-klant-leadopvolging": {
+  "lastmod": "2026-08-05T13:16:46+02:00",
+  "sha256": "cb20b28de085db640b62154c790d10f5476674cfca699b288e15234a1854c38f"
+ },
+ "kapper-vindbaar-chatgpt-ai-search": {
+  "lastmod": "2026-08-05T13:16:48+02:00",
+  "sha256": "15a373741949f2f7db8646e6c742c7c86d23e6c19bca0691983a901d4a73a1c9"
+ },
+ "kapper-website-laten-maken-wat-je-moet-weten": {
+  "lastmod": "2026-08-05T13:16:50+02:00",
+  "sha256": "687785b0b1e7343f2926dcbd858a81d4179e7845c43a02e583ea1e9c6c217b55"
+ },
+ "kappers-boekings-conversie-verbeteren": {
+  "lastmod": "2026-08-05T13:16:52+02:00",
+  "sha256": "e7277f5d4dd236739862571e83ad72f77b541f32c4f1b40bd235a83229bf6d12"
+ },
+ "kappersprijzen-op-website-wel-of-niet": {
+  "lastmod": "2026-08-05T13:16:53+02:00",
+  "sha256": "5efd5b72da65534b132ee51bc58abb1967386ef8ff99a7ecd6bd24446320bfd2"
+ },
+ "kapperswebsite-bezoeker-tot-boeking": {
+  "lastmod": "2026-08-05T13:16:55+02:00",
+  "sha256": "48a5de506d7049906199ae1c97ff9a907c2e6b4adc7d37fa87666eeaae98cc0d"
+ },
+ "kapsalon-24-7-bereikbaar-zonder-personeel": {
+  "lastmod": "2026-07-17T09:10:58+02:00",
+  "sha256": "f73666524fae95e4a1a17f3f8b5fdc0be42ac55a6fb38d7b2b6fa34d4b025b0a"
+ },
+ "kapsalon-aan-huis-beginnen-checklist": {
+  "lastmod": "2026-07-21T20:49:52+02:00",
+  "sha256": "f060d8a3c7c690500e10e489bb4529a1ea8828baed2ff7c98fa9a769dfafebdd"
+ },
+ "kapsalon-automatiseren-tijdbesparing": {
+  "lastmod": "2026-08-05T13:16:57+02:00",
+  "sha256": "e7f701ff142ca5bab4e3c0888941a651f8f54f1c0570c7c7481e175eaa398669"
+ },
+ "kapsalon-chatbot-functies-checklist": {
+  "lastmod": "2026-08-03T23:12:05+02:00",
+  "sha256": "f79ab1e1d2a6f877de7c140043a9d9c06380eff5ff48094b1a2d990bb9957d8e"
+ },
+ "kapsalon-promoten-gratis-nieuwe-klanten": {
+  "lastmod": "2026-08-05T13:16:59+02:00",
+  "sha256": "f96b2ac3dec8214043fc46e93441606c1c2e145984b59012cedba98533fea712"
+ },
+ "kapsalon-reels-scroll-stoppen-3-seconden": {
+  "lastmod": "2026-07-14T20:06:56+02:00",
+  "sha256": "5e877e7535430cdcf53b8c1fef22ba9645e8134d03921e90f8ae188bcc97f70c"
+ },
+ "kapsalon-software-kiezen-salongrootte": {
+  "lastmod": "2026-08-03T23:12:05+02:00",
+  "sha256": "f67a254303cd6d63fccbb8e117549cffe405fed2db3da54ef0628183fd9d7587"
+ },
+ "kapsalon-vindbaar-google-tips": {
+  "lastmod": "2026-08-05T13:17:01+02:00",
+  "sha256": "d06701ce68e6eb2bd532f3ad96f19b20b2139ef91d587cb2db2a6e8452ad3a93"
+ },
+ "kapsalon-website-diy-bureau-ai-2026-vergelijking": {
+  "lastmod": "2026-08-16T13:55:46+02:00",
+  "sha256": "477b4728eb7cf455fc716a6defeb6ee7dbd9b17cb818b427c69c04e4481e6b52"
+ },
+ "kapsalon-website-snelheid-laadtijd-boekingen": {
+  "lastmod": "2026-08-05T13:17:05+02:00",
+  "sha256": "e714f569fcd96174366e0e1d370ee9f662f8c82ed7a36349b7f99939a33d1fed"
+ },
+ "kassasysteem-kapsalon-pin-btw-dagafsluiting": {
+  "lastmod": "2026-09-09T10:09:57+02:00",
+  "sha256": "e2e1178c5e1363fe382cc8b8e2da7e6ff26d97ca1f2048056f467dd14b00e1b8"
+ },
+ "klantbeleving-kapsalon-van-boeking-tot-nazorg": {
+  "lastmod": "2026-08-05T13:17:09+02:00",
+  "sha256": "3b3c7ae4219a5cfbcb7b153bed3e3caca5ac438ee0807a26c13c3a136d21dc57"
+ },
+ "klantcommunicatie-kapper": {
+  "lastmod": "2026-08-05T13:17:11+02:00",
+  "sha256": "b33540905398fd7523802692cb23c24714af9f69b5255a766bb67b71bd4fb476"
+ },
+ "klantenkaart-kapsalon-punten-retentie-klantcommunicatie": {
+  "lastmod": "2026-08-05T13:17:13+02:00",
+  "sha256": "6a7241d65e47b82a8e2e48ee6dfa60d40ec12d9d95e761f4af72a1e7c7826dbe"
+ },
+ "klantsegmentatie-kapsalon-vip-klanten": {
+  "lastmod": "2026-08-05T13:17:14+02:00",
+  "sha256": "444174e53885f58c8b6460988c768d5dfe2348fd35abd7cf6c0f98fd0745e08e"
+ },
+ "klanttevredenheid-meten-kapper": {
+  "lastmod": "2026-05-18T23:05:59+02:00",
+  "sha256": "3b72cc25bb98edeec5f6a2bf32c11893200e74576eaef8e3d45360f963402efc"
+ },
+ "lead-opvolging-kapper-dm-vaste-klant": {
+  "lastmod": "2026-08-05T13:17:16+02:00",
+  "sha256": "a9bf5e817b7ba0001e6488e9a802fffd4d44a3b08d40e71254771ad08306138b"
+ },
+ "leadgeneratie-kapper-nieuwe-klanten": {
+  "lastmod": "2026-08-05T13:17:18+02:00",
+  "sha256": "aa41a362201dc9238c8665c9aa6edfb1f1a54a36eeb3e5b05c73fc54091c2d4c"
+ },
+ "leads-opvolgen-als-kapper": {
+  "lastmod": "2026-08-05T13:17:20+02:00",
+  "sha256": "082caf054a6ecfe94c8b34f362352b2bb6132d658da96c642b7f09fc32e48f36"
+ },
+ "live-chat-of-ai-chatbot-kapsalon": {
+  "lastmod": "2026-07-03T14:30:20+02:00",
+  "sha256": "77ac536272852cbc00eeab640da6dc163c40cbbfafe9a198d1f14ec938346422"
+ },
+ "lokale-landingspagina-kapper-per-stad": {
+  "lastmod": "2026-08-03T23:12:05+02:00",
+  "sha256": "6b5a212fce00f50b8508e1905319e917c7646704e91e5e31f4d24f450fa5f75f"
+ },
+ "lokale-seo-kapper-meer-klanten": {
+  "lastmod": "2026-04-22T20:18:40+02:00",
+  "sha256": "e10208fee30f3ef27c2c70bfd24adecf051c53b284f8048fa0fef88942740614"
+ },
+ "managed-ai-vs-agency": {
+  "lastmod": "2026-06-12T11:36:59+02:00",
+  "sha256": "0fc1a16235d006ef837346cb2691fb0895dab4388371d8ddc225bbb8250b2b4a"
+ },
+ "meer-google-reviews-als-kapper": {
+  "lastmod": "2026-08-03T23:12:05+02:00",
+  "sha256": "dbaab18935fe5d928beaef8f98aa15b71579e7a6fa1fb92b104e611cdaaf04fa"
+ },
+ "meertalige-ai-telefonist-kapsalon-engels-pools": {
+  "lastmod": "2026-07-24T14:03:34+02:00",
+  "sha256": "43ac2f230d79699f5f053438521c5e4ff9ae2464f8ad6ba9938ab80ea8473dcd"
+ },
+ "merkverhaal-kapsalon-klanten-binden": {
+  "lastmod": "2026-08-03T23:12:05+02:00",
+  "sha256": "170db8cd1a32bc9fac48a10f221e9b33c591304bebed5b5dec555561ead4c0e2"
+ },
+ "mond-tot-mondreclame-kapper": {
+  "lastmod": "2026-08-03T23:12:05+02:00",
+  "sha256": "b778e3d70262ba3533db6fc962752882109643ddbff5454ed359f57a6581ddcc"
+ },
+ "negatieve-review-kapper-reageren": {
+  "lastmod": "2026-06-12T11:36:59+02:00",
+  "sha256": "6ed27e7f66bde7bdd296b577969442faf70de5f31883546be695bbb6bf65fd97"
+ },
+ "negatieve-reviews-kapper-reageren": {
+  "lastmod": "2026-08-05T13:17:22+02:00",
+  "sha256": "217c3c6ae39180ead6cf600ee57b8893b2731a7021eef4490c6c61d0fed602d5"
+ },
+ "nfc-kaart-reviews-kapper": {
+  "lastmod": "2026-08-05T23:53:10+02:00",
+  "sha256": "a9e4af2423ed1cddabddabd9d6f46676438fe6a28477b99bc138ddab2bb767df"
+ },
+ "nieuwe-klanten-werven-kapper": {
+  "lastmod": "2026-08-05T13:17:25+02:00",
+  "sha256": "1dee0515c86d2774a3338e6c61065a99c3df7ba130bdd601abe02b7ce5c007db"
+ },
+ "no-show-kosten-kapsalon": {
+  "lastmod": "2026-08-05T13:17:27+02:00",
+  "sha256": "66fe2fb39f1e16b5d255ca2682656864d484582e63ea806ee55237f680fecac2"
+ },
+ "no-shows-kosten-kapsalon-per-jaar": {
+  "lastmod": "2026-08-05T13:17:29+02:00",
+  "sha256": "82f1ad3e4e56f44111d021ef20f8ea6ae3a9eff58e9441ad3ffb0ffa3f966bcd"
+ },
+ "no-shows-voorkomen-kapsalon": {
+  "lastmod": "2026-08-05T13:17:30+02:00",
+  "sha256": "f025fb29fea9a0393ef1f4d2a8da728fe30fea2cb9aa1c3195b8b86ab8bf216e"
+ },
+ "online-afspraak-maken-kapper-boekingsflow-fricties": {
+  "lastmod": "2026-08-05T13:17:32+02:00",
+  "sha256": "33034e4e6bb35a1a93e0e794b0fa9ede0aaee681c7f5fa0b344cc47a9a973a22"
+ },
+ "online-boeken-kapper": {
+  "lastmod": "2026-08-05T13:17:34+02:00",
+  "sha256": "781361198664645ed98513a79c4c9de14c9b879f20bac2a5e6e0f5db44bfc8f0"
+ },
+ "online-boekingssysteem-kapper-4-opties-vergeleken": {
+  "lastmod": "2026-08-11T18:59:43+02:00",
+  "sha256": "16014603a88d7e1662b7b7d0b21a7caef88cbd5f9807eb766f522e8036d0ad28"
+ },
+ "online-reputatie-kapper-reviews": {
+  "lastmod": "2026-08-05T13:17:37+02:00",
+  "sha256": "86f89953b0d59fb2da06b56aca7bdc8e1f103cc2da795c1452cc1ca479058140"
+ },
+ "personal-branding-kapper-naam-in-regio": {
+  "lastmod": "2026-06-12T11:36:59+02:00",
+  "sha256": "65c77ba75fd8d82f2c5aa5ee72c240df5778a8abbe5df9e590b3dfaa92164681"
+ },
+ "photoshoot-kapsalon-12-maanden-content": {
+  "lastmod": "2026-08-05T13:17:39+02:00",
+  "sha256": "11ca5630550f4bb072fdf7eefa128477ea86ede4f2a28070ec8204435ce3af44"
+ },
+ "reactietijd-kapper-sneller-reageren-meer-klanten": {
+  "lastmod": "2026-08-05T13:17:41+02:00",
+  "sha256": "6e52f6f555a159b77445a3a8bc7c48c5feb9433db8c0d60180c5999c05a1da3b"
+ },
+ "review-borden-kapsalon-nfc-qr-sticker": {
+  "lastmod": "2026-07-09T21:22:40+02:00",
+  "sha256": "a23469d387857cc1a748f2da97c6486c1cfbe9c449ddcdaec4bb076ad94e8e90"
+ },
+ "review-reactie-templates-kapper": {
+  "lastmod": "2026-08-03T23:12:05+02:00",
+  "sha256": "ad9dbbc8c6149af1f3fcf3af5d814381c3b5a9d7807881256dc52df0d0e9253d"
+ },
+ "review-vragen-timing-kapper": {
+  "lastmod": "2026-08-03T23:12:05+02:00",
+  "sha256": "2011cd984fe6901f5740837130923855e5a5b3a2843f21616aeb018710b1654b"
+ },
+ "reviews-automatisch-verzamelen-kapper": {
+  "lastmod": "2026-08-05T13:17:43+02:00",
+  "sha256": "c10bf9bf5161087cc085dde46ac25146f5536af6774a8acd832cc2b7886c83e7"
+ },
+ "salonized-alternatief-zonder-commissie": {
+  "lastmod": "2026-08-15T09:11:22+02:00",
+  "sha256": "e90dea81a684a6bfb72c6f8bcd5830b19028cf129af445d29b1f6c4fd49c9dd1"
+ },
+ "salonized-kosten-per-jaar-rekenvoorbeeld-kapsalon": {
+  "lastmod": "2026-08-05T13:17:45+02:00",
+  "sha256": "c168a53e8bfe0134bb54ecc080f98a5025e3f802efe3d1a40d80cec03ca4c471"
+ },
+ "same-day-boeking-kapsalon": {
+  "lastmod": "2026-08-03T23:12:05+02:00",
+  "sha256": "4381d01445471524c68bf6c375916f192fa8af4a779761f8f6ae9940e292d10e"
+ },
+ "samenwerken-als-kapper-partnerschappen": {
+  "lastmod": "2026-08-03T23:12:05+02:00",
+  "sha256": "9eb103977bb61ae07dcf0f9ae350eba8b8633b05d8d28f0812be102ad86a5264"
+ },
+ "seizoenstrends-kapper-omzet": {
+  "lastmod": "2026-08-05T13:17:46+02:00",
+  "sha256": "2c6dbf9006eb2ce8b7f190a4f501700dd137ac0ad5e293ef13c04d2ed13db5ac"
+ },
+ "social-media-kappers-instagram": {
+  "lastmod": "2026-07-25T16:42:21+02:00",
+  "sha256": "46c60225f1814262f3603cc051bafc225babeeebe088dc520e7233134cdf07ce"
+ },
+ "specialiseren-kapper-niche-expertise": {
+  "lastmod": "2026-08-03T23:12:05+02:00",
+  "sha256": "33bee0af819fc6de5d170e5d292a268a2195d3cb072f6b990ef6c8de6f085bcb"
+ },
+ "tiktok-voor-kappers-eerste-video": {
+  "lastmod": "2026-07-08T19:04:54+02:00",
+  "sha256": "aa8ab25507597e2795cf64a4b9f8b50933ab5ab51beb9e699d13a33d762966a7"
+ },
+ "treatwell-alternatief-kapper": {
+  "lastmod": "2026-08-05T13:17:48+02:00",
+  "sha256": "b2b20b61365d122212a79f76182104299ca752b2ecefff6c99498c0223f77238"
+ },
+ "treatwell-vs-kapperai-welke-past-bij-jouw-salon": {
+  "lastmod": "2026-08-05T13:17:50+02:00",
+  "sha256": "44e8c7cc62f4423c2c95a06671b8d0baaef48b67747001a05845818e4e389363"
+ },
+ "trust-signals-kapper-website-converteren": {
+  "lastmod": "2026-08-05T13:17:52+02:00",
+  "sha256": "3246e50cdee4b82dec5d452827001388c510b9c1f5ba9a84ee202b9aa4d6b723"
+ },
+ "upselling-kapsalon-4-momenten-zonder-pushy": {
+  "lastmod": "2026-08-05T13:17:54+02:00",
+  "sha256": "e80a781e96cabd4663c1b8ab797287369b3944537e81f3525a64d894a96d0f14"
+ },
+ "voice-ai-of-antwoorddienst-voor-kapsalons-roi-vergelijking": {
+  "lastmod": "2026-08-05T13:17:56+02:00",
+  "sha256": "6f3b75e6572f2a022ee33293ee2ecdafc30c48b102d74c4b6b12f4165b0e8c9e"
+ },
+ "voice-ai-vs-voicemail-kapsalon": {
+  "lastmod": "2026-08-03T23:12:05+02:00",
+  "sha256": "c30b0df9c51ece24c40e59fc27590fe60597fd1dc5f38e7e418a96254193d6fc"
+ },
+ "wachtlijst-kapsalon-lege-plekken-opvullen": {
+  "lastmod": "2026-05-18T23:05:59+02:00",
+  "sha256": "0720fc3aa99a31ad6ca4b00e99cc7fa7d4b76d98ae4217e7a263c1a8bd7d05f0"
+ },
+ "wat-je-chatbot-over-prijzen-mag-zeggen-kapsalon": {
+  "lastmod": "2026-10-04T09:10:55+02:00",
+  "sha256": "4ecf84374d93da8573b0f911fec9b4e8df34def00c620809b319fbf48c0a9b96"
+ },
+ "welkom-mailflow-kapsalon-nieuwe-klanten": {
+  "lastmod": "2026-08-05T13:17:57+02:00",
+  "sha256": "e8bf1e3fa13669568483044ef9427d5320feb60d21ac1ec9411932f530524295"
+ },
+ "whatsapp-chatbot-kapsalon-avondaanvragen": {
+  "lastmod": "2026-08-03T23:12:05+02:00",
+  "sha256": "785ce50cf812a27069a0fb8be9e36994e62d1ed5a6c4c28173303af890ebd6cd"
+ },
+ "whatsapp-herinneringen-chatbot-combineren": {
+  "lastmod": "2026-08-03T23:12:05+02:00",
+  "sha256": "283641de9189a62c3db257e14f6b0e49ce29503410b848d617e2c93386e138eb"
+ },
+ "whatsapp-nazorg-kappers-rebook-flow": {
+  "lastmod": "2026-08-05T13:17:59+02:00",
+  "sha256": "ae36545e62d851e3571716395da5afd84455db7609f24ade01632534c9f0571a"
+ },
+ "workflow-automatisering-kapsalon-hoogste-roi": {
+  "lastmod": "2026-07-13T20:35:36+02:00",
+  "sha256": "52d48733188c9d542a0fff573c6273100224d64c5470ff39dd6e3cec72d1226d"
+ }
+}
