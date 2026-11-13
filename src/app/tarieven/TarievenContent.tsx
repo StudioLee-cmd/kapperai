@@ -52,37 +52,12 @@ const plans = [
     highlight: true,
     badge: "Meest gekozen",
   },
-  {
-    name: "De site afkopen",
-    price: "In overleg",
-    period: "eenmalig",
-    description:
-      "Liever geen maandbedrag? Dan koop je de site af. Eerlijk erbij: zonder abonnement staat 'ie stil — geen nieuwe teksten, geen chatbot, geen telefoon.",
-    features: [
-      "De volledige website, eenmalig afgekocht",
-      "Gebouwd op het ontwerp dat jij koos",
-      "Je kunt later alsnog laten draaien",
-      "Losse hulp op aanvraag",
-    ],
-    cta: "Vraag het aan",
-    ctaLink: "/gratis-website",
-    highlight: false,
-    badge: "Eenmalig",
-  },
 ];
 
 const customOptions = [
   {
-    name: "Helemaal op maat",
-    price: "Op aanvraag",
-    description:
-      "Volledig custom gebouwd. Eenmalige investering, geen maandbedrag. Je betaalt daarnaast alleen wat je écht verbruikt.",
-    cta: "Vraag offerte aan",
-    ctaLink: "https://cal.com/studiolee",
-  },
-  {
     name: "Volledig uit handen",
-    price: "Op maat",
+    price: "Vanaf €379 per maand",
     description:
       "Wij doen alles: de teksten, de vindbaarheid, de social, de opvolging. Jij staat in de salon. Wat het kost hangt af van wat je nodig hebt — dat rekenen we samen door.",
     cta: "Plan een gesprek",
@@ -101,7 +76,7 @@ const faqs = [
   },
   {
     q: "Kan ik de website ook gewoon kopen?",
-    a: "Dat kan. Wat het kost hangt af van wat er al staat en hoe lang je draait, dus dat rekenen we in een gesprek voor je uit. Wees je er dan wel van bewust dat 'ie daarna stilstaat: geen nieuwe artikelen, geen chatbot, geen telefoon die opneemt. Wij zeggen dat liever vooraf dan achteraf. Je kunt altijd later alsnog laten draaien.",
+    a: "Dat kan. Een website tot 10 pagina's kost €1.000 eenmalig, met het eerste jaar beheer en hosting erbij. Wees je er dan wel van bewust dat 'ie daarna stilstaat: geen nieuwe artikelen, geen chatbot, geen telefoon die opneemt. Wij zeggen dat liever vooraf dan achteraf. Je kunt altijd later alsnog laten draaien.",
   },
   {
     q: `Wat kost het als ik het los zou regelen?`,
@@ -145,7 +120,7 @@ export default function TarievenContent() {
 
       {/* Pricing Cards */}
       <section className="py-6 px-4">
-        <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-6">
+        <div className="max-w-4xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-6">
           {plans.map((plan, i) => (
             <motion.div
               key={plan.name}
@@ -193,6 +168,16 @@ export default function TarievenContent() {
             </motion.div>
           ))}
         </div>
+      </section>
+
+      {/* Buy-once: one line, the prices are on its own page */}
+      <section className="px-4 pb-12">
+        <p className="text-center text-foreground-accent">
+          Liever niet maandelijks betalen?{" "}
+          <a href="/website-kopen" className="text-primary font-semibold hover:underline">
+            Bekijk wat een website eenmalig kost
+          </a>
+        </p>
       </section>
 
       {/* ⑤ DE REKENSOM — vergelijk de rekening, niet de onderdelen (PROPOSITIE-CONTRACT §②/§⑤).
@@ -255,7 +240,7 @@ export default function TarievenContent() {
           <p className="text-foreground-accent text-center mb-10 max-w-xl mx-auto">
             Niet elke salon past in een standaardpakket. Daarom kan het ook zo.
           </p>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+          <div className="grid grid-cols-1 gap-6 max-w-xl mx-auto">
             {customOptions.map((opt) => (
               <div key={opt.name} className="border border-[var(--card-border)] rounded-2xl p-6">
                 <h3 className="text-lg font-bold mb-1">{opt.name}</h3>
