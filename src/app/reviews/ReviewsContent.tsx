@@ -332,7 +332,7 @@ export default function ReviewsContent() {
               />
             </div>
             <p className="text-center text-sm text-foreground-accent mt-3 max-w-2xl mx-auto">
-              Na elke afspraak vraagt het systeem automatisch om een review — meer 5-sterren, meer instroom.
+              Na elke afspraak vraagt het systeem automatisch om een review, meer 5-sterren, meer instroom.
             </p>
           </motion.div>
 
@@ -525,7 +525,7 @@ export default function ReviewsContent() {
               </Link>
               <Link href="/seo" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
                 <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">SEO voor Kappers</h3>
-                <p className="text-foreground-accent text-sm mb-3">Reviews voeden je Google ranking — combineer met SEO automatisering.</p>
+                <p className="text-foreground-accent text-sm mb-3">Reviews voeden je Google ranking, combineer met SEO automatisering.</p>
                 <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
               </Link>
               <Link href="/automatisering" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">

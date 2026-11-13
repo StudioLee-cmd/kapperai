@@ -32,7 +32,7 @@ const features = [
   {
     icon: BsChatDots,
     title: "Getraind op jouw diensten",
-    desc: `De chatbot kent jouw prijzen, openingstijden en specialisaties — geen generieke antwoorden.`,
+    desc: `De chatbot kent jouw prijzen, openingstijden en specialisaties: geen generieke antwoorden.`,
   },
   {
     icon: BsWhatsapp,
@@ -47,12 +47,12 @@ const features = [
   {
     icon: BsCalendar3,
     title: "Afspraken boeken",
-    desc: `Klanten plannen direct een afspraak via de chatbot — zonder dat jij hoeft te bellen of mailen.`,
+    desc: `Klanten plannen direct een afspraak via de chatbot, zonder dat jij hoeft te bellen of mailen.`,
   },
   {
     icon: BsGlobe,
     title: "Meertalig",
-    desc: `De chatbot spreekt Nederlands, Engels, Duits en meer — perfect voor internationale klanten.`,
+    desc: `De chatbot spreekt Nederlands, Engels, Duits en meer, perfect voor internationale klanten.`,
   },
 ];
 
@@ -88,7 +88,7 @@ const painPoints = [
   {
     icon: BsQuestionCircle,
     title: "Steeds dezelfde vragen beantwoorden",
-    desc: `"Wat kost het?", "Hebben jullie plek?", "Hoe kan ik een afspraak maken?" — dagelijks dezelfde vragen, maar jij hebt er geen tijd voor.`,
+    desc: `"Wat kost het?", "Hebben jullie plek?", "Hoe kan ik een afspraak maken?", dagelijks dezelfde vragen, maar jij hebt er geen tijd voor.`,
   },
 ];
 
@@ -99,7 +99,7 @@ const faqs = [
   },
   {
     q: "Moet ik zelf de chatbot trainen of bijhouden?",
-    a: "Nee, dat doen wij. Wij trainen de chatbot op jouw diensten, prijzen en veelgestelde vragen. Als er iets verandert, passen wij het aan — dat zit in de service.",
+    a: "Nee, dat doen wij. Wij trainen de chatbot op jouw diensten, prijzen en veelgestelde vragen. Als er iets verandert, passen wij het aan: dat zit in de service.",
   },
   {
     q: "Wat als de chatbot een vraag niet kan beantwoorden?",
@@ -115,7 +115,7 @@ const faqs = [
   },
   {
     q: "Werkt de chatbot ook samen met andere automatiseringen?",
-    a: `Ja. De chatbot is onderdeel van het complete platform — koppel hem aan onze Voice AI telefonist, Workflow automatisering en CRM voor één gestroomlijnde klantbeleving. Eén systeem, één maandbedrag.`,
+    a: `Ja. De chatbot is onderdeel van het complete platform, koppel hem aan onze Voice AI telefonist, Workflow automatisering en CRM voor één gestroomlijnde klantbeleving. Eén systeem, één maandbedrag.`,
   },
 ];
 
@@ -139,7 +139,7 @@ export default function ChatbotContent() {
             className="text-lg text-foreground-accent max-w-2xl mx-auto mb-8 sl-reveal sl-reveal-1"
           >
             Een slimme AI chatbot die jouw website bezoekers direct helpt,
-            vragen beantwoordt en afspraken inplant — ook als jij niet
+            vragen beantwoordt en afspraken inplant, ook als jij niet
             beschikbaar bent. Geen gemiste leads meer.
           </motion.p>
           <motion.div
@@ -171,7 +171,7 @@ export default function ChatbotContent() {
           <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-2xl">
             <Image
               src="/images/services/chatbot-hero.jpg"
-              alt={`AI chatbot in een moderne kapsalon — klant krijgt direct antwoord via chat`}
+              alt={`AI chatbot in een moderne kapsalon, klant krijgt direct antwoord via chat`}
               fill
               priority
               className="object-cover"
@@ -190,7 +190,7 @@ export default function ChatbotContent() {
           <div className="text-foreground-accent space-y-4 text-base leading-relaxed">
             <p>
               Een AI chatbot is een slimme digitale assistent die op jouw
-              website draait en bezoekers direct helpt — dag en nacht. Anders
+              website draait en bezoekers direct helpt, dag en nacht. Anders
               dan een simpel contactformulier voert de chatbot echte gesprekken,
               beantwoordt vragen over jouw diensten en kan zelfs afspraken
               inplannen.
@@ -202,7 +202,7 @@ export default function ChatbotContent() {
               jouw specifieke diensten, prijzen en werkwijze, zodat klanten
               altijd relevante en accurate informatie krijgen. Elke lead wordt
               automatisch naar jou doorgestuurd via WhatsApp, zodat je altijd
-              op de hoogte bent — zonder dat je continu achter je laptop hoeft
+              op de hoogte bent, zonder dat je continu achter je laptop hoeft
               te zitten.
             </p>
           </div>
@@ -276,7 +276,7 @@ export default function ChatbotContent() {
             <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-xl">
               <Image
                 src="/images/services/chatbot-workflow.jpg"
-                alt="Klant stuurt vraag via chat — kapper ontvangt direct een notificatie op de Apple Watch"
+                alt="Klant stuurt vraag via chat, kapper ontvangt direct een notificatie op de Apple Watch"
                 fill
                 className="object-cover"
                 sizes="(max-width: 1024px) 100vw, 1024px"
@@ -294,7 +294,7 @@ export default function ChatbotContent() {
         <div className="max-w-6xl mx-auto">
           <h2 className="text-2xl md:text-3xl font-bold text-center mb-3">Wat krijg je?</h2>
           <p className="text-foreground-accent text-center mb-10 max-w-xl mx-auto">
-            Alles wat je nodig hebt om 24/7 klanten op te vangen — inbegrepen in je pakket.
+            Alles wat je nodig hebt om 24/7 klanten op te vangen, inbegrepen in je pakket.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {features.map((feature, idx) => (
@@ -350,7 +350,7 @@ export default function ChatbotContent() {
               <p>
                 In de {nicheSingular}sbranche draait alles om snelheid en vertrouwen. Een
                 klant die via Google op jouw website landt, verwacht direct
-                antwoord. Niet morgen, niet over een uur — nu. Uit onderzoek
+                antwoord. Niet morgen, niet over een uur, nu. Uit onderzoek
                 blijkt dat 78% van de leads kiest voor het bedrijf dat als
                 eerste reageert. Met een AI chatbot ben jij dat bedrijf, altijd.
               </p>
@@ -379,7 +379,7 @@ export default function ChatbotContent() {
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {[
-              { href: "/voice-ai", title: "Voice AI Telefonist", desc: "Vangt oproepen op als de klant liever belt dan chat — zelfde info, zelfde flow." },
+              { href: "/voice-ai", title: "Voice AI Telefonist", desc: "Vangt oproepen op als de klant liever belt dan chat, zelfde info, zelfde flow." },
               { href: "/automatisering", title: "Workflow Automatisering", desc: "Herinneringen, lead-opvolging en review-verzoeken automatisch versturen na elk chatgesprek." },
               { href: "/crm", title: "CRM voor Kappers", desc: "Elk chatbot-gesprek landt automatisch in je CRM, met klantprofiel en geschiedenis." },
             ].map((item, idx) => (
@@ -418,7 +418,7 @@ export default function ChatbotContent() {
             <p className="text-sm text-gray-400 mb-4">Chatbot als losse add-on, beperkte support, strategie apart betaald</p>
             <div className="w-16 h-px bg-gray-600 mx-auto mb-4"></div>
             <p className="text-primary font-semibold text-lg">{brand}</p>
-            <p className="text-3xl md:text-4xl font-bold">€79/maand — alles inbegrepen</p>
+            <p className="text-3xl md:text-4xl font-bold">€79/maand: alles inbegrepen</p>
             <p className="text-sm text-gray-300 mt-2">AI chatbot standaard inbegrepen. Inclusief strategie & consulting.</p>
           </motion.div>
 
@@ -451,7 +451,7 @@ export default function ChatbotContent() {
               <h3 className="text-lg font-bold mb-4 mt-1">{brand}</h3>
               <ul className="space-y-3">
                 {[
-                  "€79 per maand — alles inbegrepen",
+                  "€79 per maand: alles inbegrepen",
                   "Live binnen 1-2 werkdagen",
                   "AI chatbot standaard inbegrepen",
                   "24/7 systeem, altijd bereikbaar",
@@ -493,7 +493,7 @@ export default function ChatbotContent() {
           <h2 className="text-2xl md:text-3xl font-bold mb-4">Klaar om 24/7 klanten op te vangen?</h2>
           <p className="text-foreground-accent mb-8">
             Plan een gratis strategiegesprek van 15 minuten. We laten zien hoe een AI chatbot
-            jouw {nicheSingular}sbedrijf kan laten groeien — zonder extra personeel.
+            jouw {nicheSingular}sbedrijf kan laten groeien, zonder extra personeel.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link

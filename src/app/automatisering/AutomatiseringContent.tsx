@@ -33,17 +33,17 @@ const workflowCategories = [
   {
     icon: BsBell,
     title: "Automatische herinneringen",
-    desc: `WhatsApp + SMS herinneringen die no-shows met 60-80% verlagen. Klanten bevestigen of verzetten in één tik — geen telefoonrondjes meer.`,
+    desc: `WhatsApp + SMS herinneringen die no-shows met 60-80% verlagen. Klanten bevestigen of verzetten in één tik: geen telefoonrondjes meer.`,
   },
   {
     icon: BsArrowRepeat,
     title: "Lead-opvolging flows",
-    desc: `Elke binnenkomende lead krijgt automatisch de juiste opvolging op de juiste tijd — eerste reactie binnen 5 minuten, follow-up na 24 uur, herinnering na 7 dagen.`,
+    desc: `Elke binnenkomende lead krijgt automatisch de juiste opvolging op de juiste tijd, eerste reactie binnen 5 minuten, follow-up na 24 uur, herinnering na 7 dagen.`,
   },
   {
     icon: BsEnvelope,
     title: "Klantcommunicatie",
-    desc: `Welkom-flows voor nieuwe klanten, nazorg-berichten na elk bezoek, reactivatie-flows voor klanten die je een tijdje niet hebt gezien — allemaal op de automatische piloot.`,
+    desc: `Welkom-flows voor nieuwe klanten, nazorg-berichten na elk bezoek, reactivatie-flows voor klanten die je een tijdje niet hebt gezien, allemaal op de automatische piloot.`,
   },
   {
     icon: BsCalendarCheck,
@@ -53,12 +53,12 @@ const workflowCategories = [
   {
     icon: BsGraphUp,
     title: "Review-verzoeken",
-    desc: `Na elk bezoek krijgt jouw klant automatisch een review-verzoek op het juiste moment — niet te vroeg, niet te laat. Sterren stapelen zich op zonder dat je erom hoeft te vragen.`,
+    desc: `Na elk bezoek krijgt jouw klant automatisch een review-verzoek op het juiste moment, niet te vroeg, niet te laat. Sterren stapelen zich op zonder dat je erom hoeft te vragen.`,
   },
   {
     icon: BsBriefcase,
     title: "Custom bedrijfsprocessen",
-    desc: `Specifieke flows voor jouw salon: factuur-automatisering, voorraad-meldingen, medewerker-roosters, betaalherinneringen — alles wat repetitief is, automatiseren we.`,
+    desc: `Specifieke flows voor jouw salon: factuur-automatisering, voorraad-meldingen, medewerker-roosters, betaalherinneringen: alles wat repetitief is, automatiseren we.`,
   },
 ];
 
@@ -84,7 +84,7 @@ const painPoints = [
   {
     icon: BsClockHistory,
     title: "Repetitieve admin vreet je dag op",
-    desc: `Elke ochtend bellen om afspraken te bevestigen, 's avonds reviews-verzoeken sturen, tussendoor leads opvolgen. Werk dat zich elke week herhaalt — terwijl jij eigenlijk haren wilt knippen.`,
+    desc: `Elke ochtend bellen om afspraken te bevestigen, 's avonds reviews-verzoeken sturen, tussendoor leads opvolgen. Werk dat zich elke week herhaalt, terwijl jij eigenlijk haren wilt knippen.`,
   },
   {
     icon: BsXCircle,
@@ -102,7 +102,7 @@ const reminderFeatures = [
   {
     icon: BsWhatsapp,
     title: "WhatsApp + SMS + e-mail",
-    desc: `De herinnering komt binnen waar jouw klant 'm leest — WhatsApp eerst, SMS als backup, e-mail als bevestiging. Het systeem matcht per klant.`,
+    desc: `De herinnering komt binnen waar jouw klant 'm leest: WhatsApp eerst, SMS als backup, e-mail als bevestiging. Het systeem matcht per klant.`,
   },
   {
     icon: BsClockHistory,
@@ -119,7 +119,7 @@ const reminderFeatures = [
 const faqs = [
   {
     q: "Wat is workflow automatisering voor een kapsalon precies?",
-    a: "Het is een systeem dat herhalend werk in je kapsalon overneemt: afspraken bevestigen, herinneringen sturen, leads opvolgen, reviews verzamelen, klantcommunicatie versturen. Alles waar je nu zelf elke dag of week tijd in steekt, gaat automatisch op de juiste momenten naar de juiste klanten — zonder dat jij iets hoeft te doen.",
+    a: "Het is een systeem dat herhalend werk in je kapsalon overneemt: afspraken bevestigen, herinneringen sturen, leads opvolgen, reviews verzamelen, klantcommunicatie versturen. Alles waar je nu zelf elke dag of week tijd in steekt, gaat automatisch op de juiste momenten naar de juiste klanten, zonder dat jij iets hoeft te doen.",
   },
   {
     q: "Werkt dit met de agenda en tools die ik nu al gebruik?",
@@ -127,19 +127,19 @@ const faqs = [
   },
   {
     q: "Hoe lang duurt het voor de flows live zijn?",
-    a: "5 werkdagen voor de top-5 automatiseringen (herinneringen, lead-opvolging, reviews, welkom-flow, nazorg). Custom workflows duren iets langer — meestal 1-2 weken afhankelijk van de complexiteit. Je hoeft zelf bijna niets te doen behalve één keer per flow goedkeuren wat de toon is.",
+    a: "5 werkdagen voor de top-5 automatiseringen (herinneringen, lead-opvolging, reviews, welkom-flow, nazorg). Custom workflows duren iets langer, meestal 1-2 weken afhankelijk van de complexiteit. Je hoeft zelf bijna niets te doen behalve één keer per flow goedkeuren wat de toon is.",
   },
   {
-    q: "Wat zijn automatische herinneringen — is dat hetzelfde?",
-    a: `Automatische herinneringen zijn één van de workflow-automatiseringen — de bekendste en hoogst-rendabele. Ze sturen klanten op het juiste moment vóór hun afspraak een WhatsApp- of SMS-bericht zodat ze bevestigen of verzetten. Andere workflows (lead-opvolging, reviews, klantcommunicatie) volgen dezelfde logica maar voor andere processen. Bij ${brand} zit alles inbegrepen in één pakket.`,
+    q: "Wat zijn automatische herinneringen, is dat hetzelfde?",
+    a: `Automatische herinneringen zijn één van de workflow-automatiseringen: de bekendste en hoogst-rendabele. Ze sturen klanten op het juiste moment vóór hun afspraak een WhatsApp- of SMS-bericht zodat ze bevestigen of verzetten. Andere workflows (lead-opvolging, reviews, klantcommunicatie) volgen dezelfde logica maar voor andere processen. Bij ${brand} zit alles inbegrepen in één pakket.`,
   },
   {
     q: "Kan ik de templates en flows zelf aanpassen?",
-    a: "Ja, je krijgt voor elke flow 3-5 kant-en-klare templates die we samen aanpassen aan jouw kapsalon-stijl. Wijzigingen zijn ook later altijd mogelijk via één klik in je dashboard — je hebt volledige controle over de toon, de timing en de inhoud.",
+    a: "Ja, je krijgt voor elke flow 3-5 kant-en-klare templates die we samen aanpassen aan jouw kapsalon-stijl. Wijzigingen zijn ook later altijd mogelijk via één klik in je dashboard: je hebt volledige controle over de toon, de timing en de inhoud.",
   },
   {
     q: `Wat kost workflow automatisering bij ${brand}?`,
-    a: `Workflow automatisering — inclusief automatische herinneringen, lead-opvolging, review-verzoeken en klantcommunicatie — zit inbegrepen in ons maandelijkse pakket vanaf €79/maand. Geen losse kosten per SMS, WhatsApp of e-mail, geen opstartkosten, geen verborgen kosten. Bekijk onze tarieven voor alle details.`,
+    a: `Workflow automatisering, inclusief automatische herinneringen, lead-opvolging, review-verzoeken en klantcommunicatie, zit inbegrepen in ons maandelijkse pakket vanaf €79/maand. Geen losse kosten per SMS, WhatsApp of e-mail, geen opstartkosten, geen verborgen kosten. Bekijk onze tarieven voor alle details.`,
   },
   {
     q: "Kan ik dit combineren met de Voice AI, chatbot en CRM?",
@@ -167,7 +167,7 @@ export default function AutomatiseringContent() {
             className="text-lg text-foreground-accent max-w-2xl mx-auto mb-8 sl-reveal sl-reveal-1"
           >
             Automatische herinneringen, lead-opvolging, klantcommunicatie en
-            custom flows — speciaal voor kapsalons. Geen no-shows, geen vergeten
+            custom flows, speciaal voor kapsalons. Geen no-shows, geen vergeten
             taken, geen handmatig admin-werk. Jij knipt, het systeem regelt
             de rest.
           </motion.p>
@@ -205,7 +205,7 @@ export default function AutomatiseringContent() {
           >
             <Image
               src="/images/services/automatisering-workflow.jpg"
-              alt="Workflow automatisering voor kappers — receptiebalie met laptop, smartphone, leather notebook en timer terwijl de salon op de achtergrond draait"
+              alt="Workflow automatisering voor kappers, receptiebalie met laptop, smartphone, leather notebook en timer terwijl de salon op de achtergrond draait"
               fill
               className="object-cover"
               priority
@@ -223,16 +223,16 @@ export default function AutomatiseringContent() {
           <div className="text-foreground-accent space-y-4 text-base leading-relaxed">
             <p>
               Workflow automatisering is het slim laten lopen van alle repetitieve
-              taken in je kapsalon — zonder dat jij erover na hoeft te denken.
+              taken in je kapsalon, zonder dat jij erover na hoeft te denken.
               Afspraakbevestigingen, herinneringen, lead-opvolging, review-verzoeken,
-              nazorg-berichten, betaalreminders — al die taken die elke dag of
+              nazorg-berichten, betaalreminders, al die taken die elke dag of
               week terugkomen, doet het systeem voor je op exact het juiste moment.
             </p>
             <p>
               Voor {niche} betekent dit één ding: jij focust op knippen en kleuren,
               wij regelen de admin-stroom. Een kapsalon die alle herhaalwerk
               automatiseert wint gemiddeld 8-12 uur per week aan tijd, ziet
-              no-shows dalen met 60-80%, en haalt 3-4× meer reviews binnen — zonder
+              no-shows dalen met 60-80%, en haalt 3-4× meer reviews binnen, zonder
               extra inspanning. Workflow automatisering bij {brand} is geen losse tool,
               maar een systeem dat al jouw klantmomenten aan elkaar knoopt: van
               eerste contact tot herhaalbezoek.
@@ -305,7 +305,7 @@ export default function AutomatiseringContent() {
             Welke workflows automatiseer je?
           </h2>
           <p className="text-foreground-accent text-center mb-10 max-w-xl mx-auto">
-            6 categorieën van repetitief werk die {niche} elke maand uren kosten — allemaal te automatiseren.
+            6 categorieën van repetitief werk die {niche} elke maand uren kosten, allemaal te automatiseren.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {workflowCategories.map((category, idx) => (
@@ -336,7 +336,7 @@ export default function AutomatiseringContent() {
               <BsBell size={14} /> Featured workflow
             </div>
             <h2 className="text-2xl md:text-3xl font-bold mb-3">
-              Automatische herinneringen — onze hoogst-rendabele workflow
+              Automatische herinneringen: onze hoogst-rendabele workflow
             </h2>
             <p className="text-foreground-accent max-w-2xl mx-auto">
               De ene workflow die in elke kapsalon binnen 30 dagen meetbaar
@@ -353,7 +353,7 @@ export default function AutomatiseringContent() {
             >
               <Image
                 src="/images/services/automatisering-hero.jpg"
-                alt="Smartphone op kapsalon counter toont automatische herinnering — klant gaat de afspraak van morgen bevestigen"
+                alt="Smartphone op kapsalon counter toont automatische herinnering, klant gaat de afspraak van morgen bevestigen"
                 fill
                 className="object-cover"
               />
@@ -371,8 +371,8 @@ export default function AutomatiseringContent() {
               <p>
                 Met automatische herinneringen via WhatsApp stuurt het systeem
                 op het juiste moment vóór de afspraak een vriendelijke nudge.
-                Klanten bevestigen met &quot;JA&quot; of verzetten met één link
-                — geen telefoonrondjes, geen heen-en-weer-mailen. Onderzoek in
+                Klanten bevestigen met &quot;JA&quot; of verzetten met één link:
+                geen telefoonrondjes, geen heen-en-weer-mailen. Onderzoek in
                 de salonbranche laat zien dat een goed opgezette
                 herinneringen-flow no-shows met 60-80% terugdringt.
               </p>
@@ -426,14 +426,14 @@ export default function AutomatiseringContent() {
               Klanten communiceren waar ze toch al kijken
             </h2>
             <p className="text-foreground-accent leading-relaxed mb-4">
-              98% van Nederland leest WhatsApp-berichten binnen een uur — veel
+              98% van Nederland leest WhatsApp-berichten binnen een uur, veel
               hoger dan e-mail of zelfs SMS. Daarom sturen we elke automatische
               flow eerst via WhatsApp, met SMS als backup en e-mail als
               bevestiging.
             </p>
             <p className="text-foreground-accent leading-relaxed">
               Voor jouw klant voelt het als een persoonlijke nudge in plaats
-              van een marketing-bericht — vriendelijk, kort, met één duidelijke
+              van een marketing-bericht, vriendelijk, kort, met één duidelijke
               actie. Drie tot vier keer hogere response-rates dan losse SMS-jes
               vanuit je eigen telefoon.
             </p>
@@ -465,7 +465,7 @@ export default function AutomatiseringContent() {
           >
             <Image
               src="/images/services/automatisering-section.jpg"
-              alt="Kapsalon in volle gang — kapper knipt klant terwijl het workflow-automatisering systeem op de achtergrond alle communicatie afhandelt"
+              alt="Kapsalon in volle gang, kapper knipt klant terwijl het workflow-automatisering systeem op de achtergrond alle communicatie afhandelt"
               fill
               className="object-cover"
             />
@@ -482,7 +482,7 @@ export default function AutomatiseringContent() {
             <div className="text-foreground-accent space-y-4 text-base leading-relaxed">
               <p>
                 Een kapsalon-dag bestaat voor 60% uit knippen, kleuren en
-                stylen — en voor 40% uit communicatie, planning en administratie.
+                stylen en voor 40% uit communicatie, planning en administratie.
                 Die 40% is precies waar workflow automatisering zijn werk doet.
               </p>
               <p>
@@ -505,7 +505,7 @@ export default function AutomatiseringContent() {
                 <Link href="/crm" className="text-primary hover:underline">
                   crm voor kappers
                 </Link>{" "}
-                — en je hebt één gesloten systeem dat van eerste contact tot
+                en je hebt één gesloten systeem dat van eerste contact tot
                 herhaalbezoek alle klantmomenten aan elkaar knoopt.
               </p>
             </div>
@@ -521,7 +521,7 @@ export default function AutomatiseringContent() {
           </h2>
           <p className="text-foreground-accent mb-10 max-w-2xl mx-auto">
             Workflow automatisering werkt het beste als onderdeel van een
-            gesloten lus — van eerste contact tot bevestigde afspraak tot
+            gesloten lus, van eerste contact tot bevestigde afspraak tot
             review.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 text-left">
@@ -532,7 +532,7 @@ export default function AutomatiseringContent() {
               <BsPhone className="text-primary mb-3" size={22} />
               <h3 className="text-lg font-bold mb-1">Voice AI Telefonist</h3>
               <p className="text-foreground-accent text-sm">
-                Vangt nieuwe klanten op buiten openingstijden — geboekte
+                Vangt nieuwe klanten op buiten openingstijden, geboekte
                 afspraken gaan direct door naar de automatische herinneringen-flow.
               </p>
             </Link>
@@ -555,7 +555,7 @@ export default function AutomatiseringContent() {
               <h3 className="text-lg font-bold mb-1">CRM voor Kappers</h3>
               <p className="text-foreground-accent text-sm">
                 Vaste klanten herkennen, herhaalafspraken triggeren, vergeten
-                klanten reactiveren — alles vanuit één klantenbestand.
+                klanten reactiveren: alles vanuit één klantenbestand.
               </p>
             </Link>
             <Link
@@ -576,7 +576,7 @@ export default function AutomatiseringContent() {
               <BsGraphUp className="text-primary mb-3" size={22} />
               <h3 className="text-lg font-bold mb-1">SEO voor Kappers</h3>
               <p className="text-foreground-accent text-sm">
-                Meer organische bezoekers naar je website — die vervolgens
+                Meer organische bezoekers naar je website, die vervolgens
                 door de hele workflow worden geleid.
               </p>
             </Link>
@@ -636,7 +636,7 @@ export default function AutomatiseringContent() {
           <p className="text-foreground-accent text-lg mb-8 max-w-xl mx-auto">
             Plan een gratis gesprek van 15 minuten. We laten zien welke 5
             workflows in jouw kapsalon meteen meetbaar geld opleveren. Geen
-            verkooppraat — alleen cijfers en een eerlijke take.
+            verkooppraat, alleen cijfers en een eerlijke take.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
