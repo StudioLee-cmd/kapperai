@@ -8,8 +8,8 @@ import { siteDetails } from "@/data/siteDetails";
 import { motion } from "framer-motion";
 import { BsArrowRight, BsCalendarCheck, BsClock, BsShop, BsChatHeart, BsQrCode } from 'react-icons/bs';
 
-// The trade's words (clusters/seo/own-sites/trades/<trade>.json): on another niche site the same page takes its own.
-const trade = { enkelvoud: 'kapper', bedrijf: 'kapsalon' };
+// The trade's words come from src/data/trade.ts, so another own niche site takes this same page with its own words.
+import { trade } from "@/data/trade";
 const brand = siteDetails.siteName;
 
 const FAQ = [
@@ -106,7 +106,7 @@ export default function ReviewPage() {
                             Wie een {trade.enkelvoud} zoekt, kijkt in Google eerst naar de sterren en het aantal reviews. Een tevreden klant wil best een review schrijven, maar thuis is hij het vergeten. Daarom werkt het het best op het moment zelf, in je {trade.bedrijf}.
                         </p>
                         <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-                            Meer over het moment en de toon lees je in <Link href="/blog/meer-google-reviews-als-kapper" className="text-blue-600 dark:text-[var(--secondary)] font-semibold underline underline-offset-4">Meer Google reviews als kapper</Link>.
+                            {trade.reviewBlog ? <>Meer over het moment en de toon lees je in <Link href={trade.reviewBlog.href} className="text-blue-600 dark:text-[var(--secondary)] font-semibold underline underline-offset-4">{trade.reviewBlog.title}</Link>.</> : <>Met het reviewpakket vraag je het iedere {trade.klant} op dezelfde manier, op het moment dat het werk net klaar is.</>}
                         </p>
                     </motion.div>
                     <div className="grid gap-4">

@@ -228,7 +228,7 @@ export const reviews: ServiceSpec = {
     flow: {
         gets: "Elke tevreden klant wordt een review op Google",
         steps: [
-            { label: "Na de afspraak", say: "Kort na de afspraak krijgt de klant een bericht met de vraag om een review.", screen: { kind: "chat", title: "Bericht aan de klant", lines: [[cap(t.bedrijf), "Bedankt voor je bezoek! Wil je ons laten weten hoe het was? Het kost een halve minuut."]] } },
+            { label: "Na de afspraak", say: "Kort na de afspraak krijgt de klant een bericht met de vraag om een review.", screen: { kind: "chat", title: "Bericht aan de klant", lines: [[cap(t.bedrijf), "Bedankt voor je vertrouwen! Wil je laten weten hoe het was? Het kost een halve minuut."]] } },
             { label: "De klant schrijft", say: "Eén tik opent het reviewformulier van Google, zonder zoeken.", screen: { kind: "chat", title: "Google review", lines: [["Klant", t.reviewZin]] } },
             { label: "Jij reageert", say: "De review staat op Google en jij reageert vanuit je dashboard, met een voorstel klaar.", screen: { kind: "card", title: "Nieuwe review", name: t.voorbeeldKlant, rows: ["★★★★★ op Google", "Voorstel voor je reactie staat klaar"], badge: "+1 review" } },
         ],

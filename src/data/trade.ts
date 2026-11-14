@@ -28,6 +28,8 @@ export const trade = {
     // the moment a reminder or follow-up matters most
     herinnering: "Morgen 10:30 knippen bij je kapsalon. Tik op Bevestigen of Verzetten.",
     terugkom: "Het is 6 weken geleden. Zal ik je volgende knipbeurt inplannen?",
+    // the site's own article on asking for reviews, linked from /review-pakket (null when the site has none)
+    reviewBlog: { href: "/blog/meer-google-reviews-als-kapper", title: "Meer Google reviews als kapper" } as { href: string; title: string } | null,
 } as const;
 
 export type Trade = typeof trade;
