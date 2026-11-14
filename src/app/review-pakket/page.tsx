@@ -3,11 +3,11 @@ import { siteDetails } from "@/data/siteDetails";
 import ReviewPakketContent from "./ReviewPakketContent";
 
 export const metadata: Metadata = {
-  title: `Reviewpakket voor ${siteDetails.niche.toLowerCase()} | ${siteDetails.siteName}`,
-  description: `Meer 5-sterrenreviews op Google zonder erachteraan te bellen: NFC-kaartjes plus automatische review-verzoeken na elke klus, speciaal voor ${siteDetails.niche.toLowerCase()}.`,
+  title: `Reviews verzamelen als kapper met NFC: het reviewpakket | ${siteDetails.siteName}`,
+  description: `NFC-displays, deurstickers en kaartjes in de huisstijl van je kapsalon: je klant houdt de telefoon ertegen en schrijft meteen een Google review. Vanaf €179 eenmalig.`,
   openGraph: {
-    title: `Meer Google-reviews verzamelen | ${siteDetails.siteName}`,
-    description: `Meer 5-sterrenreviews op Google zonder erachteraan te bellen: NFC-kaartjes plus automatische review-verzoeken na elke klus, speciaal voor ${siteDetails.niche.toLowerCase()}.`,
+    title: `Reviews verzamelen als kapper, met één tik | ${siteDetails.siteName}`,
+    description: `NFC-displays, deurstickers en kaartjes in de huisstijl van je kapsalon: je klant houdt de telefoon ertegen en schrijft meteen een Google review. Vanaf €179 eenmalig.`,
     url: `${siteDetails.siteUrl}review-pakket`,
     type: "website",
   },
