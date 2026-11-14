@@ -71,30 +71,34 @@ const ReviewTap: React.FC<Props> = ({ bedrijf }) => {
                                 bij het display houden
                             </div>
                         )}
-                        {step >= 2 && (
+                        {step === 2 && (
                             <div>
-                                <div className="flex items-center gap-1.5 text-[12px] font-semibold text-gray-900 dark:text-white">
-                                    <span className="font-black text-[15px]"><span className="text-[#4285F4]">G</span></span> Review schrijven
+                                <div className="flex items-center gap-1.5 text-[11px] sm:text-[12px] font-semibold text-gray-900 dark:text-white">
+                                    <span className="font-black text-[14px] sm:text-[15px] text-[#4285F4]">G</span> Review
                                 </div>
-                                <div className="mt-3 text-[12px] font-bold capitalize text-gray-900 dark:text-white">Jouw {bedrijf}</div>
+                                <div className="mt-2 sm:mt-3 text-[11px] sm:text-[12px] font-bold capitalize text-gray-900 dark:text-white">Jouw {bedrijf}</div>
                                 <div className="mt-2 flex gap-0.5">
-                                    {[0, 1, 2, 3, 4].map((i) => <Star key={i} on={step >= 2} delay={still ? 0 : i * 140} />)}
+                                    {[0, 1, 2, 3, 4].map((i) => <Star key={i} on delay={still ? 0 : i * 140} />)}
                                 </div>
-                                <div className="mt-3 space-y-1.5">
+                                <div className="mt-2 sm:mt-3 space-y-1.5">
                                     <div className="h-1.5 rounded bg-gray-200 dark:bg-gray-700 w-full" />
                                     <div className="h-1.5 rounded bg-gray-200 dark:bg-gray-700 w-4/5" />
                                 </div>
-                                <div className={`mt-4 rounded-full py-1.5 text-center text-[12px] font-bold transition-colors duration-300 ${step === 3 ? "bg-green-600 text-white" : "bg-[#1a73e8] text-white"}`}>
-                                    {step === 3 ? "Geplaatst" : "Plaatsen"}
+                                <div className="mt-3 sm:mt-4 rounded-full py-1.5 text-center text-[11px] sm:text-[12px] font-bold bg-[#1a73e8] text-white">Plaatsen</div>
+                            </div>
+                        )}
+                        {step === 3 && (
+                            <div>
+                                <div className="flex items-center gap-1.5 text-[11px] sm:text-[12px] font-semibold text-gray-900 dark:text-white">
+                                    <span className="font-black text-[14px] sm:text-[15px] text-[#4285F4]">G</span> Bedrijfsprofiel
                                 </div>
+                                <div className="mt-2 sm:mt-3 text-[11px] sm:text-[12px] font-bold capitalize text-gray-900 dark:text-white">Jouw {bedrijf}</div>
+                                <div className="mt-1 text-[13px] text-[#FBBC04] tracking-tight">★★★★★</div>
+                                <div className="mt-2 sm:mt-3 inline-block rounded-full bg-green-600 px-2.5 py-1 text-[11px] sm:text-[12px] font-bold text-white">+1 review</div>
+                                <div className="mt-2 text-[10px] sm:text-[11px] leading-snug text-gray-500">Nieuwe klanten zien hem bij je zaak in Google.</div>
                             </div>
                         )}
                     </div>
-                </div>
-                {/* the business profile gets the review */}
-                <div className={`absolute left-0 top-0 rounded-2xl bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 px-3 py-2 shadow-lg transition-all duration-500 ${step === 3 ? "opacity-100 translate-y-0" : "opacity-0 -translate-y-2"}`}>
-                    <div className="text-[11px] text-gray-500">Google bedrijfsprofiel</div>
-                    <div className="text-[13px] font-bold text-gray-900 dark:text-white">+1 review <span className="text-[#FBBC04]">★★★★★</span></div>
                 </div>
             </div>
             <ol className="mt-5 grid grid-cols-1 sm:grid-cols-3 gap-2 list-none p-0 m-0">
