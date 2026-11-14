@@ -52,7 +52,7 @@ const ServicePage: React.FC<{ spec: ServiceSpec }> = ({ spec }) => {
                     <div className="text-left lg:col-start-1 lg:row-start-1 self-end">
                         <p className="text-blue-600 dark:text-[var(--secondary)] font-bold tracking-wider uppercase text-sm mb-3 sl-reveal">{spec.kicker}</p>
                         <h1 className="text-[2.15rem] leading-[1.1] md:text-6xl md:leading-[1.08] font-bold text-gray-900 dark:text-white mb-4 md:mb-5 sl-reveal">{spec.h1}</h1>
-                        <p className="text-lg md:text-xl text-gray-700 dark:text-gray-300 mb-4 sl-reveal sl-reveal-1">{spec.lead}</p>
+                        <p data-geo="what" className="text-lg md:text-xl text-gray-700 dark:text-gray-300 mb-4 sl-reveal sl-reveal-1">{spec.lead}</p>
                         <div className="flex flex-wrap items-baseline gap-x-4 gap-y-1 text-gray-900 dark:text-white sl-reveal sl-reveal-2">
                             <span className="text-2xl font-black">{prijs(own)}</span>
                             <span className="text-sm text-gray-600 dark:text-gray-300">{spec.priceWhy}, excl. btw</span>
@@ -62,7 +62,7 @@ const ServicePage: React.FC<{ spec: ServiceSpec }> = ({ spec }) => {
                         <PhoneFlow gets={spec.flow.gets} steps={spec.flow.steps} />
                     </div>
                     <div className="text-left lg:col-start-1 lg:row-start-2 self-start lg:pt-6">
-                        <p className="text-base text-gray-600 dark:text-gray-400 mb-7 sl-reveal sl-reveal-2">{spec.voor}</p>
+                        <p data-geo="for-whom" className="text-base text-gray-600 dark:text-gray-400 mb-7 sl-reveal sl-reveal-2">{spec.voor}</p>
                         <div className="flex flex-col sm:flex-row gap-3 sl-reveal sl-reveal-2">
                             <a href={primary.href} className="inline-flex justify-center items-center gap-2 rounded-full bg-[var(--primary)] text-gray-900 font-bold py-3.5 px-7 hover:scale-105 transition-transform shadow-md">
                                 {primary.text} <BsArrowRight />
@@ -139,7 +139,7 @@ const ServicePage: React.FC<{ spec: ServiceSpec }> = ({ spec }) => {
             <section id="prijs" className="py-16 px-4 bg-gray-50 dark:bg-gray-900/50 scroll-mt-24">
                 <div className="max-w-6xl mx-auto">
                     <h2 className="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-3 text-center">Wat het kost</h2>
-                    <p className="text-center text-gray-600 dark:text-gray-300 mb-10">{spec.kicker} zit in {own.naam.toLowerCase()}, {prijs(own).toLowerCase()}. Maandelijks opzegbaar, bedragen excl. btw.</p>
+                    <p data-geo="cost" className="text-center text-gray-600 dark:text-gray-300 mb-10">{spec.kicker} zit in {own.naam.toLowerCase()}, {prijs(own).toLowerCase()}. Maandelijks opzegbaar, bedragen excl. btw.</p>
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                         {ladder.map((p) => {
                             const mine = p.id === spec.plan;
