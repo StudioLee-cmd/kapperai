@@ -46,7 +46,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     const staticPages = [
         '/gratis-scan', '/review-pakket',
         '/tarieven', '/gratis-website',
-        '/chatbot', '/voice-ai', '/seo', '/reviews', '/social-media', '/automatisering', '/crm', '/free-trial',
+        '/chatbot', '/voice-ai', '/terugbellen', '/seo', '/reviews', '/social-media', '/automatisering', '/crm', '/free-trial',
         '/privacy', '/legal', '/algemene-voorwaarden',
     ]
     const staticRoutes = staticPages.map((route) => ({
