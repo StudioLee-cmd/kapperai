@@ -49,28 +49,34 @@ export default function ReviewPage() {
             <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
             {/* Hero: what it is, what it costs, and what it does, before the first scroll */}
-            <section className="relative pt-28 md:pt-36 pb-16 overflow-hidden">
+            <section className="relative pt-28 md:pt-44 pb-16 overflow-hidden">
                 <div className="absolute inset-0 z-0">
                     <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-blue-100 dark:bg-blue-900/20 rounded-full mix-blend-multiply dark:mix-blend-lighten filter blur-3xl opacity-30 animate-blob"></div>
                     <div className="absolute bottom-0 left-0 w-[500px] h-[500px] bg-indigo-100 dark:bg-indigo-900/20 rounded-full mix-blend-multiply dark:mix-blend-lighten filter blur-3xl opacity-30 animate-blob animation-delay-2000"></div>
                 </div>
 
-                <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-14 items-center">
-                    <div className="text-left">
+                {/* on a phone: what it is and its price, then what it does, then the ways in; wide: text left, the motion right */}
+                <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10 grid grid-cols-1 lg:grid-cols-2 gap-x-14 gap-y-7 lg:gap-y-0">
+                    <div className="text-left lg:col-start-1 lg:row-start-1 self-end">
                         <p className="text-blue-600 dark:text-[var(--secondary)] font-bold tracking-wider uppercase text-sm mb-3 sl-reveal">Reviewpakket</p>
-                        <h1 className="text-4xl md:text-6xl font-bold text-gray-900 dark:text-white mb-5 leading-[1.08] sl-reveal">
+                        <h1 className="text-[2.15rem] leading-[1.1] md:text-6xl md:leading-[1.08] font-bold text-gray-900 dark:text-white mb-4 md:mb-5 sl-reveal">
                             Reviews verzamelen als {trade.enkelvoud}, met één tik
                         </h1>
                         <p className="text-lg md:text-xl text-gray-700 dark:text-gray-300 mb-4 sl-reveal sl-reveal-1">
                             Het reviewpakket van {brand} is een set NFC-displays, deurstickers en kaartjes in de huisstijl van je {trade.bedrijf}: je klant houdt de telefoon ertegen en schrijft meteen een Google review.
                         </p>
-                        <p className="text-base text-gray-600 dark:text-gray-400 mb-7 sl-reveal sl-reveal-1">
-                            Het is gemaakt voor {siteDetails.niche.toLowerCase()} die meer Google reviews willen zonder elke klant er zelf om te vragen.
-                        </p>
-                        <div className="flex flex-wrap items-center gap-x-5 gap-y-2 mb-8 text-gray-900 dark:text-white sl-reveal sl-reveal-2">
+                        <div className="flex flex-wrap items-center gap-x-5 gap-y-1 text-gray-900 dark:text-white sl-reveal sl-reveal-2">
                             <span className="text-2xl font-black">Vanaf €179 eenmalig</span>
                             <span className="inline-flex items-center gap-1.5 text-sm text-gray-600 dark:text-gray-300"><BsClock /> ontwerp binnen 7 dagen</span>
                         </div>
+                    </div>
+                    <div className="lg:col-start-2 lg:row-start-1 lg:row-span-2 self-center sl-reveal sl-reveal-3">
+                        <ReviewTap bedrijf={trade.bedrijf} />
+                    </div>
+                    <div className="text-left lg:col-start-1 lg:row-start-2 self-start lg:pt-6">
+                        <p className="text-base text-gray-600 dark:text-gray-400 mb-7 sl-reveal sl-reveal-2">
+                            Het is gemaakt voor {siteDetails.niche.toLowerCase()} die meer Google reviews willen zonder elke klant er zelf om te vragen.
+                        </p>
                         <div className="flex flex-col sm:flex-row gap-3 sl-reveal sl-reveal-2">
                             <a href="#pakketten" className="inline-flex justify-center items-center gap-2 rounded-full bg-[var(--primary)] text-gray-900 font-bold py-3.5 px-7 hover:scale-105 transition-transform shadow-md">
                                 Bekijk de pakketten <BsArrowRight />
@@ -79,9 +85,6 @@ export default function ReviewPage() {
                                 <BsCalendarCheck /> Eerst gratis advies
                             </a>
                         </div>
-                    </div>
-                    <div className="sl-reveal sl-reveal-3">
-                        <ReviewTap bedrijf={trade.bedrijf} />
                     </div>
                 </div>
             </section>
