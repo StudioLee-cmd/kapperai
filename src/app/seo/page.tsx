@@ -1,24 +1,18 @@
 import type { Metadata } from "next";
 import { siteDetails } from "@/data/siteDetails";
+import { trade } from "@/data/trade";
 import SEOContent from "./SEOContent";
 
-const niche = 'kapper';
-const nichePlural = 'kappers';
+const title = `SEO voor ${trade.meervoud}: beter gevonden in Google | ${siteDetails.siteName}`;
+const description = `SEO voor ${trade.meervoud}: artikelen die gezocht worden, een bijgewerkt Google-profiel en elke maand een lijst met wat beter kan. Vanaf €179 per maand, of wij doen het vanaf €379.`;
 
 export const metadata: Metadata = {
-  title: `SEO voor ${nichePlural} — Beter in Google | ${siteDetails.siteName}`,
-  description: `SEO voor ${nichePlural}: meer klanten via Google. Blogartikelen, lokale SEO en Google Business — vanaf ${"\u20AC"}79/maand.`,
-  openGraph: {
-    title: `SEO voor ${nichePlural} | ${siteDetails.siteName}`,
-    description: `Wil je als ${niche} beter gevonden worden in Google? ${siteDetails.siteName} regelt je SEO volledig: keyword research, content en technische optimalisatie.`,
-    url: `${siteDetails.siteUrl}seo`,
-    type: "website",
-  },
-  alternates: {
-    canonical: `${siteDetails.siteUrl}seo`,
-  },
+  title,
+  description,
+  openGraph: { title, description, url: `${siteDetails.siteUrl}seo`, type: "website", locale: "nl_NL" },
+  alternates: { canonical: `${siteDetails.siteUrl}seo` },
 };
 
-export default function SEOPage() {
+export default function Page() {
   return <SEOContent />;
 }

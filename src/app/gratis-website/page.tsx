@@ -1,4 +1,3 @@
-import EzidaPlanFrame from "@/components/EzidaPlanFrame";
 import type { Metadata } from "next";
 import { siteDetails } from "@/data/siteDetails";
 import GratisWebsiteContent from "./GratisWebsiteContent";
@@ -30,7 +29,6 @@ export default async function GratisWebsitePage() {
   return (
     <>
       <GratisWebsiteContent looks={looks} />
-      <EzidaPlanFrame />
     </>
   );
 }

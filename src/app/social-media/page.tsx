@@ -1,24 +1,18 @@
 import type { Metadata } from "next";
 import { siteDetails } from "@/data/siteDetails";
+import { trade } from "@/data/trade";
 import SocialMediaContent from "./SocialMediaContent";
 
-const niche = 'kapper';
-const nichePlural = 'kappers';
+const title = `Social media voor ${trade.meervoud} | ${siteDetails.siteName}`;
+const description = `Social media voor ${trade.meervoud}: een plan, een kalender per maand, posts met beeld en de cijfers erbij. Vanaf €179 per maand, of wij doen het vanaf €379.`;
 
 export const metadata: Metadata = {
-  title: `Social Media voor ${nichePlural} | ${siteDetails.siteName}`,
-  description: `Social media voor ${nichePlural}: content planning, AI-posts en automatische scheduling. Inclusief consulting en analyse.`,
-  openGraph: {
-    title: `Social Media voor ${nichePlural} | ${siteDetails.siteName}`,
-    description: `Volledige social media strategie + uitvoering voor ${nichePlural}. Van content planning tot automatisch posten. Consulting inbegrepen.`,
-    url: `${siteDetails.siteUrl}social-media`,
-    type: "website",
-  },
-  alternates: {
-    canonical: `${siteDetails.siteUrl}social-media`,
-  },
+  title,
+  description,
+  openGraph: { title, description, url: `${siteDetails.siteUrl}social-media`, type: "website", locale: "nl_NL" },
+  alternates: { canonical: `${siteDetails.siteUrl}social-media` },
 };
 
-export default function SocialMediaPage() {
+export default function Page() {
   return <SocialMediaContent />;
 }

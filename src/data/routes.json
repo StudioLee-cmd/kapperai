@@ -1078,7 +1078,7 @@
   "kicker": "Gratis website voor kappers",
   "title": "Wat gebeurt er na je aanvraag?",
   "shape": "fork",
-  "sum": "Het ontwerp is gratis en van jou; laten draaien kost vanaf €79 per maand.",
+  "sum": "Het ontwerp is gratis en van jou; laten draaien kost €79 per maand.",
   "cols": "repeat(4,1fr)",
   "mcols": "1fr 1fr",
   "gap": "26px 40px",
@@ -1140,8 +1140,8 @@
     "n": 4,
     "icon": "chart",
     "label": "Laten draaien",
-    "sub": "vanaf €79 per maand",
-    "say": "Wil je hem laten draaien, live gezet, gevonden worden en een telefoon die opneemt, dan kost dat vanaf €79 per maand.",
+    "sub": "€79 per maand",
+    "say": "Wil je hem laten draaien, live gezet en bijgehouden met een chatbot erop, dan kost dat €79 per maand.",
     "at": [
      "4",
      "1"

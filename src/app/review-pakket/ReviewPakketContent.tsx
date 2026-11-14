@@ -1,7 +1,6 @@
 "use client";
 import React from 'react';
 import Link from 'next/link';
-import Header from "@/components/Header";
 import ReviewPricing from "@/components/Review/ReviewPricing";
 import ReviewTap from "@/components/Review/ReviewTap";
 import RouteExplainer from "@/components/RouteExplainer";
@@ -45,7 +44,6 @@ const faqSchema = {
 export default function ReviewPage() {
     return (
         <main className="min-h-screen bg-white dark:bg-[#171717] transition-colors duration-500">
-            <Header />
             <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
 
             {/* Hero: what it is, what it costs, and what it does, before the first scroll */}

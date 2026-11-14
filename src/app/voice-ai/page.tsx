@@ -1,20 +1,18 @@
 import type { Metadata } from "next";
 import { siteDetails } from "@/data/siteDetails";
+import { trade } from "@/data/trade";
 import VoiceAIContent from "./VoiceAIContent";
 
+const title = `Voice AI telefonist voor ${siteDetails.niche} | ${siteDetails.siteName}`;
+const description = `Een telefoonagent voor ${trade.meervoud} die opneemt als jij niet kunt, afspraken in je agenda zet en je een samenvatting stuurt. Vanaf €179 per maand.`;
+
 export const metadata: Metadata = {
-  title: `Voice AI Telefonist voor ${siteDetails.niche} — ${siteDetails.siteName}`,
-  description: `Voice AI telefonist voor ${siteDetails.niche?.toLowerCase()}: beantwoordt oproepen, plant afspraken en stuurt WhatsApp-samenvattingen — 24/7.`,
-  openGraph: {
-    title: `Voice AI Telefonist voor ${siteDetails.niche} — ${siteDetails.siteName}`,
-    description: `Een Voice AI telefonist voor ${siteDetails.niche?.toLowerCase()} beantwoordt elke oproep en plant afspraken — 24/7.`,
-    url: `${siteDetails.siteUrl}voice-ai`,
-    type: "website",
-    locale: "nl_NL",
-  },
+  title,
+  description,
+  openGraph: { title, description, url: `${siteDetails.siteUrl}voice-ai`, type: "website", locale: "nl_NL" },
   alternates: { canonical: `${siteDetails.siteUrl}voice-ai` },
 };
 
-export default function VoiceAIPage() {
+export default function Page() {
   return <VoiceAIContent />;
 }

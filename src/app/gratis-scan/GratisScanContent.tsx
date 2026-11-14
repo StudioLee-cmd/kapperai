@@ -1,7 +1,7 @@
 "use client";
 import React, { useState, useEffect, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
-import Header from "@/components/Header";
+import RouteExplainer from "@/components/RouteExplainer";
 import { siteDetails } from '@/data/siteDetails';
 import { motion, AnimatePresence } from "framer-motion";
 import { BsGlobe, BsPerson, BsEnvelope, BsCheckCircleFill } from "react-icons/bs";
@@ -197,8 +197,6 @@ export default function GratisScanPage() {
 
     return (
         <main className="min-h-screen bg-gray-50 dark:bg-[#171717] transition-colors duration-500">
-            <Header />
-
             <section className="pt-32 pb-20 px-4 sm:px-6 lg:px-8">
                 <div className="max-w-xl mx-auto">
                     <div className="text-center mb-10">
@@ -215,8 +213,16 @@ export default function GratisScanPage() {
                             <ScanForm onStartScan={startScan} />
                         </Suspense>
                     </div>
+                    <p className="text-center text-sm text-gray-600 dark:text-gray-400 mt-5">
+                        De scan is gratis en zonder verplichtingen. Wil je daarna verder, dan staat op <a href="/tarieven" className="font-semibold text-blue-600 dark:text-[var(--secondary)] underline underline-offset-4">de tarieven</a> wat elke stap kost: je website met een chatbot is €79 per maand.
+                    </p>
                 </div>
             </section>
+
+            {/* The route after the request: the explainer in the video place */}
+            <div className="bg-white dark:bg-[#111]">
+                <RouteExplainer slot="gratis-scan" />
+            </div>
 
             {/* Waiting Room Modal */}
             <AnimatePresence>
