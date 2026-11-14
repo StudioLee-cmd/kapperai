@@ -1,0 +1,1370 @@
+{
+ "voice-ai": {
+  "kicker": "AI telefonist voor kappers",
+  "title": "Wat gebeurt er als een klant belt?",
+  "shape": "fork",
+  "sum": "Elk gesprek eindigt bij jou: als afspraak of, bij spoed, direct aan de lijn.",
+  "cols": "repeat(4,1fr)",
+  "mcols": "1fr 1fr",
+  "mgap": "40px 12px",
+  "steps": [
+   {
+    "id": "bel",
+    "n": 1,
+    "icon": "phone",
+    "label": "Klant belt",
+    "sub": "jij bent aan het werk",
+    "show": [
+     "“Kan ik zaterdag terecht om te knippen?”"
+    ],
+    "say": "Een klant belt terwijl jij aan het werk bent.",
+    "at": [
+     "1",
+     "1/span 2"
+    ],
+    "m": [
+     "1/-1",
+     "1"
+    ],
+    "path": "M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1.9.4 1.8.7 2.7a2 2 0 0 1-.5 2.1L8 9.8a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.7.7a2 2 0 0 1 1.7 2z"
+   },
+   {
+    "id": "ai",
+    "n": 2,
+    "icon": "wave",
+    "label": "AI neemt op",
+    "sub": "in de naam van jouw kapsalon",
+    "say": "De AI telefonist neemt op in de naam van jouw kapsalon.",
+    "at": [
+     "2",
+     "1/span 2"
+    ],
+    "m": [
+     "1/-1",
+     "2"
+    ],
+    "path": "M2 10v3M6 6v11M10 3v18M14 8v7M18 5v13M22 10v3"
+   },
+   {
+    "id": "agenda",
+    "n": 3,
+    "icon": "calendar",
+    "label": "Afspraak gepland",
+    "sub": "in jouw agenda",
+    "say": "Hij checkt je beschikbaarheid en plant de afspraak in.",
+    "at": [
+     "3",
+     "1"
+    ],
+    "m": [
+     "1",
+     "3"
+    ],
+    "path": "M8 2v4M16 2v4M3 10h18M5 4h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2z"
+   },
+   {
+    "id": "spoed",
+    "n": 4,
+    "icon": "bell",
+    "warn": true,
+    "label": "Spoed? Doorverbonden",
+    "sub": "direct naar jou",
+    "say": "Spoed? Dan verbindt hij direct met jou door.",
+    "at": [
+     "3",
+     "2"
+    ],
+    "m": [
+     "2",
+     "3"
+    ],
+    "path": "M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9M10.3 21a1.94 1.94 0 0 0 3.4 0"
+   },
+   {
+    "id": "samenvatting",
+    "n": 5,
+    "icon": "whatsapp",
+    "label": "Samenvatting",
+    "sub": "naar jou via WhatsApp",
+    "say": "Na elk gesprek krijg je een samenvatting via WhatsApp.",
+    "at": [
+     "4",
+     "1/span 2"
+    ],
+    "m": [
+     "1/-1",
+     "4"
+    ],
+    "path": "M7.9 20A9 9 0 1 0 4 16.1L2 22zM9 10h.01M12 10h.01M15 10h.01"
+   }
+  ],
+  "edges": [
+   [
+    "bel",
+    "ai"
+   ],
+   [
+    "ai",
+    "agenda",
+    {
+     "label": "afspraak"
+    }
+   ],
+   [
+    "ai",
+    "spoed",
+    {
+     "label": "spoed",
+     "warn": true
+    }
+   ],
+   [
+    "agenda",
+    "samenvatting"
+   ],
+   [
+    "spoed",
+    "samenvatting"
+   ]
+  ],
+  "theme": "niche"
+ },
+ "chatbot": {
+  "kicker": "Chatbot voor kappers",
+  "title": "Wat gebeurt er met een vraag op je website?",
+  "shape": "conversation",
+  "sum": "Meteen antwoord voor de klant, de lead in jouw WhatsApp. Ook in het weekend.",
+  "cols": "1.3fr 1fr",
+  "mcols": "1fr",
+  "gap": "16px 48px",
+  "steps": [
+   {
+    "id": "vraag",
+    "n": 1,
+    "kind": "them",
+    "when": "Bezoeker, zondagavond",
+    "label": "“Wat kosten jullie ongeveer, en wanneer kunnen jullie langskomen?”",
+    "say": "Een bezoeker stelt een vraag op je website, ook 's avonds en in het weekend.",
+    "at": [
+     "1",
+     "1"
+    ],
+    "m": [
+     "1",
+     "1"
+    ]
+   },
+   {
+    "id": "antwoord",
+    "n": 2,
+    "kind": "us",
+    "when": "Chatbot, direct",
+    "label": "“Dat hangt af van de klus; onze tarieven staan hieronder. Zal ik een afspraak voor je inplannen?”",
+    "show": [
+     "jouw tarieven",
+     "jouw openingstijden"
+    ],
+    "say": "De chatbot antwoordt met jouw diensten, prijzen en veelgestelde vragen.",
+    "at": [
+     "1",
+     "2"
+    ],
+    "m": [
+     "1",
+     "2"
+    ]
+   },
+   {
+    "id": "ja",
+    "n": 3,
+    "kind": "them",
+    "when": "Bezoeker",
+    "label": "“Ja graag, liefst deze week.”",
+    "say": "De bezoeker wil een afspraak.",
+    "at": [
+     "1",
+     "3"
+    ],
+    "m": [
+     "1",
+     "3"
+    ]
+   },
+   {
+    "id": "gegevens",
+    "n": 4,
+    "kind": "us",
+    "when": "Chatbot",
+    "label": "“Wat is je naam en telefoonnummer?”",
+    "say": "Hij vraagt naam en telefoonnummer.",
+    "at": [
+     "1",
+     "4"
+    ],
+    "m": [
+     "1",
+     "4"
+    ]
+   },
+   {
+    "id": "lead",
+    "n": 5,
+    "icon": "whatsapp",
+    "label": "Lead via WhatsApp",
+    "sub": "direct naar jou",
+    "show": [
+     "naam",
+     "telefoon",
+     "de vraag"
+    ],
+    "say": "Elke lead, afspraak of vraag komt direct bij jou binnen via WhatsApp.",
+    "at": [
+     "2",
+     "1/span 4"
+    ],
+    "m": [
+     "1",
+     "5"
+    ],
+    "path": "M7.9 20A9 9 0 1 0 4 16.1L2 22zM9 10h.01M12 10h.01M15 10h.01"
+   }
+  ],
+  "edges": [
+   [
+    "vraag",
+    "antwoord"
+   ],
+   [
+    "antwoord",
+    "ja"
+   ],
+   [
+    "ja",
+    "gegevens"
+   ],
+   [
+    "gegevens",
+    "lead"
+   ]
+  ],
+  "theme": "niche"
+ },
+ "seo": {
+  "kicker": "SEO voor kappers",
+  "title": "Hoe word je gevonden in Google?",
+  "shape": "loop",
+  "max": 760,
+  "sum": "Elke maand nieuwe artikelen, een bijgewerkt profiel en een rapport.",
+  "cols": "1fr 1fr",
+  "mcols": "1fr 1fr",
+  "gap": "44px 64px",
+  "mgap": "34px 14px",
+  "steps": [
+   {
+    "id": "woorden",
+    "n": 1,
+    "icon": "search",
+    "label": "Zoekwoorden",
+    "sub": "waar klanten in jouw regio op zoeken",
+    "say": "Wij zoeken uit op welke woorden klanten in jouw regio zoeken.",
+    "at": [
+     "1",
+     "1"
+    ],
+    "m": [
+     "1",
+     "1"
+    ],
+    "path": "M11 3a8 8 0 1 0 0 16 8 8 0 0 0 0-16zM21 21l-4.3-4.3"
+   },
+   {
+    "id": "blog",
+    "n": 2,
+    "icon": "doc",
+    "label": "Blogartikelen",
+    "sub": "automatisch op je website",
+    "say": "Daarover verschijnen automatisch blogartikelen op je website.",
+    "at": [
+     "2",
+     "1"
+    ],
+    "m": [
+     "2",
+     "1"
+    ],
+    "path": "M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8zM14 2v6h6M16 13H8M16 17H8M10 9H8"
+   },
+   {
+    "id": "lokaal",
+    "n": 3,
+    "icon": "pin",
+    "label": "Lokale SEO",
+    "sub": "en je Google bedrijfsprofiel",
+    "say": "Je lokale vindbaarheid en Google bedrijfsprofiel worden bijgewerkt.",
+    "at": [
+     "2",
+     "2"
+    ],
+    "m": [
+     "2",
+     "2"
+    ],
+    "path": "M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0zM12 7a3 3 0 1 0 0 6 3 3 0 0 0 0-6z"
+   },
+   {
+    "id": "rapport",
+    "n": 4,
+    "icon": "report",
+    "label": "Maandrapport",
+    "sub": "wat het opleverde",
+    "say": "Elke maand zie je in een rapport wat het opleverde.",
+    "at": [
+     "1",
+     "2"
+    ],
+    "m": [
+     "1",
+     "2"
+    ],
+    "path": "M3 3v18h18M7 16v-4M12 16V8M17 16v-7"
+   }
+  ],
+  "edges": [
+   [
+    "woorden",
+    "blog"
+   ],
+   [
+    "blog",
+    "lokaal"
+   ],
+   [
+    "lokaal",
+    "rapport"
+   ],
+   [
+    "rapport",
+    "woorden",
+    {
+     "label": "elke maand"
+    }
+   ]
+  ],
+  "theme": "niche"
+ },
+ "reviews": {
+  "kicker": "Reviews voor kappers",
+  "title": "Hoe wordt een klus een Google review?",
+  "shape": "split",
+  "sum": "Goede reviews komen op Google; bij een negatieve weet jij het direct.",
+  "cols": "repeat(4,1fr)",
+  "mcols": "1fr 1fr",
+  "mgap": "40px 12px",
+  "steps": [
+   {
+    "id": "klus",
+    "n": 1,
+    "icon": "wrench",
+    "label": "Klus klaar",
+    "sub": "de klant is geholpen",
+    "say": "De klus is klaar en de klant is geholpen.",
+    "at": [
+     "1",
+     "1/span 2"
+    ],
+    "m": [
+     "1/-1",
+     "1"
+    ],
+    "path": "M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.8-3.8a6 6 0 0 1-7.9 7.9l-6.9 6.9a2.1 2.1 0 0 1-3-3l6.9-6.9a6 6 0 0 1 7.9-7.9z"
+   },
+   {
+    "id": "verzoek",
+    "n": 2,
+    "icon": "message",
+    "label": "Automatisch verzoek",
+    "sub": "de klant krijgt een bericht",
+    "say": "De klant krijgt automatisch een reviewverzoek.",
+    "at": [
+     "2",
+     "1/span 2"
+    ],
+    "m": [
+     "1/-1",
+     "2"
+    ],
+    "path": "M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"
+   },
+   {
+    "id": "review",
+    "n": 3,
+    "icon": "star",
+    "label": "Review achtergelaten",
+    "sub": "in een paar tikken",
+    "say": "De klant laat in een paar tikken een review achter.",
+    "at": [
+     "3",
+     "1/span 2"
+    ],
+    "m": [
+     "1/-1",
+     "3"
+    ],
+    "path": "M12 2l3.1 6.3 6.9 1-5 4.9 1.2 6.8-6.2-3.2-6.2 3.2L7 14.2 2 9.3l6.9-1z"
+   },
+   {
+    "id": "google",
+    "n": 4,
+    "icon": "pin",
+    "label": "Zichtbaar op Google",
+    "sub": "bij je bedrijfsprofiel",
+    "show": [
+     "★★★★★"
+    ],
+    "say": "Een goede review verschijnt op Google bij jouw bedrijf.",
+    "at": [
+     "4",
+     "1"
+    ],
+    "m": [
+     "1",
+     "4"
+    ],
+    "path": "M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0zM12 7a3 3 0 1 0 0 6 3 3 0 0 0 0-6z"
+   },
+   {
+    "id": "melding",
+    "n": 5,
+    "icon": "bell",
+    "warn": true,
+    "label": "Negatief? Direct een melding",
+    "sub": "en een kant-en-klare reactie",
+    "say": "Is een review negatief, dan krijg je direct een melding en reageer je met een kant-en-klare reactie.",
+    "at": [
+     "4",
+     "2"
+    ],
+    "m": [
+     "2",
+     "4"
+    ],
+    "path": "M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9M10.3 21a1.94 1.94 0 0 0 3.4 0"
+   }
+  ],
+  "edges": [
+   [
+    "klus",
+    "verzoek"
+   ],
+   [
+    "verzoek",
+    "review"
+   ],
+   [
+    "review",
+    "google",
+    {
+     "label": "positief"
+    }
+   ],
+   [
+    "review",
+    "melding",
+    {
+     "label": "negatief",
+     "warn": true
+    }
+   ]
+  ],
+  "theme": "niche"
+ },
+ "social-media": {
+  "kicker": "Social media voor kappers",
+  "title": "Hoe komt er content op je kanalen?",
+  "shape": "entry-loop",
+  "sum": "Eén keer de analyse, daarna elke maand: kalender, posts, posten en bijsturen.",
+  "cols": "repeat(4,1fr)",
+  "mcols": "1fr 1fr",
+  "gap": "34px 34px",
+  "mgap": "30px 14px",
+  "steps": [
+   {
+    "id": "analyse",
+    "n": 1,
+    "icon": "search",
+    "label": "Analyse en strategie",
+    "sub": "jouw markt en concurrenten",
+    "say": "We analyseren je huidige social media en je concurrenten.",
+    "at": [
+     "1",
+     "1/span 2"
+    ],
+    "m": [
+     "1/-1",
+     "1"
+    ],
+    "path": "M11 3a8 8 0 1 0 0 16 8 8 0 0 0 0-16zM21 21l-4.3-4.3"
+   },
+   {
+    "id": "kalender",
+    "n": 2,
+    "icon": "calendar",
+    "label": "Contentkalender",
+    "sub": "een maand vooruit",
+    "say": "Er komt een contentkalender voor de hele maand.",
+    "at": [
+     "2",
+     "1/span 2"
+    ],
+    "m": [
+     "1",
+     "2"
+    ],
+    "path": "M8 2v4M16 2v4M3 10h18M5 4h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2z"
+   },
+   {
+    "id": "posts",
+    "n": 3,
+    "icon": "image",
+    "label": "Posts met AI",
+    "sub": "in jouw merkstijl",
+    "say": "De posts worden met AI gemaakt, passend bij je merk.",
+    "at": [
+     "3",
+     "1"
+    ],
+    "m": [
+     "2",
+     "2"
+    ],
+    "path": "M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zM21 15l-5-5L5 21M9 7a2 2 0 1 0 0 4 2 2 0 0 0 0-4z"
+   },
+   {
+    "id": "gepost",
+    "n": 4,
+    "icon": "send",
+    "label": "Automatisch gepost",
+    "sub": "op het ingeplande moment",
+    "say": "Alles wordt automatisch gepost.",
+    "at": [
+     "4",
+     "1"
+    ],
+    "m": [
+     "2",
+     "3"
+    ],
+    "path": "M22 2 11 13M22 2l-7 20-4-9-9-4z"
+   },
+   {
+    "id": "analyse2",
+    "n": 5,
+    "icon": "report",
+    "label": "Maandanalyse",
+    "sub": "wat werkte",
+    "say": "Elke maand kijken we wat werkte en sturen we bij.",
+    "at": [
+     "4",
+     "2"
+    ],
+    "m": [
+     "1",
+     "3"
+    ],
+    "path": "M3 3v18h18M7 16v-4M12 16V8M17 16v-7"
+   }
+  ],
+  "edges": [
+   [
+    "analyse",
+    "kalender"
+   ],
+   [
+    "kalender",
+    "posts"
+   ],
+   [
+    "posts",
+    "gepost"
+   ],
+   [
+    "gepost",
+    "analyse2"
+   ],
+   [
+    "analyse2",
+    "kalender",
+    {
+     "label": "bijsturen"
+    }
+   ]
+  ],
+  "theme": "niche"
+ },
+ "crm": {
+  "kicker": "CRM voor kappers",
+  "title": "Waar blijven al je klantgegevens?",
+  "shape": "merge",
+  "sum": "Wat op vier plekken stond, staat op één, en de opvolging gaat vanzelf.",
+  "cols": "1fr 1.3fr 1fr",
+  "mcols": "1fr 1fr",
+  "gap": "12px 44px",
+  "mgap": "12px 12px",
+  "steps": [
+   {
+    "id": "bestand",
+    "n": 1,
+    "kind": "small",
+    "icon": "doc",
+    "label": "Je klantenbestand",
+    "say": "Je huidige klantenbestand wordt overgezet, en WhatsApp, agenda en e-mail worden gekoppeld.",
+    "at": [
+     "1",
+     "1"
+    ],
+    "m": [
+     "1",
+     "1"
+    ],
+    "tight": true,
+    "path": "M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8zM14 2v6h6M16 13H8M16 17H8M10 9H8"
+   },
+   {
+    "id": "whatsapp",
+    "n": 1,
+    "kind": "small",
+    "icon": "whatsapp",
+    "label": "WhatsApp",
+    "at": [
+     "1",
+     "2"
+    ],
+    "m": [
+     "2",
+     "1"
+    ],
+    "tight": true,
+    "path": "M7.9 20A9 9 0 1 0 4 16.1L2 22zM9 10h.01M12 10h.01M15 10h.01"
+   },
+   {
+    "id": "agenda",
+    "n": 1,
+    "kind": "small",
+    "icon": "calendar",
+    "label": "Agenda",
+    "at": [
+     "1",
+     "3"
+    ],
+    "m": [
+     "1",
+     "2"
+    ],
+    "tight": true,
+    "path": "M8 2v4M16 2v4M3 10h18M5 4h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2z"
+   },
+   {
+    "id": "mail",
+    "n": 1,
+    "kind": "small",
+    "icon": "inbox",
+    "label": "E-mail",
+    "at": [
+     "1",
+     "4"
+    ],
+    "m": [
+     "2",
+     "2"
+    ],
+    "tight": true,
+    "path": "M22 12h-6l-2 3h-4l-2-3H2M5.5 5.1 2 12v6a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-6l-3.5-6.9A2 2 0 0 0 16.8 4H7.2a2 2 0 0 0-1.7 1.1z"
+   },
+   {
+    "id": "profiel",
+    "n": 2,
+    "icon": "db",
+    "label": "Eén klantprofiel",
+    "sub": "alle klanten op één plek",
+    "show": [
+     "contact",
+     "afspraken",
+     "klushistorie"
+    ],
+    "say": "Elke nieuwe afspraak en elk WhatsApp-gesprek landt automatisch in het juiste klantprofiel.",
+    "at": [
+     "2",
+     "1/span 4"
+    ],
+    "m": [
+     "1/-1",
+     "3"
+    ],
+    "path": "M12 2C7 2 3 3.3 3 5v14c0 1.7 4 3 9 3s9-1.3 9-3V5c0-1.7-4-3-9-3zM3 5c0 1.7 4 3 9 3s9-1.3 9-3M3 12c0 1.7 4 3 9 3s9-1.3 9-3"
+   },
+   {
+    "id": "opvolging",
+    "n": 3,
+    "icon": "bell",
+    "label": "Automatische opvolging",
+    "sub": "onderhoud, herhaalafspraken, winback",
+    "say": "Herinneringen voor onderhoud, herhaalafspraken en winback gaan vanzelf, zodat je geen klant vergeet.",
+    "at": [
+     "3",
+     "1/span 4"
+    ],
+    "m": [
+     "1/-1",
+     "4"
+    ],
+    "path": "M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9M10.3 21a1.94 1.94 0 0 0 3.4 0"
+   }
+  ],
+  "edges": [
+   [
+    "bestand",
+    "profiel"
+   ],
+   [
+    "whatsapp",
+    "profiel"
+   ],
+   [
+    "agenda",
+    "profiel"
+   ],
+   [
+    "mail",
+    "profiel"
+   ],
+   [
+    "profiel",
+    "opvolging"
+   ]
+  ],
+  "theme": "niche"
+ },
+ "automatisering": {
+  "kicker": "Automatisering voor kappers",
+  "title": "Wat loopt er vanzelf rond een afspraak?",
+  "shape": "timeline",
+  "sum": "Van aanvraag tot review gaat elk bericht vanzelf op het juiste moment.",
+  "cols": "repeat(3,1fr)",
+  "mcols": "1fr",
+  "gap": "32px 40px",
+  "mgap": "16px",
+  "steps": [
+   {
+    "id": "lead",
+    "n": 1,
+    "icon": "inbox",
+    "when": "'s Avonds",
+    "label": "Aanvraag of gemiste oproep",
+    "sub": "via je website of telefoon",
+    "say": "Er komt een aanvraag binnen, of je mist een oproep omdat je aan het werk bent.",
+    "at": [
+     "1",
+     "1"
+    ],
+    "m": [
+     "1/-1",
+     "1"
+    ],
+    "path": "M22 12h-6l-2 3h-4l-2-3H2M5.5 5.1 2 12v6a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-6l-3.5-6.9A2 2 0 0 0 16.8 4H7.2a2 2 0 0 0-1.7 1.1z"
+   },
+   {
+    "id": "bevestiging",
+    "n": 2,
+    "icon": "message",
+    "when": "Binnen 60 seconden",
+    "label": "Bevestiging",
+    "sub": "via WhatsApp of e-mail",
+    "say": "De klant krijgt binnen 60 seconden automatisch een bevestiging.",
+    "at": [
+     "2",
+     "1"
+    ],
+    "m": [
+     "1/-1",
+     "2"
+    ],
+    "path": "M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"
+   },
+   {
+    "id": "afspraak",
+    "n": 3,
+    "icon": "calendar",
+    "when": "Na de boeking",
+    "label": "Afspraak in je agenda",
+    "sub": "met bevestiging aan de klant",
+    "say": "De afspraak staat in je agenda en de klant krijgt een bevestiging.",
+    "at": [
+     "3",
+     "1"
+    ],
+    "m": [
+     "1/-1",
+     "3"
+    ],
+    "path": "M8 2v4M16 2v4M3 10h18M5 4h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2z"
+   },
+   {
+    "id": "herinnering",
+    "n": 4,
+    "icon": "bell",
+    "when": "24 uur en 2 uur ervoor",
+    "label": "Herinnering",
+    "sub": "bevestigen met één tik",
+    "say": "24 uur en 2 uur voor de afspraak gaat er een herinnering uit; bevestigen kan met één tik.",
+    "at": [
+     "3",
+     "2"
+    ],
+    "m": [
+     "1/-1",
+     "4"
+    ],
+    "path": "M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9M10.3 21a1.94 1.94 0 0 0 3.4 0"
+   },
+   {
+    "id": "onderweg",
+    "n": 5,
+    "icon": "send",
+    "when": "Bij vertrek",
+    "label": "“Ik kom eraan”",
+    "sub": "de klant weet dat je komt",
+    "say": "Als je vertrekt, krijgt de klant een bericht dat je eraan komt.",
+    "at": [
+     "2",
+     "2"
+    ],
+    "m": [
+     "1/-1",
+     "5"
+    ],
+    "path": "M22 2 11 13M22 2l-7 20-4-9-9-4z"
+   },
+   {
+    "id": "review",
+    "n": 6,
+    "icon": "star",
+    "when": "2 uur na de klus",
+    "label": "Reviewverzoek",
+    "sub": "met directe Google-review link",
+    "say": "Twee uur na de klus gaat het reviewverzoek er vanzelf uit.",
+    "at": [
+     "1",
+     "2"
+    ],
+    "m": [
+     "1/-1",
+     "6"
+    ],
+    "path": "M12 2l3.1 6.3 6.9 1-5 4.9 1.2 6.8-6.2-3.2-6.2 3.2L7 14.2 2 9.3l6.9-1z"
+   }
+  ],
+  "edges": [
+   [
+    "lead",
+    "bevestiging"
+   ],
+   [
+    "bevestiging",
+    "afspraak"
+   ],
+   [
+    "afspraak",
+    "herinnering"
+   ],
+   [
+    "herinnering",
+    "onderweg"
+   ],
+   [
+    "onderweg",
+    "review"
+   ]
+  ],
+  "theme": "niche"
+ },
+ "review-pakket": {
+  "kicker": "Reviewpakket voor kappers",
+  "title": "Van bestelling tot review op Google",
+  "shape": "u-turn",
+  "sum": "Ontwerp binnen 7 dagen, productie in ongeveer een week; daarna is een review voor je klant één tik.",
+  "cols": "repeat(4,1fr)",
+  "mcols": "1fr",
+  "gap": "34px 40px",
+  "mgap": "14px",
+  "steps": [
+   {
+    "id": "pakket",
+    "n": 1,
+    "icon": "euro",
+    "label": "Je kiest een pakket",
+    "sub": "Start, Dominantie of op maat",
+    "say": "Je kiest het Start Pakket, het Dominantie Pakket of een pakket op maat, of plant eerst een gratis adviesgesprek.",
+    "at": [
+     "1",
+     "1"
+    ],
+    "m": [
+     "1/-1",
+     "1"
+    ],
+    "path": "M4 10h12M4 14h9M19 6a7.7 7.7 0 0 0-5.2-2A7.9 7.9 0 0 0 6 12c0 4.4 3.5 8 7.8 8 2 0 3.8-.8 5.2-2"
+   },
+   {
+    "id": "logo",
+    "n": 2,
+    "icon": "send",
+    "label": "Logo en wensen",
+    "sub": "je krijgt er een mail voor",
+    "say": "Je ontvangt een mail om je logo en wensen te sturen.",
+    "at": [
+     "2",
+     "1"
+    ],
+    "m": [
+     "1/-1",
+     "2"
+    ],
+    "path": "M22 2 11 13M22 2l-7 20-4-9-9-4z"
+   },
+   {
+    "id": "ontwerp",
+    "n": 3,
+    "icon": "image",
+    "label": "Ontwerp in je huisstijl",
+    "sub": "binnen 7 dagen",
+    "say": "Binnen 7 dagen ontvang je de ontwerpen in je eigen huisstijl.",
+    "at": [
+     "3",
+     "1"
+    ],
+    "m": [
+     "1/-1",
+     "3"
+    ],
+    "path": "M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zM21 15l-5-5L5 21M9 7a2 2 0 1 0 0 4 2 2 0 0 0 0-4z"
+   },
+   {
+    "id": "akkoord",
+    "n": 4,
+    "icon": "check",
+    "label": "Jouw akkoord",
+    "sub": "of je vraagt aanpassingen",
+    "say": "Jij geeft akkoord of vraagt aanpassingen. Pas na je akkoord gaat het in productie.",
+    "at": [
+     "4",
+     "1"
+    ],
+    "m": [
+     "1/-1",
+     "4"
+    ],
+    "path": "M22 11.1V12a10 10 0 1 1-5.9-9.1M22 4 12 14l-3-3"
+   },
+   {
+    "id": "productie",
+    "n": 5,
+    "icon": "wrench",
+    "label": "Productie",
+    "sub": "ongeveer een week",
+    "say": "Na je akkoord maken we alles; dat duurt ongeveer een week.",
+    "at": [
+     "4",
+     "2"
+    ],
+    "m": [
+     "1/-1",
+     "5"
+    ],
+    "path": "M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.8-3.8a6 6 0 0 1-7.9 7.9l-6.9 6.9a2.1 2.1 0 0 1-3-3l6.9-6.9a6 6 0 0 1 7.9-7.9z"
+   },
+   {
+    "id": "zaak",
+    "n": 6,
+    "icon": "layers",
+    "label": "Klaar voor je klanten",
+    "sub": "in je eigen huisstijl",
+    "say": "Je krijgt het display, de stickers en de kaartjes in je eigen huisstijl, klaar om aan je klanten te geven of neer te zetten.",
+    "at": [
+     "3",
+     "2"
+    ],
+    "m": [
+     "1/-1",
+     "6"
+    ],
+    "show": [
+     "NFC-display",
+     "deurstickers",
+     "QR-kaartjes"
+    ],
+    "path": "M12 2 2 7l10 5 10-5zM2 17l10 5 10-5M2 12l10 5 10-5"
+   },
+   {
+    "id": "tik",
+    "n": 7,
+    "icon": "phone",
+    "label": "Je klant tikt of scant",
+    "sub": "met de eigen telefoon",
+    "say": "Je klant houdt de telefoon bij het display of het kaartje, of scant de QR-code, en het reviewformulier van Google gaat open.",
+    "at": [
+     "2",
+     "2"
+    ],
+    "m": [
+     "1/-1",
+     "7"
+    ],
+    "path": "M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1.9.4 1.8.7 2.7a2 2 0 0 1-.5 2.1L8 9.8a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.7.7a2 2 0 0 1 1.7 2z"
+   },
+   {
+    "id": "google",
+    "n": 8,
+    "icon": "star",
+    "label": "Review op Google",
+    "sub": "bij je bedrijfsprofiel",
+    "say": "De review staat op Google bij je bedrijfsprofiel, waar nieuwe klanten zoeken.",
+    "at": [
+     "1",
+     "2"
+    ],
+    "m": [
+     "1/-1",
+     "8"
+    ],
+    "show": [
+     "★★★★★"
+    ],
+    "path": "M12 2l3.1 6.3 6.9 1-5 4.9 1.2 6.8-6.2-3.2-6.2 3.2L7 14.2 2 9.3l6.9-1z"
+   }
+  ],
+  "edges": [
+   [
+    "pakket",
+    "logo"
+   ],
+   [
+    "logo",
+    "ontwerp"
+   ],
+   [
+    "ontwerp",
+    "akkoord"
+   ],
+   [
+    "akkoord",
+    "productie"
+   ],
+   [
+    "productie",
+    "zaak"
+   ],
+   [
+    "zaak",
+    "tik"
+   ],
+   [
+    "tik",
+    "google"
+   ]
+  ],
+  "theme": "niche"
+ },
+ "gratis-website": {
+  "kicker": "Gratis website voor kappers",
+  "title": "Wat gebeurt er na je aanvraag?",
+  "shape": "fork",
+  "sum": "Het ontwerp is gratis en van jou; laten draaien kost vanaf €79 per maand.",
+  "cols": "repeat(4,1fr)",
+  "mcols": "1fr 1fr",
+  "gap": "26px 40px",
+  "mgap": "26px 12px",
+  "steps": [
+   {
+    "id": "aanvraag",
+    "n": 1,
+    "icon": "user",
+    "label": "Naam, plaats en hoe we je bereiken",
+    "sub": "minder dan een minuut",
+    "say": "Je vult je naam, je plaats en hoe we je bereiken in; meer vragen we niet.",
+    "at": [
+     "1",
+     "1/span 2"
+    ],
+    "m": [
+     "1/-1",
+     "1"
+    ],
+    "path": "M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2M12 3a4 4 0 1 0 0 8 4 4 0 0 0 0-8z"
+   },
+   {
+    "id": "ontwerp",
+    "n": 2,
+    "icon": "image",
+    "label": "Wij maken het ontwerp",
+    "sub": "met jouw gegevens erin",
+    "say": "Wij kijken naar je huidige site en je omgeving en zetten jouw gegevens in het ontwerp.",
+    "at": [
+     "2",
+     "1/span 2"
+    ],
+    "m": [
+     "1/-1",
+     "2"
+    ],
+    "path": "M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zM21 15l-5-5L5 21M9 7a2 2 0 1 0 0 4 2 2 0 0 0 0-4z"
+   },
+   {
+    "id": "link",
+    "n": 3,
+    "icon": "globe",
+    "label": "Live link plus het bestand",
+    "sub": "meestal binnen 48 uur",
+    "say": "Meestal binnen 48 uur staat je ontwerp online op een eigen link en is het bestand van jou.",
+    "at": [
+     "3",
+     "1/span 2"
+    ],
+    "m": [
+     "1/-1",
+     "3"
+    ],
+    "path": "M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20zM2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"
+   },
+   {
+    "id": "draaien",
+    "n": 4,
+    "icon": "chart",
+    "label": "Laten draaien",
+    "sub": "vanaf €79 per maand",
+    "say": "Wil je hem laten draaien, live gezet, gevonden worden en een telefoon die opneemt, dan kost dat vanaf €79 per maand.",
+    "at": [
+     "4",
+     "1"
+    ],
+    "m": [
+     "1",
+     "4"
+    ],
+    "path": "M22 7l-8.5 8.5-5-5L2 17M16 7h6v6"
+   },
+   {
+    "id": "afkopen",
+    "n": 4,
+    "icon": "doc",
+    "label": "Of eenmalig afkopen",
+    "sub": "daarna is de site van jou",
+    "say": "Je kunt de site ook eenmalig afkopen en zelf houden; de bestanden zijn van jou.",
+    "at": [
+     "4",
+     "2"
+    ],
+    "m": [
+     "2",
+     "4"
+    ],
+    "path": "M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8zM14 2v6h6M16 13H8M16 17H8M10 9H8"
+   }
+  ],
+  "edges": [
+   [
+    "aanvraag",
+    "ontwerp"
+   ],
+   [
+    "ontwerp",
+    "link"
+   ],
+   [
+    "link",
+    "draaien",
+    {
+     "label": "jij kiest"
+    }
+   ],
+   [
+    "link",
+    "afkopen"
+   ]
+  ],
+  "theme": "niche"
+ },
+ "gratis-scan": {
+  "kicker": "Gratis scan voor kappers",
+  "title": "Wat gebeurt er na je scan-aanvraag?",
+  "shape": "fan-out-merge",
+  "sum": "In ongeveer een minuut een cijfer op vier onderdelen, met wat je vandaag al zelf kunt verbeteren.",
+  "cols": "1fr 1fr 1fr 1.2fr",
+  "mcols": "1fr 1fr",
+  "gap": "12px 40px",
+  "mgap": "14px 12px",
+  "steps": [
+   {
+    "id": "invullen",
+    "n": 1,
+    "icon": "search",
+    "label": "Je website invullen",
+    "sub": "naam, website en e-mail",
+    "say": "Je vult je naam, je website en je e-mailadres in.",
+    "at": [
+     "1",
+     "1/span 4"
+    ],
+    "m": [
+     "1/-1",
+     "1"
+    ],
+    "path": "M11 3a8 8 0 1 0 0 16 8 8 0 0 0 0-16zM21 21l-4.3-4.3"
+   },
+   {
+    "id": "analyse",
+    "n": 2,
+    "icon": "bulb",
+    "label": "AI analyseert je site",
+    "sub": "ongeveer 1 minuut",
+    "say": "De AI analyseert je website; dat duurt ongeveer 1 minuut.",
+    "at": [
+     "2",
+     "1/span 4"
+    ],
+    "m": [
+     "1/-1",
+     "2"
+    ],
+    "path": "M9 18h6M10 22h4M12 2a7 7 0 0 0-4 12.7c.6.5 1 1.3 1 2.3h6c0-1 .4-1.8 1-2.3A7 7 0 0 0 12 2z"
+   },
+   {
+    "id": "seo",
+    "n": 3,
+    "kind": "small",
+    "icon": "search",
+    "label": "SEO en vindbaarheid",
+    "say": "Je krijgt een cijfer op vier onderdelen: SEO en vindbaarheid, conversie, AI-vindbaarheid en de lokale signalen op je pagina.",
+    "at": [
+     "3",
+     "1"
+    ],
+    "m": [
+     "1",
+     "3"
+    ],
+    "tight": true,
+    "path": "M11 3a8 8 0 1 0 0 16 8 8 0 0 0 0-16zM21 21l-4.3-4.3"
+   },
+   {
+    "id": "conversie",
+    "n": 3,
+    "kind": "small",
+    "icon": "chart",
+    "label": "Conversie",
+    "at": [
+     "3",
+     "2"
+    ],
+    "m": [
+     "2",
+     "3"
+    ],
+    "tight": true,
+    "path": "M22 7l-8.5 8.5-5-5L2 17M16 7h6v6"
+   },
+   {
+    "id": "aivind",
+    "n": 3,
+    "kind": "small",
+    "icon": "chat",
+    "label": "AI-vindbaarheid",
+    "at": [
+     "3",
+     "3"
+    ],
+    "m": [
+     "1",
+     "4"
+    ],
+    "tight": true,
+    "path": "M14 9a2 2 0 0 1-2 2H6l-4 4V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2zM18 9h2a2 2 0 0 1 2 2v11l-4-4h-6a2 2 0 0 1-2-2v-1"
+   },
+   {
+    "id": "lokaal",
+    "n": 3,
+    "kind": "small",
+    "icon": "pin",
+    "label": "Lokale signalen",
+    "at": [
+     "3",
+     "4"
+    ],
+    "m": [
+     "2",
+     "4"
+    ],
+    "tight": true,
+    "path": "M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0zM12 7a3 3 0 1 0 0 6 3 3 0 0 0 0-6z"
+   },
+   {
+    "id": "rapport",
+    "n": 4,
+    "icon": "report",
+    "label": "Je rapport",
+    "sub": "verbeterpunten en wat al goed gaat",
+    "show": [
+     "één verbetering voor vandaag"
+    ],
+    "say": "Met de belangrijkste verbeterpunten, wat er al goed gaat, en één verbetering die je vandaag zelf kunt doorvoeren.",
+    "at": [
+     "4",
+     "1/span 4"
+    ],
+    "m": [
+     "1/-1",
+     "5"
+    ],
+    "path": "M3 3v18h18M7 16v-4M12 16V8M17 16v-7"
+   }
+  ],
+  "edges": [
+   [
+    "invullen",
+    "analyse"
+   ],
+   [
+    "analyse",
+    "seo"
+   ],
+   [
+    "analyse",
+    "conversie"
+   ],
+   [
+    "analyse",
+    "aivind"
+   ],
+   [
+    "analyse",
+    "lokaal"
+   ],
+   [
+    "seo",
+    "rapport"
+   ],
+   [
+    "conversie",
+    "rapport"
+   ],
+   [
+    "aivind",
+    "rapport"
+   ],
+   [
+    "lokaal",
+    "rapport"
+   ]
+  ],
+  "theme": "niche"
+ }
+}
