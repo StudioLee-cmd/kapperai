@@ -42,7 +42,7 @@ const ReviewTap: React.FC<Props> = ({ bedrijf }) => {
             className="relative m-0 rounded-3xl border border-gray-200 dark:border-gray-700 bg-[var(--hero-background)] p-5 sm:p-7 shadow-xl"
             onMouseLeave={() => setHeld(false)}
         >
-            <div className="relative h-[244px] sm:h-[290px] [--p1:112px] [--p2:160px] sm:[--p1:142px] sm:[--p2:236px]" aria-hidden="true">
+            <div className="relative h-[244px] sm:h-[290px] [--p1:126px] [--p2:172px] sm:[--p1:156px] sm:[--p2:236px]" aria-hidden="true">
                 {/* the counter */}
                 <div className="absolute left-0 right-0 bottom-0 h-10 rounded-xl bg-gradient-to-b from-[#e9e4dc] to-[#d9d1c4] dark:from-[#3a3631] dark:to-[#2b2824]" />
                 {/* the NFC display on the counter */}
@@ -54,14 +54,14 @@ const ReviewTap: React.FC<Props> = ({ bedrijf }) => {
                         <div className="text-[13px] font-bold leading-tight text-gray-900 dark:text-white">Tik hier voor<br />een review</div>
                         <div className="mt-2 text-[11px] text-gray-600 dark:text-gray-300 capitalize">Jouw {bedrijf}</div>
                         {/* the tap */}
-                        <span className={`absolute -right-3 -top-3 w-12 h-12 rounded-full border-2 border-[var(--primary)] ${step === 1 && !still ? "animate-ping" : "opacity-0"}`} />
+                        <span className={`absolute -right-6 top-6 w-12 h-12 rounded-full border-2 border-[var(--primary)] ${step === 1 && !still ? "animate-ping" : "opacity-0"}`} />
                     </div>
                     <div className="mx-auto h-3 w-20 rounded-b-lg bg-white/70 dark:bg-white/10" />
                 </div>
                 {/* the phone: moves to the display, then shows Google's form, then the review on the profile */}
                 <div
                     className="absolute bottom-9 w-[120px] sm:w-[148px] h-[196px] sm:h-[250px] rounded-[24px] border-[5px] border-gray-900 bg-white dark:bg-[#111] shadow-2xl transition-all duration-700 ease-out"
-                    style={{ left: tapped ? "var(--p2)" : "var(--p1)", transform: tapped ? "rotate(0deg)" : "rotate(-12deg) translateY(-22px)", transformOrigin: "bottom left" }}
+                    style={{ left: tapped ? "var(--p2)" : "var(--p1)", transform: tapped ? "rotate(0deg)" : "rotate(8deg) translateY(-14px)", transformOrigin: "bottom left" }}
                 >
                     <div className="mx-auto mt-1.5 h-1.5 w-10 rounded-full bg-gray-900/80" />
                     <div className="px-3 pt-3 text-left">
