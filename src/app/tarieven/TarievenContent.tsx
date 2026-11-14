@@ -76,7 +76,7 @@ const faqs = [
   },
   {
     q: "Kan ik de website ook gewoon kopen?",
-    a: "Dat kan. Wat het kost hangt af van wat er al staat en hoe lang je draait, dus dat rekenen we in een gesprek voor je uit. Wees je er dan wel van bewust dat 'ie daarna stilstaat: geen nieuwe artikelen, geen chatbot, geen telefoon die opneemt. Wij zeggen dat liever vooraf dan achteraf. Je kunt altijd later alsnog laten draaien.",
+    a: "Dat kan. Een website tot 10 pagina's kost €1.000 eenmalig, met het eerste jaar beheer en hosting erbij. Wees je er dan wel van bewust dat 'ie daarna stilstaat: geen nieuwe artikelen, geen chatbot, geen telefoon die opneemt. Wij zeggen dat liever vooraf dan achteraf. Je kunt altijd later alsnog laten draaien.",
   },
   {
     q: `Wat kost het als ik het los zou regelen?`,
@@ -168,6 +168,16 @@ export default function TarievenContent() {
             </motion.div>
           ))}
         </div>
+      </section>
+
+      {/* Buy-once: one line, the prices are on its own page */}
+      <section className="px-4 pb-12">
+        <p className="text-center text-foreground-accent">
+          Liever niet maandelijks betalen?{" "}
+          <a href="/website-kopen" className="text-primary font-semibold hover:underline">
+            Bekijk wat een website eenmalig kost
+          </a>
+        </p>
       </section>
 
       {/* ⑤ DE REKENSOM — vergelijk de rekening, niet de onderdelen (PROPOSITIE-CONTRACT §②/§⑤).
