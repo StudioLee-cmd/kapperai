@@ -94,8 +94,8 @@ const ReviewTap: React.FC<Props> = ({ bedrijf }) => {
                                 </div>
                                 <div className="mt-2 sm:mt-3 text-[11px] sm:text-[12px] font-bold capitalize text-gray-900 dark:text-white">Jouw {bedrijf}</div>
                                 <div className="mt-1 text-[13px] text-[#FBBC04] tracking-tight">★★★★★</div>
-                                <div className="mt-2 sm:mt-3 inline-block rounded-full bg-green-600 px-2.5 py-1 text-[11px] sm:text-[12px] font-bold text-white">+1 review</div>
-                                <div className="mt-2 text-[10px] sm:text-[11px] leading-snug text-gray-500">Nieuwe klanten zien hem bij je zaak in Google.</div>
+                                <div className="mt-2 sm:mt-3"><span className="rounded-full bg-green-600 px-2 py-0.5 text-[11px] sm:text-[12px] font-bold text-white whitespace-nowrap">+1 review</span></div>
+                                <div className="hidden sm:block mt-3 text-[11px] leading-snug text-gray-500">Nieuwe klanten zien hem bij je zaak in Google.</div>
                             </div>
                         )}
                     </div>
