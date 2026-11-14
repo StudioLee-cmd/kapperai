@@ -80,11 +80,11 @@ const ReviewTap: React.FC<Props> = ({ bedrijf }) => {
                                 <div className="mt-2 flex gap-0.5">
                                     {[0, 1, 2, 3, 4].map((i) => <Star key={i} on delay={still ? 0 : i * 140} />)}
                                 </div>
-                                <div className="mt-2 sm:mt-3 space-y-1.5">
+                                <div className="hidden sm:block mt-3 space-y-1.5">
                                     <div className="h-1.5 rounded bg-gray-200 dark:bg-gray-700 w-full" />
                                     <div className="h-1.5 rounded bg-gray-200 dark:bg-gray-700 w-4/5" />
                                 </div>
-                                <div className="mt-3 sm:mt-4 rounded-full py-1.5 text-center text-[11px] sm:text-[12px] font-bold bg-[#1a73e8] text-white">Plaatsen</div>
+                                <div className="mt-3 sm:mt-4 rounded-full py-1 sm:py-1.5 text-center text-[11px] sm:text-[12px] font-bold bg-[#1a73e8] text-white">Plaatsen</div>
                             </div>
                         )}
                         {step === 3 && (
@@ -116,7 +116,7 @@ const ReviewTap: React.FC<Props> = ({ bedrijf }) => {
                             <span className={`grid shrink-0 place-items-center w-6 h-6 rounded-full text-[12px] ${step === s.n || still ? "bg-[var(--primary)] text-gray-900" : "bg-gray-200 dark:bg-gray-700 text-gray-700 dark:text-gray-200"}`}>{s.n}</span>
                             {s.label}
                         </span>
-                        <span className={`mt-1 text-[14px] leading-snug text-gray-600 dark:text-gray-300 ${step === s.n || still ? "block" : "hidden sm:block"}`}>{s.say}</span>
+                        <span className={`mt-1 min-h-[2.5rem] sm:min-h-0 text-[14px] leading-snug text-gray-600 dark:text-gray-300 ${step === s.n || still ? "block" : "hidden sm:block"}`}>{s.say}</span>
                     </li>
                 ))}
             </ol>

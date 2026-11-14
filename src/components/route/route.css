@@ -66,6 +66,7 @@
   .rt-step,.rt-lane{grid-column:var(--mc,1/-1);grid-row:var(--mr,auto)}
   .rt-lane{margin:0;padding:6px 10px}
   .rt-lane[data-m=none]{display:none}
+  .rt--fan-out-merge .rt-lines{display:none} /* a fan in a 2x2 grid: its lines would cross the cards; the walk lights the steps alone */
   .rt-who{display:block}
   .rt-step{padding:10px 11px 9px;border-radius:14px}
   .rt-ico{width:30px;height:30px;margin-bottom:6px;border-radius:9px}.rt-ico svg{width:17px;height:17px}

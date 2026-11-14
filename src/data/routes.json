@@ -893,26 +893,26 @@
   "shape": "u-turn",
   "sum": "Ontwerp binnen 7 dagen, productie in ongeveer een week; daarna is een review voor je klant één tik.",
   "cols": "repeat(4,1fr)",
-  "mcols": "1fr 1fr",
+  "mcols": "1fr",
   "gap": "34px 40px",
-  "mgap": "30px 12px",
+  "mgap": "14px",
   "steps": [
    {
     "id": "pakket",
     "n": 1,
-    "icon": "layers",
+    "icon": "euro",
     "label": "Je kiest een pakket",
-    "sub": "Start of Dominantie",
-    "say": "Je kiest het Start Pakket of het Dominantie Pakket, of plant eerst een gratis adviesgesprek.",
+    "sub": "Start, Dominantie of op maat",
+    "say": "Je kiest het Start Pakket, het Dominantie Pakket of een pakket op maat, of plant eerst een gratis adviesgesprek.",
     "at": [
      "1",
      "1"
     ],
     "m": [
-     "1",
+     "1/-1",
      "1"
     ],
-    "path": "M12 2 2 7l10 5 10-5zM2 17l10 5 10-5M2 12l10 5 10-5"
+    "path": "M4 10h12M4 14h9M19 6a7.7 7.7 0 0 0-5.2-2A7.9 7.9 0 0 0 6 12c0 4.4 3.5 8 7.8 8 2 0 3.8-.8 5.2-2"
    },
    {
     "id": "logo",
@@ -926,8 +926,8 @@
      "1"
     ],
     "m": [
-     "2",
-     "1"
+     "1/-1",
+     "2"
     ],
     "path": "M22 2 11 13M22 2l-7 20-4-9-9-4z"
    },
@@ -943,8 +943,8 @@
      "1"
     ],
     "m": [
-     "2",
-     "2"
+     "1/-1",
+     "3"
     ],
     "path": "M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zM21 15l-5-5L5 21M9 7a2 2 0 1 0 0 4 2 2 0 0 0 0-4z"
    },
@@ -960,8 +960,8 @@
      "1"
     ],
     "m": [
-     "1",
-     "2"
+     "1/-1",
+     "4"
     ],
     "path": "M22 11.1V12a10 10 0 1 1-5.9-9.1M22 4 12 14l-3-3"
    },
@@ -977,32 +977,32 @@
      "2"
     ],
     "m": [
-     "1",
-     "3"
+     "1/-1",
+     "5"
     ],
     "path": "M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.8-3.8a6 6 0 0 1-7.9 7.9l-6.9 6.9a2.1 2.1 0 0 1-3-3l6.9-6.9a6 6 0 0 1 7.9-7.9z"
    },
    {
     "id": "zaak",
     "n": 6,
-    "icon": "pin",
-    "label": "In je kapsalon",
-    "sub": "balie, deur en kaartjes",
-    "say": "Het display staat op de balie, de sticker zit op de deur en de kaartjes geef je mee.",
+    "icon": "layers",
+    "label": "Klaar voor je klanten",
+    "sub": "in je eigen huisstijl",
+    "say": "Je krijgt het display, de stickers en de kaartjes in je eigen huisstijl, klaar om aan je klanten te geven of neer te zetten.",
     "at": [
      "3",
      "2"
     ],
     "m": [
-     "2",
-     "3"
+     "1/-1",
+     "6"
     ],
     "show": [
      "NFC-display",
-     "deursticker",
+     "deurstickers",
      "QR-kaartjes"
     ],
-    "path": "M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0zM12 7a3 3 0 1 0 0 6 3 3 0 0 0 0-6z"
+    "path": "M12 2 2 7l10 5 10-5zM2 17l10 5 10-5M2 12l10 5 10-5"
    },
    {
     "id": "tik",
@@ -1010,14 +1010,14 @@
     "icon": "phone",
     "label": "Je klant tikt of scant",
     "sub": "met de eigen telefoon",
-    "say": "Je klant houdt de telefoon bij het display of scant de QR-code, en het reviewformulier van Google gaat open.",
+    "say": "Je klant houdt de telefoon bij het display of het kaartje, of scant de QR-code, en het reviewformulier van Google gaat open.",
     "at": [
      "2",
      "2"
     ],
     "m": [
-     "2",
-     "4"
+     "1/-1",
+     "7"
     ],
     "path": "M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1.9.4 1.8.7 2.7a2 2 0 0 1-.5 2.1L8 9.8a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.7.7a2 2 0 0 1 1.7 2z"
    },
@@ -1033,8 +1033,8 @@
      "2"
     ],
     "m": [
-     "1",
-     "4"
+     "1/-1",
+     "8"
     ],
     "show": [
      "★★★★★"
@@ -1070,6 +1070,299 @@
    [
     "tik",
     "google"
+   ]
+  ],
+  "theme": "niche"
+ },
+ "gratis-website": {
+  "kicker": "Gratis website voor kappers",
+  "title": "Wat gebeurt er na je aanvraag?",
+  "shape": "fork",
+  "sum": "Het ontwerp is gratis en van jou; laten draaien kost vanaf €79 per maand.",
+  "cols": "repeat(4,1fr)",
+  "mcols": "1fr 1fr",
+  "gap": "26px 40px",
+  "mgap": "26px 12px",
+  "steps": [
+   {
+    "id": "aanvraag",
+    "n": 1,
+    "icon": "user",
+    "label": "Naam, plaats en hoe we je bereiken",
+    "sub": "minder dan een minuut",
+    "say": "Je vult je naam, je plaats en hoe we je bereiken in; meer vragen we niet.",
+    "at": [
+     "1",
+     "1/span 2"
+    ],
+    "m": [
+     "1/-1",
+     "1"
+    ],
+    "path": "M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2M12 3a4 4 0 1 0 0 8 4 4 0 0 0 0-8z"
+   },
+   {
+    "id": "ontwerp",
+    "n": 2,
+    "icon": "image",
+    "label": "Wij maken het ontwerp",
+    "sub": "met jouw gegevens erin",
+    "say": "Wij kijken naar je huidige site en je omgeving en zetten jouw gegevens in het ontwerp.",
+    "at": [
+     "2",
+     "1/span 2"
+    ],
+    "m": [
+     "1/-1",
+     "2"
+    ],
+    "path": "M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zM21 15l-5-5L5 21M9 7a2 2 0 1 0 0 4 2 2 0 0 0 0-4z"
+   },
+   {
+    "id": "link",
+    "n": 3,
+    "icon": "globe",
+    "label": "Live link plus het bestand",
+    "sub": "meestal binnen 48 uur",
+    "say": "Meestal binnen 48 uur staat je ontwerp online op een eigen link en is het bestand van jou.",
+    "at": [
+     "3",
+     "1/span 2"
+    ],
+    "m": [
+     "1/-1",
+     "3"
+    ],
+    "path": "M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20zM2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"
+   },
+   {
+    "id": "draaien",
+    "n": 4,
+    "icon": "chart",
+    "label": "Laten draaien",
+    "sub": "vanaf €79 per maand",
+    "say": "Wil je hem laten draaien, live gezet, gevonden worden en een telefoon die opneemt, dan kost dat vanaf €79 per maand.",
+    "at": [
+     "4",
+     "1"
+    ],
+    "m": [
+     "1",
+     "4"
+    ],
+    "path": "M22 7l-8.5 8.5-5-5L2 17M16 7h6v6"
+   },
+   {
+    "id": "afkopen",
+    "n": 4,
+    "icon": "doc",
+    "label": "Of eenmalig afkopen",
+    "sub": "daarna is de site van jou",
+    "say": "Je kunt de site ook eenmalig afkopen en zelf houden; de bestanden zijn van jou.",
+    "at": [
+     "4",
+     "2"
+    ],
+    "m": [
+     "2",
+     "4"
+    ],
+    "path": "M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8zM14 2v6h6M16 13H8M16 17H8M10 9H8"
+   }
+  ],
+  "edges": [
+   [
+    "aanvraag",
+    "ontwerp"
+   ],
+   [
+    "ontwerp",
+    "link"
+   ],
+   [
+    "link",
+    "draaien",
+    {
+     "label": "jij kiest"
+    }
+   ],
+   [
+    "link",
+    "afkopen"
+   ]
+  ],
+  "theme": "niche"
+ },
+ "gratis-scan": {
+  "kicker": "Gratis scan voor kappers",
+  "title": "Wat gebeurt er na je scan-aanvraag?",
+  "shape": "fan-out-merge",
+  "sum": "In ongeveer een minuut een cijfer op vier onderdelen, met wat je vandaag al zelf kunt verbeteren.",
+  "cols": "1fr 1fr 1fr 1.2fr",
+  "mcols": "1fr 1fr",
+  "gap": "12px 40px",
+  "mgap": "14px 12px",
+  "steps": [
+   {
+    "id": "invullen",
+    "n": 1,
+    "icon": "search",
+    "label": "Je website invullen",
+    "sub": "naam, website en e-mail",
+    "say": "Je vult je naam, je website en je e-mailadres in.",
+    "at": [
+     "1",
+     "1/span 4"
+    ],
+    "m": [
+     "1/-1",
+     "1"
+    ],
+    "path": "M11 3a8 8 0 1 0 0 16 8 8 0 0 0 0-16zM21 21l-4.3-4.3"
+   },
+   {
+    "id": "analyse",
+    "n": 2,
+    "icon": "bulb",
+    "label": "AI analyseert je site",
+    "sub": "ongeveer 1 minuut",
+    "say": "De AI analyseert je website; dat duurt ongeveer 1 minuut.",
+    "at": [
+     "2",
+     "1/span 4"
+    ],
+    "m": [
+     "1/-1",
+     "2"
+    ],
+    "path": "M9 18h6M10 22h4M12 2a7 7 0 0 0-4 12.7c.6.5 1 1.3 1 2.3h6c0-1 .4-1.8 1-2.3A7 7 0 0 0 12 2z"
+   },
+   {
+    "id": "seo",
+    "n": 3,
+    "kind": "small",
+    "icon": "search",
+    "label": "SEO en vindbaarheid",
+    "say": "Je krijgt een cijfer op vier onderdelen: SEO en vindbaarheid, conversie, AI-vindbaarheid en de lokale signalen op je pagina.",
+    "at": [
+     "3",
+     "1"
+    ],
+    "m": [
+     "1",
+     "3"
+    ],
+    "tight": true,
+    "path": "M11 3a8 8 0 1 0 0 16 8 8 0 0 0 0-16zM21 21l-4.3-4.3"
+   },
+   {
+    "id": "conversie",
+    "n": 3,
+    "kind": "small",
+    "icon": "chart",
+    "label": "Conversie",
+    "at": [
+     "3",
+     "2"
+    ],
+    "m": [
+     "2",
+     "3"
+    ],
+    "tight": true,
+    "path": "M22 7l-8.5 8.5-5-5L2 17M16 7h6v6"
+   },
+   {
+    "id": "aivind",
+    "n": 3,
+    "kind": "small",
+    "icon": "chat",
+    "label": "AI-vindbaarheid",
+    "at": [
+     "3",
+     "3"
+    ],
+    "m": [
+     "1",
+     "4"
+    ],
+    "tight": true,
+    "path": "M14 9a2 2 0 0 1-2 2H6l-4 4V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2zM18 9h2a2 2 0 0 1 2 2v11l-4-4h-6a2 2 0 0 1-2-2v-1"
+   },
+   {
+    "id": "lokaal",
+    "n": 3,
+    "kind": "small",
+    "icon": "pin",
+    "label": "Lokale signalen",
+    "at": [
+     "3",
+     "4"
+    ],
+    "m": [
+     "2",
+     "4"
+    ],
+    "tight": true,
+    "path": "M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0zM12 7a3 3 0 1 0 0 6 3 3 0 0 0 0-6z"
+   },
+   {
+    "id": "rapport",
+    "n": 4,
+    "icon": "report",
+    "label": "Je rapport",
+    "sub": "verbeterpunten en wat al goed gaat",
+    "show": [
+     "één verbetering voor vandaag"
+    ],
+    "say": "Met de belangrijkste verbeterpunten, wat er al goed gaat, en één verbetering die je vandaag zelf kunt doorvoeren.",
+    "at": [
+     "4",
+     "1/span 4"
+    ],
+    "m": [
+     "1/-1",
+     "5"
+    ],
+    "path": "M3 3v18h18M7 16v-4M12 16V8M17 16v-7"
+   }
+  ],
+  "edges": [
+   [
+    "invullen",
+    "analyse"
+   ],
+   [
+    "analyse",
+    "seo"
+   ],
+   [
+    "analyse",
+    "conversie"
+   ],
+   [
+    "analyse",
+    "aivind"
+   ],
+   [
+    "analyse",
+    "lokaal"
+   ],
+   [
+    "seo",
+    "rapport"
+   ],
+   [
+    "conversie",
+    "rapport"
+   ],
+   [
+    "aivind",
+    "rapport"
+   ],
+   [
+    "lokaal",
+    "rapport"
    ]
   ],
   "theme": "niche"
