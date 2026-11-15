@@ -86,8 +86,6 @@ Binnen een week kun je live zijn. De meeste systemen bieden een gratis proefperi
 
 Geen tijd of zin om dit allemaal zelf op te zetten? Met een managed service hoef je maar **15 minuten per maand** te besteden aan een update-gesprek. De rest — van technische setup tot optimalisatie — wordt voor je geregeld.
 
-Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
-
 Benieuwd wat dit voor jouw salon kan betekenen? [Vraag een gratis scan aan](/gratis-scan) en ontdek waar de kansen liggen.
 
 ## Conclusie

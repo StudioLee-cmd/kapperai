@@ -82,8 +82,6 @@ Met tools als WhatsApp Business kun je templates instellen die professioneel ove
 
 Bij StudioLee nemen we de complete digitale communicatie uit handen. Van automatische bevestigingen tot review-opvolging — alles draait terwijl jij knipt. Met slechts **15 minuten per maand** aan jouw kant.
 
-De **Groei-of-Geld-Terug Garantie** maakt het risicovloos: geen groei, geen kosten.
-
 [Vraag een gratis scan aan](/gratis-scan) en ontdek waar jouw communicatie beter kan.
 
 ## Conclusie

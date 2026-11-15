@@ -84,6 +84,6 @@ Alleen als de trend bij je past en je hem snel kunt toepassen op een transformat
 
 Reels zijn geen kwestie van geluk of talent, maar van een simpel systeem: vijf beproefde formats, een uur filmen en monteren per maand, en een profiel dat kijkers zonder drempel naar je afsprakenboek leidt. Doe je dat consistent, dan werkt je Instagram als een stille etalage die dag en nacht nieuwe mensen in je regio bereikt.
 
-Wil je dat systeem laten draaien zonder er zelf omkijken naar te hebben? KapperAI regelt [social media voor kappers](/social-media) van filmen en monteren tot plannen en opvolgen, inclusief AI-beelden en de juiste posttijden, met onze Groei-of-Geld-Terug Garantie. Jij knipt, wij regelen de rest.
+Wil je dat systeem laten draaien zonder er zelf omkijken naar te hebben? Jij knipt, wij regelen de rest.
 
 <p style="background-color: rgba(193, 255, 114, 0.18); border-radius: 10px; padding: 14px 18px; margin: 28px 0; font-size: 0.95rem;"><strong>Lees ook:</strong> <a href="/blog/instagram-contentkalender-kapsalon"><strong>Instagram contentkalender kapsalon: 30 dagen vooruit</strong></a> &rarr;</p>

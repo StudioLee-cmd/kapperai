@@ -123,6 +123,5 @@ Bij KapperAI helpen we MKB-kapsalons hun upselling-flow professioneel inrichten 
 - Een dashboard per stylist met upsell-acceptatie-rate per moment en per service-categorie
 - Een [chatbot voor kappers](/chatbot) op je website voor 24/7 product-vragen na de afspraak
 - Een geautomatiseerde [reviews-flow voor kappers](/reviews) die net na een succesvolle upsell-moment de klant uitnodigt voor een Google-review (die het meest positief uitvalt)
-- Een Groei-of-Geld-Terug Garantie op het complete pakket
 
 [Plan een gratis AI-scan voor kappers](/gratis-scan) of bekijk onze tarieven. Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
