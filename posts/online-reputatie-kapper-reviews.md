@@ -84,6 +84,4 @@ Salons die actief aan hun online reputatie werken, zien gemiddeld:
 
 Bij KapperAI helpen we salons met het automatiseren van reviewverzoeken, het monitoren van je online reputatie en het opbouwen van een sterk digitaal imago. Alles wat je nodig hebt voor slechts 15 minuten per maand van jouw tijd.
 
-Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
-
 Vraag een [gratis AI-scan](/gratis-scan) aan en ontdek hoe jouw salon er online voor staat.

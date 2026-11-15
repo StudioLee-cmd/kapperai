@@ -103,7 +103,7 @@ Dat is het verschil tussen frustratie en een volle salon.
 
 No-shows zijn geen onvermijdelijk probleem — het is een oplosbaar probleem. Met de juiste combinatie van automatische herinneringen, slim boekingsbeheer en klantbinding houd je je stoelen bezet en je omzet op peil.
 
-Met [KapperAI](/) automatiseer je herinneringen, wachtlijsten en boekingen in één systeem. Onze [managed service](/blog/managed-ai-vs-agency) kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [KapperAI](/) automatiseer je herinneringen, wachtlijsten en boekingen in één systeem. Onze [managed service](/blog/managed-ai-vs-agency) kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoeveel omzet jij verliest aan no-shows.
 

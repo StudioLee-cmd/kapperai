@@ -75,7 +75,7 @@ Reken maar mee. Van tien tevreden klanten laten er met alleen een balie-kaart mi
 4. Zet de automatische review-herinnering aan, zodat je ook de klanten pakt die op de zaak nog nee zeiden.
 5. Reageer op elke review die binnenkomt, ook de neutrale. Dat telt mee voor Google en laat nieuwe klanten zien dat je betrokken bent.
 
-Wil je weten waar jouw salon nu staat en hoeveel reviews je laat liggen? Vraag een [gratis AI-scan voor kappers](/gratis-scan) aan. We laten zien wat er te winnen is, en met de Groei-of-Geld-Terug Garantie loop je geen risico. Meer klanten, minder gedoe.
+Wil je weten waar jouw salon nu staat en hoeveel reviews je laat liggen? Vraag een [gratis AI-scan voor kappers](/gratis-scan) aan. Meer klanten, minder gedoe.
 
 ## Veelgestelde vragen
 

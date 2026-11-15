@@ -97,4 +97,4 @@ Een no-show voelt als een klein incident, maar het is een structureel lek in je 
 
 De oplossing hoeft niet ingewikkeld te zijn. Herinneringen, aanbetalingen en duidelijke voorwaarden brengen je no-show percentage terug naar een fractie van wat het was. Dat is het verschil tussen duizenden euro's verlies en een betrouwbaar gevulde agenda.
 
-Wil je weten waar jouw kapsalon kansen laat liggen? Vraag een [gratis scan](/gratis-scan) aan en ontdek binnen een week hoe je meer klanten vasthoudt, met minder gedoe. Inclusief onze Groei-of-Geld-Terug Garantie.
+Wil je weten waar jouw kapsalon kansen laat liggen? Vraag een [gratis scan](/gratis-scan) aan en ontdek binnen een week hoe je meer klanten vasthoudt, met minder gedoe.

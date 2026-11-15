@@ -108,4 +108,4 @@ Je hoeft niet alles tegelijk op te pakken. Begin met stap 1 en 2: je Google Bedr
 
 Bouw daarna stap voor stap verder. Elke stap die je zet maakt je kapsalon een stukje zichtbaarder voor potentiële klanten die nu nog bij de concurrent terechtkomen.
 
-Wil je weten waar jouw kapsalon nu staat en waar de grootste kansen liggen? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt een helder overzicht van je online zichtbaarheid, je concurrenten en concrete verbeterpunten. Zonder kosten, zonder verplichtingen. En mocht je besluiten er professioneel mee aan de slag te gaan, dan geldt onze Groei-of-Geld-Terug Garantie.
+Wil je weten waar jouw kapsalon nu staat en waar de grootste kansen liggen? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt een helder overzicht van je online zichtbaarheid, je concurrenten en concrete verbeterpunten. Zonder kosten, zonder verplichtingen.
