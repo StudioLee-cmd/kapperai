@@ -5,7 +5,7 @@ date: "2026-07-09"
 excerpt: "Welk review-hulpmiddel levert je kapsalon de meeste Google reviews op: een NFC-kaart, een QR-code of een fysieke sticker? De eerlijke vergelijking."
 image: "/images/blog/review-borden-kapsalon-nfc-qr-sticker.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews", "Kapsalon", "Google reviews"]
+tags: ["Reviews"]
 cluster: "reviews"
 ---
 

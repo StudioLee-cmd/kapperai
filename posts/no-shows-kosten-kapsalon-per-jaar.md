@@ -5,7 +5,7 @@ date: "2026-04-17"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-kosten-kapsalon-per-jaar.jpg"
-tags: ["No-shows", "Kapsalon", "Omzet"]
+tags: ["No-shows", "Omzet"]
 ---
 ## De rekening van lege stoelen
 

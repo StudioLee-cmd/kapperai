@@ -5,7 +5,7 @@ date: "2026-04-21"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/afspraakherinneringen-kapsalon-templates.jpg"
-tags: ["Kapsalon", "WhatsApp", "Automatisering", "Klantcommunicatie"]
+tags: ["WhatsApp", "Automatisering"]
 ---
 Een klant boekt op dinsdag voor zaterdag. Vrijdagavond weet ze niet meer precies wanneer ze moet zijn. Zaterdagochtend krijgt ze een andere afspraak tussendoor. Jij staat om 10:00 in een lege stoel. Dat is geen slechte klant, dat is een ontbrekend systeem.
 

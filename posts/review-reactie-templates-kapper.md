@@ -4,7 +4,7 @@ excerpt: "Reageren op reviews als kapper hoeft niet kil te klinken. 5 kant-en-kl
 date: "2026-06-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-reactie-templates-kapper.jpg"
-tags: ["Reviews", "Reputatie", "Klantcommunicatie"]
+tags: ["Reviews", "Reputatie"]
 cluster: "reviews"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-04-19"
 cluster: "website"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kapper-website-laten-maken-wat-je-moet-weten.jpg"
-tags: ["Vindbaarheid", "Website", "Groei"]
+tags: ["Vindbaarheid", "Website"]
 ---
 ## Waarom Instagram niet genoeg is
 

@@ -4,7 +4,7 @@ excerpt: "Ontdek hoe je als kapper automatisch meer Google Reviews verzamelt met
 date: "2026-03-31"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-automatisch-verzamelen-kapper.jpg"
-tags: ["Reviews", "Automatisering", "Groei"]
+tags: ["Reviews", "Automatisering"]
 cluster: "reviews"
 ---
 ## Waarom Google Reviews cruciaal zijn voor kappers

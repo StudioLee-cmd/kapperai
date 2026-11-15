@@ -5,7 +5,7 @@ date: "2026-07-24"
 excerpt: "Een beller die Engels of Pools spreekt hoeft geen gemiste boeking te zijn. Zo vangt een meertalige AI telefonist die gesprekken op in jouw salon."
 image: "/images/blog/meertalige-ai-telefonist-kapsalon-engels-pools.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Klantcommunicatie"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

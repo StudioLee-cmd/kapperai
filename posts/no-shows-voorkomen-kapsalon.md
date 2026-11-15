@@ -4,7 +4,7 @@ excerpt: "No-shows kosten kappers duizenden euro's per jaar. Ontdek 7 bewezen st
 date: "2026-03-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-voorkomen-kapsalon.png"
-tags: ["Kapsalon", "No-shows", "Klantbehoud"]
+tags: ["No-shows", "Klantbehoud"]
 cluster: "automatisering"
 ---
 ## Wat no-shows je kapsalon écht kosten

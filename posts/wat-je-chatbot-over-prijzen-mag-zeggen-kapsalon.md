@@ -5,7 +5,7 @@ date: "2026-08-21"
 excerpt: "Prijsvragen zijn de meest gestelde chatvraag in een salon en de riskantste om te automatiseren. Dit mag je bot noemen, en dit juist niet."
 image: "/images/blog/wat-je-chatbot-over-prijzen-mag-zeggen-kapsalon.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "Prijzen", "Salon"]
+tags: ["Chatbot", "Prijzen"]
 cluster: "chatbot"
 ---
 

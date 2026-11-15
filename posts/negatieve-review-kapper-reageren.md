@@ -5,7 +5,7 @@ date: "2026-04-12"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/negatieve-review-kapper-reageren.jpg"
-tags: ["Reviews", "Reputatie", "Groei"]
+tags: ["Reviews", "Reputatie"]
 ---
 ## Een negatieve review is vervelend, niet het einde
 

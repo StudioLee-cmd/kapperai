@@ -5,7 +5,7 @@ date: "2026-04-07"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/kapsalon-vindbaar-google-tips.jpg"
-tags: ["SEO", "Vindbaarheid", "Kapsalon"]
+tags: ["Vindbaarheid"]
 ---
 ## Waarom Google vindbaarheid het verschil maakt voor kappers
 

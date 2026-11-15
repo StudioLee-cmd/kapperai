@@ -5,7 +5,7 @@ date: "2026-04-18"
 cluster: "voice-ai"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/gemiste-telefoontjes-kapper-boekingen.jpg"
-tags: ["Bereikbaarheid", "Voice AI", "Boekingen"]
+tags: ["Bereikbaarheid", "Voice AI"]
 ---
 ## De telefoon gaat, maar je handen zitten in het haar
 

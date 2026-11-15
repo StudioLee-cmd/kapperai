@@ -6,7 +6,7 @@ date: "2026-04-08"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-reviews-vragen-kapsalon-script.jpg"
-tags: ["Reviews", "Kapsalon", "Klantbehoud"]
+tags: ["Reviews", "Klantbehoud"]
 ---
 ## Het juiste moment maakt het verschil
 

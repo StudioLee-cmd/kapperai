@@ -5,7 +5,7 @@ date: "2026-06-28"
 excerpt: "Oud-klanten die niet meer boeken zijn geen verloren zaak. Met een slimme heractivatie-mailflow haal je een deel van ze automatisch terug naar je stoel."
 image: "/images/blog/inactieve-klanten-terughalen-kapper-mailflow.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Kapsalon", "E-mailmarketing", "Automatisering", "Klantbehoud", "Retentie"]
+tags: ["E-mailmarketing"]
 cluster: "automatisering"
 ---
 

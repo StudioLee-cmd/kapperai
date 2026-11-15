@@ -5,7 +5,7 @@ date: "2026-07-10"
 excerpt: "De meeste bellers spreken geen voicemail in, ze bellen de volgende salon. Vergelijk voicemail met een AI telefonist en reken uit wat jouw kapsalon misloopt."
 image: "/images/blog/voice-ai-vs-voicemail-kapsalon.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Kapsalon"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

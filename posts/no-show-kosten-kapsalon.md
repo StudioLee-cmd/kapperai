@@ -5,7 +5,7 @@ date: "2026-04-14"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-show-kosten-kapsalon.jpg"
-tags: ["No-shows", "Salon Management", "Omzet"]
+tags: ["No-shows", "Omzet"]
 ---
 ## Eén lege stoel kost meer dan je denkt
 

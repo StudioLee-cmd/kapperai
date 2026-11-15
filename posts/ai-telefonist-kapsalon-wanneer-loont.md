@@ -4,7 +4,7 @@ excerpt: "Twijfel je over een AI telefonist voor je kapsalon? Beantwoord deze 5 
 date: "2026-04-23"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-telefonist-kapsalon-wanneer-loont.jpg"
-tags: ["AI telefonist", "Voice AI", "Kapsalon"]
+tags: ["Voice AI"]
 cluster: "voice-ai"
 ---
 Een AI telefonist klinkt geweldig: nooit meer een gemiste oproep, je handen vrij om te knippen, en klanten die 's avonds gewoon kunnen boeken. Maar de eerlijke vraag is: loont het voor jouw kapsalon? Voor een eenpitter met vooral vaste klanten die rustig terugbellen, is het antwoord misschien nee. Voor een drukke salon van vier stylisten in een grote stad, vrijwel altijd ja.
