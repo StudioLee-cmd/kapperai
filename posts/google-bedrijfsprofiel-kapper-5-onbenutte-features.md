@@ -136,4 +136,4 @@ Bij KapperAI helpen we MKB-kapsalons hun Google Bedrijfsprofiel structureel opti
 - Een [chatbot voor kappers](/chatbot) op je website voor 24/7 leadopvang van GBP-doorklikken
 - Een geautomatiseerde [reviews-flow voor kappers](/reviews) die je GBP-sterren-score actief vergroot
 
-[Plan een gratis AI-scan voor kappers](/gratis-scan) of bekijk onze tarieven. Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
+[Plan een gratis AI-scan voor kappers](/gratis-scan) of bekijk onze tarieven. Vragen? [Plan een gesprek met Tim](/demo).
