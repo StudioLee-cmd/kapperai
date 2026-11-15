@@ -133,4 +133,4 @@ Bij KapperAI helpen we MKB-kapsalons hun website-keuze maken en uitvoeren via de
 - Migratie-begeleiding van je oude WordPress/Wix-site zonder verlies van bestaande Google-rankings
 - Of als de AI-route niet past, een transparant doorverwijzings-advies naar een passend traditioneel bureau
 
-[Plan een gratis AI-scan voor kappers](/gratis-scan) of bekijk onze tarieven. Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
+[Plan een gratis AI-scan voor kappers](/gratis-scan) of bekijk onze tarieven. Vragen? [Plan een gesprek met Tim](/demo).

@@ -180,4 +180,4 @@ Ja, en het is korter. Je slaat de rollenspellen over en doet dag 1 en dag 3 in �
 
 Een CRM-implementatie in je kapsalon hoeft geen project van maanden te zijn. Vijf dagen met één doel per dag, twee korte trainingen, twee flows en een weekcheck van 10 minuten. Daarna weet elke stylist wat er bij elke klant hoort, en doet het systeem de herinneringen en de nazorg. Jij knipt, wij regelen de rest.
 
-Wil je weten waar jouw salon nu staat voor je begint: welke klantgegevens je al hebt, wat er ontbreekt en welke twee flows bij jou het meeste opleveren? Vraag een [gratis ai scan voor kappers](/gratis-scan) aan, of plan een gesprek van 30 minuten via [cal.com/studiolee](https://cal.com/studiolee). Dan maken we samen de planning voor jouw vijf dagen.
+Wil je weten waar jouw salon nu staat voor je begint: welke klantgegevens je al hebt, wat er ontbreekt en welke twee flows bij jou het meeste opleveren? Vraag een [gratis ai scan voor kappers](/gratis-scan) aan, of plan een gesprek van 30 minuten via [de demo-aanvraag](/demo). Dan maken we samen de planning voor jouw vijf dagen.

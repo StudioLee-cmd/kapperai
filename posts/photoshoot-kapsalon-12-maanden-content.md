@@ -151,6 +151,6 @@ Bij KapperAI helpen we kapsalons de photoshoot-investering optimaal benutten en 
 - Een [reviews-flow voor kappers](/reviews) die klant-quotes naast de fotos plaatst
 - Een [chatbot voor kappers](/chatbot) met "Boek deze look" CTA gekoppeld aan elke foto
 
-[Plan een gratis AI-scan voor kappers](/gratis-scan) of bekijk onze [tarieven KapperAI](/tarieven). Vragen? [Plan een gesprek met Tim](https://cal.com/studiolee).
+[Plan een gratis AI-scan voor kappers](/gratis-scan) of bekijk onze [tarieven KapperAI](/tarieven). Vragen? [Plan een gesprek met Tim](/demo).
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/personal-branding-kapper-naam-in-regio" class="text-dark fw-semibold">Personal branding als kapper: zo word je de naam in je regio</a> →</p></div></div></div>
