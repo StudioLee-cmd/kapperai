@@ -10,7 +10,6 @@ import { siteDetails } from '@/data/siteDetails';
 
 import "./globals.css";
 import Script from 'next/script';
-import CookieBanner from "@/components/CookieBanner";
 
 const sourceSans = Source_Sans_3({ subsets: ['latin'] });
 const caveat = Caveat({ subsets: ['latin'], weight: ['700'], variable: '--font-caveat' });
@@ -64,7 +63,6 @@ export default function RootLayout({
           </main>
           <Footer />
         </ThemeProvider>
-          <CookieBanner widgetId="69c4ef18d9121c5778d93245" />
       <script src="/booking-context.js" defer />
       <Analytics />
       </body>

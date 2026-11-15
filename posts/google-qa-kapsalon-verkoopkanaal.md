@@ -104,8 +104,6 @@ Eerlijk: dit is niet moeilijk, het is vooral iets dat er nooit van komt. Je prof
 
 Daarom richten wij bij KapperAI je Google Bedrijfsprofiel compleet in en zorgen we dat je profiel en je [professionele website voor kappers](/gratis-website) hetzelfde verhaal vertellen. Dat is precies wat Google nu nodig heeft om jouw kant van het verhaal te kunnen navertellen. Jij knipt, wij regelen de rest.
 
-Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
-
 En die vreemde die vroeger namens jou achter je balie stond? Die is weg. Alleen staat er nu een systeem dat over jou praat op basis van wat het over jou kan vinden, en dat is een stuk beter te sturen.
 
 <div class="lees-ook"><strong>Lees ook:</strong> <a href="/blog/lokale-landingspagina-kapper-per-stad">Stadspagina's voor kappers: rank op 'kapper [stad]'</a> →</div>

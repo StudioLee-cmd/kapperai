@@ -78,6 +78,6 @@ Drie fouten kosten kappers het meeste resultaat. De eerste is te lang wachten op
 
 TikTok is geen toverstok, maar wel een van de eerlijkste groeikanalen voor een kapsalon: je laat gewoon zien wat je kunt, en de mensen in de buurt zien het. Het verschil tussen een salon die er klanten uit haalt en een die alleen views verzamelt, zit niet in talent voor video's. Het zit in het systeem eromheen: een profiel dat klopt, een bio-link die naar de agenda leidt, en een site die de klant opvangt op het moment dat de video werkt.
 
-Wil je weten waar bij jou de lekken zitten, van je vindbaarheid tot je boekingsflow? Vraag een [gratis ai scan voor kappers](/gratis-scan) aan, dan zien we samen waar je nu klanten laat liggen. En kies je ervoor om het hele kanaal uit handen te geven, dan draait KapperAI het voor je met een Groei-of-Geld-Terug Garantie: meer klanten, minder gedoe. Jij knipt, wij regelen de rest.
+Wil je weten waar bij jou de lekken zitten, van je vindbaarheid tot je boekingsflow? Vraag een [gratis ai scan voor kappers](/gratis-scan) aan, dan zien we samen waar je nu klanten laat liggen. Jij knipt, wij regelen de rest.
 
 <p style="background-color: rgba(193, 255, 114, 0.18); border-radius: 10px; padding: 14px 18px; margin: 28px 0; font-size: 0.95rem;"><strong>Lees ook:</strong> <a href="/blog/instagram-reels-kapper-meer-boekingen"><strong>Instagram Reels voor kappers: zo krijg je meer boekingen</strong></a> &rarr;</p>

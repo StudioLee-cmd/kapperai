@@ -80,6 +80,6 @@ De eerste tien komen niet van een campagne, die komen uit je omgeving. Vertel ie
 
 Die garage aan het begin van dit verhaal is geen metafoor, dat is gewoon jouw adres over een paar maanden. De checklist hierboven is af te werken in een paar weken: gemeente, contract, KVK, verzekeringen, inrichting. Het verschil tussen een hobby met omzet en een salon met toekomst zit daarna in de systemen die je vanaf de eerste dag laat meedraaien.
 
-Wil je dat deel niet zelf uitzoeken? KapperAI zet je [professionele website voor kappers](/gratis-website) met boekingssysteem, herinneringen en vindbaarheid in één keer neer, zodat jij je kunt richten op het vak zelf. En omdat we in ons eigen systeem geloven, werken we met een Groei-of-Geld-Terug Garantie: levert het niks op, dan krijg je je investering terug.
+Wil je dat deel niet zelf uitzoeken? KapperAI zet je [professionele website voor kappers](/gratis-website) met boekingssysteem, herinneringen en vindbaarheid in één keer neer, zodat jij je kunt richten op het vak zelf.
 
 Jij knipt, wij regelen de rest.

@@ -106,6 +106,6 @@ Je wist dat al. Het enige wat klantsegmentatie doet, is die kennis vastleggen in
 
 Begin klein. Trek deze week één lijst: iedereen die vier keer of vaker per jaar kwam en al langer dan vier maanden niet is geweest. Dat is je meest waardevolle groep en waarschijnlijk de enige die je nooit hebt aangeschreven.
 
-Wil je weten hoe die vier groepen er in jouw bestand uitzien en wat de stille afhakers je per jaar kosten? Bekijk [wat kost ai voor kappers](/tarieven) en zie wat het scheelt om die opvolging automatisch te laten draaien. Bij KapperAI zetten we de segmentatie en de bijbehorende flows standaard voor je in, en met onze Groei-of-Geld-Terug Garantie loop je daarbij geen risico. Jij knipt, wij regelen de rest.
+Wil je weten hoe die vier groepen er in jouw bestand uitzien en wat de stille afhakers je per jaar kosten? Bekijk [wat kost ai voor kappers](/tarieven) en zie wat het scheelt om die opvolging automatisch te laten draaien. Jij knipt, wij regelen de rest.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/workflow-automatisering-kapsalon-hoogste-roi" class="text-dark fw-semibold">Workflow automatisering kapsalon: 5 hoogste-ROI workflows</a> →</p></div></div></div>

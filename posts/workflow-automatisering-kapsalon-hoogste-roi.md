@@ -111,6 +111,6 @@ Herinneringen en gemiste-oproep-opvolging werken vanaf de eerste dag: elke voork
 
 De hoogste ROI in [kapsalon-automatisering](/automatisering) zit niet in de meest indrukwekkende techniek, maar in vijf onopvallende workflows die elke dag stilletjes omzet redden: herinneren, opvolgen, verzoeken, terughalen en reageren. Begin bij workflow 1, voeg elke paar weken de volgende toe, en je agenda doet na een paar maanden dingen waar je vroeger een extra paar handen voor nodig had.
 
-Benieuwd welke van de vijf workflows in jouw salon het meeste laat liggen? Vraag de [gratis AI-scan voor kappers](/gratis-scan) aan: je ziet direct waar je omzet weglekt en welke workflow dat oplost. Bij KapperAI zetten we deze vijf standaard voor je aan, en met onze Groei-of-Geld-Terug Garantie loop je daarbij geen risico. Meer klanten, minder gedoe.
+Benieuwd welke van de vijf workflows in jouw salon het meeste laat liggen? Vraag de [gratis AI-scan voor kappers](/gratis-scan) aan: je ziet direct waar je omzet weglekt en welke workflow dat oplost. Meer klanten, minder gedoe.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/kapsalon-software-kiezen-salongrootte" class="text-dark fw-semibold">Kapsalon software kiezen: 1 stoel, 3 of 5+ stylisten</a> →</p></div></div></div>
