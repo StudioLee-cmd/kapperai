@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { GoogleAnalytics } from '@next/third-parties/google';
+import { Analytics } from '@vercel/analytics/next';
 import { Source_Sans_3, Caveat, Outfit } from "next/font/google";
 
 import Header from "@/components/Header";
@@ -63,6 +64,7 @@ export default function RootLayout({
           <Footer />
         </ThemeProvider>
       <script src="/booking-context.js" defer />
+      <Analytics />
       </body>
     </html>
   );
