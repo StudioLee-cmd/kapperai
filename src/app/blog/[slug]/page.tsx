@@ -150,6 +150,14 @@ const BlogPostPage = async ({ params }: { params: Promise<{ slug: string }> }) =
 
                     <BlogContent content={contentHtml} />
 
+                    <aside aria-label="Gratis scan" className="mt-12 p-6 md:p-8 rounded-2xl border border-[var(--secondary)]/30 bg-[var(--secondary)]/10">
+                        <p className="text-xl font-bold text-[var(--foreground)] mb-2">Waar laat jouw kapsalon klanten liggen?</p>
+                        <p className="text-[var(--foreground-accent)] mb-5">De gratis scan geeft je site een cijfer op vindbaarheid in Google, conversie, AI-vindbaarheid en lokale signalen, met de belangrijkste verbeterpunten in je inbox.</p>
+                        <Link href={`/gratis-scan?bron=blog-${slug}`} className="inline-block px-6 py-3 rounded-full bg-[var(--secondary)] text-white font-semibold hover:opacity-90 transition-opacity">
+                            Start de gratis scan
+                        </Link>
+                    </aside>
+
                     {author && (
                         <div className="mt-12 p-6 bg-[var(--card-background)] rounded-2xl border border-[var(--card-border)]">
                             <div className="flex gap-4 items-start">
