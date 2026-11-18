@@ -205,11 +205,11 @@ export default function TarievenContent() {
                 aanspreekpunt, en niemand die naar de ander wijst als er iets niet werkt.
               </p>
               <div className="flex items-baseline gap-2 mb-2">
-                <span className="text-4xl md:text-5xl font-black text-primary">€ {onzePrijsPerMaand},-</span>
+                <span className="text-4xl md:text-5xl font-black text-primary">Vanaf € {onzePrijsPerMaand},-</span>
                 <span className="text-foreground-accent text-sm">per maand</span>
               </div>
               <p className="text-sm text-green-500 font-semibold mb-6">
-                Dat scheelt € {besparing},- per maand.
+                Dat scheelt tot € {besparing},- per maand.
               </p>
               <a
                 href="/demo"
