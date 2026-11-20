@@ -9,13 +9,13 @@ tags: ["Lokale SEO", "Google"]
 ---
 ## Waarom lokale SEO cruciaal is voor kappers
 
-Bijna niemand rijdt een half uur voor een kapper. Klanten zoeken "kapper bij mij in de buurt" of "kapsalon [plaatsnaam]" en kiezen uit de eerste drie resultaten. Als jij daar niet bij staat, gaan die klanten naar je concurrent — ook al ben je een betere stylist.
+Bijna niemand rijdt een half uur voor een kapper. Klanten zoeken "kapper bij mij in de buurt" of "kapsalon [plaatsnaam]" en kiezen uit de eerste drie resultaten. Als jij daar niet bij staat, gaan die klanten naar je concurrent, ook al ben je een betere stylist.
 
 [lokale SEO](/seo) is het proces waarmee je jouw salon zichtbaar maakt voor mensen in je directe omgeving. Het verschil met reguliere SEO: het draait niet om landelijke rankings maar om de Google Maps-resultaten en het lokale zoekpakket.
 
 ## Je Google Bedrijfsprofiel is de basis
 
-Alles begint bij je Google Bedrijfsprofiel (voorheen Google Mijn Bedrijf). Dit is de kaart die verschijnt als iemand "kapper [stad]" zoekt. Een volledig ingevuld profiel rankt hoger dan een leeg profiel — zo simpel is het.
+Alles begint bij je Google Bedrijfsprofiel (voorheen Google Mijn Bedrijf). Dit is de kaart die verschijnt als iemand "kapper [stad]" zoekt. Een volledig ingevuld profiel rankt hoger dan een leeg profiel, zo simpel is het.
 
 Zorg dat deze informatie klopt en compleet is:
 
@@ -47,7 +47,7 @@ Vraag actief om reviews. Het beste moment is direct na een knipbeurt:
 - Stuur een automatisch WhatsApp-bericht met een directe link naar je review-pagina
 - Maak het persoonlijk: "Bedankt voor je bezoek, [naam]! Zou je een review willen achterlaten?"
 
-Beantwoord elke review — ook de positieve. Een simpel "Dank je, [naam]! Tot de volgende keer" laat zien dat je betrokken bent. Bij een negatieve review: reageer professioneel, bied een oplossing en nodig de klant uit om contact op te nemen.
+Beantwoord elke review, ook de positieve. Een simpel "Dank je, [naam]! Tot de volgende keer" laat zien dat je betrokken bent. Bij een negatieve review: reageer professioneel, bied een oplossing en nodig de klant uit om contact op te nemen.
 
 ## Lokale zoekwoorden op je website
 
@@ -64,11 +64,11 @@ Verwerk deze termen in:
 - De tekst op je homepage en dienstenpagina's
 - Alt-teksten van foto's
 
-Overdrijf niet — schrijf voor mensen, niet voor robots. Maar zorg dat Google weet waar je salon staat en wat je aanbiedt.
+Overdrijf niet: schrijf voor mensen, niet voor robots. Maar zorg dat Google weet waar je salon staat en wat je aanbiedt.
 
 ## NAP-consistentie: overal dezelfde gegevens
 
-NAP staat voor Name, Address, Phone number. Deze drie gegevens moeten overal op internet identiek zijn — op je website, Google Bedrijfsprofiel, Yelp, Facebook, branchegidsen en je Kamer van Koophandel-vermelding.
+NAP staat voor Name, Address, Phone number. Deze drie gegevens moeten overal op internet identiek zijn: op je website, Google Bedrijfsprofiel, Yelp, Facebook, branchegidsen en je Kamer van Koophandel-vermelding.
 
 Eén afwijking (bijvoorbeeld "Kapsalon De Knip" versus "De Knip Kapsalon") verwart Google en schaadt je ranking. Check al je vermeldingen en corrigeer afwijkingen.
 
@@ -90,10 +90,10 @@ De eerste verbeteringen zie je na 4 tot 8 weken. Een volledig geoptimaliseerd pr
 
 ### Moet ik betalen voor lokale SEO?
 
-De basis — Google Bedrijfsprofiel, reviews, NAP-consistentie — is gratis. Professionele hulp bij contentcreatie en optimalisatie kost geld maar levert meetbaar resultaat.
+De basis (Google Bedrijfsprofiel, reviews, NAP-consistentie) is gratis. Professionele hulp bij contentcreatie en optimalisatie kost geld maar levert meetbaar resultaat.
 
 ## Conclusie
 
 Lokale SEO is de meest kosteneffectieve manier om meer klanten uit je buurt naar je salon te trekken. Begin met je Google Bedrijfsprofiel, verzamel actief reviews en schrijf content met lokale zoekwoorden.
 
-Wil je ontdekken hoe KapperAI je lokale vindbaarheid automatiseert? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt het — jij knipt.
+Wil je ontdekken hoe KapperAI je lokale vindbaarheid automatiseert? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt het, jij knipt.

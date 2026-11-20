@@ -547,7 +547,7 @@ export default function SweepGame({ onComplete, onExit }: SweepGameProps) {
                 transition: 'left 0.3s ease, top 0.3s ease',
               }}
               disabled={b.tapped}
-              aria-label="Haarspeld - niet aantikken!"
+              aria-label="Haarspeld: niet aantikken!"
             >
               {CLIP_EMOJI}
             </button>

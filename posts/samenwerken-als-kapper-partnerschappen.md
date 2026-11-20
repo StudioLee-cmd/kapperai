@@ -9,7 +9,7 @@ tags: ["Samenwerkingen"]
 cluster: "branding"
 ---
 
-De meeste kappers proberen klanten te trekken via Instagram, Google of flyers. Maar een van de krachtigste kanalen wordt vaak vergeten: samenwerken met andere ondernemers in je buurt. Een beautysalon die jouw klanten doorverwijst, een bruidsfotograaf die je aanbeveelt — dat zijn klanten die al vertrouwen in je hebben voordat ze binnenlopen.
+De meeste kappers proberen klanten te trekken via Instagram, Google of flyers. Maar een van de krachtigste kanalen wordt vaak vergeten: samenwerken met andere ondernemers in je buurt. Een beautysalon die jouw klanten doorverwijst, een bruidsfotograaf die je aanbeveelt: dat zijn klanten die al vertrouwen in je hebben voordat ze binnenlopen.
 
 ## Waarom partnerschappen werken voor kappers
 
@@ -19,7 +19,7 @@ Het verschil met adverteren:
 - Doorverwezen klanten hebben al vertrouwen
 - Ze onderhandelen minder over prijs
 - Ze blijven gemiddeld langer klant
-- De kosten zijn nul — alleen wederkerigheid
+- De kosten zijn nul, alleen wederkerigheid
 
 ## Met wie kun je als kapper samenwerken?
 
@@ -43,7 +43,7 @@ Een vage afspraak werkt niet. Spreek af: "Als jij mijn visitekaartjes bij je rec
 
 ### 3. Organiseer een gezamenlijk evenement
 
-Een avond met gratis mini-behandelingen bij de beautysalon en een gratis haarconsult bij jou. Nodig elkaars klanten uit. Dit werkt bijzonder goed in combinatie met je [social media strategie](/blog/social-media-kappers-instagram) — deel het evenement online en bereik beide klantenbestanden.
+Een avond met gratis mini-behandelingen bij de beautysalon en een gratis haarconsult bij jou. Nodig elkaars klanten uit. Dit werkt bijzonder goed in combinatie met je [social media strategie](/blog/social-media-kappers-instagram): deel het evenement online en bereik beide klantenbestanden.
 
 ![Samenwerkingsproducten van kapper en beautysalon op een stijlvolle toonbank](/images/blog/samenwerken-als-kapper-partnerschappen-2.png)
 

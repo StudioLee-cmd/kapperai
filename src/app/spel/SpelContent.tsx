@@ -254,7 +254,7 @@ export default function SpelContent() {
         💈 SalonBaas
       </h1>
       <p className="text-xs text-purple-700 mb-4 text-center">
-        Kapper Simulator — Klik om te lopen, bezoek stations voor salonklussen
+        Kapper Simulator: klik om te lopen, bezoek stations voor salonklussen
       </p>
 
       {/* Game container */}

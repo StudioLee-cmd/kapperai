@@ -38,19 +38,19 @@ Vermijd het verzoek tijdens het afrekenen. De klant is dan met geld, jas en agen
 
 ## Drie scripts die in het echt werken
 
-### Script 1 — In de salon, na de eindcontrole
+### Script 1: in de salon, na de eindcontrole
 
 > "Ik ben blij dat het je bevalt. Mag ik je iets vragen? Wij groeien voornamelijk via Google reviews. Als je een momentje hebt, zou je dan een korte review willen achterlaten? Ik stuur je zo de directe link via WhatsApp, dat scheelt zoeken."
 
 Waarom dit werkt: het is eerlijk, persoonlijk, en je belooft een directe link. Je vraagt geen "vijf sterren", je vraagt een review. Klanten waarderen dat je het rechtstreeks zegt.
 
-### Script 2 — Via WhatsApp, een dag later
+### Script 2: via WhatsApp, een dag later
 
-> "Hi [naam], hoop dat je nog steeds blij bent met je kleur! Mocht je een minuutje hebben, zou je ons enorm helpen met een review op Google: [directe link]. Geen verplichting natuurlijk, alvast bedankt! — [stylist]"
+> "Hi [naam], hoop dat je nog steeds blij bent met je kleur! Mocht je een minuutje hebben, zou je ons enorm helpen met een review op Google: [directe link]. Geen verplichting natuurlijk, alvast bedankt! [stylist]"
 
 Waarom dit werkt: persoonlijk, kort, met een directe link en een ontspannen toon. Geen "ik zou het zeer waarderen als u" of andere afstandelijke zinnen.
 
-### Script 3 — Op de kassabon of factuur
+### Script 3: op de kassabon of factuur
 
 Op je kassabon of factuur die je per e-mail stuurt, voeg je onderaan een kort blokje toe:
 

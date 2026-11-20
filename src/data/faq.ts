@@ -22,8 +22,12 @@ export const faqs: IFAQ[] = [
         answer: "Ja. We sluiten aan op de agenda en het boekingssysteem waar je al mee werkt, zodat afspraken die de AI maakt gewoon in jouw planning verschijnen. Werk je nog met een papieren afsprakenboek, dan zetten we de online agenda voor je op.",
     },
     {
+        question: "Heb ik als kapper een aparte app nodig?",
+        answer: "Nee. Je klanten maken hun afspraak via je website en de chat daarop, zonder dat ze een app hoeven te installeren. Jij ziet alles in je eigen dashboard, ook op je telefoon.",
+    },
+    {
         question: "Wat als de AI het antwoord niet weet?",
-        answer: "De AI is getraind om eerlijk te zijn. Weet hij iets niet, of is de vraag te specifiek — een kleurcorrectie bijvoorbeeld — dan verwijst hij netjes naar jou of noteert hij een terugbelverzoek. Je raakt dus nooit een klant kwijt.",
+        answer: "De AI is getraind om eerlijk te zijn. Weet hij iets niet, of is de vraag te specifiek (een kleurcorrectie bijvoorbeeld), dan verwijst hij netjes naar jou of noteert hij een terugbelverzoek. Je raakt dus nooit een klant kwijt.",
     },
     {
         question: "Is dit geschikt voor een eenmanszaak of alleen voor grote salons?",

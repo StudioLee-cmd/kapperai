@@ -1,6 +1,6 @@
 ---
 title: "Reviews automatisch verzamelen als kapper"
-excerpt: "Ontdek hoe je als kapper automatisch meer Google Reviews verzamelt met WhatsApp, NFC-kaarten en slimme timing — zonder handmatig te hoeven vragen."
+excerpt: "Ontdek hoe je als kapper automatisch meer Google Reviews verzamelt met WhatsApp, NFC-kaarten en slimme timing, zonder handmatig te hoeven vragen."
 date: "2026-03-31"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-automatisch-verzamelen-kapper.jpg"
@@ -9,11 +9,11 @@ cluster: "reviews"
 ---
 ## Waarom Google Reviews cruciaal zijn voor kappers
 
-Wanneer iemand zoekt op "kapper in de buurt", bepalen Google Reviews wie bovenaan verschijnt. Niet je website, niet je Instagram — je reviews. Verreweg de meeste consumenten lezen online reviews voordat ze een lokale dienstverlener kiezen. Voor kappers betekent dit: meer reviews is meer klanten.
+Wanneer iemand zoekt op "kapper in de buurt", bepalen Google Reviews wie bovenaan verschijnt. Niet je website, niet je Instagram, maar je reviews. Verreweg de meeste consumenten lezen online reviews voordat ze een lokale dienstverlener kiezen. Voor kappers betekent dit: meer reviews is meer klanten.
 
 Maar [reviews verzamelen](/reviews) voelt als een extra taak bovenop een al volle agenda. Je bent de hele dag bezig met knippen, kleuren en föhnen. Wanneer moet je dan ook nog om reviews vragen? Het antwoord: dat hoef je helemaal niet zelf te doen.
 
-Met de juiste automatisering stromen reviews vanzelf binnen. Geen awkward gesprekken, geen vergeten — gewoon een systeem dat altijd draait.
+Met de juiste automatisering stromen reviews vanzelf binnen. Geen awkward gesprekken, geen vergeten, gewoon een systeem dat altijd draait.
 
 ## Het perfecte moment om een review te vragen
 
@@ -31,7 +31,7 @@ De gouden regel: hoe korter na de positieve ervaring, hoe groter de kans op een 
 
 ## Automatische review-verzoeken via WhatsApp
 
-WhatsApp heeft in Nederland een bereik van meer dan 13 miljoen gebruikers. Je klanten zitten er al — gebruik dat.
+WhatsApp heeft in Nederland een bereik van meer dan 13 miljoen gebruikers. Je klanten zitten er al, dus gebruik dat.
 
 Zo werkt een automatische review-flow:
 
@@ -45,7 +45,7 @@ Dit hele proces draait automatisch. Je hoeft er na de eerste opzet geen seconde 
 
 Naast automatische berichten kun je ook fysieke touchpoints inzetten. Een NFC-kaart of QR-code bij de kassa, op de spiegel of zelfs op je visitekaartje.
 
-De klant tikt met de telefoon of scant de code en komt direct op je Google Reviews-pagina. Geen zoeken, geen typen — twee tikken en de review staat online.
+De klant tikt met de telefoon of scant de code en komt direct op je Google Reviews-pagina. Geen zoeken, geen typen: twee tikken en de review staat online.
 
 Waar je ze het beste plaatst:
 
@@ -53,11 +53,11 @@ Waar je ze het beste plaatst:
 - **Op de spiegelsticker**: de klant ziet het resultaat en kan direct reviewen
 - **Op je afspraakkaartje**: een QR-code op de achterkant
 
-De kosten zijn minimaal — een NFC-sticker kost minder dan twee euro — maar het effect is meetbaar.
+De kosten zijn minimaal (een NFC-sticker kost minder dan twee euro), maar het effect is meetbaar.
 
 ## Reageren op reviews als marketingtool
 
-Reviews verzamelen is stap één. Reageren op elke review is stap twee — en minstens zo belangrijk.
+Reviews verzamelen is stap één. Reageren op elke review is stap twee, en minstens zo belangrijk.
 
 Wanneer je reageert op een positieve review, laat je aan potentiële klanten zien dat je betrokken bent. Een persoonlijk antwoord maakt indruk:
 

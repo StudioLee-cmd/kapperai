@@ -7,7 +7,7 @@ image: "/images/blog/klantcommunicatie-kapper.png"
 tags: ["Klantbeleving"]
 cluster: "automatisering"
 ---
-Elke klant die in je stoel plaatsneemt, heeft al meerdere contactmomenten met je salon gehad. De manier waarop je communiceert — van de eerste boeking tot de follow-up na het bezoek — bepaalt of die klant terugkomt of niet. Toch laten veel kappers deze kans liggen.
+Elke klant die in je stoel plaatsneemt, heeft al meerdere contactmomenten met je salon gehad. De manier waarop je communiceert, van de eerste boeking tot de follow-up na het bezoek, bepaalt of die klant terugkomt of niet. Toch laten veel kappers deze kans liggen.
 
 In dit artikel lees je hoe je als kapper je klantcommunicatie naar een hoger niveau tilt, zonder dat het je uren extra werk kost.
 
@@ -46,7 +46,7 @@ Een kort bedankbericht: "Bedankt voor je bezoek! We hopen dat je blij bent met h
 
 ### 5. De follow-up (4-6 weken later)
 
-"Het is alweer een tijdje geleden — tijd voor een nieuwe afspraak?" Dit is het moment waarop je [klantbehoud](/blog/no-shows-voorkomen-kapsalon) concreet maakt.
+"Het is alweer een tijdje geleden, tijd voor een nieuwe afspraak?" Dit is het moment waarop je [klantbehoud](/blog/no-shows-voorkomen-kapsalon) concreet maakt.
 
 ## Welke kanalen werken het best?
 
@@ -73,14 +73,14 @@ Met tools als WhatsApp Business kun je templates instellen die professioneel ove
 
 ## Veelgemaakte fouten
 
-1. **Alleen communiceren bij problemen** — klanten horen ook graag positieve berichten
-2. **Te vaak berichten sturen** — meer dan 1 bericht per week voelt als spam
-3. **Geen reactie op reviews** — altijd reageren, ook op positieve [Google reviews](/blog/meer-google-reviews-als-kapper)
-4. **Geen opt-out mogelijkheid** — wettelijk verplicht en voorkomt irritatie
+1. **Alleen communiceren bij problemen**: klanten horen ook graag positieve berichten
+2. **Te vaak berichten sturen**: meer dan 1 bericht per week voelt als spam
+3. **Geen reactie op reviews**: altijd reageren, ook op positieve [Google reviews](/blog/meer-google-reviews-als-kapper)
+4. **Geen opt-out mogelijkheid**: wettelijk verplicht en voorkomt irritatie
 
 ## Wat als je hier geen tijd voor hebt?
 
-Bij StudioLee nemen we de complete digitale communicatie uit handen. Van automatische bevestigingen tot review-opvolging — alles draait terwijl jij knipt. Met slechts **15 minuten per maand** aan jouw kant.
+Bij StudioLee nemen we de complete digitale communicatie uit handen. Van automatische bevestigingen tot review-opvolging: alles draait terwijl jij knipt. Met slechts **15 minuten per maand** aan jouw kant.
 
 [Vraag een gratis scan aan](/gratis-scan) en ontdek waar jouw communicatie beter kan.
 

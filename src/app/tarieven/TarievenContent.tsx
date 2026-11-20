@@ -58,7 +58,7 @@ const customOptions = [
     name: "Volledig uit handen",
     price: "Vanaf €379 per maand",
     description:
-      "Wij doen alles: de teksten, de vindbaarheid, de social, de opvolging. Jij staat in de salon. Wat het kost hangt af van wat je nodig hebt — dat rekenen we samen door.",
+      "Wij doen alles: de teksten, de vindbaarheid, de social, de opvolging. Jij staat in de salon. Wat het kost hangt af van wat je nodig hebt, en dat rekenen we samen door.",
     cta: "Plan een gesprek",
     ctaLink: "/demo",
   },
@@ -71,7 +71,7 @@ const faqs = [
   },
   {
     q: "Wat krijg ik dan níét gratis?",
-    a: "Het draaiend krijgen en houden. Live zetten, gevonden worden, teksten die blijven komen, iemand die opneemt. Dát is het werk, en dat zit in het abonnement. Een website die stilstaat levert niets op — daarom geven we het ontwerp weg en niet het draaien.",
+    a: "Het draaiend krijgen en houden. Live zetten, gevonden worden, teksten die blijven komen, iemand die opneemt. Dát is het werk, en dat zit in het abonnement. Een website die stilstaat levert niets op. Daarom geven we het ontwerp weg en niet het draaien.",
   },
   {
     q: "Kan ik de website ook gewoon kopen?",
@@ -83,7 +83,7 @@ const faqs = [
   },
   {
     q: "Hoe verschilt dit van een traditioneel bureau?",
-    a: "Een marketingbureau rekent €1.500 tot €3.000 per maand en bedient vooral grote bedrijven. Wij leveren dezelfde kwaliteit — strategie, advies én uitvoering — voor een fractie daarvan, omdat we de uitvoering slim geautomatiseerd hebben.",
+    a: "Een marketingbureau rekent €1.500 tot €3.000 per maand en bedient vooral grote bedrijven. Wij leveren dezelfde kwaliteit (strategie, advies én uitvoering) voor een fractie daarvan, omdat we de uitvoering slim geautomatiseerd hebben.",
   },
   {
     q: "Is er een contract of opzegtermijn?",
@@ -205,11 +205,11 @@ export default function TarievenContent() {
                 aanspreekpunt, en niemand die naar de ander wijst als er iets niet werkt.
               </p>
               <div className="flex items-baseline gap-2 mb-2">
-                <span className="text-4xl md:text-5xl font-black text-primary">€ {onzePrijsPerMaand},-</span>
+                <span className="text-4xl md:text-5xl font-black text-primary">Vanaf € {onzePrijsPerMaand},-</span>
                 <span className="text-foreground-accent text-sm">per maand</span>
               </div>
               <p className="text-sm text-green-500 font-semibold mb-6">
-                Dat scheelt € {besparing},- per maand.
+                Dat scheelt tot € {besparing},- per maand.
               </p>
               <a
                 href="/demo"
@@ -260,8 +260,8 @@ export default function TarievenContent() {
               de meeste {niche}.
             </p>
             <p>
-              Wij werken anders. Door de uitvoering slim te automatiseren leveren we dezelfde kwaliteit —
-              strategie, advies én uitvoering — zonder de overhead. Geen grote teams, geen dure kantoren,
+              Wij werken anders. Door de uitvoering slim te automatiseren leveren we dezelfde kwaliteit
+              (strategie, advies én uitvoering) zonder de overhead. Geen grote teams, geen dure kantoren,
               geen eindeloze vergaderingen. Wel: directe lijnen, snelle resultaten en persoonlijke aandacht.
             </p>
             <p>
@@ -295,7 +295,7 @@ export default function TarievenContent() {
         <div className="max-w-2xl mx-auto text-center">
           <h2 className="text-2xl md:text-3xl font-bold mb-4">Klaar om te starten?</h2>
           <p className="text-foreground-accent mb-8">
-            Begin bij het ontwerp — dat kost je niets — of plan een gesprek. Geen verplichtingen, geen druk.
+            Begin bij het ontwerp (dat kost je niets) of plan een gesprek. Geen verplichtingen, geen druk.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a

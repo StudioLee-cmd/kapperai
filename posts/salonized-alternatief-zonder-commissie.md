@@ -11,11 +11,11 @@ cluster: "automatisering"
 
 Salonized is populaire salon software in Nederland. Het biedt een online agenda, klantenbeheer, voorraadbeheer en een kassasysteem. Voor salons die primair een boekingssysteem zoeken, is het een degelijke keuze.
 
-Het is gebruiksvriendelijk, biedt een Nederlandse helpdesk, en de basisfuncties werken goed. Maar als je als kapper wilt groeien — meer klanten aantrekken, beter vindbaar worden, automatisch [reviews verzamelen](/reviews) — dan loop je tegen de grenzen van Salonized aan.
+Het is gebruiksvriendelijk, biedt een Nederlandse helpdesk, en de basisfuncties werken goed. Maar als je als kapper wilt groeien (meer klanten aantrekken, beter vindbaar worden, automatisch [reviews verzamelen](/reviews)), dan loop je tegen de grenzen van Salonized aan.
 
 ## Waar Salonized tekortschiet
 
-Salonized is salon software — een tool voor het beheren van je salon. Het helpt je niet met marketing, vindbaarheid of klantwerving. Je krijgt:
+Salonized is salon software: een tool voor het beheren van je salon. Het helpt je niet met marketing, vindbaarheid of klantwerving. Je krijgt:
 
 - Geen AI telefoniste die 24/7 je telefoon opneemt
 - Geen automatische review-verzoeken via WhatsApp na elke afspraak
@@ -30,7 +30,7 @@ Het is alsof je een kassa koopt en verwacht dat die ook klanten de winkel in tre
 
 ## KapperAI: meer dan salon software
 
-KapperAI is geen salon software — het is een compleet groei-systeem. Het vervangt niet alleen je boekingssysteem, maar ook je marketingbureau, je SEO-specialist, je social media manager en je virtuele receptioniste.
+KapperAI is geen salon software. Het is een compleet groei-systeem. Het vervangt niet alleen je boekingssysteem, maar ook je marketingbureau, je SEO-specialist, je social media manager en je virtuele receptioniste.
 
 Met 25+ geïntegreerde tools krijg je alles in één systeem:
 
@@ -45,7 +45,7 @@ Met 25+ geïntegreerde tools krijg je alles in één systeem:
 | Wat | Salonized | KapperAI |
 |---|---|---|
 | Online agenda | Ja | Ja |
-| Klantenbeheer | Ja | Ja — uitgebreider met CRM |
+| Klantenbeheer | Ja | Ja, uitgebreider met CRM |
 | Kassasysteem | Ja | Via Factuur AI |
 | AI Telefoniste | Nee | Ja |
 | Chatbot | Nee | Ja |
@@ -53,12 +53,12 @@ Met 25+ geïntegreerde tools krijg je alles in één systeem:
 | SEO blog | Nee | Ja |
 | Social media | Nee | Ja |
 | No-show herinneringen | Basis | WhatsApp + SMS automatisch |
-| Managed service | Nee | Ja — 15 min/maand |
+| Managed service | Nee | Ja, 15 min/maand |
 | Aantal tools | ~5 | 25+ |
 
 ## Managed service vervangt je hele administratie
 
-Het echte verschil zit niet in de features — het zit in wie het werk doet. Salonized is een tool die jij zelf moet instellen, bijhouden en optimaliseren. KapperAI biedt managed service: wij zetten alles op, optimaliseren continu, en jij hoeft er maximaal 15 minuten per maand aan te besteden.
+Het echte verschil zit niet in de features. Het zit in wie het werk doet. Salonized is een tool die jij zelf moet instellen, bijhouden en optimaliseren. KapperAI biedt managed service: wij zetten alles op, optimaliseren continu, en jij hoeft er maximaal 15 minuten per maand aan te besteden.
 
 Dat betekent geen avonden besteden aan social media posts. Geen weekenden bezig met je website. Geen stress over Google-vindbaarheid. Wij doen het, jij knipt haar.
 

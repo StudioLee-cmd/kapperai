@@ -10,9 +10,9 @@ cluster: "vindbaarheid"
 ---
 ## Waarom je Google Bedrijfsprofiel belangrijker is dan je website
 
-Als iemand zoekt op "kapper [plaatsnaam]", toont Google eerst het zogenaamde Local Pack — drie bedrijven met kaart, reviews en openingstijden. Pas daarna volgen de gewone [zoekresultaten](/seo). Je website kan perfect zijn, maar als je Google Bedrijfsprofiel niet geoptimaliseerd is, verschijn je simpelweg niet in dat Local Pack.
+Als iemand zoekt op "kapper [plaatsnaam]", toont Google eerst het zogenaamde Local Pack: drie bedrijven met kaart, reviews en openingstijden. Pas daarna volgen de gewone [zoekresultaten](/seo). Je website kan perfect zijn, maar als je Google Bedrijfsprofiel niet geoptimaliseerd is, verschijn je simpelweg niet in dat Local Pack.
 
-Voor kappers is dit extra belangrijk: verreweg de meeste nieuwe klanten zoeken lokaal. Ze willen een salon in de buurt, liefst met goede reviews en de mogelijkheid om direct te bellen of een routebeschrijving te openen. Je Google Bedrijfsprofiel is vaak het eerste — en soms het enige — dat een potentiele klant van je ziet.
+Voor kappers is dit extra belangrijk: verreweg de meeste nieuwe klanten zoeken lokaal. Ze willen een salon in de buurt, liefst met goede reviews en de mogelijkheid om direct te bellen of een routebeschrijving te openen. Je Google Bedrijfsprofiel is vaak het eerste (en soms het enige) dat een potentiele klant van je ziet.
 
 ## Stap 1: Claim en verifieer je profiel
 
@@ -38,11 +38,11 @@ Google beloont volledigheid. Hoe meer informatie je invult, hoe hoger je scoort.
 
 Salons met meer dan 10 foto's krijgen duidelijk meer klikken naar hun website dan salons zonder foto's. Welke foto's werken het best?
 
-- **Buitenkant van je salon** — zodat klanten je herkennen op straat
-- **Interieur** — laat je sfeer zien (schoon, modern, gezellig)
-- **Resultaten** — voor-en-na foto's van kapsels (met toestemming)
-- **Team** — gezichten creeren vertrouwen
-- **Producten** — als je premium merken verkoopt
+- **Buitenkant van je salon**, zodat klanten je herkennen op straat
+- **Interieur**: laat je sfeer zien (schoon, modern, gezellig)
+- **Resultaten**: voor-en-na foto's van kapsels (met toestemming)
+- **Team**: gezichten creeren vertrouwen
+- **Producten**, als je premium merken verkoopt
 
 Upload minimaal 1 nieuwe foto per week. Google waardeert actieve profielen.
 
@@ -50,16 +50,16 @@ Upload minimaal 1 nieuwe foto per week. Google waardeert actieve profielen.
 
 Reviews zijn de belangrijkste rankingfactor voor het Local Pack. Google kijkt naar:
 
-- **Aantal reviews** — meer is beter
-- **Gemiddelde score** — 4.5+ is ideaal
-- **Recentheid** — reviews van de afgelopen maand tellen zwaarder
-- **Je reacties** — beantwoorde reviews signaleren betrokkenheid
+- **Aantal reviews**: meer is beter
+- **Gemiddelde score**: 4.5+ is ideaal
+- **Recentheid**: reviews van de afgelopen maand tellen zwaarder
+- **Je reacties**: beantwoorde reviews signaleren betrokkenheid
 
 Hoe je meer reviews krijgt:
 1. Vraag na elke tevreden knipbeurt: "Zou je een review willen achterlaten op Google?"
 2. Stuur een automatische SMS of WhatsApp met een directe review-link een uur na de afspraak
-3. Maak het makkelijk — een QR-code bij de kassa werkt uitstekend
-4. Reageer op elke review — positief en negatief
+3. Maak het makkelijk: een QR-code bij de kassa werkt uitstekend
+4. Reageer op elke review, positief en negatief
 
 ## Stap 5: Gebruik Google Posts
 
@@ -74,11 +74,11 @@ Post minimaal 1x per week. Het houdt je profiel actief en geeft potentiele klant
 ## Stap 6: Voeg je diensten toe met prijzen
 
 Google laat je een dienstenlijst toevoegen aan je profiel. Vul dit volledig in:
-- Knippen dames — €35
-- Knippen heren — €25
-- Verven — vanaf €65
-- Highlights — vanaf €85
-- Bruidskapsels — op aanvraag
+- Knippen dames: €35
+- Knippen heren: €25
+- Verven: vanaf €65
+- Highlights: vanaf €85
+- Bruidskapsels: op aanvraag
 
 Klanten die prijzen zien, boeken sneller. Transparantie wint vertrouwen.
 
@@ -96,7 +96,7 @@ Deze attributen helpen Google je salon te matchen met specifieke zoekopdrachten.
 ## Veelgemaakte fouten
 
 ### Keywords in je bedrijfsnaam
-"Kapsalon Lisa — Beste Kapper Amsterdam" is een schending van Google's richtlijnen. Je profiel kan worden opgeschort. Gebruik alleen je officiele bedrijfsnaam.
+"Kapsalon Lisa | Beste Kapper Amsterdam" is een schending van Google's richtlijnen. Je profiel kan worden opgeschort. Gebruik alleen je officiele bedrijfsnaam.
 
 ### Verkeerde openingstijden
 Niets is frustrerender dan voor een dichte deur staan. Werk je tijden bij voor feestdagen, vakanties en zomertijden.

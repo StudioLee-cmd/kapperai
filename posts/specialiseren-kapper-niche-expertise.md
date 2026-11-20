@@ -18,10 +18,10 @@ De kappersmarkt is verzadigd. Klanten die zoeken op "kapper in de buurt" krijgen
 
 Specialisatie levert op:
 
-- **Minder concurrentie** — je zit in een kleinere vijver
-- **Hogere prijzen** — expertise rechtvaardigt premiumtarieven
-- **Betere klanten** — ze komen specifiek voor jou, niet voor de laagste prijs
-- **Sterkere reputatie** — je wordt de go-to expert in je niche
+- **Minder concurrentie**: je zit in een kleinere vijver
+- **Hogere prijzen**: expertise rechtvaardigt premiumtarieven
+- **Betere klanten**: ze komen specifiek voor jou, niet voor de laagste prijs
+- **Sterkere reputatie**: je wordt de go-to expert in je niche
 
 ## Welke specialisaties zijn kansrijk?
 
@@ -40,7 +40,7 @@ De beste keuze hangt af van je passie, je markt en je [personal brand](/blog/per
 
 ### Volg je passie
 
-Waar word je enthousiast van? Welke klussen vind je het leukst? Als je ergens van houdt, investeer je er automatisch meer tijd in — en dat merken klanten.
+Waar word je enthousiast van? Welke klussen vind je het leukst? Als je ergens van houdt, investeer je er automatisch meer tijd in, en dat merken klanten.
 
 ### Analyseer je markt
 
@@ -54,11 +54,11 @@ Je hoeft niet van de ene dag op de andere je hele aanbod te wijzigen. Begin met 
 
 Eenmaal gekozen moet iedereen het weten. Dat doe je via:
 
-- **Je website** — een specifieke pagina voor je specialisatie
-- **Social media** — deel resultaten van je specialistische werk op [Instagram](/blog/social-media-kappers-instagram)
-- **Google** — optimaliseer je profiel met specialisatie-trefwoorden
-- **Reviews** — vraag klanten specifiek te benoemen wat je goed doet via [Google reviews](/blog/meer-google-reviews-als-kapper)
-- **In de salon** — visuals, producten en gesprekken die je expertise bevestigen
+- **Je website**: een specifieke pagina voor je specialisatie
+- **Social media**: deel resultaten van je specialistische werk op [Instagram](/blog/social-media-kappers-instagram)
+- **Google**: optimaliseer je profiel met specialisatie-trefwoorden
+- **Reviews**: vraag klanten specifiek te benoemen wat je goed doet via [Google reviews](/blog/meer-google-reviews-als-kapper)
+- **In de salon**: visuals, producten en gesprekken die je expertise bevestigen
 
 ## De valkuil van te breed blijven
 

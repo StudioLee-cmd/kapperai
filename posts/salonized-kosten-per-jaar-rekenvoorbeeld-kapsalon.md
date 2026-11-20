@@ -11,11 +11,11 @@ tags: ["Salonized", "Boekingssysteem"]
 
 # Wat kost Salonized per jaar voor een kapsalon? Rekenvoorbeelden bij 80, 200 en 400 boekingen
 
-Salonized rekent een vast maandbedrag plus een commissie per online boeking. Voor een kleine salon is dat misschien overzichtelijk; voor een doorsnee Nederlandse kapsalon met 200+ boekingen per maand loopt het al snel op tot 4.500 euro per jaar. Toch zien we dat de meeste kappers nooit een rekensom maken — ze zien een eerste maand van 39 euro en denken "dat is prima".
+Salonized rekent een vast maandbedrag plus een commissie per online boeking. Voor een kleine salon is dat misschien overzichtelijk; voor een doorsnee Nederlandse kapsalon met 200+ boekingen per maand loopt het al snel op tot 4.500 euro per jaar. Toch zien we dat de meeste kappers nooit een rekensom maken: ze zien een eerste maand van 39 euro en denken "dat is prima".
 
-Dit artikel geeft je drie concrete rekenvoorbeelden gebaseerd op de werkelijke Salonized-tarieven van 2026, plus een vergelijking met booking-systemen zonder commissie per afspraak. Geen aanvalsstuk op Salonized — gewoon de cijfers, plus de vraag of jouw salon op hun tarief de juiste keuze is.
+Dit artikel geeft je drie concrete rekenvoorbeelden gebaseerd op de werkelijke Salonized-tarieven van 2026, plus een vergelijking met booking-systemen zonder commissie per afspraak. Geen aanvalsstuk op Salonized, maar gewoon de cijfers, plus de vraag of jouw salon op hun tarief de juiste keuze is.
 
-Voor de bredere vergelijking met KapperAI als commissie-vrij alternatief schreven wij eerder een [Salonized alternatief zonder commissie per boeking](/blog/salonized-alternatief-zonder-commissie) overzicht — dit artikel zoomt in op de pure jaarkosten, niet de feature-vergelijking.
+Voor de bredere vergelijking met KapperAI als commissie-vrij alternatief schreven wij eerder een [Salonized alternatief zonder commissie per boeking](/blog/salonized-alternatief-zonder-commissie) overzicht. Dit artikel zoomt in op de pure jaarkosten, niet de feature-vergelijking.
 
 ## De Salonized prijsstructuur in 2026
 
@@ -27,11 +27,11 @@ Salonized hanteert in Nederland (peildatum april 2026) drie pakketten:
 | Premium | 79 euro | 0,29 euro per online boeking | 0% |
 | Business | 149 euro | 0% | 0% |
 
-(Bron: Salonized publiek prijsbeleid op `salonized.com/nl/prijzen`. Tarieven kunnen wijzigen — controleer voor je beslist.)
+(Bron: Salonized publiek prijsbeleid op `salonized.com/nl/prijzen`. Tarieven kunnen wijzigen, dus controleer voor je beslist.)
 
 Naast de commissie per boeking lopen er kosten voor add-ons: SMS-bevestigingen (~0,12 euro per SMS), e-mail marketing add-on (~19 euro/maand), payment-processing (Mollie of Stripe staan apart).
 
-## Rekenvoorbeeld 1: kleine salon — 80 boekingen per maand (waarvan 50% online)
+## Rekenvoorbeeld 1: kleine salon, 80 boekingen per maand (waarvan 50% online)
 
 Een ZZP-kapsalon met 80 afspraken per maand, waarvan ongeveer de helft online geboekt wordt (40 boekingen/maand) en de andere helft via WhatsApp of telefoon binnen komt.
 
@@ -47,9 +47,9 @@ Een ZZP-kapsalon met 80 afspraken per maand, waarvan ongeveer de helft online ge
 - SMS: 58 euro
 - **Totaal: 1.145 euro per jaar**
 
-Voor deze salon is Starter goedkoper. Maar 761 euro per jaar voor pure boekings-functionaliteit is wel een rekensom waard. Een commissievrij alternatief op een vast maandbedrag (bijvoorbeeld een eigen booking-app via een managed agency) ligt vaak rond 50-65 euro per maand — dus 600-780 euro per jaar zonder commissie.
+Voor deze salon is Starter goedkoper. Maar 761 euro per jaar voor pure boekings-functionaliteit is wel een rekensom waard. Een commissievrij alternatief op een vast maandbedrag (bijvoorbeeld een eigen booking-app via een managed agency) ligt vaak rond 50-65 euro per maand, dus 600-780 euro per jaar zonder commissie.
 
-## Rekenvoorbeeld 2: gemiddelde salon — 200 boekingen per maand (waarvan 70% online)
+## Rekenvoorbeeld 2: gemiddelde salon, 200 boekingen per maand (waarvan 70% online)
 
 Een zelfstandige kapsalon met twee tot drie kappers, drukke maandagen en zaterdagen, 200 afspraken per maand. Online-boekings-aandeel is hoger (70% = 140 online boekingen/maand) want klanten op deze schaal verwachten online plannen.
 
@@ -69,7 +69,7 @@ Een zelfstandige kapsalon met twee tot drie kappers, drukke maandagen en zaterda
 
 Op deze schaal kantelt het. Premium is iets goedkoper, maar de breekpunt-formule (148 boekingen/maand) is precies het type drukte waar Business interessant wordt. Voor 2.218 euro/jaar (Business) krijg je geen commissie en geen verrassingen.
 
-## Rekenvoorbeeld 3: grote salon of mini-keten — 400 boekingen per maand (waarvan 80% online)
+## Rekenvoorbeeld 3: grote salon of mini-keten, 400 boekingen per maand (waarvan 80% online)
 
 Een salon met 4-5 kappers of twee vestigingen, sterke online aanwezigheid, 400 afspraken per maand, waarvan 320 online (80%).
 
@@ -86,7 +86,7 @@ Een salon met 4-5 kappers of twee vestigingen, sterke online aanwezigheid, 400 a
 - SMS + e-mail: 689 euro
 - **Totaal: 2.751 euro per jaar**
 
-Op 400 boekingen wordt Premium duurder dan Business. Logisch — daarom heeft Salonized het zo geprijsd.
+Op 400 boekingen wordt Premium duurder dan Business. Logisch, daarom heeft Salonized het zo geprijsd.
 
 ![Werkbalie close-up: smartphone face-up met een booking-systeem dashboard (geblurde tekst), een paarse haarklem, een kleine schaar, een notitieboekje met handgeschreven boeking-aantallen en een mok dampende koffie op een marmeren receptie-balie](/images/blog/salonized-kosten-per-jaar-rekenvoorbeeld-kapsalon-2.jpg)
 
@@ -105,12 +105,12 @@ Drie verborgen kosten die in geen enkel Salonized-prijsblok staan:
 Een booking-systeem zonder commissie per afspraak (bijvoorbeeld een eigen booking-app via een managed agency, of zelfgebouwd via Cal.com of een SaaS als Setmore) heeft een andere kostenstructuur:
 
 - **Vast maandbedrag** (typisch 49-99 euro voor een MKB-pakket), geen commissie ongeacht boeking-volume.
-- **Geen boetebedragen** voor SMS — vaak inbegrepen in het hoofdtarief.
-- **Volledige klant-data eigendom** — je kunt elk moment overstappen zonder data-loss.
+- **Geen boetebedragen** voor SMS, vaak inbegrepen in het hoofdtarief.
+- **Volledige klant-data eigendom**: je kunt elk moment overstappen zonder data-loss.
 
 Voor een gemiddelde 200-boekingen-per-maand salon ligt het break-even-punt rond de 60-70 euro per maand vast tarief. Onder die drempel is een commissie-vrij alternatief goedkoper. Voor 400+ boekingen wint commissie-vrij vrijwel altijd.
 
-KapperAI biedt zo'n commissie-vrij booking-systeem als onderdeel van een breder ai marketing kappers pakket — voor de feature-vergelijking zie ons [Salonized alternatief zonder commissie per boeking](/blog/salonized-alternatief-zonder-commissie) artikel. Voor reviews-strategie zie [review management voor kappers](/reviews).
+KapperAI biedt zo'n commissie-vrij booking-systeem als onderdeel van een breder ai marketing kappers pakket. Voor de feature-vergelijking zie ons [Salonized alternatief zonder commissie per boeking](/blog/salonized-alternatief-zonder-commissie) artikel. Voor reviews-strategie zie [review management voor kappers](/reviews).
 
 ## Hoe je de break-even voor jouw salon berekent
 
@@ -133,7 +133,7 @@ Onder 150 online boekingen per maand: vast tarief is goedkoper. Tussen 150-300: 
 
 **4. Migratie-kosten vergeten.** Als je nu Salonized hebt en overstapt naar een ander systeem, reken minimaal 4-8 uur eigen tijd of 400-800 euro aan een agency voor data-migratie. Die kosten staan vaak niet in een vergelijking.
 
-Voor een [gratis ai scan voor kappers](/gratis-scan) van je huidige boekingsstroom maken wij die rekensom voor jou — wat betaal je nu en wat zou een commissie-vrij alternatief jou over 3 jaar opleveren of besparen.
+Voor een [gratis ai scan voor kappers](/gratis-scan) van je huidige boekingsstroom maken wij die rekensom voor jou: wat betaal je nu en wat zou een commissie-vrij alternatief jou over 3 jaar opleveren of besparen.
 
 ## Veelgestelde vragen
 
@@ -155,6 +155,6 @@ Voor salons met onder 100 online boekingen per maand of voor multi-locatie keten
 
 ## Aan de slag
 
-Een rekensom van 5 minuten op je werkelijke boekings-volume vertelt je of Salonized voor jou de juiste keuze is of dat je 1.000-2.500 euro per jaar op tafel laat liggen. Doe de berekening voor je je jaarcontract verlengt — de meeste contracten lopen automatisch door tenzij je 1-3 maanden vooraf opzegt.
+Een rekensom van 5 minuten op je werkelijke boekings-volume vertelt je of Salonized voor jou de juiste keuze is of dat je 1.000-2.500 euro per jaar op tafel laat liggen. Doe de berekening voor je je jaarcontract verlengt, want de meeste contracten lopen automatisch door tenzij je 1-3 maanden vooraf opzegt.
 
 Wil je weten wat een commissie-vrij booking-systeem voor jouw salon zou kosten, en hoe een migratie-plan eruit ziet zonder klanten te verliezen? Plan een [gratis ai scan voor kappers](/gratis-scan) via [de demo-aanvraag](/demo). Wij doen een live audit op je huidige boekingsstroom en een 3-jaars kostenprognose.

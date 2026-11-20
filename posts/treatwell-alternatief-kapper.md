@@ -11,7 +11,7 @@ cluster: "automatisering"
 
 Treatwell is het grootste boekingsplatform voor salons in Nederland. Het klinkt aantrekkelijk: klanten boeken via de app, jij krijgt de afspraken. Maar er zit een keerzijde aan die steeds meer kappers stoort.
 
-Treatwell rekent commissie per boeking — reken met tot wel 35 procent op nieuwe klanten. Bij een knipbeurt van €45 gaat er €15 naar Treatwell. Dat is geld dat je eigenlijk zelf zou moeten verdienen. Daarnaast bouw je je klantenbestand op hun platform, niet op dat van jou. Je reviews staan op Treatwell, niet op Google. En als je stopt? Dan ben je alles kwijt.
+Treatwell rekent commissie per boeking: reken met tot wel 35 procent op nieuwe klanten. Bij een knipbeurt van €45 gaat er €15 naar Treatwell. Dat is geld dat je eigenlijk zelf zou moeten verdienen. Daarnaast bouw je je klantenbestand op hun platform, niet op dat van jou. Je reviews staan op Treatwell, niet op Google. En als je stopt? Dan ben je alles kwijt.
 
 Het is alsof je een winkel huurt in een winkelcentrum waar de eigenaar een dik deel van je omzet pakt en je klanten bij vertrek meeneemt.
 
@@ -29,35 +29,35 @@ Wat je als kapper wilt is simpel: klanten die rechtstreeks bij jou boeken, zonde
 | Klantgegevens | Van Treatwell | Van jou |
 | Reviews | Op Treatwell | Op jouw Google-profiel |
 | Online boeken | Via Treatwell app | Via jouw eigen website |
-| AI Telefoniste | Nee | Ja — 24/7 bereikbaar |
-| Chatbot | Nee | Ja — leads opvangen op je website |
-| Review automatisering | Nee | Ja — automatisch na elke afspraak |
+| AI Telefoniste | Nee | Ja, 24/7 bereikbaar |
+| Chatbot | Nee | Ja, leads opvangen op je website |
+| Review automatisering | Nee | Ja, automatisch na elke afspraak |
 | No-show herinneringen | Basis SMS | WhatsApp + SMS automatisch |
-| Social media | Nee | Ja — content planning en creatie |
-| SEO blog | Nee | Ja — artikelen die klanten trekken |
-| Managed service | Nee (zelf doen) | Ja — wij doen alles, 15 min/maand van jou |
-| Facturatie | Nee | Ja — automatisch |
+| Social media | Nee | Ja, content planning en creatie |
+| SEO blog | Nee | Ja, artikelen die klanten trekken |
+| Managed service | Nee (zelf doen) | Ja, wij doen alles (15 min/maand van jou) |
+| Facturatie | Nee | Ja, automatisch |
 | CRM | Basis | Volledig klantbeheer |
 | Aantal tools | 1 (boekingsplatform) | 25+ (compleet systeem) |
 
 ## Geen commissie, alles van jou
 
-Bij KapperAI betaal je een vast bedrag per maand. Geen commissie per boeking, geen verborgen kosten. Je klantgegevens zijn van jou. Je reviews staan op Google. Je website wordt sterker elke maand. En als je ooit zou stoppen, neem je alles mee — je content, je reviews, je klanten.
+Bij KapperAI betaal je een vast bedrag per maand. Geen commissie per boeking, geen verborgen kosten. Je klantgegevens zijn van jou. Je reviews staan op Google. Je website wordt sterker elke maand. En als je ooit zou stoppen, neem je alles mee: je content, je reviews, je klanten.
 
 Met Treatwell huur je klanten. Met KapperAI bouw je ze op.
 
 ## Managed service: wij doen het voor je
 
-Dit is het grootste verschil. Treatwell is een tool die je zelf moet beheren. KapperAI biedt managed service — wij regelen alles voor je. Van je online vindbaarheid tot je social media, van je reviews tot je automatische herinneringen.
+Dit is het grootste verschil. Treatwell is een tool die je zelf moet beheren. KapperAI biedt managed service: wij regelen alles voor je. Van je online vindbaarheid tot je social media, van je reviews tot je automatische herinneringen.
 
-Wat jij doet: 15 minuten per maand bellen om te checken of alles past bij je doelen. Dat is het. De rest doen wij. Dat is geen software kopen — dat is een compleet marketingbureau vervangen voor een fractie van de prijs.
+Wat jij doet: 15 minuten per maand bellen om te checken of alles past bij je doelen. Dat is het. De rest doen wij. Dat is geen software kopen. Dat is een compleet marketingbureau vervangen voor een fractie van de prijs.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/hoe-ai-kappers-helpt" class="text-dark fw-semibold">Hoe AI Kappers Helpt Bij Het Besparen Van Tijd (En Waarom Je Concurrentie Al Om Is)</a> →</p></div></div></div>
 
 ## Overstappen in 3 stappen
 
-1. Vraag een [gratis AI-scan](/gratis-scan) aan — wij analyseren je huidige situatie
-2. Wij zetten alles voor je op — website, chatbot, telefoniste, reviews, social media
+1. Vraag een [gratis AI-scan](/gratis-scan) aan, dan analyseren wij je huidige situatie
+2. Wij zetten alles voor je op: website, chatbot, telefoniste, reviews, social media
 3. Jij doet je vak, wij zorgen voor groei
 
 Geen langdurig contract, geen opzegtermijn, geen risico.

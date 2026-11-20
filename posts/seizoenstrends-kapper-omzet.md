@@ -15,7 +15,7 @@ cluster: "automatisering"
 
 Als kapper merk je het elk jaar: bepaalde maanden zijn drukker dan andere. December is topdrukte, januari is rustig, de zomer trekt aan rond festivalseizoen en in september wil iedereen weer strak de herfst in.
 
-Die patronen zijn voorspelbaar — en dat is goed nieuws. Want als je weet wat er komt, kun je erop inspelen. In plaats van afwachten tot de telefoon gaat, plan je vooruit. Seizoensmarketing is niet meer dan het juiste aanbod op het juiste moment onder de aandacht brengen.
+Die patronen zijn voorspelbaar, en dat is goed nieuws. Want als je weet wat er komt, kun je erop inspelen. In plaats van afwachten tot de telefoon gaat, plan je vooruit. Seizoensmarketing is niet meer dan het juiste aanbod op het juiste moment onder de aandacht brengen.
 
 Toch doen veel salons dit niet bewust. Ze hebben dezelfde menukaart het hele jaar door, dezelfde prijzen en dezelfde communicatie. De salons die wel seizoensbewust werken, zien het verschil in hun omzet.
 
@@ -25,7 +25,7 @@ Het voorjaar begint met klanten die klaar zijn voor verandering na de winter. Di
 
 **Kleurvernieuwing**. Balayage, highlights en lichtere tinten zijn populair van maart tot en met augustus. Promoot je kleurwerk actief op Instagram met voor-en-na foto's. Klanten die twijfelen, worden overtuigd door resultaten.
 
-**Festivalseizoen**. Van Koningsdag tot zomerfestivals — creatieve looks zijn gevraagd. Bied speciale festivalpakketten aan: vlechten, glitter, tijdelijke kleuren. Dit trekt een jongere doelgroep die je salon leert kennen.
+**Festivalseizoen**. Van Koningsdag tot zomerfestivals: creatieve looks zijn gevraagd. Bied speciale festivalpakketten aan: vlechten, glitter, tijdelijke kleuren. Dit trekt een jongere doelgroep die je salon leert kennen.
 
 **Bruidsseizoen**. Mei tot september is bruiloftenseizoen. Bruidskapsels hebben een hoge orderwaarde en leiden tot [mond-tot-mondreclame](/blog/personal-branding-kapper-naam-in-regio). Maak een apart bruidsaanbod op je website en deel bruidsresultaten op social media.
 
@@ -35,13 +35,13 @@ Het voorjaar begint met klanten die klaar zijn voor verandering na de winter. Di
 
 Na de zomer komen klanten met beschadigd haar door zon, chloor en zout water. Dat is je kans:
 
-**Herstellende behandelingen**. Keratinebehandelingen, diepe conditioners en haarverzorgingspakketten. Dit is omzet die je in de zomer niet hebt — positioneer het als een herfstnoodzaak.
+**Herstellende behandelingen**. Keratinebehandelingen, diepe conditioners en haarverzorgingspakketten. Dit is omzet die je in de zomer niet hebt, dus positioneer het als een herfstnoodzaak.
 
 **Donkere kleurtransities**. Veel klanten willen in september-oktober naar warmere, donkerdere tinten. Plan je [kleuradvies](/blog/personal-branding-kapper-naam-in-regio) actief in en stuur bestaande klanten een herinnering dat het tijd is voor een herfstkleur.
 
 **Feestdagenplanning**. December is de drukste maand. Begin in oktober met promoten: kerstpakketten, cadeaubonnen en groepsboekingen. Bied early-bird kortingen aan voor klanten die in oktober boeken voor december.
 
-**Cadeaubonnen**. November en december zijn de maanden voor cadeaubonnen. Promoot ze actief — ze brengen nieuwe klanten in januari, traditioneel de rustigste maand.
+**Cadeaubonnen**. November en december zijn de maanden voor cadeaubonnen. Promoot ze actief, want ze brengen nieuwe klanten in januari, traditioneel de rustigste maand.
 
 ## Seizoensacties die werken
 
@@ -68,7 +68,7 @@ Seizoensbewust werken gaat verder dan marketing. Het raakt je hele bedrijfsvoeri
 
 ## Aan de slag
 
-Seizoenstrends zijn voorspelbaar. De kapper die daarop inspeelt met het juiste aanbod, de juiste communicatie en de juiste planning, heeft het hele jaar door een stabiele omzet — zonder afhankelijk te zijn van toevallige walk-ins.
+Seizoenstrends zijn voorspelbaar. De kapper die daarop inspeelt met het juiste aanbod, de juiste communicatie en de juiste planning, heeft het hele jaar door een stabiele omzet, zonder afhankelijk te zijn van toevallige walk-ins.
 
 Begin met een simpel seizoensplan voor de komende drie maanden. Welke behandelingen passen bij het seizoen? Welke actie kun je aanbieden? Wanneer communiceer je het?
 

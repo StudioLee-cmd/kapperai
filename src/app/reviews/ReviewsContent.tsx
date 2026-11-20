@@ -113,7 +113,7 @@ const faqs = [
   },
   {
     question: "Wat doe ik met een negatieve review?",
-    answer: `Negatieve reviews zijn niet het einde van de wereld - het gaat erom hoe je reageert. We sturen je direct een alert bij een negatieve review en bieden kant-en-klare response templates. Een professionele reactie laat zien dat je klantgericht bent. Vaak veranderen klanten hun review zelfs na een goed gesprek.`,
+    answer: `Negatieve reviews zijn niet het einde van de wereld. Het gaat erom hoe je reageert. We sturen je direct een alert bij een negatieve review en bieden kant-en-klare response templates. Een professionele reactie laat zien dat je klantgericht bent. Vaak veranderen klanten hun review zelfs na een goed gesprek.`,
   },
   {
     question: `Kan ik review management ook los afnemen?`,
@@ -221,7 +221,7 @@ export default function ReviewsContent() {
             <div className="prose prose-lg dark:prose-invert max-w-none text-gray-700 dark:text-gray-300">
               <p>
                 93% van de consumenten leest online reviews voordat ze een {niche} kiezen. Google
-                Reviews zijn het digitale equivalent van mond-tot-mondreclame - en ze zijn
+                Reviews zijn het digitale equivalent van mond-tot-mondreclame, en ze zijn
                 zichtbaar voor iedereen. Meer en betere reviews betekent niet alleen meer
                 vertrouwen, maar ook hogere rankings in Google Maps.
               </p>
@@ -332,7 +332,7 @@ export default function ReviewsContent() {
               />
             </div>
             <p className="text-center text-sm text-foreground-accent mt-3 max-w-2xl mx-auto">
-              Na elke afspraak vraagt het systeem automatisch om een review — meer 5-sterren, meer instroom.
+              Na elke afspraak vraagt het systeem automatisch om een review: meer 5-sterren, meer instroom.
             </p>
           </motion.div>
 
@@ -525,7 +525,7 @@ export default function ReviewsContent() {
               </Link>
               <Link href="/seo" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">
                 <h3 className="text-lg font-bold mb-2 group-hover:text-primary transition-colors">SEO voor Kappers</h3>
-                <p className="text-foreground-accent text-sm mb-3">Reviews voeden je Google ranking — combineer met SEO automatisering.</p>
+                <p className="text-foreground-accent text-sm mb-3">Reviews voeden je Google ranking, dus combineer met SEO automatisering.</p>
                 <span className="inline-flex items-center gap-1 text-primary text-sm font-semibold">Bekijk <BsArrowRight size={14} /></span>
               </Link>
               <Link href="/automatisering" className="group border border-[var(--card-border)] rounded-2xl p-6 bg-[var(--card-background)] hover:border-primary/40 transition-all">

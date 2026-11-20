@@ -29,7 +29,7 @@ const features = [
   {
     icon: BsWhatsapp,
     title: "WhatsApp + SMS + e-mail",
-    desc: `De herinnering komt binnen waar jouw klant 'm leest — WhatsApp eerst, SMS als backup, e-mail als bevestiging. Jij kiest niets, het systeem matcht per klant.`,
+    desc: `De herinnering komt binnen waar jouw klant 'm leest: WhatsApp eerst, SMS als backup, e-mail als bevestiging. Jij kiest niets, het systeem matcht per klant.`,
   },
   {
     icon: BsClockHistory,
@@ -49,7 +49,7 @@ const features = [
   {
     icon: BsArrowRepeat,
     title: "Aanpasbare templates",
-    desc: `De toon is jouw toon. Je krijgt een set kapsalon-templates die je in 2 minuten aanpast aan jouw stijl — formeel, vriendelijk, of pure salonfeel.`,
+    desc: `De toon is jouw toon. Je krijgt een set kapsalon-templates die je in 2 minuten aanpast aan jouw stijl: formeel, vriendelijk, of pure salonfeel.`,
   },
   {
     icon: BsPeople,
@@ -67,7 +67,7 @@ const steps = [
   {
     number: "02",
     title: "Templates instellen op jouw stijl",
-    desc: `We zetten 4-5 herinnering-templates op die passen bij jouw salonstijl — knip, kleur, behandeling, nieuwe klant, vaste klant. Je leest ze door en past aan waar nodig.`,
+    desc: `We zetten 4-5 herinnering-templates op die passen bij jouw salonstijl: knip, kleur, behandeling, nieuwe klant, vaste klant. Je leest ze door en past aan waar nodig.`,
   },
   {
     number: "03",
@@ -85,19 +85,19 @@ const painPoints = [
   {
     icon: BsPhone,
     title: "Telefonisch herinneren vreet je dag op",
-    desc: `Elke ochtend 20 minuten bellen om afspraken van vandaag te bevestigen. Tijd die je ook in je salon kunt steken — als je het al consequent volhoudt.`,
+    desc: `Elke ochtend 20 minuten bellen om afspraken van vandaag te bevestigen. Tijd die je ook in je salon kunt steken, als je het al consequent volhoudt.`,
   },
   {
     icon: BsClockHistory,
     title: "Last-minute afzeggingen zonder vervanger",
-    desc: `Een klant zegt 's ochtends af, jouw stoel staat 2 uur leeg. Met een goede herinneringen-flow weet je dit twee dagen vooraf — genoeg tijd om de plek te vullen.`,
+    desc: `Een klant zegt 's ochtends af, jouw stoel staat 2 uur leeg. Met een goede herinneringen-flow weet je dit twee dagen vooraf, genoeg tijd om de plek te vullen.`,
   },
 ];
 
 const faqs = [
   {
     q: "Werkt dit met de agenda die ik nu al heb?",
-    a: "Ja. We koppelen het systeem aan de meeste salonagenda's — Treatwell, Salonized, Salonkee, Booksy, Mijn Salon en losse Google Calendar setups. In één intake-gesprek weten we welke koppeling jij nodig hebt.",
+    a: "Ja. We koppelen het systeem aan de meeste salonagenda's: Treatwell, Salonized, Salonkee, Booksy, Mijn Salon en losse Google Calendar setups. In één intake-gesprek weten we welke koppeling jij nodig hebt.",
   },
   {
     q: "Wat als een klant niet reageert op de herinnering?",
@@ -109,7 +109,7 @@ const faqs = [
   },
   {
     q: "Krijgen vaste klanten dezelfde herinneringen als nieuwe?",
-    a: "Nee. Het systeem herkent je vaste klanten en past de toon aan — informeler, korter, vaak alleen WhatsApp. Nieuwe klanten krijgen een uitgebreidere bevestiging zodat ze zeker weten dat ze goed zitten.",
+    a: "Nee. Het systeem herkent je vaste klanten en past de toon aan: informeler, korter, vaak alleen WhatsApp. Nieuwe klanten krijgen een uitgebreidere bevestiging zodat ze zeker weten dat ze goed zitten.",
   },
   {
     q: `Wat kost de herinneringen-service bij ${brand}?`,
@@ -141,7 +141,7 @@ export default function HerinneringenContent() {
             className="text-lg text-foreground-accent max-w-2xl mx-auto mb-8 sl-reveal sl-reveal-1"
           >
             WhatsApp en SMS herinneringen die je no-show-percentage met 60-80%
-            verlagen. Klanten bevestigen of verzetten in één tik — geen
+            verlagen. Klanten bevestigen of verzetten in één tik, geen
             telefoonrondjes, geen vergeten afspraken.
           </motion.p>
           <motion.div
@@ -175,7 +175,7 @@ export default function HerinneringenContent() {
             <p>
               Automatische herinneringen zijn slimme WhatsApp- en SMS-berichten
               die jouw klanten op het juiste moment vóór hun afspraak ontvangen
-              — zonder dat jij iets hoeft te doen. Anders dan losse SMS-jes
+              zonder dat jij iets hoeft te doen. Anders dan losse SMS-jes
               vanuit je telefoon, denkt het systeem mee: het kent jouw
               behandeltype, herkent vaste klanten en stuurt op het moment dat
               de kans op een respons het hoogst is.
@@ -184,7 +184,7 @@ export default function HerinneringenContent() {
               Voor {niche} betekent dit dat no-shows niet langer "iets wat nu
               eenmaal hoort bij het vak" zijn. Klanten bevestigen met één tik,
               verzetten met één link, of laten weten dat ze niet meer kunnen
-              — twee dagen vooraf, dus genoeg tijd om de plek opnieuw te
+              al twee dagen vooraf, dus genoeg tijd om de plek opnieuw te
               boeken. Geen telefoonrondjes 's ochtends, geen "hoorde je
               nog van...", geen lege stoelen die je had kunnen vullen.
             </p>
@@ -254,7 +254,7 @@ export default function HerinneringenContent() {
         <div className="max-w-6xl mx-auto">
           <h2 className="text-2xl md:text-3xl font-bold text-center mb-3">Wat krijg je?</h2>
           <p className="text-foreground-accent text-center mb-10 max-w-xl mx-auto">
-            Alles wat je nodig hebt om no-shows te halveren — inbegrepen in je pakket.
+            Alles wat je nodig hebt om no-shows te halveren, inbegrepen in je pakket.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {features.map((feature, idx) => (
@@ -286,13 +286,13 @@ export default function HerinneringenContent() {
           <div className="text-foreground-accent space-y-4 text-base leading-relaxed">
             <p>
               In de {nicheSingular}sbranche is een lege stoel niet alleen een gemiste
-              afspraak — het is gemiste omzet die je nooit meer terugverdient.
+              afspraak: het is gemiste omzet die je nooit meer terugverdient.
               Een no-show van 30 minuten is €40 weg; een no-show van 90 minuten
               (kleur, knippen, drogen) tikt door tot €120. Wie twee no-shows per
               week heeft, draait een gat van €4.000-€6.000 per jaar.
             </p>
             <p>
-              De truc is niet om "betere klanten" te hebben — die bestaan niet
+              De truc is niet om "betere klanten" te hebben, want die bestaan niet
               voor iedereen. De truc is om aan elke afspraak een vriendelijke,
               automatische voorbereiding te koppelen. Een klant die 24 uur
               vooraf een WhatsApp krijgt, met de mogelijkheid om met één tik
@@ -324,7 +324,7 @@ export default function HerinneringenContent() {
             Sluit perfect aan op je hele {brand}-systeem
           </h2>
           <p className="text-foreground-accent mb-10 max-w-2xl mx-auto">
-            Herinneringen werken het beste als onderdeel van een gesloten lus —
+            Herinneringen werken het beste als onderdeel van een gesloten lus:
             van eerste contact tot bevestigde afspraak.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 text-left">
@@ -335,7 +335,7 @@ export default function HerinneringenContent() {
               <BsPhone className="text-primary mb-3" size={22} />
               <h3 className="text-lg font-bold mb-1">Voice AI Telefonist</h3>
               <p className="text-foreground-accent text-sm">
-                Vangt nieuwe klanten op buiten openingstijden — geboekte
+                Vangt nieuwe klanten op buiten openingstijden: geboekte
                 afspraken gaan direct door naar de herinneringen-flow.
               </p>
             </Link>
@@ -358,7 +358,7 @@ export default function HerinneringenContent() {
               <h3 className="text-lg font-bold mb-1">CRM voor Kappers</h3>
               <p className="text-foreground-accent text-sm">
                 Vaste klanten herkennen, herhaalafspraken triggeren, vergeten
-                klanten reactiveren — alles vanuit één klantenbestand.
+                klanten reactiveren, alles vanuit één klantenbestand.
               </p>
             </Link>
             <Link
@@ -439,7 +439,7 @@ export default function HerinneringenContent() {
           <p className="text-foreground-accent text-lg mb-8 max-w-xl mx-auto">
             Plan een gratis gesprek van 15 minuten. We laten zien hoeveel
             no-shows je nu kosten en hoe de herinneringen-flow voor jouw
-            kapsalon eruit zou zien. Geen verkooppraat — alleen cijfers en
+            kapsalon eruit zou zien. Geen verkooppraat, alleen cijfers en
             een eerlijke take.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
