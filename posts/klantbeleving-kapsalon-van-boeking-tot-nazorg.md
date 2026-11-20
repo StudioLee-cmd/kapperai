@@ -1,7 +1,7 @@
 ---
 title: "De perfecte klantbeleving in je kapsalon: van boeking tot nazorg"
 seoTitle: "De perfecte klantbeleving in je kapsalon"
-excerpt: "De knipbeurt is maar een deel van het verhaal. De beste kapsalons winnen klanten met de totale beleving — van het eerste contact tot de nazorg."
+excerpt: "De knipbeurt is maar een deel van het verhaal. De beste kapsalons winnen klanten met de totale beleving, van het eerste contact tot de nazorg."
 date: "2026-03-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klantbeleving-kapsalon-van-boeking-tot-nazorg.png"
@@ -10,7 +10,7 @@ cluster: "automatisering"
 ---
 ## Waarom klantbeleving belangrijker is dan de knipbeurt
 
-Een goede kapper vinden is niet moeilijk. Er zijn er genoeg. Wat klanten doet terugkomen — en je aanbevelen bij vrienden — is niet alleen het kapsel. Het is hoe ze zich voelden. Van het moment dat ze een afspraak boekten tot het bericht dat ze drie dagen later kregen.
+Een goede kapper vinden is niet moeilijk. Er zijn er genoeg. Wat klanten doet terugkomen (en je aanbevelen bij vrienden) is niet alleen het kapsel. Het is hoe ze zich voelden. Van het moment dat ze een afspraak boekten tot het bericht dat ze drie dagen later kregen.
 
 De meeste klanten die vertrekken doen dat niet vanwege een slecht kapsel, maar vanwege een neutrale ervaring. Ze voelden zich niet speciaal. En dan is de volgende salon slechts een Google-zoekopdracht verwijderd.
 
@@ -33,16 +33,16 @@ Een standaard "Uw afspraak is bevestigd" is een gemiste kans. Stuur in plaats da
 
 "Leuk dat je langskomt, [naam]! Je afspraak bij [salon] is op [datum] om [tijd] bij [stylist]. Heb je inspiratiefoto's? Stuur ze gerust alvast door. Tot dan!"
 
-Persoonlijk, warm en uitnodigend — dat zet de toon.
+Persoonlijk, warm en uitnodigend: dat zet de toon.
 
 ## De ontvangst: de eerste 60 seconden
 
 De eerste minuut in je salon bepaalt een groot deel van de totale beleving. Wat een klant verwacht:
 
-- **Begroeting binnen 10 seconden** — oogcontact en een glimlach
-- **Jas ophangen** — kleine moeite, groot effect
-- **Drankje aanbieden** — koffie, thee, water of iets bijzonders
-- **Wachttijd communiceren** — "Het duurt nog ongeveer 5 minuten"
+- **Begroeting binnen 10 seconden**: oogcontact en een glimlach
+- **Jas ophangen**: kleine moeite, groot effect
+- **Drankje aanbieden**: koffie, thee, water of iets bijzonders
+- **Wachttijd communiceren**: "Het duurt nog ongeveer 5 minuten"
 
 ### De wachtruimte
 
@@ -65,16 +65,16 @@ Neem de eerste 3-5 minuten voor een gesprek voordat je begint:
 ### Productadvies (zonder te verkopen)
 
 De behandelstoel is het perfecte moment voor oprecht productadvies:
-- "Ik merk dat je haar droog aanvoelt. Dit is wat ik nu gebruik — het maakt echt verschil."
+- "Ik merk dat je haar droog aanvoelt. Dit is wat ik nu gebruik en het maakt echt verschil."
 - Laat het product zien, leg uit waarom het werkt
-- Geen druk — "Je kunt het altijd later bestellen"
+- Geen druk: "Je kunt het altijd later bestellen"
 
 ## Het afscheid en de nazorg
 
 Na de behandeling:
-- **Spiegel vanuit meerdere hoeken** — laat het resultaat goed zien
+- **Spiegel vanuit meerdere hoeken**: laat het resultaat goed zien
 - **Stylingtips** meegeven
-- **Volgende afspraak voorstellen** — "Over 6 weken is een goed moment. Zal ik alvast iets inplannen?"
+- **Volgende afspraak voorstellen**: "Over 6 weken is een goed moment. Zal ik alvast iets inplannen?"
 
 ### Na het bezoek: het verschil maken
 
@@ -97,7 +97,7 @@ Met 200 klanten is dat het verschil tussen €36.000 en €69.300 per jaar.
 
 ## Conclusie
 
-De perfecte klantbeleving begint bij het eerste contactmoment en eindigt nooit. Elke stap — van boeking tot nazorg — is een kans om een neutrale ervaring om te zetten in een wow-moment.
+De perfecte klantbeleving begint bij het eerste contactmoment en eindigt nooit. Elke stap, van boeking tot nazorg, is een kans om een neutrale ervaring om te zetten in een wow-moment.
 
 Met [KapperAI](/) automatiseren we je boekingsbevestigingen, [herinneringen](/automatisering), nazorg en reviewverzoeken. Onze managed service kost slechts 15 minuten van je tijd per maand.
 

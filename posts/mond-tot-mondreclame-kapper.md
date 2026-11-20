@@ -10,13 +10,13 @@ cluster: "branding"
 ---
 "Ken je een goede kapper?" Het is misschien wel de meest gestelde vraag in vriendengroepen. En het antwoord bepaalt waar die nieuwe klant naartoe gaat. Mond-tot-mondreclame is voor kappers de krachtigste en goedkoopste manier om te groeien.
 
-In dit artikel leer je hoe je mond-tot-mond als kapper actief stimuleert — zonder opdringerig te zijn.
+In dit artikel leer je hoe je mond-tot-mond als kapper actief stimuleert, zonder opdringerig te zijn.
 
 ## Waarom mond-tot-mond zo krachtig is voor kappers
 
 Een kapbeurt is persoonlijk. Klanten delen hun kapper met dezelfde overtuiging als hun huisarts. Ze vertrouwen erop dat hun aanbeveling serieus wordt genomen. Dat maakt mond-tot-mond krachtiger dan welke advertentie ook.
 
-De cijfers bevestigen dit: de meeste nieuwe klanten in kapsalons komen via aanbevelingen — niet via Google of [social media](/social-media).
+De cijfers bevestigen dit: de meeste nieuwe klanten in kapsalons komen via aanbevelingen, niet via Google of [social media](/social-media).
 
 ## Wat klanten doet aanbevelen
 
@@ -28,7 +28,7 @@ De cijfers bevestigen dit: de meeste nieuwe klanten in kapsalons komen via aanbe
 | Goede prijs-kwaliteitverhouding | Gemiddeld |
 | Kleine extra's (drankje, advies) | Gemiddeld-hoog |
 
-Het gaat niet alleen om het knippen of kleuren. Het gaat om de totale [klantbeleving](/blog/klantbeleving-kapsalon-van-boeking-tot-nazorg) — van het moment dat ze binnenlopen tot het moment dat ze vertrekken.
+Het gaat niet alleen om het knippen of kleuren. Het gaat om de totale [klantbeleving](/blog/klantbeleving-kapsalon-van-boeking-tot-nazorg), van het moment dat ze binnenlopen tot het moment dat ze vertrekken.
 
 ## 5 strategieen om mond-tot-mond te stimuleren
 
@@ -38,7 +38,7 @@ De basis is altijd het resultaat. Een klant die telkens blij naar huis gaat, wor
 
 ### 2. Creeer een deelbaar moment
 
-Een klant die blij is met haar nieuwe kleur, wil dat delen. Bied aan om een foto te maken in goed licht. Die foto gaat naar vriendinnen, Instagram en WhatsApp — gratis marketing. Combineer dit met je [social media strategie](/blog/social-media-kappers-instagram).
+Een klant die blij is met haar nieuwe kleur, wil dat delen. Bied aan om een foto te maken in goed licht. Die foto gaat naar vriendinnen, Instagram en WhatsApp: gratis marketing. Combineer dit met je [social media strategie](/blog/social-media-kappers-instagram).
 
 ### 3. Vraag er expliciet om
 
@@ -46,7 +46,7 @@ Na een succesvolle behandeling: "Als je tevreden bent, zou je ons dan willen aan
 
 ### 4. Beloon doorverwijzingen
 
-Een kortingscode of klein cadeau voor klanten die een nieuwe klant aanbrengen. Het hoeft niet groot te zijn — de erkenning telt. "Bedankt voor je aanbeveling" met een gratis behandeling erbij maakt indruk.
+Een kortingscode of klein cadeau voor klanten die een nieuwe klant aanbrengen. Het hoeft niet groot te zijn: de erkenning telt. "Bedankt voor je aanbeveling" met een gratis behandeling erbij maakt indruk.
 
 ### 5. Wees actief in de community
 

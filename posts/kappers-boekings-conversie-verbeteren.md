@@ -9,17 +9,17 @@ tags: ["Website", "Conversie"]
 cluster: "website"
 ---
 
-De typische kappers-website krijgt per maand tussen de 400 en 1.200 bezoekers. Van die bezoekers klikt maar een deel door naar de boekingspagina. En van die bezoekers boekt slechts een klein deel daadwerkelijk een afspraak. De rest verdwijnt. Dat is een conversie-funnel waar het grootste deel van de intentie uitloopt tussen "ik heb interesse" en "ik heb een afspraak". Die groep bestaat uit mensen die oprecht geïnteresseerd waren — ze klikten door, scrolden, keken naar tijden. Iets heeft ze in die laatste minuten weerhouden. Dit artikel legt uit welke vijf afhaak-redenen we zien op Nederlandse kappers-websites, en hoe elk ervan in een middag op te lossen is.
+De typische kappers-website krijgt per maand tussen de 400 en 1.200 bezoekers. Van die bezoekers klikt maar een deel door naar de boekingspagina. En van die bezoekers boekt slechts een klein deel daadwerkelijk een afspraak. De rest verdwijnt. Dat is een conversie-funnel waar het grootste deel van de intentie uitloopt tussen "ik heb interesse" en "ik heb een afspraak". Die groep bestaat uit mensen die oprecht geïnteresseerd waren: ze klikten door, scrolden, keken naar tijden. Iets heeft ze in die laatste minuten weerhouden. Dit artikel legt uit welke vijf afhaak-redenen we zien op Nederlandse kappers-websites, en hoe elk ervan in een middag op te lossen is.
 
 ## Waarom de boekingspagina het kritieke moment is
 
-Een klant die op je boekingspagina komt, heeft het lastige werk al gedaan. Ze hebben je gevonden op Google, op je homepage gekeken, gezien dat je aanbod bevalt, en besloten dat ze een afspraak willen. Als ze vervolgens afhaken, is dat niet omdat je salon niet goed is — het is omdat iets in de boekingsflow fout ging. Dat "iets" is bijna altijd één van vijf specifieke drempels.
+Een klant die op je boekingspagina komt, heeft het lastige werk al gedaan. Ze hebben je gevonden op Google, op je homepage gekeken, gezien dat je aanbod bevalt, en besloten dat ze een afspraak willen. Als ze vervolgens afhaken, is dat niet omdat je salon niet goed is, maar omdat iets in de boekingsflow fout ging. Dat "iets" is bijna altijd één van vijf specifieke drempels.
 
-Het herkennen en oplossen van deze drempels is daarmee de goedkoopste manier om omzet te verhogen. Geen nieuwe marketing, geen extra SEO — gewoon een betere laatste stap in een funnel die al bijna werkt.
+Het herkennen en oplossen van deze drempels is daarmee de goedkoopste manier om omzet te verhogen. Geen nieuwe marketing, geen extra SEO, gewoon een betere laatste stap in een funnel die al bijna werkt.
 
 ## Drempel 1: onduidelijke prijzen
 
-De meest voorkomende reden voor afhaken is prijs-onzekerheid. Klanten willen niet verrast worden. Als op je boekingspagina "vanaf 45 euro" staat, weten ze niet wat ze uiteindelijk betalen. Voor sommige behandelingen is de werkelijke prijs sterk afhankelijk van lengte, conditie en tijdsduur — maar "vanaf 45" voelt alsof je iets verstopt.
+De meest voorkomende reden voor afhaken is prijs-onzekerheid. Klanten willen niet verrast worden. Als op je boekingspagina "vanaf 45 euro" staat, weten ze niet wat ze uiteindelijk betalen. Voor sommige behandelingen is de werkelijke prijs sterk afhankelijk van lengte, conditie en tijdsduur, maar "vanaf 45" voelt alsof je iets verstopt.
 
 De oplossing is een realistische bandbreedte per behandeling met duidelijke differentiatie:
 
@@ -34,7 +34,7 @@ Bandbreedtes met duidelijke nuance ("exacte prijs afhankelijk van lengte en cond
 
 In een salon met twee of drie medewerkers wil de klant weten bij wie ze terecht komen. Niet iedere klant past bij iedere medewerker. Sommigen willen specifiek Mirjam omdat ze gespecialiseerd is in balayage. Anderen willen Lisa omdat ze een rustige energie heeft en geen praatjesmaker is.
 
-Een boekingspagina die alleen "tijdslot" laat kiezen zonder medewerker-onderscheid faalt bij een flink deel van de klanten, die dus geen voorkeur kunnen uiten. Toon per beschikbaar slot welke medewerker werkt, met een korte profielschets: "Mirjam — 8 jaar ervaring, specialist in balayage en bruidskapsels. Werkt dinsdag, woensdag en zaterdag."
+Een boekingspagina die alleen "tijdslot" laat kiezen zonder medewerker-onderscheid faalt bij een flink deel van de klanten, die dus geen voorkeur kunnen uiten. Toon per beschikbaar slot welke medewerker werkt, met een korte profielschets: "Mirjam, 8 jaar ervaring, specialist in balayage en bruidskapsels. Werkt dinsdag, woensdag en zaterdag."
 
 Die context maakt dat klanten zich thuis voelen bij hun keuze in plaats van blind op tijd te moeten klikken.
 
@@ -48,11 +48,11 @@ De beste boekingsflow voor een kappersalon is maximaal 3 stappen op één pagina
 2. **Wanneer?** (slot + medewerker tegelijk zichtbaar, niet sequentieel)
 3. **Wie bent u?** (naam, telefoon, WhatsApp-nummer)
 
-Al het andere — voorschot, allergie-info, specifieke voorkeuren — kan in de bevestiging via WhatsApp. Dat houdt de initiële flow snel.
+Al het andere (voorschot, allergie-info, specifieke voorkeuren) kan in de bevestiging via WhatsApp. Dat houdt de initiële flow snel.
 
 ## Drempel 4: geen antwoord op vragen die tijdens boeking opkomen
 
-Een klant die gellak-manicure wil boeken, vraagt zich wellicht af: "kan ik met extensions een behandeling doen?", "hoe lang duurt dit precies?", "moet ik make-up af hebben?". Zonder antwoord op die vragen tijdens het boekings-proces gaat ze weg en bedenkt zich — en belt pas later terug, of helemaal niet.
+Een klant die gellak-manicure wil boeken, vraagt zich wellicht af: "kan ik met extensions een behandeling doen?", "hoe lang duurt dit precies?", "moet ik make-up af hebben?". Zonder antwoord op die vragen tijdens het boekings-proces gaat ze weg en bedenkt zich, en belt pas later terug, of helemaal niet.
 
 Dit is precies waar een AI chatbot waarde toevoegt: tijdens de boekings-flow beschikbaar als direct antwoord-kanaal. "Stel direct je vraag aan onze assistent" onderaan elke stap van de boeking. Antwoorden komen in seconden, de klant verliest geen momentum en boekt door. Bekijk onze aanpak voor een [AI chatbot op je kappers-website](/chatbot) voor hoe we dit in de boekings-flow integreren.
 

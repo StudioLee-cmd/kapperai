@@ -9,7 +9,7 @@ cluster: "website"
 ---
 ## Waarom je website je belangrijkste medewerker is
 
-Je kapperswebsite is de eerste indruk die potentiële klanten van je salon krijgen. Terwijl jij bezig bent met knippen, kleuren en stylen, kan je website op de achtergrond afspraken binnenhalen. Toch functioneren veel kapperswebsites als niet meer dan een digitaal visitekaartje — een paar foto's, openingstijden en een telefoonnummer.
+Je kapperswebsite is de eerste indruk die potentiële klanten van je salon krijgen. Terwijl jij bezig bent met knippen, kleuren en stylen, kan je website op de achtergrond afspraken binnenhalen. Toch functioneren veel kapperswebsites als niet meer dan een digitaal visitekaartje: een paar foto's, openingstijden en een telefoonnummer.
 
 Dat is een gemiste kans. Een goed ingerichte website converteert bezoekers naar boekingen, zonder dat je er iets voor hoeft te doen. In dit artikel leer je hoe je dat bereikt. Heb je nog geen inzicht in hoe klanten je online vinden? Lees dan eerst hoe je als kapper [beter gevonden wordt op Google](/blog/hoe-een-kapper-meer-klanten-krijgt-via-google).
 
@@ -17,16 +17,16 @@ Dat is een gemiste kans. Een goed ingerichte website converteert bezoekers naar 
 
 Een effectieve kapperswebsite heeft een heldere structuur. Bezoekers willen binnen drie seconden weten wat je doet, waar je zit en hoe ze een afspraak maken. Zorg voor deze basiselementen:
 
-- **Homepage**: kort en krachtig — wie je bent, wat je doet en een directe boekingsknop
+- **Homepage**: kort en krachtig, met wie je bent, wat je doet en een directe boekingsknop
 - **Behandelingen**: overzicht van je diensten met duidelijke beschrijvingen
-- **Over mij/ons**: je verhaal en expertise — dit bouwt vertrouwen op
+- **Over mij/ons**: je verhaal en expertise, want dit bouwt vertrouwen op
 - **Contact**: adres, routebeschrijving en openingstijden
 
 Elke pagina moet een duidelijke call-to-action hebben die naar je boekingssysteem leidt. Geen doodlopende pagina's.
 
 ## Online boeken integreren
 
-De grootste conversiewinst haal je door online boeken mogelijk te maken. Klanten willen 's avonds op de bank een afspraak kunnen inplannen — niet alleen tijdens je openingstijden bellen. Een online boekingssysteem verlaagt de drempel enorm.
+De grootste conversiewinst haal je door online boeken mogelijk te maken. Klanten willen 's avonds op de bank een afspraak kunnen inplannen, niet alleen tijdens je openingstijden bellen. Een online boekingssysteem verlaagt de drempel enorm.
 
 Populaire opties voor kappers zijn Treatwell, Salonized en Fresha. Deze tools integreren direct in je website en synchroniseren met je agenda. Het resultaat: minder gemiste telefoontjes en meer gevulde stoelen. Wil je weten hoe je daarnaast [no-shows voorkomt](/blog/no-shows-voorkomen-kapsalon)? Combineer online boeken met automatische herinneringen.
 
@@ -34,7 +34,7 @@ Populaire opties voor kappers zijn Treatwell, Salonized en Fresha. Deze tools in
 
 Verreweg de meeste websitebezoekers komen via een smartphone. Als je website traag laadt of niet goed werkt op mobiel, verlies je direct potentiële klanten. Google straft trage websites bovendien af in de [zoekresultaten](/seo).
 
-Test je website op snelheid via Google PageSpeed Insights. Zorg dat afbeeldingen gecomprimeerd zijn, gebruik geen zware animaties en kies een snelle hosting. Een laadtijd van onder de 3 seconden is de norm — alles daarboven kost je boekingen.
+Test je website op snelheid via Google PageSpeed Insights. Zorg dat afbeeldingen gecomprimeerd zijn, gebruik geen zware animaties en kies een snelle hosting. Een laadtijd van onder de 3 seconden is de norm. Alles daarboven kost je boekingen.
 
 ## Social proof op je website
 

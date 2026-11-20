@@ -16,7 +16,7 @@ In een markt met duizenden kappers is het niet genoeg om goed te knippen. Je moe
 
 Personal branding gaat niet over opscheppen. Het gaat over duidelijk maken waar je voor staat. Wat maakt jouw salon anders? Ben je gespecialiseerd in balayage? Werk je alleen met duurzame producten? Richt je je op mannen, kinderen of bruidskapwerk?
 
-Klanten die jouw specialiteit herkennen, komen niet voor de laagste prijs — ze komen voor jou. Dat betekent minder concurrentie op prijs en meer loyale klanten. Een sterk merk zorgt er ook voor dat klanten je sneller vinden online. Als je [Google Bedrijfsprofiel goed is ingesteld](/blog/google-bedrijfsprofiel-kapper-optimaliseren), versterkt je branding het vertrouwen dat potentiele klanten hebben voordat ze een afspraak maken.
+Klanten die jouw specialiteit herkennen, komen niet voor de laagste prijs. Ze komen voor jou. Dat betekent minder concurrentie op prijs en meer loyale klanten. Een sterk merk zorgt er ook voor dat klanten je sneller vinden online. Als je [Google Bedrijfsprofiel goed is ingesteld](/blog/google-bedrijfsprofiel-kapper-optimaliseren), versterkt je branding het vertrouwen dat potentiele klanten hebben voordat ze een afspraak maken.
 
 ## Je unieke stijl als merk
 
@@ -28,7 +28,7 @@ Maak ook je merknaam en visuele identiteit herkenbaar. Een simpel logo, een vast
 
 ## Social media als brandingkanaal
 
-Instagram is het belangrijkste platform voor kappers. Maar posten alleen is niet genoeg — je moet een herkenbare stijl opbouwen. Gebruik dezelfde filters, dezelfde hoeken voor foto's en een consistente tone of voice in je captions.
+Instagram is het belangrijkste platform voor kappers. Maar posten alleen is niet genoeg: je moet een herkenbare stijl opbouwen. Gebruik dezelfde filters, dezelfde hoeken voor foto's en een consistente tone of voice in je captions.
 
 Deel niet alleen het eindresultaat maar ook het proces. Behind-the-scenes content maakt je menselijk en toegankelijk. Stories met polls, vragen en before-and-after slides verhogen je bereik. In ons artikel over [social media voor kappers](/blog/social-media-kappers-instagram) lees je meer over welke contenttypes het best werken.
 
@@ -44,7 +44,7 @@ Voeg regelmatig berichten toe aan je profiel. Google beloont actieve profielen m
 
 ## Klantbeleving als merkbelofte
 
-Je merk is niet alleen wat je zegt — het is wat klanten ervaren. Elke interactie telt: de begroeting, de koffie, het adviesgesprek, de afrekening. Een kapper die structureel een uitstekende beleving biedt, bouwt vanzelf een sterk merk op.
+Je merk is niet alleen wat je zegt. Het is wat klanten ervaren. Elke interactie telt: de begroeting, de koffie, het adviesgesprek, de afrekening. Een kapper die structureel een uitstekende beleving biedt, bouwt vanzelf een sterk merk op.
 
 Denk na over de kleine details. Een welkomstdrankje op smaak, een kort adviesmoment over haarverzorging na het knippen, een persoonlijk berichtje na een grote verandering. Lees meer over het opbouwen van een [complete klantbeleving in je kapsalon](/blog/klantbeleving-kapsalon-van-boeking-tot-nazorg).
 
@@ -52,6 +52,6 @@ Vraag ook regelmatig feedback. Klanten die het gevoel hebben dat hun mening erto
 
 ## Conclusie
 
-Personal branding als kapper draait om drie dingen: weten waar je voor staat, dat consistent uitdragen en het waarmaken in de praktijk. Het kost geen groot budget — het kost bewustzijn en discipline. Begin vandaag met het aanscherpen van je verhaal en je ziet het terug in je agenda.
+Personal branding als kapper draait om drie dingen: weten waar je voor staat, dat consistent uitdragen en het waarmaken in de praktijk. Het kost geen groot budget, wel bewustzijn en discipline. Begin vandaag met het aanscherpen van je verhaal en je ziet het terug in je agenda.
 
 Wil je weten hoe jouw salon er online voorstaat? Vraag een [gratis scan aan](/gratis-scan) en ontdek waar de kansen liggen.

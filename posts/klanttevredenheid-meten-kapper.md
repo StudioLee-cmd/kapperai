@@ -7,7 +7,7 @@ authorSlug: "tim-van-der-lee"
 image: "/images/blog/klanttevredenheid-meten-kapper.jpg"
 tags: ["Klantbeleving", "Reviews"]
 ---
-## Je klanten zeggen "het ziet er goed uit" — maar komen ze terug?
+## Je klanten zeggen "het ziet er goed uit", maar komen ze terug?
 
 De meeste klanten vertellen je niet eerlijk wat ze vinden. Ze knikken beleefd, betalen, en als het niet beviel komen ze gewoon niet meer terug. Zonder dat je ooit weet waarom.
 
@@ -54,7 +54,7 @@ Een simpel stempelkaartje of digitaal loyaliteitsprogramma werkt nog steeds. Na 
 
 ## Van tevredenheid naar reviews
 
-Tevreden klanten laten niet automatisch reviews achter. Je moet het vragen — en het makkelijk maken. Automatische review-verzoeken via WhatsApp na elke afspraak, met een directe link naar je Google-profiel, verdrievoudigen het aantal reviews dat je krijgt.
+Tevreden klanten laten niet automatisch reviews achter. Je moet het vragen en het makkelijk maken. Automatische review-verzoeken via WhatsApp na elke afspraak, met een directe link naar je Google-profiel, verdrievoudigen het aantal reviews dat je krijgt.
 
 
 
@@ -62,12 +62,12 @@ Tevreden klanten laten niet automatisch reviews achter. Je moet het vragen — e
 
 Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als kapper.
 
-Een [review management](/reviews) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [gratis scan](/gratis-scan) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+Een [review management](/reviews) vangt automatisch vragen op en plant afspraken in, ook buiten werktijd. Een [gratis scan](/gratis-scan) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
 
-Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [AI chatbot](/chatbot) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [AI chatbot](/chatbot): we analyseren je huidige situatie en laten zien wat er mogelijk is.
 
 ## Conclusie
 
-Klanttevredenheid is geen vaag gevoel — het is meetbaar, verbeterbaar en direct gekoppeld aan je omzet. Met de juiste tools meet je automatisch, verbeter je gericht en verzamel je meer reviews.
+Klanttevredenheid is geen vaag gevoel. Het is meetbaar, verbeterbaar en direct gekoppeld aan je omzet. Met de juiste tools meet je automatisch, verbeter je gericht en verzamel je meer reviews.
 
 Benieuwd hoe je dit in jouw salon opzet? [Start een gratis scan](/gratis-scan) en ontdek waar de kansen liggen.

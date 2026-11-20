@@ -34,7 +34,7 @@ De zogenaamde 5-minuten-regel klinkt strak, maar de cijfers achter de regel zijn
 
 Het lastige: jij bent kapper, geen receptionist. Tussen 09:00 en 18:00 ben je bezig met klanten in de stoel. Daarom werkt de 5-minuten-regel alleen als de eerste reactie geautomatiseerd is. Niet de hele dialoog, alleen het eerste bericht: de bevestiging dat je bestaat en dat het bericht is gezien. Daarna mag jij rustig binnen een uur of twee zelf antwoorden, want het verlies-momentum is opgevangen.
 
-## Fase 1 — Eerste contact: DM, gemiste oproep of formulier
+## Fase 1: Eerste contact via DM, gemiste oproep of formulier
 
 Hier wint of verlies je de lead. Bij elk kanaal is de regel hetzelfde: bevestig binnen vijf minuten, beloof concreet vervolg, vraag iets kleins terug.
 
@@ -50,7 +50,7 @@ Een gemiste oproep is goud, want iemand belt alleen als ze het serieus menen. St
 
 De minimale automatische e-mail is "Hoi [naam], we hebben je bericht ontvangen en je krijgt vandaag nog antwoord. Heb je haast? App ons op 06-12345678." Twee zinnen, persoonlijk getekend, geen marketing-blabla. Dit haalt de helft van de stress weg en koopt je een paar uur ademruimte.
 
-## Fase 2 — Van gesprek naar geboekte afspraak
+## Fase 2: Van gesprek naar geboekte afspraak
 
 Een lead is geen klant tot er een afspraak in de agenda staat. Hier maken kappers vaak de tweede grote fout: ze blijven in een vrijblijvend chatgesprek hangen omdat ze de klant niet onder druk willen zetten. Het tegenovergestelde is waar: de klant wil graag een duidelijke volgende stap.
 
@@ -58,13 +58,13 @@ Na twee of drie heen-en-weer berichten stel je heel concreet voor: "Ik heb donde
 
 Bevestig de boeking binnen 30 seconden met een concrete tekst: datum, tijd, prijsindicatie, adres en wat ze moeten meebrengen. Geen "We zien je donderdag" maar "Donderdag 14 mei om 14:00, balayage en knippen, ongeveer 195 euro, Hoofdstraat 12. Tot dan!"
 
-## Fase 3 — De 24-uur bevestiging die no-shows voorkomt
+## Fase 3: De 24-uur bevestiging die no-shows voorkomt
 
 Tussen boeking en afspraak zit gemiddeld zeven tot tien dagen wachttijd. In die periode verandert het leven van de klant: ze gaat weg dat weekend, een vriendin trouwt, ze vergeet simpelweg dat ze bij jou had geboekt. Een no-show kost je 60 tot 150 euro per stoel, plus de reputatieschade van een gat in je dag.
 
 Stuur 24 uur van tevoren een WhatsApp-bevestiging met één-klik bevestigen of verzetten. "Hoi [naam], je hebt morgen om 14:00 een afspraak voor balayage. Klopt het nog? Antwoord JA om te bevestigen, of klik hier om te verzetten." Verreweg de meeste klanten reageren binnen drie uur, en degenen die niet kunnen, geven hun plek vrij zodat jij iemand op de wachtlijst kunt plaatsen.
 
-## Fase 4 — Na het bezoek: het moment waarop je vaste klanten maakt
+## Fase 4: Na het bezoek, het moment waarop je vaste klanten maakt
 
 De klant verlaat je salon, kijkt nog een keer in de spiegel van de etalage en stapt op de fiets. Tot 24 uur later is ze op haar happiest met haar haar. Dat is jouw kans.
 
@@ -76,7 +76,7 @@ Stuur diezelfde avond een kort persoonlijk bericht: "Hoi [naam], leuk dat je van
 
 48 uur na het bezoek is de gouden review-trigger. Niet eerder (de klant is nog niet thuis bevallen), niet later (het euforie-moment is voorbij). Stuur een korte WhatsApp met een directe link naar je Google Bedrijfsprofiel: "Was je tevreden? Een korte review op Google helpt ons enorm." Drie zinnen, één link. Dit is hoe je [automatisch reviews verzamelt](/reviews) zonder dat je zelf op je telefoon hoeft te wachten.
 
-## Fase 5 — De rebook-trigger: haal klanten terug voordat ze vergeten
+## Fase 5: De rebook-trigger (haal klanten terug voordat ze vergeten)
 
 De gemiddelde knipfrequentie is zes tot acht weken, kleurfrequentie tien tot veertien weken. Stuur niet één rebook-reminder na zes weken, maar bouw een trigger-flow:
 

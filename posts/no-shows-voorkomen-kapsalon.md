@@ -17,12 +17,12 @@ No-shows zijn een van de grootste frustraties in de kappersbranche. Je staat kla
 
 Voordat je no-shows kunt voorkomen, moet je begrijpen waarom ze gebeuren:
 
-- **Vergeten** — veruit de meest voorkomende reden. Mensen plannen weken vooruit en vergeten het simpelweg.
-- **Dubbel geboekt** — klanten die meerdere afspraken maken en de laatste wint.
-- **Geen urgentie** — bij een kapper denken mensen "ik kom wel een andere keer."
-- **Drempelvrees om af te bellen** — sommige klanten vinden het vervelend om te bellen, dus doen ze niets.
+- **Vergeten**: veruit de meest voorkomende reden. Mensen plannen weken vooruit en vergeten het simpelweg.
+- **Dubbel geboekt**: klanten die meerdere afspraken maken en de laatste wint.
+- **Geen urgentie**: bij een kapper denken mensen "ik kom wel een andere keer."
+- **Drempelvrees om af te bellen**: sommige klanten vinden het vervelend om te bellen, dus doen ze niets.
 
-Het goede nieuws? Al deze redenen zijn op te lossen — vaak met heel simpele aanpassingen.
+Het goede nieuws? Al deze redenen zijn op te lossen, vaak met heel simpele aanpassingen.
 
 ## 1. Stuur automatische herinneringen (24 uur + 2 uur van tevoren)
 
@@ -32,7 +32,7 @@ De ideale combinatie:
 - **24 uur van tevoren**: een vriendelijke herinnering met datum, tijd en behandeling
 - **2 uur van tevoren**: een kort berichtje "Tot zo om [tijd]!"
 
-Het mooie is dat dit volledig geautomatiseerd kan. Je hoeft er zelf niets voor te doen — het systeem stuurt de berichten op het juiste moment.
+Het mooie is dat dit volledig geautomatiseerd kan. Je hoeft er zelf niets voor te doen, want het systeem stuurt de berichten op het juiste moment.
 
 ## 2. Maak afzeggen makkelijker dan wegblijven
 
@@ -68,7 +68,7 @@ Dit stimuleert niet alleen aanwezigheid, maar ook terugkerende boekingen.
 
 ## 6. Bel na de eerste no-show persoonlijk
 
-De eerste keer is menselijk — vergeten kan iedereen. Bel de klant dezelfde dag nog op (of laat dit automatisch doen via Voice AI). Wees vriendelijk: "We misten je vandaag! Zullen we een nieuwe afspraak inplannen?"
+De eerste keer is menselijk: vergeten kan iedereen. Bel de klant dezelfde dag nog op (of laat dit automatisch doen via Voice AI). Wees vriendelijk: "We misten je vandaag! Zullen we een nieuwe afspraak inplannen?"
 
 Dit persoonlijke contact:
 - Laat zien dat je om je klanten geeft
@@ -101,7 +101,7 @@ Dat is het verschil tussen frustratie en een volle salon.
 
 ## Conclusie
 
-No-shows zijn geen onvermijdelijk probleem — het is een oplosbaar probleem. Met de juiste combinatie van automatische herinneringen, slim boekingsbeheer en klantbinding houd je je stoelen bezet en je omzet op peil.
+No-shows zijn geen onvermijdelijk probleem. Het is een oplosbaar probleem. Met de juiste combinatie van automatische herinneringen, slim boekingsbeheer en klantbinding houd je je stoelen bezet en je omzet op peil.
 
 Met [KapperAI](/) automatiseer je herinneringen, wachtlijsten en boekingen in één systeem. Onze [managed service](/blog/managed-ai-vs-agency) kost slechts 15 minuten van je tijd per maand.
 

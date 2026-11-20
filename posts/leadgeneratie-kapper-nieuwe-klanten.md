@@ -13,11 +13,11 @@ cluster: "automatisering"
 
 ## Waarom je niet alleen op Google kunt leunen
 
-[Google](/blog/hoe-een-kapper-meer-klanten-krijgt-via-google) is belangrijk, maar het is een kanaal waar je concurreert met elke andere kapper in je regio. Prijsvergelijking, reviews, advertenties — het is een strijd om aandacht.
+[Google](/blog/hoe-een-kapper-meer-klanten-krijgt-via-google) is belangrijk, maar het is een kanaal waar je concurreert met elke andere kapper in je regio. Prijsvergelijking, reviews, advertenties: het is een strijd om aandacht.
 
 De sterkste salons bouwen daarnaast andere kanalen op. Kanalen waar je niet direct concurreert, waar klanten al vertrouwen hebben en waar de drempel lager is. Dat is leadgeneratie buiten Google om.
 
-Het mooie: deze kanalen kosten vaak weinig tot niets. Het kost wel tijd en consistentie — maar het levert klanten op die al warm zijn voordat ze je salon binnenstappen.
+Het mooie: deze kanalen kosten vaak weinig tot niets. Het kost wel tijd en consistentie, maar het levert klanten op die al warm zijn voordat ze je salon binnenstappen.
 
 ## Samenwerkingen in je buurt
 
@@ -27,13 +27,13 @@ De snelste manier om nieuwe klanten te bereiken is via bedrijven die dezelfde do
 
 **Bruidswinkel of trouwlocatie**. Bruiden zoeken een kapper voor de grote dag. Een samenwerking met een bruidswinkel of trouwlocatie levert je premium klanten op met hoge orderwaarde.
 
-**Lokale winkels en horeca**. Een koffiezaak, kledingwinkel of gym in dezelfde straat — jullie delen dezelfde buurt en dezelfde doelgroep. Een gezamenlijke flyer of een korting voor elkaars klanten werkt verrassend goed.
+**Lokale winkels en horeca**. Een koffiezaak, kledingwinkel of gym in dezelfde straat: jullie delen dezelfde buurt en dezelfde doelgroep. Een gezamenlijke flyer of een korting voor elkaars klanten werkt verrassend goed.
 
 Het draait om wederkerigheid: jij stuurt klanten hun kant op, zij sturen klanten jouw kant op.
 
 ## Social media als leadkanaal
 
-Social media is meer dan een etalage — het is een actief wervingskanaal als je het goed inzet.
+Social media is meer dan een etalage. Het is een actief wervingskanaal als je het goed inzet.
 
 **Reels en voor-en-na content**. Korte video's van transformaties worden het meest gedeeld en bereiken mensen buiten je bestaande volgers. Elke viral reel is potentieel tientallen nieuwe klanten.
 

@@ -11,22 +11,22 @@ cluster: "website"
 
 Als kapper ken je het vast: je bent midden in een knipbeurt en je telefoon gaat. Een potentiële klant wil een afspraak maken, maar je kunt niet opnemen. Tegen de tijd dat je terugbelt, heeft die klant al bij de concurrent geboekt. Dit scenario speelt zich dagelijks af in duizenden kapsalons door heel Nederland.
 
-Online boeken lost dit probleem definitief op. Je klanten maken een afspraak wanneer het hén uitkomt — 's avonds op de bank, tijdens de lunchpauze, of om 6 uur 's ochtends. En jij mist geen enkele boeking meer.
+Online boeken lost dit probleem definitief op. Je klanten maken een afspraak wanneer het hén uitkomt: 's avonds op de bank, tijdens de lunchpauze, of om 6 uur 's ochtends. En jij mist geen enkele boeking meer.
 
 ## Waarom klanten online willen boeken
 
 Verreweg de meeste consumenten hebben een voorkeur voor online reserveren boven bellen. Vooral jongere generaties (18-35 jaar) beschouwen telefonisch boeken als ouderwets. Ze willen:
 
-- **Direct beschikbaarheid zien** — geen heen-en-weer gepraat over tijden
-- **Op elk moment boeken** — ook buiten openingstijden
-- **Bevestiging ontvangen** — een automatische bevestiging per mail of SMS geeft zekerheid
-- **Eenvoudig wijzigen of annuleren** — zonder opnieuw te hoeven bellen
+- **Direct beschikbaarheid zien**: geen heen-en-weer gepraat over tijden
+- **Op elk moment boeken**, ook buiten openingstijden
+- **Bevestiging ontvangen**: een automatische bevestiging per mail of SMS geeft zekerheid
+- **Eenvoudig wijzigen of annuleren**, zonder opnieuw te hoeven bellen
 
 Als jouw salon geen online boekingsoptie biedt, verlies je deze klanten aan concurrenten die dat wél doen. Het is niet meer de vraag óf je online boeken aanbiedt, maar wanneer.
 
 ## De voordelen voor jouw kapsalon
 
-Online boeken is niet alleen handig voor klanten — het maakt jouw bedrijfsvoering aanzienlijk efficiënter.
+Online boeken is niet alleen handig voor klanten, het maakt jouw bedrijfsvoering ook aanzienlijk efficiënter.
 
 ### Minder telefoonverkeer
 
@@ -38,7 +38,7 @@ De meeste online boekingssystemen sturen automatische herinneringen via SMS of W
 
 ### Hogere bezettingsgraad
 
-Wanneer klanten 24/7 kunnen boeken, vullen ook de minder populaire tijdslots zich sneller. Dinsdagochtend en woensdagmiddag — tijden die normaal leeg blijven — worden vaker geboekt wanneer klanten zelf hun moment kunnen kiezen.
+Wanneer klanten 24/7 kunnen boeken, vullen ook de minder populaire tijdslots zich sneller. Dinsdagochtend en woensdagmiddag, tijden die normaal leeg blijven, worden vaker geboekt wanneer klanten zelf hun moment kunnen kiezen.
 
 ### Professionele uitstraling
 
@@ -48,11 +48,11 @@ Een salon met een online boekingssysteem straalt professionaliteit uit. Het laat
 
 Niet elk boekingssysteem past bij elke salon. Let op deze punten:
 
-- **Koppeling met je agenda** — het systeem moet realtime synchroniseren, zodat dubbele boekingen onmogelijk zijn
-- **Automatische herinneringen** — SMS of WhatsApp herinneringen 24 uur voor de afspraak
-- **Meerdere medewerkers** — als je een team hebt, moet elke stylist een eigen agenda hebben
-- **Behandelingsduur** — het systeem moet automatisch de juiste tijd reserveren per behandeling (knippen 30 min, kleuren 90 min)
-- **Betaalintegratie** — optioneel, maar steeds meer salons laten klanten vooraf een aanbetaling doen om no-shows te voorkomen
+- **Koppeling met je agenda**: het systeem moet realtime synchroniseren, zodat dubbele boekingen onmogelijk zijn
+- **Automatische herinneringen**: SMS of WhatsApp herinneringen 24 uur voor de afspraak
+- **Meerdere medewerkers**: als je een team hebt, moet elke stylist een eigen agenda hebben
+- **Behandelingsduur**: het systeem moet automatisch de juiste tijd reserveren per behandeling (knippen 30 min, kleuren 90 min)
+- **Betaalintegratie**: optioneel, maar steeds meer salons laten klanten vooraf een aanbetaling doen om no-shows te voorkomen
 
 Platforms zoals Treatwell bieden online boekingen, maar nemen ook een commissie per boeking. Een eigen boekingswidget op je website geeft je volledige controle zonder commissiekosten.
 
@@ -68,7 +68,7 @@ Er zijn twee routes om online boeken aan te bieden:
 - Voordeel: geen commissie, klantdata is van jou, versterkt je eigen merk
 - Nadeel: je moet zelf klanten naar je website trekken (maar dat doe je al via [Google](/blog/hoe-een-kapper-meer-klanten-krijgt-via-google))
 
-De slimste aanpak is een combinatie: je eigen boekingssysteem op je website als primair kanaal, aangevuld met een platformpresence voor extra bereik. Maar investeer het meest in je eigen kanaal — daar bouw je waarde op die van jou blijft.
+De slimste aanpak is een combinatie: je eigen boekingssysteem op je website als primair kanaal, aangevuld met een platformpresence voor extra bereik. Maar investeer het meest in je eigen kanaal, want daar bouw je waarde op die van jou blijft.
 
 ## Hoe start je met online boeken?
 
@@ -76,20 +76,20 @@ De implementatie is eenvoudiger dan je denkt:
 
 1. **Kies een systeem** dat past bij je salongrootte en budget
 2. **Voer je behandelingen in** met de juiste tijdsduur en prijzen
-3. **Zet het live op je website** — een boekingsknop op elke pagina
-4. **Communiceer het naar klanten** — in de salon, op social media, in je e-mailhandtekening
-5. **Monitor en optimaliseer** — check maandelijks je bezettingsgraad en no-show percentage
+3. **Zet het live op je website**: een boekingsknop op elke pagina
+4. **Communiceer het naar klanten**: in de salon, op social media, in je e-mailhandtekening
+5. **Monitor en optimaliseer**: check maandelijks je bezettingsgraad en no-show percentage
 
 Binnen een week kun je live zijn. De meeste systemen bieden een gratis proefperiode aan, dus je kunt zonder risico testen.
 
 ## Wat als je het niet zelf wilt regelen?
 
-Geen tijd of zin om dit allemaal zelf op te zetten? Met een managed service hoef je maar **15 minuten per maand** te besteden aan een update-gesprek. De rest — van technische setup tot optimalisatie — wordt voor je geregeld.
+Geen tijd of zin om dit allemaal zelf op te zetten? Met een managed service hoef je maar **15 minuten per maand** te besteden aan een update-gesprek. De rest, van technische setup tot optimalisatie, wordt voor je geregeld.
 
 Benieuwd wat dit voor jouw salon kan betekenen? [Vraag een gratis scan aan](/gratis-scan) en ontdek waar de kansen liggen.
 
 ## Conclusie
 
-Online boeken is geen luxe meer — het is de standaard die klanten verwachten. Salons die 24/7 reserveren mogelijk maken, zien hogere bezettingsgraden, minder no-shows en meer nieuwe klanten. Hoe eerder je start, hoe sneller je profiteert.
+Online boeken is geen luxe meer. Het is de standaard die klanten verwachten. Salons die 24/7 reserveren mogelijk maken, zien hogere bezettingsgraden, minder no-shows en meer nieuwe klanten. Hoe eerder je start, hoe sneller je profiteert.
 
 Bekijk ook onze andere tips voor [meer klanten via Google](/blog/hoe-een-kapper-meer-klanten-krijgt-via-google) en hoe je social media inzet als kapper.

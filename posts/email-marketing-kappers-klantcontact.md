@@ -12,7 +12,7 @@ cluster: "automatisering"
 
 Social media is belangrijk, maar e-mail blijft het kanaal met het hoogste rendement. Waar een Instagram-post maar een fractie van je volgers bereikt, wordt een goede e-mail door een aanzienlijk deel van je ontvangers geopend. Voor kappers is dat een directe lijn naar je klantenbestand.
 
-Het mooie aan e-mailmarketing is dat je klanten bereikt op momenten dat ze niet in je stoel zitten. Tussen twee afspraken in kun je top-of-mind blijven — zonder opdringerig te zijn. In combinatie met je [social media strategie](/blog/social-media-kappers-instagram) creëer je een marketingmix die consistent nieuwe en terugkerende boekingen oplevert.
+Het mooie aan e-mailmarketing is dat je klanten bereikt op momenten dat ze niet in je stoel zitten. Tussen twee afspraken in kun je top-of-mind blijven, zonder opdringerig te zijn. In combinatie met je [social media strategie](/blog/social-media-kappers-instagram) creëer je een marketingmix die consistent nieuwe en terugkerende boekingen oplevert.
 
 ## Wat stuur je klanten tussen afspraken
 
@@ -30,8 +30,8 @@ Het doel is niet verkopen, maar waarde bieden. Als je klanten blij maakt met je 
 De kracht van e-mailmarketing zit in automatisering. Stel eenmalig je flows in en ze draaien maandenlang zonder dat je er naar omkijkt:
 
 1. **Afspraakherinnering**: automatisch 24 uur voor elke afspraak
-2. **Na-de-afspraak e-mail**: bedank de klant en vraag om een review — dit helpt je [Google reviews](/blog/meer-google-reviews-als-kapper) te laten groeien
-3. **Herboekingsherinnering**: 4-6 weken na de laatste afspraak — "het is weer tijd voor een knipbeurt"
+2. **Na-de-afspraak e-mail**: bedank de klant en vraag om een review, want dit helpt je [Google reviews](/blog/meer-google-reviews-als-kapper) te laten groeien
+3. **Herboekingsherinnering**: 4-6 weken na de laatste afspraak, met "het is weer tijd voor een knipbeurt"
 4. **Verjaardagsmail**: persoonlijk en met een kleine korting
 
 Deze vier flows dekken het hele klanttraject. Ze kosten je misschien twee uur om op te zetten en besparen je daarna tientallen uren per maand.
@@ -41,11 +41,11 @@ Deze vier flows dekken het hele klanttraject. Ze kosten je misschien twee uur om
 Een maandelijkse nieuwsbrief houdt je salon top-of-mind. Maar alleen als-ie gelezen wordt. Tips voor een hogere open rate:
 
 - **Pakkende onderwerpregel**: kort, persoonlijk, nieuwsgierig makend ("De trend die alle kappers in 2026 omarmen")
-- **Korte tekst**: maximaal 200 woorden — kappers-klanten willen geen essays lezen
+- **Korte tekst**: maximaal 200 woorden, want kappers-klanten willen geen essays lezen
 - **Één duidelijke CTA**: "Boek nu je afspraak" of "Bekijk onze nieuwe behandeling"
 - **Herkenbare afzender**: stuur vanuit je eigen naam, niet vanuit "info@"
 
-Wissel af tussen inhoudelijke tips, aanbiedingen en persoonlijke updates. Laat ook je [klantbeleving](/blog/klantbeleving-kapsalon-van-boeking-tot-nazorg) terugkomen in je e-mails — deel foto's van het salonleven.
+Wissel af tussen inhoudelijke tips, aanbiedingen en persoonlijke updates. Laat ook je [klantbeleving](/blog/klantbeleving-kapsalon-van-boeking-tot-nazorg) terugkomen in je e-mails: deel foto's van het salonleven.
 
 ## Tools en kosten
 
@@ -59,4 +59,4 @@ Begin met je boekingssoftware voor afspraakherinneringen en bouw daar eventueel 
 
 ## Conclusie
 
-E-mailmarketing is een van de meest onderbenutte kanalen voor kappers. Met vier automatische flows en een maandelijkse nieuwsbrief houd je klanten betrokken, verminder je no-shows en verhoog je de herboekingsfrequentie. Begin klein — stel vandaag een afspraakherinnering in en bouw van daaruit verder. Wil je ontdekken welke groeikansen jouw salon nog laat liggen? Vraag een [gratis scan](/gratis-scan) aan.
+E-mailmarketing is een van de meest onderbenutte kanalen voor kappers. Met vier automatische flows en een maandelijkse nieuwsbrief houd je klanten betrokken, verminder je no-shows en verhoog je de herboekingsfrequentie. Begin klein: stel vandaag een afspraakherinnering in en bouw van daaruit verder. Wil je ontdekken welke groeikansen jouw salon nog laat liggen? Vraag een [gratis scan](/gratis-scan) aan.

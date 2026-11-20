@@ -165,7 +165,7 @@ export default function CrmContent() {
           <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-2xl">
             <Image
               src="/images/services/crm-hero.jpg"
-              alt="CRM voor kappers — klantenbestand op één plek op de receptiebalie"
+              alt="CRM voor kappers: klantenbestand op één plek op de receptiebalie"
               fill
               priority
               className="object-cover"
@@ -270,7 +270,7 @@ export default function CrmContent() {
             <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-xl">
               <Image
                 src="/images/services/crm-workflow.jpg"
-                alt="Klant en kapper verbonden via CRM — klantprofiel op tablet"
+                alt="Klant en kapper verbonden via CRM: klantprofiel op tablet"
                 fill
                 className="object-cover"
                 sizes="(max-width: 1024px) 100vw, 1024px"
@@ -310,7 +310,7 @@ export default function CrmContent() {
               transition={{ duration: 0.6 }}
             >
               <h2 className="text-2xl md:text-3xl font-bold mb-4">Eén klantbeeld voor je hele kapsalon</h2>
-              <p className="text-foreground-accent leading-relaxed">Elke chatbot-conversatie, elk Voice AI gesprek en elke automatische herinnering landt automatisch in de CRM — gekoppeld aan het juiste klantprofiel. Je ziet in 5 seconden wie de klant is en wat er speelt.</p>
+              <p className="text-foreground-accent leading-relaxed">Elke chatbot-conversatie, elk Voice AI gesprek en elke automatische herinnering landt automatisch in de CRM, gekoppeld aan het juiste klantprofiel. Je ziet in 5 seconden wie de klant is en wat er speelt.</p>
             </motion.div>
           </div>
           <h3 className="text-xl md:text-2xl font-bold text-center mb-6">Combineer met andere AI-tools</h3>

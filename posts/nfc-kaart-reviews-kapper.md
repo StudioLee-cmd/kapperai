@@ -23,7 +23,7 @@ Geen QR-code scannen, geen link zoeken, geen gedoe. Eén tik en de klant kan dir
 
 ### Hoe verschilt het van een QR-code?
 
-Een QR-code werkt ook, maar heeft een extra stap: de klant moet de camera-app openen en scannen. Met NFC is het letterlijk telefoon tegen kaartje houden. Dat scheelt een handeling — en elke extra handeling is een moment waarop iemand afhaakt.
+Een QR-code werkt ook, maar heeft een extra stap: de klant moet de camera-app openen en scannen. Met NFC is het letterlijk telefoon tegen kaartje houden. Dat scheelt een handeling, en elke extra handeling is een moment waarop iemand afhaakt.
 
 ## Hoe zet je een NFC-kaart in als kapper?
 
@@ -35,7 +35,7 @@ Het inzetten van NFC-reviews in je salon is eenvoudiger dan je denkt:
 
 ### Het perfecte moment om te vragen
 
-Het beste moment voor een review-verzoek is direct na een compliment. "Wat leuk dat je het mooi vindt! Zou je dat ook op Google willen zetten? Eén tikje op dit kaartje." Dat voelt niet opdringerig — het voelt als een logisch vervolg op een positieve ervaring.
+Het beste moment voor een review-verzoek is direct na een compliment. "Wat leuk dat je het mooi vindt! Zou je dat ook op Google willen zetten? Eén tikje op dit kaartje." Dat voelt niet opdringerig, maar als een logisch vervolg op een positieve ervaring.
 
 ![Professionele kappersstoel met styling tools](/images/blog/nfc-kaart-reviews-kapper-2.jpg)
 
@@ -51,9 +51,9 @@ Meer reviews betekent:
 
 ## Automatisch opvolgen na het salonbezoek
 
-De NFC-kaart werkt het beste in combinatie met automatische opvolging. Een geautomatiseerd WhatsApp-bericht een uur na het bezoek — "Bedankt voor je bezoek! Was je tevreden? Laat het weten via Google" — vangt de klanten op die vergeten zijn te tikken.
+De NFC-kaart werkt het beste in combinatie met automatische opvolging. Een geautomatiseerd WhatsApp-bericht een uur na het bezoek, zoals "Bedankt voor je bezoek! Was je tevreden? Laat het weten via Google", vangt de klanten op die vergeten zijn te tikken.
 
-Met een managed service als [StudioLee](/tarieven) wordt dit volledig geautomatiseerd. Jij hoeft alleen de NFC-kaart neer te leggen en af en toe een review te lezen. De rest — opvolging, monitoring, reageren op reviews — wordt voor je geregeld.
+Met een managed service als [StudioLee](/tarieven) wordt dit volledig geautomatiseerd. Jij hoeft alleen de NFC-kaart neer te leggen en af en toe een review te lezen. De rest (opvolging, monitoring, reageren op reviews) wordt voor je geregeld.
 
 ## Negatieve reviews? Geen paniek
 

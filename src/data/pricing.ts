@@ -47,7 +47,7 @@ export const tiers: IPricing[] = [
             'Een plan op jouw doelen, niet op een pakket',
             'Alles flexibel',
         ],
-        focus: 'Focus: 100% op maat — jij bepaalt wat erin zit.',
+        focus: 'Focus: 100% op maat (jij bepaalt wat erin zit).',
         savings: 'Bespaar 20%',
     },
 ]

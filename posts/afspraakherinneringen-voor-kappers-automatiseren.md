@@ -9,7 +9,7 @@ tags: ["WhatsApp", "No-shows"]
 ---
 Iedere kapper weet dat een herinnering werkt. De vraag is hoe je dat soort herinneringen op de automatische piloot zet, zonder dat je elke avond zelf nog appjes zit te tikken en zonder dat je een dure salon-suite koopt waar je het merendeel van de functies nooit gebruikt. Dit artikel is daar een praktische gids voor: het systeem dat onder je herinneringen ligt, niet de tekst van de berichten zelf.
 
-Voor de exacte berichten met de juiste toon en timing op vier vaste momenten verwijzen we naar het artikel over [afspraakherinneringen kapsalon — templates en timing](/blog/afspraakherinneringen-kapsalon-templates). Hier richten we ons op de keuzes ervoor: welk kanaal, welke software, hoe je het meet en wat het kost.
+Voor de exacte berichten met de juiste toon en timing op vier vaste momenten verwijzen we naar het artikel over [afspraakherinneringen kapsalon: templates en timing](/blog/afspraakherinneringen-kapsalon-templates). Hier richten we ons op de keuzes ervoor: welk kanaal, welke software, hoe je het meet en wat het kost.
 
 **In het kort:**
 
@@ -70,15 +70,15 @@ Voor verschillende klantgroepen kun je het verfijnen. Stamklanten hebben minder 
 
 Niet elke kapsalon hoeft meteen naar een all-in-one platform te gaan. De juiste route hangt af van je volume, je tijd en je budget.
 
-**Pad 1 — Handmatig met sjablonen (€0, 3-4 uur per week)**
+**Pad 1: handmatig met sjablonen (€0, 3-4 uur per week)**
 
 Geschikt voor zzp'ers met minder dan 30 afspraken per week. Sla je sjablonen op in WhatsApp Business (Snelle Antwoorden) of in een notitie-app. Plan elke avond 15 minuten in om de berichten van morgen handmatig de deur uit te doen. Voordeel: kost niets. Nadeel: vergeten zit erin gebakken. Als jij een dag uitvalt, valt het systeem stil. Werkt als overgangs-stap, niet als eindstation.
 
-**Pad 2 — Salonsoftware met ingebouwde flows (€20-€60/maand)**
+**Pad 2: salonsoftware met ingebouwde flows (€20-€60/maand)**
 
 Salonized, Treatwell, Salonkee, 1Kapper.nl, Da Vinci en SalonNet hebben allemaal afspraakherinneringen ingebouwd. Je vinkt aan welke berichten op welk moment moeten gaan, kiest het kanaal, en de software stuurt het automatisch. Voordeel: één leverancier, alles geïntegreerd met agenda en kassa. Nadeel: je zit vast aan hun communicatiestijl, hun tempo van updates, en hun (vaak beperkte) WhatsApp-integratie. Voor de meeste salons met 30-150 afspraken per week is dit het juiste niveau.
 
-**Pad 3 — AI-gedreven managed laag (€97-€297/maand)**
+**Pad 3: AI-gedreven managed laag (€97-€297/maand)**
 
 Hier ga je een stap verder dan herinneringen alleen. Een AI-systeem regelt herinneringen, neemt gemiste oproepen op, beantwoordt avond-aanvragen, vraagt automatisch om reviews na de behandeling, en voert dat allemaal uit met dezelfde tone-of-voice als jij. Voordeel: één laag boven je bestaande tools die alle communicatie afhandelt en je 5-8 uur per week tijd teruggeeft. Nadeel: hoger maandtarief, en je moet vooraf even nadenken over wat je echt wilt automatiseren. Voor salons met 100+ afspraken per week of teams van 3+ stylisten verdient deze laag zich vaak binnen drie maanden terug. Bekijk de [tarieven van KapperAI](/tarieven) voor concrete prijzen per pakket.
 

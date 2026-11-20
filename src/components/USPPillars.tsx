@@ -17,7 +17,7 @@ const pillars = [
     {
         title: "Je stoel blijft vol",
         subtitle: "Meer afspraken",
-        description: "Elke beller wordt te woord gestaan en elke aanvraag komt in je agenda — ook als jij je handen in iemands haar hebt.",
+        description: "Elke beller wordt te woord gestaan en elke aanvraag komt in je agenda, ook als jij je handen in iemands haar hebt.",
         icon: <FiTrendingUp size={32} />,
         pillarLinks: [{ href: "/voice-ai", anchor: "ai telefonist voor kappers" }, { href: "/chatbot", anchor: "ai chatbot voor kappers" }],
     },

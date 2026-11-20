@@ -11,7 +11,7 @@ tags: ["Leads", "CRM"]
 
 Je krijgt een berichtje via Instagram. Een WhatsApp van iemand die vraagt of je plek hebt. Een voicemail van een nieuwe klant. En dan is het druk in de stoel, je vergeet terug te bellen, en die lead is weg. Naar de kapper om de hoek die wél binnen 10 minuten reageerde.
 
-Dit is geen uitzondering — het is de dagelijkse realiteit voor de meeste kappers. Je bent goed in je vak, maar het opvolgen van leads is een tweede baan die je er niet bij kunt hebben.
+Dit is geen uitzondering. Het is de dagelijkse realiteit voor de meeste kappers. Je bent goed in je vak, maar het opvolgen van leads is een tweede baan die je er niet bij kunt hebben.
 
 ## Wat is een lead eigenlijk?
 
@@ -27,7 +27,7 @@ Het probleem: de meeste kappers hebben geen systeem om deze leads bij te houden.
 
 ## Waarom snelheid alles is
 
-De kans op het boeken van een afspraak daalt hard als je langer dan 5 minuten wacht met reageren. Bij kappers is dit nog extremer — klanten willen snel een plek en bellen gewoon de volgende salon als jij niet opneemt.
+De kans op het boeken van een afspraak daalt hard als je langer dan 5 minuten wacht met reageren. Bij kappers is dit nog extremer: klanten willen snel een plek en bellen gewoon de volgende salon als jij niet opneemt.
 
 ![Leads opvolgen in de praktijk](/images/blog/leads-opvolgen-als-kapper-2.jpg)
 
@@ -43,7 +43,7 @@ Reageer binnen 5 minuten op elke nieuwe aanvraag. Dat klinkt onmogelijk als je i
 
 ### Stap 1: Eén plek voor alle leads
 
-Stop met het bijhouden van aanvragen in je hoofd. Gebruik een CRM (klantbeheersysteem) waar elke lead automatisch binnenkomt. Of het nu via Instagram, WhatsApp, je website of telefoon is — alles op één scherm.
+Stop met het bijhouden van aanvragen in je hoofd. Gebruik een CRM (klantbeheersysteem) waar elke lead automatisch binnenkomt. Of het nu via Instagram, WhatsApp, je website of telefoon is, alles staat op één scherm.
 
 ### Stap 2: Automatische eerste reactie
 
@@ -70,6 +70,6 @@ Kappers die een leadopvolgsysteem gebruiken zien gemiddeld:
 
 ## Conclusie
 
-Leads opvolgen is geen luxe — het is het verschil tussen een volle en een halflege agenda. Je hoeft het niet zelf te doen. Met de juiste automatisering reageert je salon binnen seconden, ook als jij in de stoel zit.
+Leads opvolgen is geen luxe. Het is het verschil tussen een volle en een halflege agenda. Je hoeft het niet zelf te doen. Met de juiste automatisering reageert je salon binnen seconden, ook als jij in de stoel zit.
 
 Wil je weten hoe dit voor jouw kapsalon werkt? [Vraag een gratis scan aan](/gratis-scan) en ontdek hoeveel leads je nu mist.

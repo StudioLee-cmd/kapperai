@@ -9,7 +9,7 @@ tags: ["Online reputatie", "Reviews"]
 cluster: "reviews"
 ---
 
-Voordat een nieuwe klant bij jou in de stoel plaatsneemt, heeft die persoon je salon al beoordeeld. Niet op basis van je knipwerk, maar op basis van wat anderen online over je schrijven. Je online reputatie is je digitale etalage — en die staat 24 uur per dag open.
+Voordat een nieuwe klant bij jou in de stoel plaatsneemt, heeft die persoon je salon al beoordeeld. Niet op basis van je knipwerk, maar op basis van wat anderen online over je schrijven. Je online reputatie is je digitale etalage, en die staat 24 uur per dag open.
 
 In dit artikel lees je hoe je als kapper grip krijgt op je online imago, meer positieve reviews verzamelt en professioneel omgaat met negatieve feedback.
 
@@ -17,7 +17,7 @@ In dit artikel lees je hoe je als kapper grip krijgt op je online imago, meer po
 
 Negen van de tien consumenten lezen reviews voordat ze een aankoop doen of een dienst boeken. Voor kappers is dit nog sterker: haar is persoonlijk. Klanten willen zekerheid dat ze in goede handen zijn.
 
-Een salon met twintig 5-sterrenreviews trekt meer nieuwe klanten dan een salon zonder reviews — ongeacht hoe goed je knipt. Het is niet eerlijk, maar het is de realiteit. Je online reputatie werkt als een [sterk persoonlijk merk](/blog/personal-branding-kapper-naam-in-regio) dat vooruitloopt op je vakmanschap.
+Een salon met twintig 5-sterrenreviews trekt meer nieuwe klanten dan een salon zonder reviews, ongeacht hoe goed je knipt. Het is niet eerlijk, maar het is de realiteit. Je online reputatie werkt als een [sterk persoonlijk merk](/blog/personal-branding-kapper-naam-in-regio) dat vooruitloopt op je vakmanschap.
 
 ## Waar klanten je beoordelen
 
@@ -69,7 +69,7 @@ Wacht niet tot er iets misgaat. Bouw een buffer op van positieve reviews zodat e
 
 - Vraag je trouwe klanten als eerste om een review
 - Deel positieve reviews op je [social media](/blog/social-media-kappers-instagram)
-- Reageer ook op positieve reviews — dat stimuleert anderen
+- Reageer ook op positieve reviews, want dat stimuleert anderen
 - Monitor je naam regelmatig op Google
 
 ## Wat levert reputatiemanagement op?
